@@ -1,0 +1,630 @@
+county,town,office,district,party,candidate,poll,absentee,edr,votes
+Middlesex,Middletown 01,Governor,,REP,Thomas C. Foley,168,12,4,184
+Middlesex,Middletown 01,Governor,,IND,Thomas C. Foley,12,0,1,13
+Middlesex,Middletown 01,Governor,,UNK,Thomas C. Foley,3,0,0,3
+Middlesex,Middletown 01,Governor,,DEM,Dannel P. Malloy,432,25,21,478
+Middlesex,Middletown 01,Governor,,WF,Dannel P. Malloy,58,2,5,65
+Middlesex,Middletown 01,Governor,,UNK,Dannel P. Malloy,32,0,0,32
+Middlesex,Middletown 01,Governor,,PC,Joe Visconti,8,0,0,8
+Middlesex,Middletown 01,U.S. House,3,REP,James Brown,142,8,4,154
+Middlesex,Middletown 01,U.S. House,3,DEM,Rosa DeLauro,465,27,18,510
+Middlesex,Middletown 01,U.S. House,3,WF,Rosa DeLauro,75,1,7,83
+Middlesex,Middletown 01,U.S. House,3,UNK,Rosa DeLauro,13,0,0,13
+Middlesex,Middletown 01,State Senate,9,REP,Earle Roberts,154,5,3,162
+Middlesex,Middletown 01,State Senate,9,DEM,Paul Doyle,512,30,25,567
+Middlesex,Middletown 01,State Assembly,100,REP,Angel Fernandez,139,6,3,148
+Middlesex,Middletown 01,State Assembly,100,DEM,Matt Lesser,449,28,19,496
+Middlesex,Middletown 01,State Assembly,100,WF,Matt Lesser,76,2,7,85
+Middlesex,Middletown 01,State Assembly,100,UNK,Matt Lesser,10,0,0,10
+Middlesex,Middletown 01,Secretary of State,,REP,Peter Lumaj,152,11,5,168
+Middlesex,Middletown 01,Secretary of State,,IND,Peter Lumaj,10,0,0,10
+Middlesex,Middletown 01,Secretary of State,,UNK,Peter Lumaj,2,0,0,2
+Middlesex,Middletown 01,Secretary of State,,DEM,Denise Merrill,412,25,17,454
+Middlesex,Middletown 01,Secretary of State,,WF,Denise Merrill,52,2,1,55
+Middlesex,Middletown 01,Secretary of State,,UNK,Denise Merrill,10,0,0,10
+Middlesex,Middletown 01,Secretary of State,,Green,Michael DeRosa,39,0,5,44
+Middlesex,Middletown 01,State Treasurer,,REP,Tim Herbst,156,10,5,171
+Middlesex,Middletown 01,State Treasurer,,IND,Tim Herbst,20,1,2,23
+Middlesex,Middletown 01,State Treasurer,,UNK,Tim Herbst,1,0,0,1
+Middlesex,Middletown 01,State Treasurer,,DEM,Denise Nappier,427,27,15,469
+Middlesex,Middletown 01,State Treasurer,,WF,Denise Nappier,63,0,4,67
+Middlesex,Middletown 01,State Treasurer,,UNK,Denise Nappier,16,0,0,16
+Middlesex,Middletown 01,Comptroller,,REP,Sharon McLaughlin,142,10,3,155
+Middlesex,Middletown 01,Comptroller,,IND,Sharon McLaughlin,21,0,0,21
+Middlesex,Middletown 01,Comptroller,,UNK,Sharon McLaughlin,1,0,0,1
+Middlesex,Middletown 01,Comptroller,,DEM,Kevin Lembo,412,26,19,457
+Middlesex,Middletown 01,Comptroller,,WF,Kevin Lembo,46,1,3,50
+Middlesex,Middletown 01,Comptroller,,IND,Kevin Lembo,9,0,0,9
+Middlesex,Middletown 01,Comptroller,,Green,Rolf Maurer,31,0,3,34
+Middlesex,Middletown 01,Attorney General,,REP,Kie Westby,122,8,4,134
+Middlesex,Middletown 01,Attorney General,,IND,Kie Westby,14,0,1,15
+Middlesex,Middletown 01,Attorney General,,UNK,Kie Westby,1,0,0,1
+Middlesex,Middletown 01,Attorney General,,DEM,George Jepsen,439,28,18,485
+Middlesex,Middletown 01,Attorney General,,WF,George Jepsen,50,1,3,54
+Middlesex,Middletown 01,Attorney General,,UNK,George Jepsen,9,0,0,9
+Middlesex,Middletown 01,Attorney General,,Green,Stephen Fournier,34,2,2,38
+Middlesex,Middletown 02,Governor,,REP,Thomas C. Foley,52,2,1,55
+Middlesex,Middletown 02,Governor,,IND,Thomas C. Foley,5,1,0,6
+Middlesex,Middletown 02,Governor,,UNK,Thomas C. Foley,0,0,0,0
+Middlesex,Middletown 02,Governor,,DEM,Dannel P. Malloy,154,8,7,169
+Middlesex,Middletown 02,Governor,,WF,Dannel P. Malloy,6,0,0,6
+Middlesex,Middletown 02,Governor,,UNK,Dannel P. Malloy,12,0,0,12
+Middlesex,Middletown 02,Governor,,PC,Joe Visconti,3,0,0,3
+Middlesex,Middletown 02,U.S. House,3,REP,James Brown,48,3,0,51
+Middlesex,Middletown 02,U.S. House,3,DEM,Rosa DeLauro,150,6,8,164
+Middlesex,Middletown 02,U.S. House,3,WF,Rosa DeLauro,12,1,0,13
+Middlesex,Middletown 02,U.S. House,3,UNK,Rosa DeLauro,9,0,0,9
+Middlesex,Middletown 02,State Senate,9,REP,Earle Roberts,48,2,7,57
+Middlesex,Middletown 02,State Senate,9,DEM,Paul Doyle,170,8,1,179
+Middlesex,Middletown 02,State Assembly,100,REP,Angel Fernandez,42,2,6,50
+Middlesex,Middletown 02,State Assembly,100,DEM,Matt Lesser,156,7,2,165
+Middlesex,Middletown 02,State Assembly,100,WF,Matt Lesser,14,1,0,15
+Middlesex,Middletown 02,State Assembly,100,UNK,Matt Lesser,8,0,0,8
+Middlesex,Middletown 02,Secretary of State,,REP,Peter Lumaj,50,2,0,52
+Middlesex,Middletown 02,Secretary of State,,IND,Peter Lumaj,6,0,0,6
+Middlesex,Middletown 02,Secretary of State,,UNK,Peter Lumaj,0,0,0,0
+Middlesex,Middletown 02,Secretary of State,,DEM,Denise Merrill,142,7,6,155
+Middlesex,Middletown 02,Secretary of State,,WF,Denise Merrill,9,2,0,11
+Middlesex,Middletown 02,Secretary of State,,UNK,Denise Merrill,7,0,0,7
+Middlesex,Middletown 02,Secretary of State,,Green,Michael DeRosa,4,0,1,5
+Middlesex,Middletown 02,State Treasurer,,REP,Tim Herbst,57,2,0,59
+Middlesex,Middletown 02,State Treasurer,,IND,Tim Herbst,5,0,0,5
+Middlesex,Middletown 02,State Treasurer,,UNK,Tim Herbst,0,0,0,0
+Middlesex,Middletown 02,State Treasurer,,DEM,Denise Nappier,141,7,7,155
+Middlesex,Middletown 02,State Treasurer,,WF,Denise Nappier,12,1,0,13
+Middlesex,Middletown 02,State Treasurer,,UNK,Denise Nappier,6,0,0,6
+Middlesex,Middletown 02,Comptroller,,REP,Sharon McLaughlin,50,2,0,52
+Middlesex,Middletown 02,Comptroller,,IND,Sharon McLaughlin,6,0,0,6
+Middlesex,Middletown 02,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 02,Comptroller,,DEM,Kevin Lembo,144,6,6,156
+Middlesex,Middletown 02,Comptroller,,WF,Kevin Lembo,12,1,0,13
+Middlesex,Middletown 02,Comptroller,,IND,Kevin Lembo,7,0,0,7
+Middlesex,Middletown 02,Comptroller,,Green,Rolf Maurer,2,0,0,2
+Middlesex,Middletown 02,Attorney General,,REP,Kie Westby,44,3,0,47
+Middlesex,Middletown 02,Attorney General,,IND,Kie Westby,5,0,0,5
+Middlesex,Middletown 02,Attorney General,,UNK,Kie Westby,0,0,0,0
+Middlesex,Middletown 02,Attorney General,,DEM,George Jepsen,150,7,7,164
+Middlesex,Middletown 02,Attorney General,,WF,George Jepsen,12,1,0,13
+Middlesex,Middletown 02,Attorney General,,UNK,George Jepsen,7,0,0,7
+Middlesex,Middletown 02,Attorney General,,Green,Stephen Fournier,4,0,0,4
+Middlesex,Middletown 03,Governor,,REP,Thomas C. Foley,219,15,6,240
+Middlesex,Middletown 03,Governor,,IND,Thomas C. Foley,7,2,1,10
+Middlesex,Middletown 03,Governor,,UNK,Thomas C. Foley,2,0,0,2
+Middlesex,Middletown 03,Governor,,DEM,Dannel P. Malloy,301,6,2,309
+Middlesex,Middletown 03,Governor,,WF,Dannel P. Malloy,11,0,0,11
+Middlesex,Middletown 03,Governor,,UNK,Dannel P. Malloy,7,0,0,7
+Middlesex,Middletown 03,Governor,,PC,Joe Visconti,9,0,0,9
+Middlesex,Middletown 03,U.S. House,1,REP,Matthew Corey,186,15,6,207
+Middlesex,Middletown 03,U.S. House,1,DEM,John Larsen,318,8,2,328
+Middlesex,Middletown 03,U.S. House,1,WF,John Larsen,19,2,0,21
+Middlesex,Middletown 03,U.S. House,1,UNK,John Larsen,6,0,0,6
+Middlesex,Middletown 03,U.S. House,1,Green,Jeffrey Russell,8,0,0,8
+Middlesex,Middletown 03,State Senate,9,REP,Earle Roberts,189,9,7,205
+Middlesex,Middletown 03,State Senate,9,DEM,Paul Doyle,338,7,1,346
+Middlesex,Middletown 03,State Assembly,100,REP,Angel Fernandez,190,17,6,213
+Middlesex,Middletown 03,State Assembly,100,DEM,Matt Lesser,315,6,2,323
+Middlesex,Middletown 03,State Assembly,100,WF,Matt Lesser,23,0,0,23
+Middlesex,Middletown 03,State Assembly,100,UNK,Matt Lesser,3,0,0,3
+Middlesex,Middletown 03,Secretary of State,,REP,Peter Lumaj,191,12,5,208
+Middlesex,Middletown 03,Secretary of State,,IND,Peter Lumaj,10,3,1,14
+Middlesex,Middletown 03,Secretary of State,,UNK,Peter Lumaj,0,0,0,0
+Middlesex,Middletown 03,Secretary of State,,DEM,Denise Merrill,304,8,2,314
+Middlesex,Middletown 03,Secretary of State,,WF,Denise Merrill,13,0,0,13
+Middlesex,Middletown 03,Secretary of State,,UNK,Denise Merrill,12,0,0,12
+Middlesex,Middletown 03,Secretary of State,,Green,Michael DeRosa,12,0,0,12
+Middlesex,Middletown 03,State Treasurer,,REP,Tim Herbst,203,15,3,221
+Middlesex,Middletown 03,State Treasurer,,IND,Tim Herbst,14,2,3,19
+Middlesex,Middletown 03,State Treasurer,,UNK,Tim Herbst,0,0,0,0
+Middlesex,Middletown 03,State Treasurer,,DEM,Denise Nappier,295,6,2,303
+Middlesex,Middletown 03,State Treasurer,,WF,Denise Nappier,12,0,0,12
+Middlesex,Middletown 03,State Treasurer,,UNK,Denise Nappier,2,0,0,2
+Middlesex,Middletown 03,Comptroller,,REP,Sharon McLaughlin,183,13,4,200
+Middlesex,Middletown 03,Comptroller,,IND,Sharon McLaughlin,10,1,2,13
+Middlesex,Middletown 03,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 03,Comptroller,,DEM,Kevin Lembo,306,7,2,315
+Middlesex,Middletown 03,Comptroller,,WF,Kevin Lembo,12,1,0,13
+Middlesex,Middletown 03,Comptroller,,IND,Kevin Lembo,2,0,0,2
+Middlesex,Middletown 03,Comptroller,,Green,Rolf Maurer,4,0,0,4
+Middlesex,Middletown 03,Attorney General,,REP,Kie Westby,161,16,4,181
+Middlesex,Middletown 03,Attorney General,,IND,Kie Westby,8,1,1,10
+Middlesex,Middletown 03,Attorney General,,UNK,Kie Westby,0,0,0,0
+Middlesex,Middletown 03,Attorney General,,DEM,George Jepsen,326,6,3,335
+Middlesex,Middletown 03,Attorney General,,WF,George Jepsen,17,0,0,17
+Middlesex,Middletown 03,Attorney General,,UNK,George Jepsen,3,0,0,3
+Middlesex,Middletown 03,Attorney General,,Green,Stephen Fournier,8,0,0,8
+Middlesex,Middletown 04,Governor,,REP,Thomas C. Foley,533,22,9,564
+Middlesex,Middletown 04,Governor,,IND,Thomas C. Foley,24,0,1,25
+Middlesex,Middletown 04,Governor,,UNK,Thomas C. Foley,3,0,0,3
+Middlesex,Middletown 04,Governor,,DEM,Dannel P. Malloy,550,21,7,578
+Middlesex,Middletown 04,Governor,,WF,Dannel P. Malloy,21,1,0,22
+Middlesex,Middletown 04,Governor,,UNK,Dannel P. Malloy,18,0,0,18
+Middlesex,Middletown 04,Governor,,PC,Joe Visconti,8,2,0,10
+Middlesex,Middletown 04,U.S. House,3,REP,James Brown,447,17,5,469
+Middlesex,Middletown 04,U.S. House,3,DEM,Rosa DeLauro,615,25,9,649
+Middlesex,Middletown 04,U.S. House,3,WF,Rosa DeLauro,51,4,0,55
+Middlesex,Middletown 04,U.S. House,3,UNK,Rosa DeLauro,18,0,0,18
+Middlesex,Middletown 04,State Senate,13,REP,Len Suzio,530,22,6,558
+Middlesex,Middletown 04,State Senate,13,IND,Len Suzio,38,1,2,41
+Middlesex,Middletown 04,State Senate,13,UNK,Len Suzio,4,0,0,4
+Middlesex,Middletown 04,State Senate,13,DEM,Dante Bartolomeo,518,20,7,545
+Middlesex,Middletown 04,State Senate,13,WF,Dante Bartolomeo,36,3,1,40
+Middlesex,Middletown 04,State Senate,13,UNK,Dante Bartolomeo,9,0,0,9
+Middlesex,Middletown 04,State Assembly,33,REP,Linda Szynkowicz,524,22,8,554
+Middlesex,Middletown 04,State Assembly,33,DEM,Joseph Serra,598,23,7,628
+Middlesex,Middletown 04,Secretary of State,,REP,Peter Lumaj,501,20,7,528
+Middlesex,Middletown 04,Secretary of State,,IND,Peter Lumaj,28,0,1,29
+Middlesex,Middletown 04,Secretary of State,,UNK,Peter Lumaj,2,0,0,2
+Middlesex,Middletown 04,Secretary of State,,DEM,Denise Merrill,537,22,8,567
+Middlesex,Middletown 04,Secretary of State,,WF,Denise Merrill,26,4,0,30
+Middlesex,Middletown 04,Secretary of State,,UNK,Denise Merrill,11,0,0,11
+Middlesex,Middletown 04,Secretary of State,,Green,Michael DeRosa,23,0,1,24
+Middlesex,Middletown 04,State Treasurer,,REP,Tim Herbst,552,19,8,579
+Middlesex,Middletown 04,State Treasurer,,IND,Tim Herbst,39,2,2,43
+Middlesex,Middletown 04,State Treasurer,,UNK,Tim Herbst,2,0,0,2
+Middlesex,Middletown 04,State Treasurer,,DEM,Denise Nappier,495,23,6,524
+Middlesex,Middletown 04,State Treasurer,,WF,Denise Nappier,29,2,0,31
+Middlesex,Middletown 04,State Treasurer,,UNK,Denise Nappier,11,0,0,11
+Middlesex,Middletown 04,Comptroller,,REP,Sharon McLaughlin,455,19,5,479
+Middlesex,Middletown 04,Comptroller,,IND,Sharon McLaughlin,35,1,1,37
+Middlesex,Middletown 04,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 04,Comptroller,,DEM,Kevin Lembo,565,23,8,596
+Middlesex,Middletown 04,Comptroller,,WF,Kevin Lembo,28,3,0,31
+Middlesex,Middletown 04,Comptroller,,IND,Kevin Lembo,18,0,0,18
+Middlesex,Middletown 04,Comptroller,,Green,Rolf Maurer,16,0,1,17
+Middlesex,Middletown 04,Attorney General,,REP,Kie Westby,426,18,6,450
+Middlesex,Middletown 04,Attorney General,,IND,Kie Westby,22,0,1,23
+Middlesex,Middletown 04,Attorney General,,UNK,Kie Westby,1,0,0,1
+Middlesex,Middletown 04,Attorney General,,DEM,George Jepsen,617,26,7,650
+Middlesex,Middletown 04,Attorney General,,WF,George Jepsen,25,2,0,27
+Middlesex,Middletown 04,Attorney General,,UNK,George Jepsen,9,0,0,9
+Middlesex,Middletown 04,Attorney General,,Green,Stephen Fournier,21,0,1,22
+Middlesex,Middletown 05,Governor,,REP,Thomas C. Foley,614,24,12,650
+Middlesex,Middletown 05,Governor,,IND,Thomas C. Foley,21,4,2,27
+Middlesex,Middletown 05,Governor,,UNK,Thomas C. Foley,2,0,0,2
+Middlesex,Middletown 05,Governor,,DEM,Dannel P. Malloy,841,40,28,909
+Middlesex,Middletown 05,Governor,,WF,Dannel P. Malloy,40,5,1,46
+Middlesex,Middletown 05,Governor,,UNK,Dannel P. Malloy,36,0,0,36
+Middlesex,Middletown 05,Governor,,PC,Joe Visconti,18,4,2,24
+Middlesex,Middletown 05,U.S. House,3,REP,James Brown,491,26,15,532
+Middlesex,Middletown 05,U.S. House,3,DEM,Rosa DeLauro,954,40,27,1021
+Middlesex,Middletown 05,U.S. House,3,WF,Rosa DeLauro,72,8,3,83
+Middlesex,Middletown 05,U.S. House,3,UNK,Rosa DeLauro,18,0,0,18
+Middlesex,Middletown 05,State Senate,9,REP,Earle Roberts,517,19,17,553
+Middlesex,Middletown 05,State Senate,9,DEM,Paul Doyle,978,54,27,1059
+Middlesex,Middletown 05,State Assembly,33,REP,Linda Szynkowicz,629,31,16,676
+Middlesex,Middletown 05,State Assembly,33,DEM,Joseph Serra,890,43,28,961
+Middlesex,Middletown 05,Secretary of State,,REP,Peter Lumaj,564,26,14,604
+Middlesex,Middletown 05,Secretary of State,,IND,Peter Lumaj,34,2,0,36
+Middlesex,Middletown 05,Secretary of State,,UNK,Peter Lumaj,0,0,0,0
+Middlesex,Middletown 05,Secretary of State,,DEM,Denise Merrill,808,41,27,876
+Middlesex,Middletown 05,Secretary of State,,WF,Denise Merrill,50,3,2,55
+Middlesex,Middletown 05,Secretary of State,,UNK,Denise Merrill,16,0,0,16
+Middlesex,Middletown 05,Secretary of State,,Green,Michael DeRosa,44,3,2,49
+Middlesex,Middletown 05,State Treasurer,,REP,Tim Herbst,595,29,13,637
+Middlesex,Middletown 05,State Treasurer,,IND,Tim Herbst,49,6,2,57
+Middlesex,Middletown 05,State Treasurer,,UNK,Tim Herbst,1,0,0,1
+Middlesex,Middletown 05,State Treasurer,,DEM,Denise Nappier,812,34,28,874
+Middlesex,Middletown 05,State Treasurer,,WF,Denise Nappier,46,6,1,53
+Middlesex,Middletown 05,State Treasurer,,UNK,Denise Nappier,17,0,0,17
+Middlesex,Middletown 05,Comptroller,,REP,Sharon McLaughlin,527,23,15,565
+Middlesex,Middletown 05,Comptroller,,IND,Sharon McLaughlin,33,6,1,40
+Middlesex,Middletown 05,Comptroller,,UNK,Sharon McLaughlin,1,0,0,1
+Middlesex,Middletown 05,Comptroller,,DEM,Kevin Lembo,851,39,26,916
+Middlesex,Middletown 05,Comptroller,,WF,Kevin Lembo,44,2,1,47
+Middlesex,Middletown 05,Comptroller,,IND,Kevin Lembo,14,0,0,14
+Middlesex,Middletown 05,Comptroller,,Green,Rolf Maurer,24,3,2,29
+Middlesex,Middletown 05,Attorney General,,REP,Kie Westby,470,25,14,509
+Middlesex,Middletown 05,Attorney General,,IND,Kie Westby,31,2,1,34
+Middlesex,Middletown 05,Attorney General,,UNK,Kie Westby,0,0,0,0
+Middlesex,Middletown 05,Attorney General,,DEM,George Jepsen,912,66,26,1004
+Middlesex,Middletown 05,Attorney General,,WF,George Jepsen,52,6,1,59
+Middlesex,Middletown 05,Attorney General,,UNK,George Jepsen,13,0,0,13
+Middlesex,Middletown 05,Attorney General,,Green,Stephen Fournier,30,2,2,34
+Middlesex,Middletown 06,Governor,,REP,Thomas C. Foley,465,29,3,497
+Middlesex,Middletown 06,Governor,,IND,Thomas C. Foley,19,0,0,19
+Middlesex,Middletown 06,Governor,,UNK,Thomas C. Foley,3,0,0,3
+Middlesex,Middletown 06,Governor,,DEM,Dannel P. Malloy,533,21,1,555
+Middlesex,Middletown 06,Governor,,WF,Dannel P. Malloy,19,0,0,19
+Middlesex,Middletown 06,Governor,,UNK,Dannel P. Malloy,26,0,0,26
+Middlesex,Middletown 06,Governor,,PC,Joe Visconti,13,0,0,13
+Middlesex,Middletown 06,U.S. House,1,REP,Matthew Corey,384,25,3,412
+Middlesex,Middletown 06,U.S. House,1,DEM,John Larsen,607,23,1,631
+Middlesex,Middletown 06,U.S. House,1,WF,John Larsen,27,0,0,27
+Middlesex,Middletown 06,U.S. House,1,UNK,John Larsen,13,0,0,13
+Middlesex,Middletown 06,U.S. House,1,Green,Jeffery Russell,13,0,0,13
+Middlesex,Middletown 06,State Senate,9,REP,Earle Roberts,402,25,3,430
+Middlesex,Middletown 06,State Senate,9,DEM,Paul Doyle,636,21,1,658
+Middlesex,Middletown 06,State Assembly,33,REP,Linda Szynkowicz,456,28,3,487
+Middlesex,Middletown 06,State Assembly,33,DEM,Joseph Serra,595,21,1,617
+Middlesex,Middletown 06,Secretary of State,,REP,Peter Lumaj,414,26,3,443
+Middlesex,Middletown 06,Secretary of State,,IND,Peter Lumaj,17,1,1,19
+Middlesex,Middletown 06,Secretary of State,,UNK,Peter Lumaj,1,0,0,1
+Middlesex,Middletown 06,Secretary of State,,DEM,Denise Merrill,564,21,1,586
+Middlesex,Middletown 06,Secretary of State,,WF,Denise Merrill,24,0,0,24
+Middlesex,Middletown 06,Secretary of State,,UNK,Denise Merrill,10,0,0,10
+Middlesex,Middletown 06,Secretary of State,,Green,Michael DeRosa,12,0,0,12
+Middlesex,Middletown 06,State Treasurer,,REP,Tim Herbst,457,24,3,484
+Middlesex,Middletown 06,State Treasurer,,IND,Tim Herbst,28,0,0,28
+Middlesex,Middletown 06,State Treasurer,,UNK,Tim Herbst,2,0,0,2
+Middlesex,Middletown 06,State Treasurer,,DEM,Denise Nappier,523,25,1,549
+Middlesex,Middletown 06,State Treasurer,,WF,Denise Nappier,19,0,0,19
+Middlesex,Middletown 06,State Treasurer,,UNK,Denise Nappier,12,0,0,12
+Middlesex,Middletown 06,Comptroller,,REP,Sharon McLaughlin,405,27,3,435
+Middlesex,Middletown 06,Comptroller,,IND,Sharon McLaughlin,16,0,0,16
+Middlesex,Middletown 06,Comptroller,,UNK,Sharon McLaughlin,1,0,0,1
+Middlesex,Middletown 06,Comptroller,,DEM,Kevin Lembo,568,21,1,590
+Middlesex,Middletown 06,Comptroller,,WF,Kevin Lembo,22,0,0,22
+Middlesex,Middletown 06,Comptroller,,IND,Kevin Lembo,10,0,0,10
+Middlesex,Middletown 06,Comptroller,,Green,Rolf Maurer,6,0,0,6
+Middlesex,Middletown 06,Attorney General,,REP,Kie Westby,362,22,3,387
+Middlesex,Middletown 06,Attorney General,,IND,Kie Westby,11,0,0,11
+Middlesex,Middletown 06,Attorney General,,UNK,Kie Westby,1,0,0,1
+Middlesex,Middletown 06,Attorney General,,DEM,George Jepsen,612,26,1,639
+Middlesex,Middletown 06,Attorney General,,WF,George Jepsen,22,1,0,23
+Middlesex,Middletown 06,Attorney General,,UNK,George Jepsen,11,0,0,11
+Middlesex,Middletown 06,Attorney General,,Green,Stephen Fournier,17,0,0,17
+Middlesex,Middletown 07,Governor,,REP,Thomas C. Foley,252,11,3,266
+Middlesex,Middletown 07,Governor,,IND,Thomas C. Foley,11,1,0,12
+Middlesex,Middletown 07,Governor,,UNK,Thomas C. Foley,2,0,0,2
+Middlesex,Middletown 07,Governor,,DEM,Dannel P. Malloy,460,29,0,489
+Middlesex,Middletown 07,Governor,,WF,Dannel P. Malloy,24,2,1,27
+Middlesex,Middletown 07,Governor,,UNK,Dannel P. Malloy,17,0,0,17
+Middlesex,Middletown 07,Governor,,PC,Joe Visconti,4,1,0,5
+Middlesex,Middletown 07,U.S. House,3,REP,James Brown,200,10,3,213
+Middlesex,Middletown 07,U.S. House,3,DEM,Rosa DeLauro,491,31,0,522
+Middlesex,Middletown 07,U.S. House,3,WF,Rosa DeLauro,50,2,1,53
+Middlesex,Middletown 07,U.S. House,3,UNK,Rosa DeLauro,8,0,0,8
+Middlesex,Middletown 07,State Senate,13,REP,Len Suzio,218,14,3,235
+Middlesex,Middletown 07,State Senate,13,IND,Len Suzio,12,0,0,12
+Middlesex,Middletown 07,State Senate,13,UNK,Len Suzio,1,0,0,1
+Middlesex,Middletown 07,State Senate,13,DEM,Dante Bartolomeo,459,27,0,486
+Middlesex,Middletown 07,State Senate,13,WF,Dante Bartolomeo,47,2,1,50
+Middlesex,Middletown 07,State Senate,13,UNK,Dante Bartolomeo,7,0,0,7
+Middlesex,Middletown 07,State Assembly,33,REP,Linda Szynkowicz,244,13,3,260
+Middlesex,Middletown 07,State Assembly,33,DEM,Joseph Serra,490,27,0,517
+Middlesex,Middletown 07,Secretary of State,,REP,Peter Lumaj,218,12,3,233
+Middlesex,Middletown 07,Secretary of State,,IND,Peter Lumaj,18,2,0,20
+Middlesex,Middletown 07,Secretary of State,,UNK,Peter Lumaj,0,0,0,0
+Middlesex,Middletown 07,Secretary of State,,DEM,Denise Merrill,436,27,0,463
+Middlesex,Middletown 07,Secretary of State,,WF,Denise Merrill,38,2,1,41
+Middlesex,Middletown 07,Secretary of State,,UNK,Denise Merrill,6,0,0,6
+Middlesex,Middletown 07,Secretary of State,,Green,Michael DeRosa,23,0,0,23
+Middlesex,Middletown 07,State Treasurer,,REP,Tim Herbst,240,13,3,256
+Middlesex,Middletown 07,State Treasurer,,IND,Tim Herbst,21,2,0,23
+Middlesex,Middletown 07,State Treasurer,,UNK,Tim Herbst,0,0,0,0
+Middlesex,Middletown 07,State Treasurer,,DEM,Denise Nappier,434,25,0,459
+Middlesex,Middletown 07,State Treasurer,,WF,Denise Nappier,39,3,1,43
+Middlesex,Middletown 07,State Treasurer,,UNK,Denise Nappier,5,0,0,5
+Middlesex,Middletown 07,Comptroller,,REP,Sharon McLaughlin,195,10,3,208
+Middlesex,Middletown 07,Comptroller,,IND,Sharon McLaughlin,22,1,0,23
+Middlesex,Middletown 07,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 07,Comptroller,,DEM,Kevin Lembo,454,29,0,483
+Middlesex,Middletown 07,Comptroller,,WF,Kevin Lembo,33,3,1,37
+Middlesex,Middletown 07,Comptroller,,IND,Kevin Lembo,6,0,0,6
+Middlesex,Middletown 07,Comptroller,,Green,Rolf Maurer,14,0,0,14
+Middlesex,Middletown 07,Attorney General,,REP,Kie Westby,170,10,3,183
+Middlesex,Middletown 07,Attorney General,,IND,Kie Westby,12,0,0,12
+Middlesex,Middletown 07,Attorney General,,UNK,Kie Westby,0,0,0,0
+Middlesex,Middletown 07,Attorney General,,DEM,George Jepsen,487,25,0,512
+Middlesex,Middletown 07,Attorney General,,WF,George Jepsen,34,2,1,37
+Middlesex,Middletown 07,Attorney General,,UNK,George Jepsen,6,0,0,6
+Middlesex,Middletown 07,Attorney General,,Green,Stephen Fournier,23,0,0,23
+Middlesex,Middletown 08,Governor,,REP,Thomas C. Foley,53,1,1,55
+Middlesex,Middletown 08,Governor,,IND,Thomas C. Foley,2,0,0,2
+Middlesex,Middletown 08,Governor,,UNK,Thomas C. Foley,0,0,0,0
+Middlesex,Middletown 08,Governor,,DEM,Dannel P. Malloy,166,12,4,182
+Middlesex,Middletown 08,Governor,,WF,Dannel P. Malloy,14,0,1,15
+Middlesex,Middletown 08,Governor,,UNK,Dannel P. Malloy,6,0,0,6
+Middlesex,Middletown 08,Governor,,PC,Joe Visconti,2,0,0,2
+Middlesex,Middletown 08,U.S. House,3,REP,James Brown,46,0,0,46
+Middlesex,Middletown 08,U.S. House,3,DEM,Rosa DeLauro,172,13,5,190
+Middlesex,Middletown 08,U.S. House,3,WF,Rosa DeLauro,17,0,1,18
+Middlesex,Middletown 08,U.S. House,3,UNK,Rosa DeLauro,5,0,0,5
+Middlesex,Middletown 08,State Senate,9,REP,Earle Roberts,48,1,0,49
+Middlesex,Middletown 08,State Senate,9,DEM,Paul Doyle,184,11,6,201
+Middlesex,Middletown 08,State Assembly,33,REP,Linda Szynkowicz,55,2,1,58
+Middlesex,Middletown 08,State Assembly,33,DEM,Joseph Serra,177,11,5,193
+Middlesex,Middletown 08,Secretary of State,,REP,Peter Lumaj,54,0,1,55
+Middlesex,Middletown 08,Secretary of State,,IND,Peter Lumaj,3,0,0,3
+Middlesex,Middletown 08,Secretary of State,,UNK,Peter Lumaj,0,0,0,0
+Middlesex,Middletown 08,Secretary of State,,DEM,Denise Merrill,153,12,4,169
+Middlesex,Middletown 08,Secretary of State,,WF,Denise Merrill,8,0,1,9
+Middlesex,Middletown 08,Secretary of State,,UNK,Denise Merrill,3,0,0,3
+Middlesex,Middletown 08,Secretary of State,,Green,Michael DeRosa,10,1,0,11
+Middlesex,Middletown 08,State Treasurer,,REP,Tim Herbst,57,1,1,59
+Middlesex,Middletown 08,State Treasurer,,IND,Tim Herbst,6,0,0,6
+Middlesex,Middletown 08,State Treasurer,,UNK,Tim Herbst,0,0,0,0
+Middlesex,Middletown 08,State Treasurer,,DEM,Denise Nappier,155,12,4,171
+Middlesex,Middletown 08,State Treasurer,,WF,Denise Nappier,12,0,1,13
+Middlesex,Middletown 08,State Treasurer,,UNK,Denise Nappier,3,0,0,3
+Middlesex,Middletown 08,Comptroller,,REP,Sharon McLaughlin,47,1,1,49
+Middlesex,Middletown 08,Comptroller,,IND,Sharon McLaughlin,3,0,0,3
+Middlesex,Middletown 08,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 08,Comptroller,,DEM,Kevin Lembo,158,12,4,174
+Middlesex,Middletown 08,Comptroller,,WF,Kevin Lembo,12,0,1,13
+Middlesex,Middletown 08,Comptroller,,IND,Kevin Lembo,3,0,0,3
+Middlesex,Middletown 08,Comptroller,,Green,Rolf Maurer,3,0,0,3
+Middlesex,Middletown 08,Attorney General,,REP,Kie Westby,43,0,0,43
+Middlesex,Middletown 08,Attorney General,,IND,Kie Westby,3,0,0,3
+Middlesex,Middletown 08,Attorney General,,UNK,Kie Westby,1,0,0,1
+Middlesex,Middletown 08,Attorney General,,DEM,George Jepsen,164,13,5,182
+Middlesex,Middletown 08,Attorney General,,WF,George Jepsen,12,0,1,13
+Middlesex,Middletown 08,Attorney General,,UNK,George Jepsen,3,0,0,3
+Middlesex,Middletown 08,Attorney General,,Green,Stephen Fournier,5,0,0,5
+Middlesex,Middletown 09,Governor,,REP,Thomas C. Foley,542,19,4,565
+Middlesex,Middletown 09,Governor,,IND,Thomas C. Foley,22,0,0,22
+Middlesex,Middletown 09,Governor,,UNK,Thomas C. Foley,6,0,0,6
+Middlesex,Middletown 09,Governor,,DEM,Dannel P. Malloy,756,44,3,803
+Middlesex,Middletown 09,Governor,,WF,Dannel P. Malloy,73,5,0,78
+Middlesex,Middletown 09,Governor,,UNK,Dannel P. Malloy,18,0,0,18
+Middlesex,Middletown 09,Governor,,PC,Joe Visconti,19,4,0,23
+Middlesex,Middletown 09,U.S. House,3,REP,James Brown,460,18,3,481
+Middlesex,Middletown 09,U.S. House,3,DEM,Rosa DeLauro,838,48,4,890
+Middlesex,Middletown 09,U.S. House,3,WF,Rosa DeLauro,100,5,0,105
+Middlesex,Middletown 09,U.S. House,3,UNK,Rosa DeLauro,11,0,0,11
+Middlesex,Middletown 09,State Senate,13,REP,Len Suzio,573,22,4,599
+Middlesex,Middletown 09,State Senate,13,IND,Len Suzio,29,2,0,31
+Middlesex,Middletown 09,State Senate,13,UNK,Len Suzio,4,0,0,4
+Middlesex,Middletown 09,State Senate,13,DEM,Dante Bartolomeo,724,42,3,769
+Middlesex,Middletown 09,State Senate,13,WF,Dante Bartolomeo,78,6,0,84
+Middlesex,Middletown 09,State Senate,13,UNK,Dante Bartolomeo,5,0,0,5
+Middlesex,Middletown 09,State Assembly,100,REP,Angel Fernandez,424,16,5,445
+Middlesex,Middletown 09,State Assembly,100,DEM,Matt Lesser,870,51,2,923
+Middlesex,Middletown 09,State Assembly,100,WF,Matt Lesser,109,1,0,110
+Middlesex,Middletown 09,State Assembly,100,UNK,Matt Lesser,8,0,0,8
+Middlesex,Middletown 09,Secretary of State,,REP,Peter Lumaj,504,20,3,527
+Middlesex,Middletown 09,Secretary of State,,IND,Peter Lumaj,29,0,0,29
+Middlesex,Middletown 09,Secretary of State,,UNK,Peter Lumaj,3,0,0,3
+Middlesex,Middletown 09,Secretary of State,,DEM,Denise Merrill,750,44,4,798
+Middlesex,Middletown 09,Secretary of State,,WF,Denise Merrill,81,5,0,86
+Middlesex,Middletown 09,Secretary of State,,UNK,Denise Merrill,3,0,0,3
+Middlesex,Middletown 09,Secretary of State,,Green,Michael DeRosa,29,1,0,30
+Middlesex,Middletown 09,State Treasurer,,REP,Tim Herbst,558,24,4,586
+Middlesex,Middletown 09,State Treasurer,,IND,Tim Herbst,42,5,0,47
+Middlesex,Middletown 09,State Treasurer,,UNK,Tim Herbst,3,0,0,3
+Middlesex,Middletown 09,State Treasurer,,DEM,Denise Nappier,701,38,3,742
+Middlesex,Middletown 09,State Treasurer,,WF,Denise Nappier,85,2,0,87
+Middlesex,Middletown 09,State Treasurer,,UNK,Denise Nappier,5,0,0,5
+Middlesex,Middletown 09,Comptroller,,REP,Sharon McLaughlin,466,16,2,484
+Middlesex,Middletown 09,Comptroller,,IND,Sharon McLaughlin,25,1,0,26
+Middlesex,Middletown 09,Comptroller,,UNK,Sharon McLaughlin,2,0,0,2
+Middlesex,Middletown 09,Comptroller,,DEM,Kevin Lembo,762,47,5,814
+Middlesex,Middletown 09,Comptroller,,WF,Kevin Lembo,91,4,0,95
+Middlesex,Middletown 09,Comptroller,,IND,Kevin Lembo,3,0,0,3
+Middlesex,Middletown 09,Comptroller,,Green,Rolf Maurer,25,1,0,26
+Middlesex,Middletown 09,Attorney General,,REP,Kie Westby,440,17,3,460
+Middlesex,Middletown 09,Attorney General,,IND,Kie Westby,21,1,0,22
+Middlesex,Middletown 09,Attorney General,,UNK,Kie Westby,1,0,0,1
+Middlesex,Middletown 09,Attorney General,,DEM,George Jepsen,802,46,4,852
+Middlesex,Middletown 09,Attorney General,,WF,George Jepsen,95,4,0,99
+Middlesex,Middletown 09,Attorney General,,UNK,George Jepsen,3,0,0,3
+Middlesex,Middletown 09,Attorney General,,Green,Stephen Fournier,23,1,0,24
+Middlesex,Middletown 10,Governor,,REP,Thomas C. Foley,404,13,4,421
+Middlesex,Middletown 10,Governor,,IND,Thomas C. Foley,17,3,0,20
+Middlesex,Middletown 10,Governor,,UNK,Thomas C. Foley,3,0,0,3
+Middlesex,Middletown 10,Governor,,DEM,Dannel P. Malloy,474,16,9,499
+Middlesex,Middletown 10,Governor,,WF,Dannel P. Malloy,24,2,1,27
+Middlesex,Middletown 10,Governor,,UNK,Dannel P. Malloy,29,0,0,29
+Middlesex,Middletown 10,Governor,,PC,Joe Visconti,13,0,0,13
+Middlesex,Middletown 10,U.S. House,3,REP,James Brown,336,15,5,356
+Middlesex,Middletown 10,U.S. House,3,DEM,Rosa DeLauro,520,17,8,545
+Middlesex,Middletown 10,U.S. House,3,WF,Rosa DeLauro,54,2,1,57
+Middlesex,Middletown 10,U.S. House,3,UNK,Rosa DeLauro,21,0,0,21
+Middlesex,Middletown 10,State Senate,9,REP,Earle Roberts,392,0,5,397
+Middlesex,Middletown 10,State Senate,9,DEM,Paul Doyle,517,0,9,526
+Middlesex,Middletown 10,State Assembly,100,REP,Angel Fernandez,334,13,3,350
+Middlesex,Middletown 10,State Assembly,100,DEM,Matt Lesser,527,18,11,556
+Middlesex,Middletown 10,State Assembly,100,WF,Matt Lesser,40,1,0,41
+Middlesex,Middletown 10,State Assembly,100,UNK,Matt Lesser,14,0,0,14
+Middlesex,Middletown 10,Secretary of State,,REP,Peter Lumaj,379,13,4,396
+Middlesex,Middletown 10,Secretary of State,,IND,Peter Lumaj,18,2,0,20
+Middlesex,Middletown 10,Secretary of State,,UNK,Peter Lumaj,1,0,0,1
+Middlesex,Middletown 10,Secretary of State,,DEM,Denise Merrill,447,18,8,473
+Middlesex,Middletown 10,Secretary of State,,WF,Denise Merrill,28,0,0,28
+Middlesex,Middletown 10,Secretary of State,,UNK,Denise Merrill,12,0,0,12
+Middlesex,Middletown 10,Secretary of State,,Green,Michael DeRosa,23,1,0,24
+Middlesex,Middletown 10,State Treasurer,,REP,Tim Herbst,405,15,3,423
+Middlesex,Middletown 10,State Treasurer,,IND,Tim Herbst,33,3,0,36
+Middlesex,Middletown 10,State Treasurer,,UNK,Tim Herbst,0,0,0,0
+Middlesex,Middletown 10,State Treasurer,,DEM,Denise Nappier,434,16,9,459
+Middlesex,Middletown 10,State Treasurer,,WF,Denise Nappier,30,0,2,32
+Middlesex,Middletown 10,State Treasurer,,UNK,Denise Nappier,17,0,0,17
+Middlesex,Middletown 10,Comptroller,,REP,Sharon McLaughlin,361,10,5,376
+Middlesex,Middletown 10,Comptroller,,IND,Sharon McLaughlin,20,2,1,23
+Middlesex,Middletown 10,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 10,Comptroller,,DEM,Kevin Lembo,471,17,8,496
+Middlesex,Middletown 10,Comptroller,,WF,Kevin Lembo,25,2,0,27
+Middlesex,Middletown 10,Comptroller,,IND,Kevin Lembo,8,0,0,8
+Middlesex,Middletown 10,Comptroller,,Green,Rolf Maurer,17,0,0,17
+Middlesex,Middletown 10,Attorney General,,REP,Kie Westby,311,10,3,324
+Middlesex,Middletown 10,Attorney General,,IND,Kie Westby,18,1,0,19
+Middlesex,Middletown 10,Attorney General,,UNK,Kie Westby,0,0,0,0
+Middlesex,Middletown 10,Attorney General,,DEM,George Jepsen,516,17,9,542
+Middlesex,Middletown 10,Attorney General,,WF,George Jepsen,29,3,1,33
+Middlesex,Middletown 10,Attorney General,,UNK,George Jepsen,8,0,0,8
+Middlesex,Middletown 10,Attorney General,,Green,Stephen Fournier,21,1,1,23
+Middlesex,Middletown 11,Governor,,REP,Thomas C. Foley,551,38,15,604
+Middlesex,Middletown 11,Governor,,IND,Thomas C. Foley,32,3,1,36
+Middlesex,Middletown 11,Governor,,UNK,Thomas C. Foley,5,0,0,5
+Middlesex,Middletown 11,Governor,,DEM,Dannel P. Malloy,832,88,7,927
+Middlesex,Middletown 11,Governor,,WF,Dannel P. Malloy,82,2,0,84
+Middlesex,Middletown 11,Governor,,UNK,Dannel P. Malloy,20,0,0,20
+Middlesex,Middletown 11,Governor,,PC,Joe Visconti,13,1,0,14
+Middlesex,Middletown 11,U.S. House,3,REP,James Brown,466,40,13,519
+Middlesex,Middletown 11,U.S. House,3,DEM,Rosa DeLauro,905,84,9,998
+Middlesex,Middletown 11,U.S. House,3,WF,Rosa DeLauro,114,4,1,119
+Middlesex,Middletown 11,U.S. House,3,UNK,Rosa DeLauro,18,0,0,18
+Middlesex,Middletown 11,State Senate,13,REP,Len Suzio,591,48,14,653
+Middlesex,Middletown 11,State Senate,13,IND,Len Suzio,43,3,0,46
+Middlesex,Middletown 11,State Senate,13,UNK,Len Suzio,2,0,0,2
+Middlesex,Middletown 11,State Senate,13,DEM,Dante Bartolomeo,776,73,8,857
+Middlesex,Middletown 11,State Senate,13,WF,Dante Bartolomeo,90,4,1,95
+Middlesex,Middletown 11,State Senate,13,UNK,Dante Bartolomeo,11,0,0,11
+Middlesex,Middletown 11,State Assembly,100,REP,Angel Fernandez,437,36,12,485
+Middlesex,Middletown 11,State Assembly,100,DEM,Matt Lesser,916,84,10,1010
+Middlesex,Middletown 11,State Assembly,100,WF,Matt Lesser,130,6,1,137
+Middlesex,Middletown 11,State Assembly,100,UNK,Matt Lesser,9,0,0,9
+Middlesex,Middletown 11,Secretary of State,,REP,Peter Lumaj,513,39,11,563
+Middlesex,Middletown 11,Secretary of State,,IND,Peter Lumaj,38,10,0,48
+Middlesex,Middletown 11,Secretary of State,,UNK,Peter Lumaj,0,0,0,0
+Middlesex,Middletown 11,Secretary of State,,DEM,Denise Merrill,797,74,11,882
+Middlesex,Middletown 11,Secretary of State,,WF,Denise Merrill,94,6,0,100
+Middlesex,Middletown 11,Secretary of State,,UNK,Denise Merrill,9,0,0,9
+Middlesex,Middletown 11,Secretary of State,,Green,Michael DeRosa,39,1,1,41
+Middlesex,Middletown 11,State Treasurer,,REP,Tim Herbst,563,45,13,621
+Middlesex,Middletown 11,State Treasurer,,IND,Tim Herbst,44,3,0,47
+Middlesex,Middletown 11,State Treasurer,,UNK,Tim Herbst,0,0,0,0
+Middlesex,Middletown 11,State Treasurer,,DEM,Denise Nappier,778,70,8,856
+Middlesex,Middletown 11,State Treasurer,,WF,Denise Nappier,84,7,1,92
+Middlesex,Middletown 11,State Treasurer,,UNK,Denise Nappier,8,0,0,8
+Middlesex,Middletown 11,Comptroller,,REP,Sharon McLaughlin,494,38,14,546
+Middlesex,Middletown 11,Comptroller,,IND,Sharon McLaughlin,39,2,0,41
+Middlesex,Middletown 11,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 11,Comptroller,,DEM,Kevin Lembo,803,76,8,887
+Middlesex,Middletown 11,Comptroller,,WF,Kevin Lembo,95,6,0,101
+Middlesex,Middletown 11,Comptroller,,IND,Kevin Lembo,8,0,0,8
+Middlesex,Middletown 11,Comptroller,,Green,Rolf Maurer,30,1,1,32
+Middlesex,Middletown 11,Attorney General,,REP,Kie Westby,445,33,14,492
+Middlesex,Middletown 11,Attorney General,,IND,Kie Westby,28,1,0,29
+Middlesex,Middletown 11,Attorney General,,UNK,Kie Westby,0,0,0,0
+Middlesex,Middletown 11,Attorney General,,DEM,George Jepsen,863,80,8,951
+Middlesex,Middletown 11,Attorney General,,WF,George Jepsen,99,4,0,103
+Middlesex,Middletown 11,Attorney General,,UNK,George Jepsen,8,0,0,8
+Middlesex,Middletown 11,Attorney General,,Green,Stephen Fournier,34,2,1,37
+Middlesex,Middletown 12,Governor,,REP,Thomas C. Foley,531,51,7,589
+Middlesex,Middletown 12,Governor,,IND,Thomas C. Foley,20,5,1,26
+Middlesex,Middletown 12,Governor,,UNK,Thomas C. Foley,4,0,0,4
+Middlesex,Middletown 12,Governor,,DEM,Dannel P. Malloy,790,131,18,939
+Middlesex,Middletown 12,Governor,,WF,Dannel P. Malloy,71,5,2,78
+Middlesex,Middletown 12,Governor,,UNK,Dannel P. Malloy,32,0,0,32
+Middlesex,Middletown 12,Governor,,PC,Joe Visconti,7,3,0,10
+Middlesex,Middletown 12,U.S. House,3,REP,James Brown,440,38,7,485
+Middlesex,Middletown 12,U.S. House,3,DEM,Rosa DeLauro,868,122,16,1006
+Middlesex,Middletown 12,U.S. House,3,WF,Rosa DeLauro,107,11,3,121
+Middlesex,Middletown 12,U.S. House,3,UNK,Rosa DeLauro,17,0,0,17
+Middlesex,Middletown 12,State Senate,9,REP,Earle Roberts,501,44,6,551
+Middlesex,Middletown 12,State Senate,9,DEM,Paul Doyle,882,118,19,1019
+Middlesex,Middletown 12,State Assembly,100,REP,Angel Fernandez,401,45,7,453
+Middlesex,Middletown 12,State Assembly,100,DEM,Matt Lesser,897,109,16,1022
+Middlesex,Middletown 12,State Assembly,100,WF,Matt Lesser,107,9,3,119
+Middlesex,Middletown 12,State Assembly,100,UNK,Matt Lesser,13,0,0,13
+Middlesex,Middletown 12,Secretary of State,,REP,Peter Lumaj,486,39,7,532
+Middlesex,Middletown 12,Secretary of State,,IND,Peter Lumaj,30,2,2,34
+Middlesex,Middletown 12,Secretary of State,,UNK,Peter Lumaj,0,0,0,0
+Middlesex,Middletown 12,Secretary of State,,DEM,Denise Merrill,769,114,15,898
+Middlesex,Middletown 12,Secretary of State,,WF,Denise Merrill,77,7,2,86
+Middlesex,Middletown 12,Secretary of State,,UNK,Denise Merrill,10,0,0,10
+Middlesex,Middletown 12,Secretary of State,,Green,Michael DeRosa,37,6,0,43
+Middlesex,Middletown 12,State Treasurer,,REP,Tim Herbst,526,45,6,577
+Middlesex,Middletown 12,State Treasurer,,IND,Tim Herbst,34,2,1,37
+Middlesex,Middletown 12,State Treasurer,,UNK,Tim Herbst,0,0,0,0
+Middlesex,Middletown 12,State Treasurer,,DEM,Denise Nappier,746,111,17,874
+Middlesex,Middletown 12,State Treasurer,,WF,Denise Nappier,92,7,2,101
+Middlesex,Middletown 12,State Treasurer,,UNK,Denise Nappier,12,0,0,12
+Middlesex,Middletown 12,Comptroller,,REP,Sharon McLaughlin,436,41,5,482
+Middlesex,Middletown 12,Comptroller,,IND,Sharon McLaughlin,23,5,1,29
+Middlesex,Middletown 12,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 12,Comptroller,,DEM,Kevin Lembo,809,104,15,928
+Middlesex,Middletown 12,Comptroller,,WF,Kevin Lembo,87,7,3,97
+Middlesex,Middletown 12,Comptroller,,IND,Kevin Lembo,9,0,0,9
+Middlesex,Middletown 12,Comptroller,,Green,Rolf Maurer,25,2,1,28
+Middlesex,Middletown 12,Attorney General,,REP,Kie Westby,399,37,5,441
+Middlesex,Middletown 12,Attorney General,,IND,Kie Westby,23,2,2,27
+Middlesex,Middletown 12,Attorney General,,UNK,Kie Westby,0,0,0,0
+Middlesex,Middletown 12,Attorney General,,DEM,George Jepsen,857,112,14,983
+Middlesex,Middletown 12,Attorney General,,WF,George Jepsen,91,7,4,102
+Middlesex,Middletown 12,Attorney General,,UNK,George Jepsen,9,0,0,9
+Middlesex,Middletown 12,Attorney General,,Green,Stephen Fournier,21,5,1,27
+Middlesex,Middletown 13,Governor,,REP,Thomas C. Foley,229,21,3,253
+Middlesex,Middletown 13,Governor,,IND,Thomas C. Foley,17,0,0,17
+Middlesex,Middletown 13,Governor,,UNK,Thomas C. Foley,0,0,0,0
+Middlesex,Middletown 13,Governor,,DEM,Dannel P. Malloy,333,61,7,401
+Middlesex,Middletown 13,Governor,,WF,Dannel P. Malloy,18,0,0,18
+Middlesex,Middletown 13,Governor,,UNK,Dannel P. Malloy,22,0,0,22
+Middlesex,Middletown 13,Governor,,PC,Joe Visconti,13,6,0,19
+Middlesex,Middletown 13,U.S. House,3,REP,James Brown,215,20,2,237
+Middlesex,Middletown 13,U.S. House,3,DEM,Rosa DeLauro,351,59,8,418
+Middlesex,Middletown 13,U.S. House,3,WF,Rosa DeLauro,40,3,0,43
+Middlesex,Middletown 13,U.S. House,3,UNK,Rosa DeLauro,16,0,0,16
+Middlesex,Middletown 13,State Senate,9,REP,Earle Roberts,215,14,2,231
+Middlesex,Middletown 13,State Senate,9,DEM,Paul Doyle,393,58,8,459
+Middlesex,Middletown 13,State Assembly,33,REP,Linda Szynkowicz,259,22,3,284
+Middlesex,Middletown 13,State Assembly,33,DEM,Joseph Serra,351,62,7,420
+Middlesex,Middletown 13,Secretary of State,,REP,Peter Lumaj,215,22,2,239
+Middlesex,Middletown 13,Secretary of State,,IND,Peter Lumaj,20,1,0,21
+Middlesex,Middletown 13,Secretary of State,,UNK,Peter Lumaj,2,0,0,2
+Middlesex,Middletown 13,Secretary of State,,DEM,Denise Merrill,299,54,8,361
+Middlesex,Middletown 13,Secretary of State,,WF,Denise Merrill,24,0,0,24
+Middlesex,Middletown 13,Secretary of State,,UNK,Denise Merrill,11,0,0,11
+Middlesex,Middletown 13,Secretary of State,,Green,Michael DeRosa,28,2,0,30
+Middlesex,Middletown 13,State Treasurer,,REP,Tim Herbst,228,25,3,256
+Middlesex,Middletown 13,State Treasurer,,IND,Tim Herbst,22,3,0,25
+Middlesex,Middletown 13,State Treasurer,,UNK,Tim Herbst,0,0,0,0
+Middlesex,Middletown 13,State Treasurer,,DEM,Denise Nappier,300,51,7,358
+Middlesex,Middletown 13,State Treasurer,,WF,Denise Nappier,32,2,0,34
+Middlesex,Middletown 13,State Treasurer,,UNK,Denise Nappier,13,0,0,13
+Middlesex,Middletown 13,Comptroller,,REP,Sharon McLaughlin,203,22,2,227
+Middlesex,Middletown 13,Comptroller,,IND,Sharon McLaughlin,5,4,0,9
+Middlesex,Middletown 13,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 13,Comptroller,,DEM,Kevin Lembo,329,53,8,390
+Middlesex,Middletown 13,Comptroller,,WF,Kevin Lembo,24,0,0,24
+Middlesex,Middletown 13,Comptroller,,IND,Kevin Lembo,11,0,0,11
+Middlesex,Middletown 13,Comptroller,,Green,Rolf Maurer,9,1,0,10
+Middlesex,Middletown 13,Attorney General,,REP,Kie Westby,191,19,2,212
+Middlesex,Middletown 13,Attorney General,,IND,Kie Westby,11,1,0,12
+Middlesex,Middletown 13,Attorney General,,UNK,Kie Westby,0,0,0,0
+Middlesex,Middletown 13,Attorney General,,DEM,George Jepsen,340,55,8,403
+Middlesex,Middletown 13,Attorney General,,WF,George Jepsen,25,4,0,29
+Middlesex,Middletown 13,Attorney General,,UNK,George Jepsen,0,0,0,0
+Middlesex,Middletown 13,Attorney General,,Green,Stephen Fournier,14,1,0,15
+Middlesex,Middletown 14,Governor,,REP,Thomas C. Foley,74,5,17,96
+Middlesex,Middletown 14,Governor,,IND,Thomas C. Foley,2,0,1,3
+Middlesex,Middletown 14,Governor,,UNK,Thomas C. Foley,0,0,0,0
+Middlesex,Middletown 14,Governor,,DEM,Dannel P. Malloy,424,24,170,618
+Middlesex,Middletown 14,Governor,,WF,Dannel P. Malloy,35,2,10,47
+Middlesex,Middletown 14,Governor,,UNK,Dannel P. Malloy,12,0,0,12
+Middlesex,Middletown 14,Governor,,PC,Joe Visconti,4,0,1,5
+Middlesex,Middletown 14,U.S. House,3,REP,James Brown,60,4,17,81
+Middlesex,Middletown 14,U.S. House,3,DEM,Rosa DeLauro,426,25,165,616
+Middlesex,Middletown 14,U.S. House,3,WF,Rosa DeLauro,46,2,9,57
+Middlesex,Middletown 14,U.S. House,3,UNK,Rosa DeLauro,7,0,0,7
+Middlesex,Middletown 14,State Senate,9,REP,Earle Roberts,62,3,17,82
+Middlesex,Middletown 14,State Senate,9,DEM,Paul Doyle,451,23,171,645
+Middlesex,Middletown 14,State Assembly,33,REP,Linda Szynkowicz,76,6,18,100
+Middlesex,Middletown 14,State Assembly,33,DEM,Joseph Serra,436,23,171,630
+Middlesex,Middletown 14,Secretary of State,,REP,Peter Lumaj,63,4,18,85
+Middlesex,Middletown 14,Secretary of State,,IND,Peter Lumaj,5,0,3,8
+Middlesex,Middletown 14,Secretary of State,,UNK,Peter Lumaj,0,0,0,0
+Middlesex,Middletown 14,Secretary of State,,DEM,Denise Merrill,394,23,145,562
+Middlesex,Middletown 14,Secretary of State,,WF,Denise Merrill,33,2,9,44
+Middlesex,Middletown 14,Secretary of State,,UNK,Denise Merrill,3,0,0,3
+Middlesex,Middletown 14,Secretary of State,,Green,Michael DeRosa,30,1,17,48
+Middlesex,Middletown 14,State Treasurer,,REP,Tim Herbst,74,7,15,96
+Middlesex,Middletown 14,State Treasurer,,IND,Tim Herbst,9,1,3,13
+Middlesex,Middletown 14,State Treasurer,,UNK,Tim Herbst,0,0,0,0
+Middlesex,Middletown 14,State Treasurer,,DEM,Denise Nappier,394,22,159,575
+Middlesex,Middletown 14,State Treasurer,,WF,Denise Nappier,491,1,10,502
+Middlesex,Middletown 14,State Treasurer,,UNK,Denise Nappier,6,0,0,6
+Middlesex,Middletown 14,Comptroller,,REP,Sharon McLaughlin,70,7,18,95
+Middlesex,Middletown 14,Comptroller,,IND,Sharon McLaughlin,8,1,3,12
+Middlesex,Middletown 14,Comptroller,,UNK,Sharon McLaughlin,0,0,0,0
+Middlesex,Middletown 14,Comptroller,,DEM,Kevin Lembo,386,20,141,547
+Middlesex,Middletown 14,Comptroller,,WF,Kevin Lembo,32,2,10,44
+Middlesex,Middletown 14,Comptroller,,IND,Kevin Lembo,4,0,0,4
+Middlesex,Middletown 14,Comptroller,,Green,Rolf Maurer,22,0,15,37
+Middlesex,Middletown 14,Attorney General,,REP,Kie Westby,60,6,18,84
+Middlesex,Middletown 14,Attorney General,,IND,Kie Westby,4,0,1,5
+Middlesex,Middletown 14,Attorney General,,UNK,Kie Westby,0,0,0,0
+Middlesex,Middletown 14,Attorney General,,DEM,George Jepsen,398,23,150,571
+Middlesex,Middletown 14,Attorney General,,WF,George Jepsen,32,1,9,42
+Middlesex,Middletown 14,Attorney General,,UNK,George Jepsen,3,0,0,3
+Middlesex,Middletown 14,Attorney General,,Green,Stephen Fournier,29,0,17,46
+Middlesex,Middletown 04,Governor,,write-in,Daniel Gaita,2,0,0,
+Middlesex,Middletown 08,Governor,,write-in,Daniel Gaita,1,0,0,
+Middlesex,Middletown 05,Governor,,write-in,Jonathan Pelto,2,0,0,
+Middlesex,Middletown 09,Governor,,write-in,Jonathan Pelto,1,0,0,
+Middlesex,Middletown 12,Governor,,write-in,Jonathan Pelto,1,0,0,
+Middlesex,Middletown 01,Treasurer,,write-in,Rolf Maurer,1,0,0,
+Middlesex,Middletown 03,Treasurer,,write-in,Rolf Maurer,0,1,0,
+Middlesex,Middletown 08,Treasurer,,write-in,Rolf Maurer,1,0,0,
+Middlesex,Middletown 12,Treasurer,,write-in,Rolf Maurer,1,1,0,

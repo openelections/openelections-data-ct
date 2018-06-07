@@ -1,0 +1,435 @@
+county,precinct,office,district,party,candidate,poll,absentee,votes
+Hartford,Enfield 158,Governor,,REP,Thomas C. Foley,351,3,354
+Hartford,Enfield 159,Governor,,REP,Thomas C. Foley,1543,37,1580
+Hartford,Enfield 258,Governor,,REP,Thomas C. Foley,886,38,924
+Hartford,Enfield 358,Governor,,REP,Thomas C. Foley,392,20,412
+Hartford,Enfield 359,Governor,,REP,Thomas C. Foley,1414,58,1472
+Hartford,Enfield 458,Governor,,REP,Thomas C. Foley,1198,50,1248
+Hartford,Enfield 459,Governor,,REP,Thomas C. Foley,148,5,153
+Hartford,EDR,Governor,,REP,Thomas C. Foley,72,0,72
+Hartford,HC AB,Governor,,REP,Thomas C. Foley,0,3,3
+Hartford,HC 4,Governor,,REP,Thomas C. Foley,101,0,101
+Hartford,Enfield CT,Governor,,REP,Thomas C. Foley,6105,214,6319
+Hartford,Enfield 158,Governor,,DEM,Dannel P. Malloy,244,11,255
+Hartford,Enfield 159,Governor,,DEM,Dannel P. Malloy,1177,38,1215
+Hartford,Enfield 258,Governor,,DEM,Dannel P. Malloy,936,55,991
+Hartford,Enfield 358,Governor,,DEM,Dannel P. Malloy,347,23,370
+Hartford,Enfield 359,Governor,,DEM,Dannel P. Malloy,1004,45,1049
+Hartford,Enfield 458,Governor,,DEM,Dannel P. Malloy,1112,66,1178
+Hartford,Enfield 459,Governor,,DEM,Dannel P. Malloy,123,3,126
+Hartford,EDR,Governor,,DEM,Dannel P. Malloy,43,0,43
+Hartford,HC AB,Governor,,DEM,Dannel P. Malloy,0,6,6
+Hartford,HC 4,Governor,,DEM,Dannel P. Malloy,77,0,77
+Hartford,Enfield CT,Governor,,DEM,Dannel P. Malloy,5063,247,5310
+Hartford,Enfield 158,Governor,,WF,Dannel P. Malloy,9,1,10
+Hartford,Enfield 159,Governor,,WF,Dannel P. Malloy,48,0,48
+Hartford,Enfield 258,Governor,,WF,Dannel P. Malloy,43,0,43
+Hartford,Enfield 358,Governor,,WF,Dannel P. Malloy,14,0,14
+Hartford,Enfield 359,Governor,,WF,Dannel P. Malloy,48,2,50
+Hartford,Enfield 458,Governor,,WF,Dannel P. Malloy,49,5,54
+Hartford,Enfield 459,Governor,,WF,Dannel P. Malloy,6,0,6
+Hartford,EDR,Governor,,WF,Dannel P. Malloy,8,0,8
+Hartford,HC AB,Governor,,WF,Dannel P. Malloy,0,1,1
+Hartford,HC 4,Governor,,WF,Dannel P. Malloy,9,0,9
+Hartford,Enfield CT,Governor,,WF,Dannel P. Malloy,234,9,243
+Hartford,Enfield 158,Governor,,IND,Thomas C. Foley,14,1,15
+Hartford,Enfield 159,Governor,,IND,Thomas C. Foley,70,1,71
+Hartford,Enfield 258,Governor,,IND,Thomas C. Foley,54,1,55
+Hartford,Enfield 358,Governor,,IND,Thomas C. Foley,19,0,19
+Hartford,Enfield 359,Governor,,IND,Thomas C. Foley,73,3,76
+Hartford,Enfield 458,Governor,,IND,Thomas C. Foley,69,2,71
+Hartford,Enfield 459,Governor,,IND,Thomas C. Foley,6,1,7
+Hartford,EDR,Governor,,IND,Thomas C. Foley,7,0,7
+Hartford,HC AB,Governor,,IND,Thomas C. Foley,0,1,1
+Hartford,HC 4,Governor,,IND,Thomas C. Foley,8,0,8
+Hartford,Enfield CT,Governor,,IND,Thomas C. Foley,320,10,330
+Hartford,Enfield 158,Governor,,PC,Joe Visconti,3,0,3
+Hartford,Enfield 159,Governor,,PC,Joe Visconti,43,1,44
+Hartford,Enfield 258,Governor,,PC,Joe Visconti,29,5,34
+Hartford,Enfield 358,Governor,,PC,Joe Visconti,10,1,11
+Hartford,Enfield 359,Governor,,PC,Joe Visconti,28,3,31
+Hartford,Enfield 458,Governor,,PC,Joe Visconti,36,3,39
+Hartford,Enfield 459,Governor,,PC,Joe Visconti,4,0,4
+Hartford,EDR,Governor,,PC,Joe Visconti,0,0,0
+Hartford,HC AB,Governor,,PC,Joe Visconti,0,1,1
+Hartford,HC 4,Governor,,PC,Joe Visconti,3,0,3
+Hartford,Enfield CT,Governor,,PC,Joe Visconti,156,14,170
+Hartford,Enfield 158,Governor,,,John Traceski,1,0,1
+Hartford,Enfield 159,Governor,,,John Traceski,1,0,1
+Hartford,Enfield 158,Governor,,,Jonathan Pelto,1,0,1
+Hartford,Enfield 159,Governor,,,Jonathan Pelto,1,0,1
+Hartford,Enfield 458,Governor,,,Daniel R. Galta,1,0,1
+Hartford,Enfield 158,U.S. House,2,REP,Lori Hopkins-Cavanagh,254,2,256
+Hartford,Enfield 159,U.S. House,2,REP,Lori Hopkins-Cavanagh,1084,29,1113
+Hartford,Enfield 258,U.S. House,2,REP,Lori Hopkins-Cavanagh,624,25,649
+Hartford,Enfield 358,U.S. House,2,REP,Lori Hopkins-Cavanagh,279,11,290
+Hartford,Enfield 359,U.S. House,2,REP,Lori Hopkins-Cavanagh,1007,45,1052
+Hartford,Enfield 458,U.S. House,2,REP,Lori Hopkins-Cavanagh,854,29,883
+Hartford,Enfield 459,U.S. House,2,REP,Lori Hopkins-Cavanagh,99,4,103
+Hartford,EDR,U.S. House,2,REP,Lori Hopkins-Cavanagh,61,0,61
+Hartford,HC AB,U.S. House,2,REP,Lori Hopkins-Cavanagh,0,4,4
+Hartford,HC 4,U.S. House,2,REP,Lori Hopkins-Cavanagh,71,0,71
+Hartford,Enfield CT,U.S. House,2,REP,Lori Hopkins-Cavanagh,4333,149,4482
+Hartford,Enfield 158,U.S. House,2,DEM,Joe Courtney,320,14,334
+Hartford,Enfield 159,U.S. House,2,DEM,Joe Courtney,1547,43,1590
+Hartford,Enfield 258,U.S. House,2,DEM,Joe Courtney,1120,68,1188
+Hartford,Enfield 358,U.S. House,2,DEM,Joe Courtney,437,30,467
+Hartford,Enfield 359,U.S. House,2,DEM,Joe Courtney,1303,59,1362
+Hartford,Enfield 458,U.S. House,2,DEM,Joe Courtney,1384,84,1468
+Hartford,Enfield 459,U.S. House,2,DEM,Joe Courtney,163,4,167
+Hartford,EDR,U.S. House,2,DEM,Joe Courtney,45,0,45
+Hartford,HC AB,U.S. House,2,DEM,Joe Courtney,0,6,6
+Hartford,HC 4,U.S. House,2,DEM,Joe Courtney,109,0,109
+Hartford,Enfield CT,U.S. House,2,DEM,Joe Courtney,6428,308,6736
+Hartford,Enfield 158,U.S. House,2,WF,Joe Courtney,28,0,28
+Hartford,Enfield 159,U.S. House,2,WF,Joe Courtney,134,2,136
+Hartford,Enfield 258,U.S. House,2,WF,Joe Courtney,113,3,116
+Hartford,Enfield 358,U.S. House,2,WF,Joe Courtney,35,0,35
+Hartford,Enfield 359,U.S. House,2,WF,Joe Courtney,118,6,124
+Hartford,Enfield 458,U.S. House,2,WF,Joe Courtney,117,6,123
+Hartford,Enfield 459,U.S. House,2,WF,Joe Courtney,9,0,9
+Hartford,EDR,U.S. House,2,WF,Joe Courtney,9,0,9
+Hartford,HC AB,U.S. House,2,WF,Joe Courtney,0,1,1
+Hartford,HC 4,U.S. House,2,WF,Joe Courtney,10,0,10
+Hartford,Enfield CT,U.S. House,2,WF,Joe Courtney,573,18,591
+Hartford,Enfield 158,U.S. House,2,Green,William Clyde,7,0,7
+Hartford,Enfield 159,U.S. House,2,Green,William Clyde,22,1,23
+Hartford,Enfield 258,U.S. House,2,Green,William Clyde,23,0,23
+Hartford,Enfield 358,U.S. House,2,Green,William Clyde,3,0,3
+Hartford,Enfield 359,U.S. House,2,Green,William Clyde,20,0,20
+Hartford,Enfield 458,U.S. House,2,Green,William Clyde,19,1,20
+Hartford,Enfield 459,U.S. House,2,Green,William Clyde,2,0,2
+Hartford,EDR,U.S. House,2,Green,William Clyde,2,0,2
+Hartford,HC AB,U.S. House,2,Green,William Clyde,0,1,1
+Hartford,HC 4,U.S. House,2,Green,William Clyde,0,0,0
+Hartford,Enfield CT,U.S. House,2,Green,William Clyde,98,3,101
+Hartford,Enfield 158,U.S. House,2,LBT,Daniel Reale,4,0,4
+Hartford,Enfield 159,U.S. House,2,LBT,Daniel Reale,14,1,15
+Hartford,Enfield 258,U.S. House,2,LBT,Daniel Reale,28,0,28
+Hartford,Enfield 358,U.S. House,2,LBT,Daniel Reale,10,0,10
+Hartford,Enfield 359,U.S. House,2,LBT,Daniel Reale,26,1,27
+Hartford,Enfield 458,U.S. House,2,LBT,Daniel Reale,25,0,25
+Hartford,Enfield 459,U.S. House,2,LBT,Daniel Reale,4,1,5
+Hartford,EDR,U.S. House,2,LBT,Daniel Reale,8,0,8
+Hartford,HC AB,U.S. House,2,LBT,Daniel Reale,0,0,0
+Hartford,HC 4,U.S. House,2,LBT,Daniel Reale,3,0,3
+Hartford,Enfield CT,U.S. House,2,LBT,Daniel Reale,122,3,125
+Hartford,Enfield 158,State Senate,7,REP,John Kissel,440,8,448
+Hartford,Enfield 159,State Senate,7,REP,John Kissel,1989,55,2044
+Hartford,Enfield 258,State Senate,7,REP,John Kissel,1212,60,1272
+Hartford,Enfield 358,State Senate,7,REP,John Kissel,526,25,551
+Hartford,Enfield 359,State Senate,7,REP,John Kissel,1786,78,1864
+Hartford,Enfield 458,State Senate,7,REP,John Kissel,1620,71,1691
+Hartford,Enfield 459,State Senate,7,REP,John Kissel,190,6,196
+Hartford,EDR,State Senate,7,REP,John Kissel,78,0,78
+Hartford,HC AB,State Senate,7,REP,John Kissel,0,8,8
+Hartford,HC 4,State Senate,7,REP,John Kissel,135,0,135
+Hartford,Enfield CT,State Senate,7,REP,John Kissel,7976,311,8287
+Hartford,Enfield 158,State Senate,7,DEM,John Foxx,170,8,178
+Hartford,Enfield 159,State Senate,7,DEM,John Foxx,797,22,819
+Hartford,Enfield 258,State Senate,7,DEM,John Foxx,671,36,707
+Hartford,Enfield 358,State Senate,7,DEM,John Foxx,229,16,245
+Hartford,Enfield 359,State Senate,7,DEM,John Foxx,704,28,732
+Hartford,Enfield 458,State Senate,7,DEM,John Foxx,767,50,817
+Hartford,Enfield 459,State Senate,7,DEM,John Foxx,84,3,87
+Hartford,EDR,State Senate,7,DEM,John Foxx,40,0,40
+Hartford,HC AB,State Senate,7,DEM,John Foxx,0,3,3
+Hartford,HC 4,State Senate,7,DEM,John Foxx,59,0,59
+Hartford,Enfield CT,State Senate,7,DEM,John Foxx,3521,166,3687
+Hartford,Enfield 158,State Assembly,58,REP,Tom Kienzler,285,2,287
+Hartford,Enfield 159,State Assembly,58,REP,Tom Kienzler,,,0
+Hartford,Enfield 258,State Assembly,58,REP,Tom Kienzler,714,30,744
+Hartford,Enfield 358,State Assembly,58,REP,Tom Kienzler,348,17,365
+Hartford,Enfield 359,State Assembly,58,REP,Tom Kienzler,,,0
+Hartford,Enfield 458,State Assembly,58,REP,Tom Kienzler,1047,38,1085
+Hartford,Enfield 459,State Assembly,58,REP,Tom Kienzler,,,0
+Hartford,EDR,State Assembly,58,REP,Tom Kienzler,33,0,33
+Hartford,HC AB,State Assembly,58,REP,Tom Kienzler,0,1,1
+Hartford,HC 4,State Assembly,58,REP,Tom Kienzler,96,0,96
+Hartford,Enfield CT,State Assembly,58,REP,Tom Kienzler,2523,88,2611
+Hartford,Enfield 158,State Assembly,58,DEM,David Alexander,279,14,293
+Hartford,Enfield 159,State Assembly,58,DEM,David Alexander,,,0
+Hartford,Enfield 258,State Assembly,58,DEM,David Alexander,1063,64,1127
+Hartford,Enfield 358,State Assembly,58,DEM,David Alexander,373,22,395
+Hartford,Enfield 359,State Assembly,58,DEM,David Alexander,,,0
+Hartford,Enfield 458,State Assembly,58,DEM,David Alexander,1188,78,1266
+Hartford,Enfield 459,State Assembly,58,DEM,David Alexander,,,0
+Hartford,EDR,State Assembly,58,DEM,David Alexander,28,0,28
+Hartford,HC AB,State Assembly,58,DEM,David Alexander,0,2,2
+Hartford,HC 4,State Assembly,58,DEM,David Alexander,86,0,86
+Hartford,Enfield CT,State Assembly,58,DEM,David Alexander,3017,180,3197
+Hartford,Enfield 158,State Assembly,58,WF,David Alexander,27,0,27
+Hartford,Enfield 159,State Assembly,58,WF,David Alexander,,,0
+Hartford,Enfield 258,State Assembly,58,WF,David Alexander,77,3,80
+Hartford,Enfield 358,State Assembly,58,WF,David Alexander,27,0,27
+Hartford,Enfield 359,State Assembly,58,WF,David Alexander,,,0
+Hartford,Enfield 458,State Assembly,58,WF,David Alexander,71,2,73
+Hartford,Enfield 459,State Assembly,58,WF,David Alexander,,,0
+Hartford,EDR,State Assembly,58,WF,David Alexander,4,0,4
+Hartford,HC AB,State Assembly,58,WF,David Alexander,0,2,2
+Hartford,HC 4,State Assembly,58,WF,David Alexander,9,0,9
+Hartford,Enfield CT,State Assembly,58,WF,David Alexander,215,7,222
+Hartford,Enfield 158,State Assembly,58,IND,Tom Kienzler,16,0,16
+Hartford,Enfield 159,State Assembly,58,IND,Tom Kienzler,,,0
+Hartford,Enfield 258,State Assembly,58,IND,Tom Kienzler,54,0,54
+Hartford,Enfield 358,State Assembly,58,IND,Tom Kienzler,15,1,16
+Hartford,Enfield 359,State Assembly,58,IND,Tom Kienzler,,,0
+Hartford,Enfield 458,State Assembly,58,IND,Tom Kienzler,89,3,92
+Hartford,Enfield 459,State Assembly,58,IND,Tom Kienzler,,,0
+Hartford,EDR,State Assembly,58,IND,Tom Kienzler,4,0,4
+Hartford,HC AB,State Assembly,58,IND,Tom Kienzler,0,0,0
+Hartford,HC 4,State Assembly,58,IND,Tom Kienzler,6,0,6
+Hartford,Enfield CT,State Assembly,58,IND,Tom Kienzler,184,4,188
+Hartford,Enfield 158,State Assembly,59,REP,Rob Kwasnicki,,,0
+Hartford,Enfield 159,State Assembly,59,REP,Rob Kwasnicki,1224,31,1255
+Hartford,Enfield 258,State Assembly,59,REP,Rob Kwasnicki,,,0
+Hartford,Enfield 358,State Assembly,59,REP,Rob Kwasnicki,,,0
+Hartford,Enfield 359,State Assembly,59,REP,Rob Kwasnicki,1058,58,1116
+Hartford,Enfield 458,State Assembly,59,REP,Rob Kwasnicki,,,0
+Hartford,Enfield 459,State Assembly,59,REP,Rob Kwasnicki,109,6,115
+Hartford,EDR,State Assembly,59,REP,Rob Kwasnicki,26,0,26
+Hartford,HC AB,State Assembly,59,REP,Rob Kwasnicki,0,3,3
+Hartford,HC 4,State Assembly,59,REP,Rob Kwasnicki,,,0
+Hartford,Enfield CT,State Assembly,59,REP,Rob Kwasnicki,2417,98,2515
+Hartford,Enfield 158,State Assembly,59,DEM,David Kiner,,,0
+Hartford,Enfield 159,State Assembly,59,DEM,David Kiner,1408,42,1450
+Hartford,Enfield 258,State Assembly,59,DEM,David Kiner,,,0
+Hartford,Enfield 358,State Assembly,59,DEM,David Kiner,,,0
+Hartford,Enfield 359,State Assembly,59,DEM,David Kiner,1272,46,1318
+Hartford,Enfield 458,State Assembly,59,DEM,David Kiner,,,0
+Hartford,Enfield 459,State Assembly,59,DEM,David Kiner,152,2,154
+Hartford,EDR,State Assembly,59,DEM,David Kiner,24,0,24
+Hartford,HC AB,State Assembly,59,DEM,David Kiner,0,4,4
+Hartford,HC 4,State Assembly,59,DEM,David Kiner,,,0
+Hartford,Enfield CT,State Assembly,59,DEM,David Kiner,2856,94,2950
+Hartford,Enfield 158,State Assembly,59,WF,David Kiner,,,0
+Hartford,Enfield 159,State Assembly,59,WF,David Kiner,111,2,113
+Hartford,Enfield 258,State Assembly,59,WF,David Kiner,,,0
+Hartford,Enfield 358,State Assembly,59,WF,David Kiner,,,0
+Hartford,Enfield 359,State Assembly,59,WF,David Kiner,106,4,110
+Hartford,Enfield 458,State Assembly,59,WF,David Kiner,,,0
+Hartford,Enfield 459,State Assembly,59,WF,David Kiner,11,1,12
+Hartford,EDR,State Assembly,59,WF,David Kiner,1,0,1
+Hartford,HC AB,State Assembly,59,WF,David Kiner,,,0
+Hartford,HC 4,State Assembly,59,WF,David Kiner,,,0
+Hartford,Enfield CT,State Assembly,59,WF,David Kiner,229,7,236
+Hartford,Enfield 158,State Assembly,59,IND,Rob Kwasnicki,,,0
+Hartford,Enfield 159,State Assembly,59,IND,Rob Kwasnicki,80,1,81
+Hartford,Enfield 258,State Assembly,59,IND,Rob Kwasnicki,,,0
+Hartford,Enfield 358,State Assembly,59,IND,Rob Kwasnicki,,,0
+Hartford,Enfield 359,State Assembly,59,IND,Rob Kwasnicki,74,3,77
+Hartford,Enfield 458,State Assembly,59,IND,Rob Kwasnicki,,,0
+Hartford,Enfield 459,State Assembly,59,IND,Rob Kwasnicki,9,0,9
+Hartford,EDR,State Assembly,59,IND,Rob Kwasnicki,2,0,2
+Hartford,HC AB,State Assembly,59,IND,Rob Kwasnicki,,,0
+Hartford,HC 4,State Assembly,59,IND,Rob Kwasnicki,,,0
+Hartford,Enfield CT,State Assembly,59,IND,Rob Kwasnicki,165,4,169
+Hartford,Enfield 158,Secretary of State,,REP,Peter Lumaj,324,3,327
+Hartford,Enfield 159,Secretary of State,,REP,Peter Lumaj,1403,35,1438
+Hartford,Enfield 258,Secretary of State,,REP,Peter Lumaj,777,33,810
+Hartford,Enfield 358,Secretary of State,,REP,Peter Lumaj,360,15,375
+Hartford,Enfield 359,Secretary of State,,REP,Peter Lumaj,1264,54,1318
+Hartford,Enfield 458,Secretary of State,,REP,Peter Lumaj,1094,40,1134
+Hartford,Enfield 459,Secretary of State,,REP,Peter Lumaj,132,5,137
+Hartford,EDR,Secretary of State,,REP,Peter Lumaj,63,0,63
+Hartford,HC AB,Secretary of State,,REP,Peter Lumaj,0,2,2
+Hartford,HC 4,Secretary of State,,REP,Peter Lumaj,90,0,90
+Hartford,Enfield CT,Secretary of State,,REP,Peter Lumaj,5507,187,5694
+Hartford,Enfield 158,Secretary of State,,DEM,Denise Merrill,239,11,250
+Hartford,Enfield 159,Secretary of State,,DEM,Denise Merrill,1155,34,1189
+Hartford,Enfield 258,Secretary of State,,DEM,Denise Merrill,916,56,972
+Hartford,Enfield 358,Secretary of State,,DEM,Denise Merrill,331,24,355
+Hartford,Enfield 359,Secretary of State,,DEM,Denise Merrill,989,44,1033
+Hartford,Enfield 458,Secretary of State,,DEM,Denise Merrill,1065,72,1137
+Hartford,Enfield 459,Secretary of State,,DEM,Denise Merrill,124,3,127
+Hartford,EDR,Secretary of State,,DEM,Denise Merrill,44,0,44
+Hartford,HC AB,Secretary of State,,DEM,Denise Merrill,0,6,6
+Hartford,HC 4,Secretary of State,,DEM,Denise Merrill,82,0,82
+Hartford,Enfield CT,Secretary of State,,DEM,Denise Merrill,4945,250,5195
+Hartford,Enfield 158,Secretary of State,,WF,Denise Merrill,14,1,15
+Hartford,Enfield 159,Secretary of State,,WF,Denise Merrill,68,1,69
+Hartford,Enfield 258,Secretary of State,,WF,Denise Merrill,59,3,62
+Hartford,Enfield 358,Secretary of State,,WF,Denise Merrill,20,0,20
+Hartford,Enfield 359,Secretary of State,,WF,Denise Merrill,66,6,72
+Hartford,Enfield 458,Secretary of State,,WF,Denise Merrill,61,1,62
+Hartford,Enfield 459,Secretary of State,,WF,Denise Merrill,7,0,7
+Hartford,EDR,Secretary of State,,WF,Denise Merrill,6,0,6
+Hartford,HC AB,Secretary of State,,WF,Denise Merrill,0,1,1
+Hartford,HC 4,Secretary of State,,WF,Denise Merrill,6,0,6
+Hartford,Enfield CT,Secretary of State,,WF,Denise Merrill,307,13,320
+Hartford,Enfield 158,Secretary of State,,IND,Peter Lumaj,15,0,15
+Hartford,Enfield 159,Secretary of State,,IND,Peter Lumaj,84,1,85
+Hartford,Enfield 258,Secretary of State,,IND,Peter Lumaj,59,1,60
+Hartford,Enfield 358,Secretary of State,,IND,Peter Lumaj,21,1,22
+Hartford,Enfield 359,Secretary of State,,IND,Peter Lumaj,83,4,87
+Hartford,Enfield 458,Secretary of State,,IND,Peter Lumaj,81,3,84
+Hartford,Enfield 459,Secretary of State,,IND,Peter Lumaj,7,1,8
+Hartford,EDR,Secretary of State,,IND,Peter Lumaj,5,0,5
+Hartford,HC AB,Secretary of State,,IND,Peter Lumaj,0,0,0
+Hartford,HC 4,Secretary of State,,IND,Peter Lumaj,7,0,7
+Hartford,Enfield CT,Secretary of State,,IND,Peter Lumaj,362,11,373
+Hartford,Enfield 158,Secretary of State,,,DeRosa,8,1,9
+Hartford,Enfield 159,Secretary of State,,,DeRosa,45,2,47
+Hartford,Enfield 258,Secretary of State,,,DeRosa,57,0,57
+Hartford,Enfield 358,Secretary of State,,,DeRosa,10,1,11
+Hartford,Enfield 359,Secretary of State,,,DeRosa,55,3,58
+Hartford,Enfield 458,Secretary of State,,,DeRosa,48,3,51
+Hartford,Enfield 459,Secretary of State,,,DeRosa,7,0,7
+Hartford,EDR,Secretary of State,,,DeRosa,3,0,3
+Hartford,HC AB,Secretary of State,,,DeRosa,0,1,1
+Hartford,HC 4,Secretary of State,,,DeRosa,6,0,6
+Hartford,Enfield CT,Secretary of State,,,DeRosa,239,11,250
+Hartford,Enfield 158,State Treasurer,,REP,Tim Herbst,321,6,327
+Hartford,Enfield 159,State Treasurer,,REP,Tim Herbst,1429,38,1467
+Hartford,Enfield 258,State Treasurer,,REP,Tim Herbst,795,37,832
+Hartford,Enfield 358,State Treasurer,,REP,Tim Herbst,380,16,396
+Hartford,Enfield 359,State Treasurer,,REP,Tim Herbst,1288,59,1347
+Hartford,Enfield 458,State Treasurer,,REP,Tim Herbst,1100,51,1151
+Hartford,Enfield 459,State Treasurer,,REP,Tim Herbst,137,5,142
+Hartford,EDR,State Treasurer,,REP,Tim Herbst,63,0,63
+Hartford,HC AB,State Treasurer,,REP,Tim Herbst,0,2,2
+Hartford,HC 4,State Treasurer,,REP,Tim Herbst,90,0,90
+Hartford,Enfield CT,State Treasurer,,REP,Tim Herbst,5603,214,5817
+Hartford,Enfield 158,State Treasurer,,DEM,Denise Nappier,248,9,257
+Hartford,Enfield 159,State Treasurer,,DEM,Denise Nappier,1172,33,1205
+Hartford,Enfield 258,State Treasurer,,DEM,Denise Nappier,954,53,1007
+Hartford,Enfield 358,State Treasurer,,DEM,Denise Nappier,321,25,346
+Hartford,Enfield 359,State Treasurer,,DEM,Denise Nappier,1005,46,1051
+Hartford,Enfield 458,State Treasurer,,DEM,Denise Nappier,1100,65,1165
+Hartford,Enfield 459,State Treasurer,,DEM,Denise Nappier,127,3,130
+Hartford,EDR,State Treasurer,,DEM,Denise Nappier,44,0,44
+Hartford,HC AB,State Treasurer,,DEM,Denise Nappier,0,7,7
+Hartford,HC 4,State Treasurer,,DEM,Denise Nappier,85,0,85
+Hartford,Enfield CT,State Treasurer,,DEM,Denise Nappier,5056,241,5297
+Hartford,Enfield 158,State Treasurer,,WF,Denise Nappier,15,1,16
+Hartford,Enfield 159,State Treasurer,,WF,Denise Nappier,75,1,76
+Hartford,Enfield 258,State Treasurer,,WF,Denise Nappier,74,4,78
+Hartford,Enfield 358,State Treasurer,,WF,Denise Nappier,23,0,23
+Hartford,Enfield 359,State Treasurer,,WF,Denise Nappier,78,3,81
+Hartford,Enfield 458,State Treasurer,,WF,Denise Nappier,68,2,70
+Hartford,Enfield 459,State Treasurer,,WF,Denise Nappier,7,0,7
+Hartford,EDR,State Treasurer,,WF,Denise Nappier,8,0,8
+Hartford,HC AB,State Treasurer,,WF,Denise Nappier,0,1,1
+Hartford,HC 4,State Treasurer,,WF,Denise Nappier,10,0,10
+Hartford,Enfield CT,State Treasurer,,WF,Denise Nappier,358,12,370
+Hartford,Enfield 158,State Treasurer,,IND,Tim Herbst,21,0,21
+Hartford,Enfield 159,State Treasurer,,IND,Tim Herbst,88,1,89
+Hartford,Enfield 258,State Treasurer,,IND,Tim Herbst,68,1,69
+Hartford,Enfield 358,State Treasurer,,IND,Tim Herbst,19,0,19
+Hartford,Enfield 359,State Treasurer,,IND,Tim Herbst,97,4,101
+Hartford,Enfield 458,State Treasurer,,IND,Tim Herbst,90,4,94
+Hartford,Enfield 459,State Treasurer,,IND,Tim Herbst,4,1,5
+Hartford,EDR,State Treasurer,,IND,Tim Herbst,5,0,5
+Hartford,HC AB,State Treasurer,,IND,Tim Herbst,0,0,0
+Hartford,HC 4,State Treasurer,,IND,Tim Herbst,8,0,8
+Hartford,Enfield CT,State Treasurer,,IND,Tim Herbst,400,11,411
+Hartford,Enfield 158,Comptroller,,REP,Sharon McLaughlin,293,3,296
+Hartford,Enfield 159,Comptroller,,REP,Sharon McLaughlin,1275,35,1310
+Hartford,Enfield 258,Comptroller,,REP,Sharon McLaughlin,766,40,806
+Hartford,Enfield 358,Comptroller,,REP,Sharon McLaughlin,342,18,360
+Hartford,Enfield 359,Comptroller,,REP,Sharon McLaughlin,1181,63,1244
+Hartford,Enfield 458,Comptroller,,REP,Sharon McLaughlin,1012,35,1047
+Hartford,Enfield 459,Comptroller,,REP,Sharon McLaughlin,124,5,129
+Hartford,EDR,Comptroller,,REP,Sharon McLaughlin,61,0,61
+Hartford,HC AB,Comptroller,,REP,Sharon McLaughlin,0,3,3
+Hartford,HC 4,Comptroller,,REP,Sharon McLaughlin,90,0,90
+Hartford,Enfield CT,Comptroller,,REP,Sharon McLaughlin,5144,202,5346
+Hartford,Enfield 158,Comptroller,,DEM,Kevin Lembo,256,12,268
+Hartford,Enfield 159,Comptroller,,DEM,Kevin Lembo,1229,33,1262
+Hartford,Enfield 258,Comptroller,,DEM,Kevin Lembo,911,49,960
+Hartford,Enfield 358,Comptroller,,DEM,Kevin Lembo,346,23,369
+Hartford,Enfield 359,Comptroller,,DEM,Kevin Lembo,1016,40,1056
+Hartford,Enfield 458,Comptroller,,DEM,Kevin Lembo,1124,77,1201
+Hartford,Enfield 459,Comptroller,,DEM,Kevin Lembo,121,3,124
+Hartford,EDR,Comptroller,,DEM,Kevin Lembo,40,0,40
+Hartford,HC AB,Comptroller,,DEM,Kevin Lembo,0,5,5
+Hartford,HC 4,Comptroller,,DEM,Kevin Lembo,79,0,79
+Hartford,Enfield CT,Comptroller,,DEM,Kevin Lembo,5122,242,5364
+Hartford,Enfield 158,Comptroller,,WF,Kevin Lembo,20,0,20
+Hartford,Enfield 159,Comptroller,,WF,Kevin Lembo,82,2,84
+Hartford,Enfield 258,Comptroller,,WF,Kevin Lembo,53,2,55
+Hartford,Enfield 358,Comptroller,,WF,Kevin Lembo,20,0,20
+Hartford,Enfield 359,Comptroller,,WF,Kevin Lembo,66,4,70
+Hartford,Enfield 458,Comptroller,,WF,Kevin Lembo,70,1,71
+Hartford,Enfield 459,Comptroller,,WF,Kevin Lembo,11,0,11
+Hartford,EDR,Comptroller,,WF,Kevin Lembo,5,0,5
+Hartford,HC AB,Comptroller,,WF,Kevin Lembo,0,0,0
+Hartford,HC 4,Comptroller,,WF,Kevin Lembo,7,0,7
+Hartford,Enfield CT,Comptroller,,WF,Kevin Lembo,334,9,343
+Hartford,Enfield 158,Comptroller,,IND,Sharon McLaughlin,13,0,13
+Hartford,Enfield 159,Comptroller,,IND,Sharon McLaughlin,76,1,77
+Hartford,Enfield 258,Comptroller,,IND,Sharon McLaughlin,72,1,73
+Hartford,Enfield 358,Comptroller,,IND,Sharon McLaughlin,20,0,20
+Hartford,Enfield 359,Comptroller,,IND,Sharon McLaughlin,91,3,94
+Hartford,Enfield 458,Comptroller,,IND,Sharon McLaughlin,75,2,77
+Hartford,Enfield 459,Comptroller,,IND,Sharon McLaughlin,6,1,7
+Hartford,EDR,Comptroller,,IND,Sharon McLaughlin,7,0,7
+Hartford,HC AB,Comptroller,,IND,Sharon McLaughlin,0,0,0
+Hartford,HC 4,Comptroller,,IND,Sharon McLaughlin,10,0,10
+Hartford,Enfield CT,Comptroller,,IND,Sharon McLaughlin,370,8,378
+Hartford,Enfield 158,Comptroller,,Green,Rolf Maurer,7,1,8
+Hartford,Enfield 159,Comptroller,,Green,Rolf Maurer,44,1,45
+Hartford,Enfield 258,Comptroller,,Green,Rolf Maurer,40,0,40
+Hartford,Enfield 358,Comptroller,,Green,Rolf Maurer,4,0,4
+Hartford,Enfield 359,Comptroller,,Green,Rolf Maurer,48,1,49
+Hartford,Enfield 458,Comptroller,,Green,Rolf Maurer,38,3,41
+Hartford,Enfield 459,Comptroller,,Green,Rolf Maurer,4,0,4
+Hartford,EDR,Comptroller,,Green,Rolf Maurer,6,0,6
+Hartford,HC AB,Comptroller,,Green,Rolf Maurer,0,,0
+Hartford,HC 4,Comptroller,,Green,Rolf Maurer,5,0,5
+Hartford,Enfield CT,Comptroller,,Green,Rolf Maurer,196,6,202
+Hartford,Enfield 158,Attorney General,,REP,Kie Westby,260,2,262
+Hartford,Enfield 159,Attorney General,,REP,Kie Westby,1138,31,1169
+Hartford,Enfield 258,Attorney General,,REP,Kie Westby,661,28,689
+Hartford,Enfield 358,Attorney General,,REP,Kie Westby,305,14,319
+Hartford,Enfield 359,Attorney General,,REP,Kie Westby,1067,54,1121
+Hartford,Enfield 458,Attorney General,,REP,Kie Westby,901,34,935
+Hartford,Enfield 459,Attorney General,,REP,Kie Westby,110,5,115
+Hartford,EDR,Attorney General,,REP,Kie Westby,59,0,59
+Hartford,HC AB,Attorney General,,REP,Kie Westby,0,2,2
+Hartford,HC 4,Attorney General,,REP,Kie Westby,75,0,75
+Hartford,Enfield CT,Attorney General,,REP,Kie Westby,4576,170,4746
+Hartford,Enfield 158,Attorney General,,DEM,George Jepsen,296,14,310
+Hartford,Enfield 159,Attorney General,,DEM,George Jepsen,1416,37,1453
+Hartford,Enfield 258,Attorney General,,DEM,George Jepsen,1046,61,1107
+Hartford,Enfield 358,Attorney General,,DEM,George Jepsen,380,25,405
+Hartford,Enfield 359,Attorney General,,DEM,George Jepsen,1170,45,1215
+Hartford,Enfield 458,Attorney General,,DEM,George Jepsen,1252,80,1332
+Hartford,Enfield 459,Attorney General,,DEM,George Jepsen,143,3,146
+Hartford,EDR,Attorney General,,DEM,George Jepsen,47,0,47
+Hartford,HC AB,Attorney General,,DEM,George Jepsen,0,7,7
+Hartford,HC 4,Attorney General,,DEM,George Jepsen,93,0,93
+Hartford,Enfield CT,Attorney General,,DEM,George Jepsen,5843,272,6115
+Hartford,Enfield 158,Attorney General,,WF,George Jepsen,19,0,19
+Hartford,Enfield 159,Attorney General,,WF,George Jepsen,80,1,81
+Hartford,Enfield 258,Attorney General,,WF,George Jepsen,68,2,70
+Hartford,Enfield 358,Attorney General,,WF,George Jepsen,25,1,26
+Hartford,Enfield 359,Attorney General,,WF,George Jepsen,85,5,90
+Hartford,Enfield 458,Attorney General,,WF,George Jepsen,87,2,89
+Hartford,Enfield 459,Attorney General,,WF,George Jepsen,9,0,9
+Hartford,EDR,Attorney General,,WF,George Jepsen,5,0,5
+Hartford,HC AB,Attorney General,,WF,George Jepsen,0,1,1
+Hartford,HC 4,Attorney General,,WF,George Jepsen,8,0,8
+Hartford,Enfield CT,Attorney General,,WF,George Jepsen,386,12,398
+Hartford,Enfield 158,Attorney General,,IND,Kie Westby,14,0,14
+Hartford,Enfield 159,Attorney General,,IND,Kie Westby,55,0,55
+Hartford,Enfield 258,Attorney General,,IND,Kie Westby,45,1,46
+Hartford,Enfield 358,Attorney General,,IND,Kie Westby,14,0,14
+Hartford,Enfield 359,Attorney General,,IND,Kie Westby,58,1,59
+Hartford,Enfield 458,Attorney General,,IND,Kie Westby,56,2,58
+Hartford,Enfield 459,Attorney General,,IND,Kie Westby,3,1,4
+Hartford,EDR,Attorney General,,IND,Kie Westby,3,0,3
+Hartford,HC AB,Attorney General,,IND,Kie Westby,0,0,0
+Hartford,HC 4,Attorney General,,IND,Kie Westby,8,0,8
+Hartford,Enfield CT,Attorney General,,IND,Kie Westby,256,5,261
+Hartford,Enfield 158,Attorney General,,Green,Stephen Fournier,10,0,10
+Hartford,Enfield 159,Attorney General,,Green,Stephen Fournier,58,3,61
+Hartford,Enfield 258,Attorney General,,Green,Stephen Fournier,46,2,48
+Hartford,Enfield 358,Attorney General,,Green,Stephen Fournier,16,1,17
+Hartford,Enfield 359,Attorney General,,Green,Stephen Fournier,49,3,52
+Hartford,Enfield 458,Attorney General,,Green,Stephen Fournier,48,2,50
+Hartford,Enfield 459,Attorney General,,Green,Stephen Fournier,7,0,7
+Hartford,EDR,Attorney General,,Green,Stephen Fournier,4,0,4
+Hartford,HC AB,Attorney General,,Green,Stephen Fournier,0,1,1
+Hartford,HC 4,Attorney General,,Green,Stephen Fournier,8,0,8
+Hartford,Enfield CT,Attorney General,,Green,Stephen Fournier,246,12,258
