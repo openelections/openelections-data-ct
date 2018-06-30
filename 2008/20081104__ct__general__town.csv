@@ -1,0 +1,3254 @@
+county,town,office,district,party,candidate,votes
+Tolland,Andover,President,,Rep,John McCain,745
+Tolland,Andover,President,,Dem,Barack Obama,1090
+Tolland,Andover,President,,Ind,Ralph Nader,31
+Tolland,Andover,President,,write-in,Chuck Baldwin,0
+Tolland,Andover,President,,write-in,Roger Calero,0
+Tolland,Andover,President,,write-in,Cynthia McKinney,0
+Tolland,Andover,President,,write-in,Stewart Moore,0
+Tolland,Andover,US House,2,Rep,Sean Sullivan,563
+Tolland,Andover,US House,2,Dem,Joe  Courtney,1030
+Tolland,Andover,US House,2,Green,Scott Deshefy,38
+Tolland,Andover,US House,2,WF,Joe Courtney,93
+Tolland,Andover,US House,2,write-in,Todd Vachon,0
+Tolland,Andover,State Senate,19,Dem,Edith G. Prague,1177
+Tolland,Andover,State Senate,19,WF,Edith G. Prague,139
+Tolland,Andover,State House,55,Rep,Pamela Z. Sawyer,1339
+New Haven,Ansonia,President,,Rep,John McCain,2918
+New Haven,Ansonia,President,,Dem,Barack Obama,4616
+New Haven,Ansonia,President,,Ind,Ralph Nader,124
+New Haven,Ansonia,President,,write-in,Chuck Baldwin,0
+New Haven,Ansonia,President,,write-in,Roger Calero,0
+New Haven,Ansonia,President,,write-in,Cynthia McKinney,0
+New Haven,Ansonia,President,,write-in,Stewart Moore,0
+New Haven,Ansonia,US House,3,Rep,Bo Itshaky,1256
+New Haven,Ansonia,US House,3,Dem,Rosa DeLauro,5077
+New Haven,Ansonia,US House,3,Green,Ralph Ferrucci,153
+New Haven,Ansonia,US House,3,WF,Rosa DeLauro,470
+New Haven,Ansonia,State Senate,17,Rep,Tamath K.  Rossi,1950
+New Haven,Ansonia,State Senate,17,Dem,Joe  Crisco,4457
+New Haven,Ansonia,State Senate,17,WF,Joe  Crisco,345
+New Haven,Ansonia  Part,State House,104,Dem,Linda M. Gentile,4984
+New Haven,Ansonia  Part,State House,104,PC,Mary E. Porter,695
+New Haven,Ansonia  Part,State House,105,Rep,Brian F. Koskelowski,207
+New Haven,Ansonia  Part,State House,105,Dem,Theresa W. Conroy,416
+Windham,Ashford,President,,Rep,John McCain,837
+Windham,Ashford,President,,Dem,Barack Obama,1422
+Windham,Ashford,President,,Ind,Ralph Nader,57
+Windham,Ashford,President,,write-in,Chuck Baldwin,1
+Windham,Ashford,President,,write-in,Roger Calero,0
+Windham,Ashford,President,,write-in,Cynthia McKinney,0
+Windham,Ashford,President,,write-in,Stewart Moore,0
+Windham,Ashford,US House,2,Rep,Sean Sullivan,660
+Windham,Ashford,US House,2,Dem,Joe  Courtney,1429
+Windham,Ashford,US House,2,Green,Scott Deshefy,45
+Windham,Ashford,US House,2,WF,Joe Courtney,62
+Windham,Ashford,US House,2,write-in,Todd Vachon,0
+Windham,Ashford,State Senate,35,Rep,Tony  Guglielmo,1479
+Windham,Ashford,State House,53,Rep,Robert  Arute,850
+Windham,Ashford,State House,53,Rep,Bryan  Hurlburt,1308
+Hartford,Avon,President,,Rep,John McCain,4868
+Hartford,Avon,President,,Dem,Barack Obama,5698
+Hartford,Avon,President,,Ind,Ralph Nader,100
+Hartford,Avon,President,,write-in,Chuck Baldwin,0
+Hartford,Avon,President,,write-in,Roger Calero,0
+Hartford,Avon,President,,write-in,Cynthia McKinney,0
+Hartford,Avon,President,,write-in,Stewart Moore,0
+Hartford,Avon,US House,5,Rep,David  J.  Cappiello,4500
+Hartford,Avon,US House,5,Dem,Chris Murphy,5577
+Hartford,Avon,US House,5,Ind,Thomas  L.  Winn,58
+Hartford,Avon,US House,5,Green,Harold  H.  Burbank  II,93
+Hartford,Avon,US House,5,WF,Chris  Murphy,0
+Hartford,Avon,US House,5,write-in,Walter  Gengarelly,0
+Hartford,Avon,State Senate,8,Rep,Kevin D. Witkos,5900
+Hartford,Avon,State Senate,8,Dem,Arthur H. House,3347
+Hartford,Avon,State Senate,8,WF,Arthur H. House,866
+Hartford,Avon  Part,State House,17,Rep,Timothy  LeGeyt,3881
+Hartford,Avon  Part,State House,17,Dem,Brett  Eisenlohr,4289
+Hartford,Avon  Part,State House,17,WF,Brett  Eisenlohr,0
+Hartford,Avon  Part,State House,19,Rep,Theresa  McGrath,850
+Hartford,Avon  Part,State House,19,Dem,Beth  Bye,1007
+Litchfield,Barkhamsted,President,,Rep,John McCain,969
+Litchfield,Barkhamsted,President,,Dem,Barack Obama,1223
+Litchfield,Barkhamsted,President,,Ind,Ralph Nader,50
+Litchfield,Barkhamsted,President,,write-in,Chuck Baldwin,0
+Litchfield,Barkhamsted,President,,write-in,Roger Calero,0
+Litchfield,Barkhamsted,President,,write-in,Cynthia McKinney,0
+Litchfield,Barkhamsted,President,,write-in,Stewart Moore,0
+Litchfield,Barkhamsted,US House,1,Rep,Joe  Visconti,822
+Litchfield,Barkhamsted,US House,1,Dem,John Larson,1095
+Litchfield,Barkhamsted,US House,1,Green,Stephen Fournier,56
+Litchfield,Barkhamsted,US House,1,WF,John Larson,108
+Litchfield,Barkhamsted,US House,1,write-in,Matthew Coleman,0
+Litchfield,Barkhamsted,State Senate,8,Rep,Kevin D. Witkos,1088
+Litchfield,Barkhamsted,State Senate,8,Dem,Arthur H. House,904
+Litchfield,Barkhamsted,State Senate,8,WF,Arthur H. House,93
+Litchfield,Barkhamsted  Part,State House,62,Rep,Richard F. Ferrari,302
+Litchfield,Barkhamsted  Part,State House,62,Dem,Annie  Hornish,327
+Litchfield,Barkhamsted  Part,State House,62,WF,Annie  Hornish,39
+Litchfield,Barkhamsted  Part,State House,63,Rep,John B. Rigby,817
+Litchfield,Barkhamsted  Part,State House,63,write-in,William O. Riiska,292
+New Haven,Beacon  Falls,President,,Rep,John McCain,1576
+New Haven,Beacon  Falls,President,,Dem,Barack Obama,1483
+New Haven,Beacon  Falls,President,,Ind,Ralph Nader,58
+New Haven,Beacon  Falls,President,,write-in,Chuck Baldwin,0
+New Haven,Beacon  Falls,President,,write-in,Roger Calero,0
+New Haven,Beacon  Falls,President,,write-in,Cynthia McKinney,0
+New Haven,Beacon  Falls,President,,write-in,Stewart Moore,0
+New Haven,Beacon  Falls,US House,3,Rep,Bo Itshaky,836
+New Haven,Beacon  Falls,US House,3,Dem,Rosa DeLauro,1656
+New Haven,Beacon  Falls,US House,3,Green,Ralph Ferrucci,84
+New Haven,Beacon  Falls,US House,3,WF,Rosa DeLauro,277
+New Haven,Beacon Falls,State Senate,17,Rep,Tamath K.  Rossi,1297
+New Haven,Beacon Falls,State Senate,17,Dem,Joe  Crisco,1409
+New Haven,Beacon Falls,State Senate,17,WF,Joe  Crisco,152
+New Haven,Beacon Falls,State House,105,Rep,Brian F. Koskelowski,1395
+New Haven,Beacon Falls,State House,105,Dem,Theresa W. Conroy,1391
+Hartford,Berlin,President,,Rep,John McCain,4957
+Hartford,Berlin,President,,Dem,Barack Obama,6028
+Hartford,Berlin,President,,Ind,Ralph Nader,142
+Hartford,Berlin,President,,write-in,Chuck Baldwin,1
+Hartford,Berlin,President,,write-in,Roger Calero,0
+Hartford,Berlin,President,,write-in,Cynthia McKinney,1
+Hartford,Berlin,President,,write-in,Stewart Moore,0
+Hartford,Berlin,US House,1,Rep,Joe  Visconti,2926
+Hartford,Berlin,US House,1,Dem,John Larson,5684
+Hartford,Berlin,US House,1,Green,Stephen Fournier,228
+Hartford,Berlin,US House,1,WF,John Larson,760
+Hartford,Berlin,US House,1,write-in,Matthew Coleman,0
+Hartford,Berlin,State Senate,6,Rep,Thomas A.  Bozek,4088
+Hartford,Berlin,State Senate,6,Dem,Donald J. DeFronzo,5330
+Hartford,Berlin,State Senate,6,WF,Donald J. DeFronzo,790
+Hartford,Berlin  Part,State House,30,Dem,Joe  Aresimowicz,3771
+Hartford,Berlin  Part,State House,30,Dem,Joe  Aresimowicz,774
+Hartford,Berlin  Part,State House,83,Rep,Kevin  Scarpati,1361
+Hartford,Berlin  Part,State House,83,Dem,Catherine F. Abercrombie,2699
+New Haven,Bethany,President,,Rep,John McCain,1525
+New Haven,Bethany,President,,Dem,Barack Obama,1781
+New Haven,Bethany,President,,Ind,Ralph Nader,50
+New Haven,Bethany,President,,write-in,Chuck Baldwin,0
+New Haven,Bethany,President,,write-in,Roger Calero,0
+New Haven,Bethany,President,,write-in,Cynthia McKinney,1
+New Haven,Bethany,President,,write-in,Stewart Moore,0
+New Haven,Bethany,US House,3,Rep,Bo Itshaky,970
+New Haven,Bethany,US House,3,Dem,Rosa DeLauro,1933
+New Haven,Bethany,US House,3,Green,Ralph Ferrucci,91
+New Haven,Bethany,US House,3,WF,Rosa DeLauro,214
+New Haven,Bethany,State Senate,17,Rep,Tamath K.  Rossi,1247
+New Haven,Bethany,State Senate,17,Dem,Joe  Crisco,1776
+New Haven,Bethany,State Senate,17,WF,Joe  Crisco,151
+New Haven,Bethany,State House,89,Rep,Martin A. Atkins,1065
+New Haven,Bethany,State House,89,Dem,Vickie O. Nardello,2049
+Fairfield,Bethel,President,,Rep,John McCain,4370
+Fairfield,Bethel,President,,Dem,Barack Obama,5179
+Fairfield,Bethel,President,,Ind,Ralph Nader,117
+Fairfield,Bethel,President,,write-in,Chuck Baldwin,2
+Fairfield,Bethel,President,,write-in,Roger Calero,0
+Fairfield,Bethel,President,,write-in,Cynthia McKinney,0
+Fairfield,Bethel,President,,write-in,Stewart Moore,0
+Fairfield,Bethel,US House,5,Rep,David  J.  Cappiello,4215
+Fairfield,Bethel,US House,5,Dem,Chris Murphy,4194
+Fairfield,Bethel,US House,5,Ind,Thomas  L.  Winn,87
+Fairfield,Bethel,US House,5,Green,Harold  H.  Burbank  II,62
+Fairfield,Bethel,US House,5,WF,Chris  Murphy,530
+Fairfield,Bethel,US House,5,write-in,Walter  Gengarelly,0
+Fairfield,Bethel  Part,State Senate,24,Rep,Michael A. McLachlan,1523
+Fairfield,Bethel  Part,State Senate,24,Dem,Duane E. Perkins,1127
+Fairfield,Bethel  Part,State Senate,24,Ind,Michael A. McLachlan,109
+Fairfield,Bethel  Part,State Senate,24,WF,Duane E. Perkins,94
+Fairfield,Bethel  Part,State Senate,24,PC,Manuel A. Bataguas,19
+Fairfield,Bethel  Part,State Senate,26,Rep,Toni  Boucher,2798
+Fairfield,Bethel  Part,State Senate,26,Dem,John  Hartwell,2822
+Fairfield,Bethel  Part,State Senate,26,WF,John  Hartwell,278
+Fairfield,Bethel  Part,State House,2,Rep,Melanie P. O'Brien,2368
+Fairfield,Bethel  Part,State House,2,Dem,Jason W. Bartlett,2790
+Fairfield,Bethel  Part,State House,2,Ind,Melanie P. O'Brien,252
+Fairfield,Bethel  Part,State House,107,Rep,David A. Scribner,1783
+Fairfield,Bethel  Part,State House,107,Dem,David  Stevenson,1447
+Fairfield,Bethel  Part,State House,107,Ind,David A. Scribner,129
+Fairfield,Bethel  Part,State House,107,WF,David  Stevenson,128
+Litchfield,Bethlehem,President,,Rep,John McCain,1214
+Litchfield,Bethlehem,President,,Dem,Barack Obama,1027
+Litchfield,Bethlehem,President,,Ind,Ralph Nader,30
+Litchfield,Bethlehem,President,,write-in,Chuck Baldwin,4
+Litchfield,Bethlehem,President,,write-in,Roger Calero,0
+Litchfield,Bethlehem,President,,write-in,Cynthia McKinney,0
+Litchfield,Bethlehem,President,,write-in,Stewart Moore,0
+Litchfield,Bethlehem,US House,5,Rep,David  J.  Cappiello,1046
+Litchfield,Bethlehem,US House,5,Dem,Chris Murphy,993
+Litchfield,Bethlehem,US House,5,Ind,Thomas  L.  Winn,21
+Litchfield,Bethlehem,US House,5,Green,Harold  H.  Burbank  II,17
+Litchfield,Bethlehem,US House,5,WF,Chris  Murphy,102
+Litchfield,Bethlehem,US House,5,write-in,Walter  Gengarelly,1
+Litchfield,Bethlehem,State Senate,32,Rep,Robert J. Kane,1202
+Litchfield,Bethlehem,State Senate,32,Dem,John  McCarthy,844
+Litchfield,Bethlehem,State Senate,32,WF,John  McCarthy,60
+Litchfield,Bethlehem,State House,66,Rep,Craig A. Miner,1174
+Litchfield,Bethlehem,State House,66,Dem,Nick  Creed,813
+Litchfield,Bethlehem,State House,66,CC,Richard S. Schuley,33
+Litchfield,Bethlehem,State House,66,WF,Nick  Creed,77
+Hartford,Bloomfield,President,,Rep,John McCain,1778
+Hartford,Bloomfield,President,,Dem,Barack Obama,10384
+Hartford,Bloomfield,President,,Ind,Ralph Nader,60
+Hartford,Bloomfield,President,,write-in,Chuck Baldwin,0
+Hartford,Bloomfield,President,,write-in,Roger Calero,0
+Hartford,Bloomfield,President,,write-in,Cynthia McKinney,0
+Hartford,Bloomfield,President,,write-in,Stewart Moore,0
+Hartford,Bloomfield,US House,1,Rep,Joe  Visconti,1438
+Hartford,Bloomfield,US House,1,Dem,John Larson,8440
+Hartford,Bloomfield,US House,1,Green,Stephen Fournier,158
+Hartford,Bloomfield,US House,1,WF,John Larson,478
+Hartford,Bloomfield,US House,1,write-in,Matthew Coleman,0
+Hartford,Bloomfield  Part,State Senate,2,Rep,Veronica  Airey-Wilson,1886
+Hartford,Bloomfield  Part,State Senate,5,Rep,Joseph  Merritt,929
+Hartford,Bloomfield  Part,State Senate,2,Dem,Eric D. Coleman,5726
+Hartford,Bloomfield  Part,State Senate,5,Dem,Jonathan A. Harris,1775
+Hartford,Bloomfield  Part,State Senate,2,WF,Eric D. Coleman,461
+Hartford,Bloomfield  Part,State Senate,5,WF,Jonathan A. Harris,65
+Hartford,Bloomfield  Part,State House,1,Dem,Kenneth P. Green,3067
+Hartford,Bloomfield  Part,State House,1,CFL,Mark A. Friedman,124
+Hartford,Bloomfield  Part,State House,15,Rep,Aaron  Jubrey,1375
+Hartford,Bloomfield  Part,State House,15,Dem,Faith  McMahon,5846
+Tolland,Bolton,President,,Rep,John McCain,1300
+Tolland,Bolton,President,,Dem,Barack Obama,1692
+Tolland,Bolton,President,,Ind,Ralph Nader,53
+Tolland,Bolton,President,,write-in,Chuck Baldwin,1
+Tolland,Bolton,President,,write-in,Roger Calero,0
+Tolland,Bolton,President,,write-in,Cynthia McKinney,0
+Tolland,Bolton,President,,write-in,Stewart Moore,0
+Tolland,Bolton,US House,2,Rep,Sean Sullivan,1048
+Tolland,Bolton,US House,2,Dem,Joe  Courtney,1567
+Tolland,Bolton,US House,2,Green,Scott Deshefy,53
+Tolland,Bolton,US House,2,WF,Joe Courtney,164
+Tolland,Bolton,US House,2,write-in,Todd Vachon,0
+Tolland,Bolton,State Senate,4,Rep,David H. Blackwell,1313
+Tolland,Bolton,State Senate,4,Dem,Mary Ann  Handley,1340
+Tolland,Bolton,State Senate,4,WF,Mary Ann  Handley,175
+Tolland,Bolton,State House,55,Rep,Pamela Z. Sawyer,2255
+New London,Bozrah,President,,Rep,John McCain,633
+New London,Bozrah,President,,Dem,Barack Obama,723
+New London,Bozrah,President,,Ind,Ralph Nader,27
+New London,Bozrah,President,,write-in,Chuck Baldwin,4
+New London,Bozrah,President,,write-in,Roger Calero,0
+New London,Bozrah,President,,write-in,Cynthia McKinney,1
+New London,Bozrah,President,,write-in,Stewart Moore,0
+New London,Bozrah,US House,2,Rep,Sean Sullivan,432
+New London,Bozrah,US House,2,Dem,Joe  Courtney,750
+New London,Bozrah,US House,2,Green,Scott Deshefy,27
+New London,Bozrah,US House,2,WF,Joe Courtney,99
+New London,Bozrah,US House,2,write-in,Todd Vachon,0
+New London,Bozrah,State Senate,19,Dem,Edith G. Prague,826
+New London,Bozrah,State Senate,19,WF,Edith G. Prague,162
+New London,Bozrah,State House,139,Dem,Kevin  Ryan,945
+New Haven,Branford,President,,Rep,John McCain,5906
+New Haven,Branford,President,,Dem,Barack Obama,9062
+New Haven,Branford,President,,Ind,Ralph Nader,171
+New Haven,Branford,President,,write-in,Chuck Baldwin,5
+New Haven,Branford,President,,write-in,Roger Calero,0
+New Haven,Branford,President,,write-in,Cynthia McKinney,0
+New Haven,Branford,President,,write-in,Stewart Moore,0
+New Haven,Branford,US House,3,Rep,Bo Itshaky,3104
+New Haven,Branford,US House,3,Dem,Rosa DeLauro,9959
+New Haven,Branford,US House,3,Green,Ralph Ferrucci,312
+New Haven,Branford,US House,3,WF,Rosa DeLauro,914
+New Haven,Branford,State Senate,12,Rep,Ryan  Suerth,4835
+New Haven,Branford,State Senate,12,Dem,Edward  Meyer,9109
+New Haven,Branford  Part,State House,98,Dem,Patricia M. Widlitz,2437
+New Haven,Branford  Part,State House,102,Dem,Lonnie  Reed,7854
+Fairfield,Bridgeport,President,,Rep,John McCain,6507
+Fairfield,Bridgeport,President,,Dem,Barack Obama,33976
+Fairfield,Bridgeport,President,,Ind,Ralph Nader,199
+Fairfield,Bridgeport,President,,write-in,Chuck Baldwin,0
+Fairfield,Bridgeport,President,,write-in,Roger Calero,0
+Fairfield,Bridgeport,President,,write-in,Cynthia McKinney,0
+Fairfield,Bridgeport,President,,write-in,Stewart Moore,0
+Fairfield,Bridgeport,US House,4,Rep,Christopher Shays,7662
+Fairfield,Bridgeport,US House,4,Dem,Jim Himes,28678
+Fairfield,Bridgeport,US House,4,Green,Richard  Z.  Duffee,96
+Fairfield,Bridgeport,US House,4,WF,Jim Himes,2608
+Fairfield,Bridgeport,US House,4,Lbt,Michael Carrano,127
+Fairfield,Bridgeport,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Bridgeport  Part,State Senate,22,Rep,Robert D. Russo,4978
+Fairfield,Bridgeport  Part,State Senate,22,Dem,Anthony J. Musto,10622
+Fairfield,Bridgeport  Part,State Senate,22,WF,Anthony J. Musto,495
+Fairfield,Bridgeport  Part,State Senate,23,Rep,Milton  Johnson,1935
+Fairfield,Bridgeport  Part,State Senate,23,Dem,Edwin A. Gomes,17793
+Fairfield,Bridgeport  Part,State Senate,23,WF,Edwin A. Gomes,990
+Fairfield,Bridgeport  Part,State House,124,Rep,Cecil  Young,675
+Fairfield,Bridgeport  Part,State House,124,Dem,"Charles ""Don""  Clemons, Jr",5774
+Fairfield,Bridgeport  Part,State House,126,Rep,Joseph  Minutolo,781
+Fairfield,Bridgeport  Part,State House,126,Dem,Christopher L. Caruso,6754
+Fairfield,Bridgeport  Part,State House,126,WF,Christopher L. Caruso,444
+Fairfield,Bridgeport  Part,State House,127,Dem,John F. Hennessy,5222
+Fairfield,Bridgeport  Part,State House,127,WF,John F. Hennessy,389
+Fairfield,Bridgeport  Part,State House,128,Rep,Ramona  Marquez,286
+Fairfield,Bridgeport  Part,State House,128,Dem,"Andres  Ayala, Jr.",3593
+Fairfield,Bridgeport  Part,State House,128,WF,"Andres  Ayala, Jr.",176
+Fairfield,Bridgeport  Part,State House,129,Rep,Phillip  Young,1254
+Fairfield,Bridgeport  Part,State House,129,Dem,Auden C. Grogins,5064
+Fairfield,Bridgeport  Part,State House,130,Rep,Joel  Gonzalez,461
+Fairfield,Bridgeport  Part,State House,130,Dem,Ezequiel  Santiago,4371
+Fairfield,Bridgeport  Part,State House,130,PC,Rafael A. Mojica,93
+Litchfield,Bridgewater,President,,Rep,John McCain,580
+Litchfield,Bridgewater,President,,Dem,Barack Obama,587
+Litchfield,Bridgewater,President,,Ind,Ralph Nader,9
+Litchfield,Bridgewater,President,,write-in,Chuck Baldwin,0
+Litchfield,Bridgewater,President,,write-in,Roger Calero,0
+Litchfield,Bridgewater,President,,write-in,Cynthia McKinney,0
+Litchfield,Bridgewater,President,,write-in,Stewart Moore,0
+Litchfield,Bridgewater,US House,5,Rep,David  J.  Cappiello,560
+Litchfield,Bridgewater,US House,5,Dem,Chris Murphy,521
+Litchfield,Bridgewater,US House,5,Ind,Thomas  L.  Winn,6
+Litchfield,Bridgewater,US House,5,Green,Harold  H.  Burbank  II,6
+Litchfield,Bridgewater,US House,5,WF,Chris  Murphy,30
+Litchfield,Bridgewater,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Bridgewater,State Senate,32,Rep,Robert J. Kane,571
+Litchfield,Bridgewater,State Senate,32,Dem,John  McCarthy,474
+Litchfield,Bridgewater,State Senate,32,WF,John  McCarthy,31
+Litchfield,Bridgewater,State House,69,Rep,Arthur J. O'Neill,740
+Hartford,Bristol,President,,Rep,John McCain,10203
+Hartford,Bristol,President,,Dem,Barack Obama,15966
+Hartford,Bristol,President,,Ind,Ralph Nader,395
+Hartford,Bristol,President,,write-in,Chuck Baldwin,2
+Hartford,Bristol,President,,write-in,Roger Calero,0
+Hartford,Bristol,President,,write-in,Cynthia McKinney,0
+Hartford,Bristol,President,,write-in,Stewart Moore,0
+Hartford,Bristol,US House,1,Rep,Joe  Visconti,6528
+Hartford,Bristol,US House,1,Dem,John Larson,14992
+Hartford,Bristol,US House,1,Green,Stephen Fournier,732
+Hartford,Bristol,US House,1,WF,John Larson,868
+Hartford,Bristol,US House,1,write-in,Matthew Coleman,0
+Hartford,Bristol,State Senate,31,Dem,Thomas A. Colapietro,17108
+Hartford,Bristol,State Senate,31,WF,Thomas A. Colapietro,1794
+Hartford,Bristol  Part,State House,22,Rep,Scott  Saunders,196
+Hartford,Bristol  Part,State House,22,Dem,"Elizabeth ""Betty"" Boukas",370
+Hartford,Bristol  Part,State House,77,Rep,Jill  Fitzgerald,4462
+Hartford,Bristol  Part,State House,77,Dem,Christopher A. Wright,5591
+Hartford,Bristol  Part,State House,78,Rep,William A. Hamzy,2701
+Hartford,Bristol  Part,State House,78,Dem,Jacqui D. Denski,2018
+Hartford,Bristol  Part,State House,78,WF,Jacqui D. Denski,182
+Hartford,Bristol  Part,State House,79,Rep,David L.  Norton,2148
+Hartford,Bristol  Part,State House,79,Dem,"Frank N. Nicastro, Sr.",6410
+Fairfield,Brookfield,President,,Rep,John McCain,4753
+Fairfield,Brookfield,President,,Dem,Barack Obama,4340
+Fairfield,Brookfield,President,,Ind,Ralph Nader,80
+Fairfield,Brookfield,President,,write-in,Chuck Baldwin,4
+Fairfield,Brookfield,President,,write-in,Roger Calero,0
+Fairfield,Brookfield,President,,write-in,Cynthia McKinney,0
+Fairfield,Brookfield,President,,write-in,Stewart Moore,0
+Fairfield,Brookfield,US House,5,Rep,David  J.  Cappiello,4625
+Fairfield,Brookfield,US House,5,Dem,Chris Murphy,3538
+Fairfield,Brookfield,US House,5,Ind,Thomas  L.  Winn,59
+Fairfield,Brookfield,US House,5,Green,Harold  H.  Burbank  II,37
+Fairfield,Brookfield,US House,5,WF,Chris  Murphy,428
+Fairfield,Brookfield,US House,5,write-in,Walter  Gengarelly,0
+Fairfield,Brookfield,State Senate,30,Rep,Andrew  Roraback,5174
+Fairfield,Brookfield,State Senate,30,Dem,Michael J. Renzullo,2817
+Fairfield,Brookfield,State Senate,30,WF,Michael J. Renzullo,260
+Fairfield,Brookfield,State House,107,Rep,David A. Scribner,5481
+Fairfield,Brookfield,State House,107,Dem,David  Stevenson,2414
+Fairfield,Brookfield,State House,107,Ind,David A. Scribner,394
+Fairfield,Brookfield,State House,107,WF,David  Stevenson,195
+Windham,Brooklyn,President,,Rep,John McCain,1674
+Windham,Brooklyn,President,,Dem,Barack Obama,1932
+Windham,Brooklyn,President,,Ind,Ralph Nader,71
+Windham,Brooklyn,President,,write-in,Chuck Baldwin,5
+Windham,Brooklyn,President,,write-in,Roger Calero,0
+Windham,Brooklyn,President,,write-in,Cynthia McKinney,0
+Windham,Brooklyn,President,,write-in,Stewart Moore,0
+Windham,Brooklyn,US House,2,Rep,Sean Sullivan,1146
+Windham,Brooklyn,US House,2,Dem,Joe  Courtney,1973
+Windham,Brooklyn,US House,2,Green,Scott Deshefy,85
+Windham,Brooklyn,US House,2,WF,Joe Courtney,208
+Windham,Brooklyn,US House,2,write-in,Todd Vachon,0
+Windham,Brooklyn,State Senate,29,Rep,Harry  Carboni,979
+Windham,Brooklyn,State Senate,29,Dem,Donald E. Williams,2166
+Windham,Brooklyn,State Senate,29,WF,Donald E. Williams,194
+Windham,Brooklyn,State House,50,Rep,Mike  Alberts,1415
+Windham,Brooklyn,State House,50,Dem,Sherri  Vogt,1764
+Windham,Brooklyn,State House,50,WF,Sherri  Vogt,252
+Hartford,Burlington,President,,Rep,John McCain,2406
+Hartford,Burlington,President,,Dem,Barack Obama,2716
+Hartford,Burlington,President,,Ind,Ralph Nader,87
+Hartford,Burlington,President,,write-in,Chuck Baldwin,4
+Hartford,Burlington,President,,write-in,Roger Calero,0
+Hartford,Burlington,President,,write-in,Cynthia McKinney,2
+Hartford,Burlington,President,,write-in,Stewart Moore,0
+Hartford,Burlington,US House,5,Rep,David  J.  Cappiello,2084
+Hartford,Burlington,US House,5,Dem,Chris Murphy,2420
+Hartford,Burlington,US House,5,Ind,Thomas  L.  Winn,53
+Hartford,Burlington,US House,5,Green,Harold  H.  Burbank  II,55
+Hartford,Burlington,US House,5,WF,Chris  Murphy,318
+Hartford,Burlington,US House,5,write-in,Walter  Gengarelly,0
+Hartford,Burlington,State Senate,5,Rep,Joseph  Merritt,1914
+Hartford,Burlington,State Senate,5,Dem,Jonathan A. Harris,2574
+Hartford,Burlington,State Senate,5,WF,Jonathan A. Harris,272
+Hartford,Burlington,State House,76,Rep,John  Piscopo,2806
+Hartford,Burlington,State House,76,Dem,Joseph  Arcuri,1954
+Litchfield,Canaan,President,,Rep,John McCain,189
+Litchfield,Canaan,President,,Dem,Barack Obama,429
+Litchfield,Canaan,President,,Ind,Ralph Nader,16
+Litchfield,Canaan,President,,write-in,Chuck Baldwin,0
+Litchfield,Canaan,President,,write-in,Roger Calero,0
+Litchfield,Canaan,President,,write-in,Cynthia McKinney,0
+Litchfield,Canaan,President,,write-in,Stewart Moore,0
+Litchfield,Canaan,US House,5,Rep,David  J.  Cappiello,166
+Litchfield,Canaan,US House,5,Dem,Chris Murphy,371
+Litchfield,Canaan,US House,5,Ind,Thomas  L.  Winn,3
+Litchfield,Canaan,US House,5,Green,Harold  H.  Burbank  II,13
+Litchfield,Canaan,US House,5,WF,Chris  Murphy,37
+Litchfield,Canaan,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Canaan,State Senate,30,Rep,Andrew  Roraback,347
+Litchfield,Canaan,State Senate,30,Dem,Michael J. Renzullo,186
+Litchfield,Canaan,State Senate,30,WF,Michael J. Renzullo,15
+Litchfield,Canaan,State House,63,Rep,John B. Rigby,235
+Litchfield,Canaan,State House,63,write-in,William O. Riiska,162
+Windham,Canterbury,President,,Rep,John McCain,1345
+Windham,Canterbury,President,,Dem,Barack Obama,1334
+Windham,Canterbury,President,,Ind,Ralph Nader,62
+Windham,Canterbury,President,,write-in,Chuck Baldwin,2
+Windham,Canterbury,President,,write-in,Roger Calero,0
+Windham,Canterbury,President,,write-in,Cynthia McKinney,1
+Windham,Canterbury,President,,write-in,Stewart Moore,0
+Windham,Canterbury,US House,2,Rep,Sean Sullivan,1007
+Windham,Canterbury,US House,2,Dem,Joe  Courtney,1475
+Windham,Canterbury,US House,2,Green,Scott Deshefy,53
+Windham,Canterbury,US House,2,WF,Joe Courtney,73
+Windham,Canterbury,US House,2,write-in,Todd Vachon,0
+Windham,Canterbury,State Senate,29,Rep,Harry  Carboni,914
+Windham,Canterbury,State Senate,29,Dem,Donald E. Williams,1554
+Windham,Canterbury,State Senate,29,WF,Donald E. Williams,69
+Windham,Canterbury,State House,47,Rep,Christopher D. Coutu,1515
+Windham,Canterbury,State House,47,Dem,Jack  Malone,1063
+Hartford,Canton,President,,Rep,John McCain,2472
+Hartford,Canton,President,,Dem,Barack Obama,3412
+Hartford,Canton,President,,Ind,Ralph Nader,87
+Hartford,Canton,President,,write-in,Chuck Baldwin,0
+Hartford,Canton,President,,write-in,Roger Calero,0
+Hartford,Canton,President,,write-in,Cynthia McKinney,0
+Hartford,Canton,President,,write-in,Stewart Moore,1
+Hartford,Canton,US House,5,Rep,David  J.  Cappiello,2199
+Hartford,Canton,US House,5,Dem,Chris Murphy,2978
+Hartford,Canton,US House,5,Ind,Thomas  L.  Winn,49
+Hartford,Canton,US House,5,Green,Harold  H.  Burbank  II,111
+Hartford,Canton,US House,5,WF,Chris  Murphy,303
+Hartford,Canton,US House,5,write-in,Walter  Gengarelly,0
+Hartford,Canton,State Senate,8,Rep,Kevin D. Witkos,3599
+Hartford,Canton,State Senate,8,Dem,Arthur H. House,1959
+Hartford,Canton,State Senate,8,WF,Arthur H. House,125
+Hartford,Canton,State House,17,Rep,Timothy  LeGeyt,3450
+Hartford,Canton,State House,17,Dem,Brett  Eisenlohr,2017
+Hartford,Canton,State House,17,WF,Brett  Eisenlohr,145
+Windham,Chaplin,President,,Rep,John McCain,440
+Windham,Chaplin,President,,Dem,Barack Obama,663
+Windham,Chaplin,President,,Ind,Ralph Nader,20
+Windham,Chaplin,President,,write-in,Chuck Baldwin,0
+Windham,Chaplin,President,,write-in,Roger Calero,0
+Windham,Chaplin,President,,write-in,Cynthia McKinney,0
+Windham,Chaplin,President,,write-in,Stewart Moore,0
+Windham,Chaplin,US House,2,Rep,Sean Sullivan,313
+Windham,Chaplin,US House,2,Dem,Joe  Courtney,668
+Windham,Chaplin,US House,2,Green,Scott Deshefy,32
+Windham,Chaplin,US House,2,WF,Joe Courtney,40
+Windham,Chaplin,US House,2,write-in,Todd Vachon,0
+Windham,Chaplin,State Senate,35,Rep,Tony  Guglielmo,642
+Windham,Chaplin,State House,54,Dem,Denise W. Merrill,750
+New Haven,Cheshire,President,,Rep,John McCain,6839
+New Haven,Cheshire,President,,Dem,Barack Obama,8177
+New Haven,Cheshire,President,,Ind,Ralph Nader,13
+New Haven,Cheshire,President,,write-in,Chuck Baldwin,6
+New Haven,Cheshire,President,,write-in,Roger Calero,0
+New Haven,Cheshire,President,,write-in,Cynthia McKinney,0
+New Haven,Cheshire,President,,write-in,Stewart Moore,1
+New Haven,Cheshire,US House,5,Rep,David  J.  Cappiello,5579
+New Haven,Cheshire,US House,5,Dem,Chris Murphy,7876
+New Haven,Cheshire,US House,5,Ind,Thomas  L.  Winn,126
+New Haven,Cheshire,US House,5,Green,Harold  H.  Burbank  II,106
+New Haven,Cheshire,US House,5,WF,Chris  Murphy,931
+New Haven,Cheshire,US House,5,write-in,Walter  Gengarelly,0
+New Haven,Cheshire  Part,State Senate,16,Rep,Sam S.F. Caligiuri,2226
+New Haven,Cheshire  Part,State Senate,13,Rep,Tim  Lenox,3826
+New Haven,Cheshire  Part,State Senate,13,Dem,Thomas P. Gaffey,5812
+New Haven,Cheshire  Part,State Senate,13,WF,Thomas P. Gaffey,468
+New Haven,Cheshire  Part,State Senate,16,Ind,Mark A. Orsini,841
+New Haven,Cheshire  Part,State House,89,Rep,Martin A. Atkins,1443
+New Haven,Cheshire  Part,State House,89,Dem,Vickie O. Nardello,3019
+New Haven,Cheshire  Part,State House,90,Dem,Mary G. Fritz,2303
+New Haven,Cheshire  Part,State House,90,CFL,Peter J. Votto,559
+New Haven,Cheshire  Part,State House,103,Rep,Al  Adinolfi,3293
+New Haven,Cheshire  Part,State House,103,Dem,Elizabeth  Esty,3129
+Middlesex,Chester,President,,Rep,John McCain,710
+Middlesex,Chester,President,,Dem,Barack Obama,1527
+Middlesex,Chester,President,,Ind,Ralph Nader,24
+Middlesex,Chester,President,,write-in,Chuck Baldwin,0
+Middlesex,Chester,President,,write-in,Roger Calero,0
+Middlesex,Chester,President,,write-in,Cynthia McKinney,0
+Middlesex,Chester,President,,write-in,Stewart Moore,1
+Middlesex,Chester,US House,2,Rep,Sean Sullivan,575
+Middlesex,Chester,US House,2,Dem,Joe  Courtney,1467
+Middlesex,Chester,US House,2,Green,Scott Deshefy,43
+Middlesex,Chester,US House,2,WF,Joe Courtney,35
+Middlesex,Chester,US House,2,write-in,Todd Vachon,0
+Middlesex,Chester,State Senate,33,Rep,Vincent A. Pacileo III,659
+Middlesex,Chester,State Senate,33,Dem,Eileen M. Daily,1394
+Middlesex,Chester,State Senate,33,Green,Colin D. Bennett,66
+Middlesex,Chester,State House,36,Dem,James Field Spallone,1549
+Middlesex,Chester,State House,36,Rep,Nelson  Struck,533
+Middlesex,Clinton,President,,Rep,John McCain,3004
+Middlesex,Clinton,President,,Dem,Barack Obama,3898
+Middlesex,Clinton,President,,Ind,Ralph Nader,90
+Middlesex,Clinton,President,,write-in,Chuck Baldwin,1
+Middlesex,Clinton,President,,write-in,Roger Calero,0
+Middlesex,Clinton,President,,write-in,Cynthia McKinney,0
+Middlesex,Clinton,President,,write-in,Stewart Moore,0
+Middlesex,Clinton,US House,2,Rep,Sean Sullivan,2479
+Middlesex,Clinton,US House,2,Dem,Joe  Courtney,3735
+Middlesex,Clinton,US House,2,Green,Scott Deshefy,150
+Middlesex,Clinton,US House,2,WF,Joe Courtney,222
+Middlesex,Clinton,US House,2,write-in,Todd Vachon,0
+Middlesex,Clinton,State Senate,33,Rep,Vincent A. Pacileo III,2358
+Middlesex,Clinton,State Senate,33,Dem,Eileen M. Daily,4011
+Middlesex,Clinton,State Senate,33,Green,Colin D. Bennett,193
+Middlesex,Clinton,State House,35,Dem,Brian J. O'Connor,4914
+New London,Colchester,President,,Rep,John McCain,3355
+New London,Colchester,President,,Dem,Barack Obama,4712
+New London,Colchester,President,,Ind,Ralph Nader,148
+New London,Colchester,President,,write-in,Chuck Baldwin,1
+New London,Colchester,President,,write-in,Roger Calero,0
+New London,Colchester,President,,write-in,Cynthia McKinney,2
+New London,Colchester,President,,write-in,Stewart Moore,1
+New London,Colchester,US House,2,Rep,Sean Sullivan,2474
+New London,Colchester,US House,2,Dem,Joe  Courtney,5120
+New London,Colchester,US House,2,Green,Scott Deshefy,175
+New London,Colchester,US House,2,WF,Joe Courtney,0
+New London,Colchester,US House,2,write-in,Todd Vachon,1
+New London,Colchester,State Senate,33,Rep,Vincent A. Pacileo III,2595
+New London,Colchester,State Senate,33,Dem,Eileen M. Daily,4681
+New London,Colchester,State Senate,33,Green,Colin D. Bennett,302
+New London,Colchester,State House,48,Dem,Linda A. Orange,5682
+Litchfield,Colebrook,President,,Rep,John McCain,421
+Litchfield,Colebrook,President,,Dem,Barack Obama,460
+Litchfield,Colebrook,President,,Ind,Ralph Nader,22
+Litchfield,Colebrook,President,,write-in,Chuck Baldwin,2
+Litchfield,Colebrook,President,,write-in,Roger Calero,0
+Litchfield,Colebrook,President,,write-in,Cynthia McKinney,0
+Litchfield,Colebrook,President,,write-in,Stewart Moore,0
+Litchfield,Colebrook,US House,1,Rep,Joe  Visconti,322
+Litchfield,Colebrook,US House,1,Dem,John Larson,437
+Litchfield,Colebrook,US House,1,Green,Stephen Fournier,14
+Litchfield,Colebrook,US House,1,WF,John Larson,41
+Litchfield,Colebrook,US House,1,write-in,Matthew Coleman,0
+Litchfield,Colebrook,State Senate,8,Rep,Kevin D. Witkos,425
+Litchfield,Colebrook,State Senate,8,Dem,Arthur H. House,362
+Litchfield,Colebrook,State Senate,8,WF,Arthur H. House,37
+Litchfield,Colebrook,State House,63,Rep,John B. Rigby,475
+Litchfield,Colebrook,State House,63,write-in,William O. Riiska,260
+Tolland,Columbia,President,,Rep,John McCain,1306
+Tolland,Columbia,President,,Dem,Barack Obama,1843
+Tolland,Columbia,President,,Ind,Ralph Nader,51
+Tolland,Columbia,President,,write-in,Chuck Baldwin,2
+Tolland,Columbia,President,,write-in,Roger Calero,0
+Tolland,Columbia,President,,write-in,Cynthia McKinney,1
+Tolland,Columbia,President,,write-in,Stewart Moore,1
+Tolland,Columbia,US House,2,Rep,Sean Sullivan,978
+Tolland,Columbia,US House,2,Dem,Joe  Courtney,1750
+Tolland,Columbia,US House,2,Green,Scott Deshefy,72
+Tolland,Columbia,US House,2,WF,Joe Courtney,195
+Tolland,Columbia,US House,2,write-in,Todd Vachon,0
+Tolland,Columbia,State Senate,19,Dem,Edith G. Prague,2055
+Tolland,Columbia,State Senate,19,WF,Edith G. Prague,428
+Tolland,Columbia,State House,8,Rep,Timothy J. Ackert,1302
+Tolland,Columbia,State House,8,Dem,Joan A. Lewis,1530
+Tolland,Columbia,State House,8,WF,Joan A. Lewis,169
+Total,CONNECTICUT,President,,Rep,John McCain,629428
+Total,CONNECTICUT,President,,Dem,Barack Obama,997772
+Total,CONNECTICUT,President,,Ind,Ralph Nader,19162
+Total,CONNECTICUT,President,,write-in,Chuck Baldwin,311
+Total,CONNECTICUT,President,,write-in,Roger Calero,15
+Total,CONNECTICUT,President,,write-in,Cynthia McKinney,90
+Total,CONNECTICUT,President,,write-in,Stewart Moore,19
+Total,CONNECTICUT,US House,1,Rep,Joe  Visconti,76860
+Total,CONNECTICUT,US House,1,Dem,John Larson,194493
+Total,CONNECTICUT,US House,1,Green,Stephen Fournier,7201
+Total,CONNECTICUT,US House,1,WF,John Larson,17000
+Total,CONNECTICUT,US House,1,write-in,Matthew Coleman,3
+Total,CONNECTICUT,US House,4,Rep,Christopher Shays,146854
+Total,CONNECTICUT,US House,4,Dem,Jim Himes,149345
+Total,CONNECTICUT,US House,4,Green,Richard  Z.  Duffee,1388
+Total,CONNECTICUT,US House,4,WF,Jim Himes,9130
+Total,CONNECTICUT,US House,4,Lbt,Michael Carrano,2049
+Total,CONNECTICUT,US House,4,write-in,Eugene Flanagan,10
+Total,CONNECTICUT,US House,5,Rep,David  J.  Cappiello,117914
+Total,CONNECTICUT,US House,5,Dem,Chris Murphy,161178
+Total,CONNECTICUT,US House,5,Ind,Thomas  L.  Winn,3082
+Total,CONNECTICUT,US House,5,Green,Harold  H.  Burbank  II,2324
+Total,CONNECTICUT,US House,5,WF,Chris  Murphy,18149
+Total,CONNECTICUT,US House,5,write-in,Walter  Gengarelly,10
+Litchfield,Cornwall,President,,Rep,John McCain,218
+Litchfield,Cornwall,President,,Dem,Barack Obama,732
+Litchfield,Cornwall,President,,Ind,Ralph Nader,12
+Litchfield,Cornwall,President,,write-in,Chuck Baldwin,0
+Litchfield,Cornwall,President,,write-in,Roger Calero,0
+Litchfield,Cornwall,President,,write-in,Cynthia McKinney,1
+Litchfield,Cornwall,President,,write-in,Stewart Moore,0
+Litchfield,Cornwall,US House,5,Rep,David  J.  Cappiello,229
+Litchfield,Cornwall,US House,5,Dem,Chris Murphy,624
+Litchfield,Cornwall,US House,5,Ind,Thomas  L.  Winn,3
+Litchfield,Cornwall,US House,5,Green,Harold  H.  Burbank  II,15
+Litchfield,Cornwall,US House,5,WF,Chris  Murphy,44
+Litchfield,Cornwall,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Cornwall,State Senate,30,Rep,Andrew  Roraback,680
+Litchfield,Cornwall,State Senate,30,Dem,Michael J. Renzullo,211
+Litchfield,Cornwall,State Senate,30,WF,Michael J. Renzullo,19
+Litchfield,Cornwall,State House,64,WF,Roberta B. Willis,71
+Litchfield,Cornwall,State House,64,Dem,Roberta B. Willis,691
+Tolland,Coventry,President,,Rep,John McCain,2621
+Tolland,Coventry,President,,Dem,Barack Obama,3888
+Tolland,Coventry,President,,Ind,Ralph Nader,110
+Tolland,Coventry,President,,write-in,Chuck Baldwin,1
+Tolland,Coventry,President,,write-in,Roger Calero,0
+Tolland,Coventry,President,,write-in,Cynthia McKinney,0
+Tolland,Coventry,President,,write-in,Stewart Moore,0
+Tolland,Coventry,US House,2,Rep,Sean Sullivan,1977
+Tolland,Coventry,US House,2,Dem,Joe  Courtney,3526
+Tolland,Coventry,US House,2,Green,Scott Deshefy,147
+Tolland,Coventry,US House,2,WF,Joe Courtney,515
+Tolland,Coventry,US House,2,write-in,Todd Vachon,0
+Tolland,Coventry,State Senate,35,Rep,Tony  Guglielmo,4020
+Tolland,Coventry,State House,8,Rep,Timothy J. Ackert,3094
+Tolland,Coventry,State House,8,Dem,Joan A. Lewis,2783
+Tolland,Coventry,State House,8,WF,Joan A. Lewis,403
+Middlesex,Cromwell,President,,Rep,John McCain,2989
+Middlesex,Cromwell,President,,Dem,Barack Obama,4551
+Middlesex,Cromwell,President,,Ind,Ralph Nader,119
+Middlesex,Cromwell,President,,write-in,Chuck Baldwin,1
+Middlesex,Cromwell,President,,write-in,Roger Calero,0
+Middlesex,Cromwell,President,,write-in,Cynthia McKinney,0
+Middlesex,Cromwell,President,,write-in,Stewart Moore,0
+Middlesex,Cromwell,US House,1,Rep,Joe  Visconti,2134
+Middlesex,Cromwell,US House,1,Dem,John Larson,4657
+Middlesex,Cromwell,US House,1,Green,Stephen Fournier,12
+Middlesex,Cromwell,US House,1,WF,John Larson,0
+Middlesex,Cromwell,US House,1,write-in,Matthew Coleman,0
+Middlesex,Cromwell,State Senate,9,Rep,Ralph  Capenera,3417
+Middlesex,Cromwell,State Senate,9,Dem,Paul R. Doyle,3642
+Middlesex,Cromwell,State House,32,Rep,Scott  Adamsons,2314
+Middlesex,Cromwell,State House,32,Dem,Jim  O'Rourke,4722
+Fairfield,Danbury,President,,Rep,John McCain,10732
+Fairfield,Danbury,President,,Dem,Barack Obama,16028
+Fairfield,Danbury,President,,Ind,Ralph Nader,219
+Fairfield,Danbury,President,,write-in,Chuck Baldwin,0
+Fairfield,Danbury,President,,write-in,Roger Calero,0
+Fairfield,Danbury,President,,write-in,Cynthia McKinney,0
+Fairfield,Danbury,President,,write-in,Stewart Moore,0
+Fairfield,Danbury,US House,5,Rep,David  J.  Cappiello,11266
+Fairfield,Danbury,US House,5,Dem,Chris Murphy,12700
+Fairfield,Danbury,US House,5,Ind,Thomas  L.  Winn,195
+Fairfield,Danbury,US House,5,Green,Harold  H.  Burbank  II,147
+Fairfield,Danbury,US House,5,WF,Chris  Murphy,1419
+Fairfield,Danbury,US House,5,write-in,Walter  Gengarelly,4
+Fairfield,Danbury,State Senate,24,Rep,Michael A. McLachlan,11192
+Fairfield,Danbury,State Senate,24,Dem,Duane E. Perkins,11620
+Fairfield,Danbury,State Senate,24,Ind,Michael A. McLachlan,940
+Fairfield,Danbury,State Senate,24,WF,Duane E. Perkins,1257
+Fairfield,Danbury,State Senate,24,PC,Manuel A. Bataguas,458
+Fairfield,Danbury  Part,State House,2,Rep,Melanie P. O'Brien,1454
+Fairfield,Danbury  Part,State House,2,Dem,Jason W. Bartlett,2239
+Fairfield,Danbury  Part,State House,2,Ind,Melanie P. O'Brien,128
+Fairfield,Danbury  Part,State House,109,Rep,Ted  Farah,2660
+Fairfield,Danbury  Part,State House,109,Dem,Joseph  Taborsak,4824
+Fairfield,Danbury  Part,State House,109,Ind,Ted  Farah,169
+Fairfield,Danbury  Part,State House,109,WF,Joseph  Taborsak,565
+Fairfield,Danbury  Part,State House,110,Rep,Roger A. Palanzo,2305
+Fairfield,Danbury  Part,State House,110,Dem,Bob  Godfrey,3595
+Fairfield,Danbury  Part,State House,110,WF,Bob  Godfrey,307
+Fairfield,Danbury  Part,State House,138,Rep,Janice R. Giegler,3250
+Fairfield,Danbury  Part,State House,138,Dem,William R. Melillo,3307
+Fairfield,Danbury  Part,State House,138,Ind,Janice R. Giegler,281
+Fairfield,Darien,President,,Rep,John McCain,5949
+Fairfield,Darien,President,,Dem,Barack Obama,4943
+Fairfield,Darien,President,,Ind,Ralph Nader,63
+Fairfield,Darien,President,,write-in,Chuck Baldwin,5
+Fairfield,Darien,President,,write-in,Roger Calero,0
+Fairfield,Darien,President,,write-in,Cynthia McKinney,0
+Fairfield,Darien,President,,write-in,Stewart Moore,0
+Fairfield,Darien,US House,4,Rep,Christopher Shays,7474
+Fairfield,Darien,US House,4,Dem,Jim Himes,3067
+Fairfield,Darien,US House,4,Green,Richard  Z.  Duffee,28
+Fairfield,Darien,US House,4,WF,Jim Himes,84
+Fairfield,Darien,US House,4,Lbt,Michael Carrano,66
+Fairfield,Darien,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Darien,State House,141,Rep,Terrie E. Wood,7864
+Fairfield,Darien  Part,State Senate,25,Rep,Steve  Papadakos,3521
+Fairfield,Darien  Part,State Senate,25,Dem,Bob  Duff,3145
+Fairfield,Darien  Part,State Senate,25,WF,Bob  Duff,132
+Fairfield,Darien  Part,State Senate,27,Dem,Andrew J. McDonald,1692
+Fairfield,Darien  Part,State Senate,27,write-in,David  Bedell,0
+Middlesex,Deep  River,President,,Rep,John McCain,946
+Middlesex,Deep  River,President,,Dem,Barack Obama,1668
+Middlesex,Deep  River,President,,Ind,Ralph Nader,32
+Middlesex,Deep  River,President,,write-in,Chuck Baldwin,0
+Middlesex,Deep  River,President,,write-in,Roger Calero,0
+Middlesex,Deep  River,President,,write-in,Cynthia McKinney,0
+Middlesex,Deep  River,President,,write-in,Stewart Moore,0
+Middlesex,Deep  River,US House,2,Rep,Sean Sullivan,755
+Middlesex,Deep  River,US House,2,Dem,Joe  Courtney,1554
+Middlesex,Deep  River,US House,2,Green,Scott Deshefy,73
+Middlesex,Deep  River,US House,2,WF,Joe Courtney,92
+Middlesex,Deep  River,US House,2,write-in,Todd Vachon,0
+Middlesex,Deep River,State Senate,33,Rep,Vincent A. Pacileo III,812
+Middlesex,Deep River,State Senate,33,Dem,Eileen M. Daily,1571
+Middlesex,Deep River,State Senate,33,Green,Colin D. Bennett,78
+Middlesex,Deep River,State House,36,Dem,James Field Spallone,1788
+Middlesex,Deep River,State House,36,Rep,Nelson  Struck,652
+New Haven,Derby,President,,Rep,John McCain,2383
+New Haven,Derby,President,,Dem,Barack Obama,2880
+New Haven,Derby,President,,Ind,Ralph Nader,76
+New Haven,Derby,President,,write-in,Chuck Baldwin,0
+New Haven,Derby,President,,write-in,Roger Calero,0
+New Haven,Derby,President,,write-in,Cynthia McKinney,0
+New Haven,Derby,President,,write-in,Stewart Moore,0
+New Haven,Derby,US House,3,Rep,Bo Itshaky,1018
+New Haven,Derby,US House,3,Dem,Rosa DeLauro,3429
+New Haven,Derby,US House,3,Green,Ralph Ferrucci,117
+New Haven,Derby,US House,3,WF,Rosa DeLauro,245
+New Haven,Derby,State Senate,17,Rep,Tamath K.  Rossi,1699
+New Haven,Derby,State Senate,17,Dem,Joe  Crisco,2843
+New Haven,Derby,State Senate,17,WF,Joe  Crisco,147
+New Haven,Derby  Part,State House,104,Dem,Linda M. Gentile,1439
+New Haven,Derby  Part,State House,104,PC,Mary E. Porter,268
+New Haven,Derby  Part,State House,114,Rep,Themis  Klarides,1540
+New Haven,Derby  Part,State House,114,Dem,Marc J. Garofalo,1364
+Middlesex,Durham,President,,Rep,John McCain,1893
+Middlesex,Durham,President,,Dem,Barack Obama,2187
+Middlesex,Durham,President,,Ind,Ralph Nader,79
+Middlesex,Durham,President,,write-in,Chuck Baldwin,0
+Middlesex,Durham,President,,write-in,Roger Calero,0
+Middlesex,Durham,President,,write-in,Cynthia McKinney,0
+Middlesex,Durham,President,,write-in,Stewart Moore,0
+Middlesex,Durham,State Senate,12,Rep,Ryan  Suerth,1559
+Middlesex,Durham,State Senate,12,Dem,Edward  Meyer,2281
+Middlesex,Durham,State House,100,Rep,Raymond C. Kalinowski,2463
+Middlesex,Durham,State House,100,Dem,Matthew  Lesser,1491
+Middlesex,Durham,State House,100,WF,Matthew  Lesser,99
+Middlesex,Durham  Part,US House,2,Rep,Sean Sullivan,1129
+Middlesex,Durham  Part,US House,2,Dem,Joe  Courtney,1601
+Middlesex,Durham  Part,US House,2,Green,Scott Deshefy,65
+Middlesex,Durham  Part,US House,2,WF,Joe Courtney,83
+Middlesex,Durham  Part,US House,2,write-in,Todd Vachon,0
+Middlesex,Durham  Part,US House,3,Rep,Bo Itshaky,330
+Middlesex,Durham  Part,US House,3,Dem,Rosa DeLauro,672
+Middlesex,Durham  Part,US House,3,Green,Ralph Ferrucci,31
+Middlesex,Durham  Part,US House,3,WF,Rosa DeLauro,58
+Windham,Eastford,President,,Rep,John McCain,488
+Windham,Eastford,President,,Dem,Barack Obama,485
+Windham,Eastford,President,,Ind,Ralph Nader,18
+Windham,Eastford,President,,write-in,Chuck Baldwin,0
+Windham,Eastford,President,,write-in,Roger Calero,0
+Windham,Eastford,President,,write-in,Cynthia McKinney,0
+Windham,Eastford,President,,write-in,Stewart Moore,0
+Hartford,East  Granby,President,,Rep,John McCain,1303
+Hartford,East  Granby,President,,Dem,Barack Obama,1612
+Hartford,East  Granby,President,,Ind,Ralph Nader,40
+Hartford,East  Granby,President,,write-in,Chuck Baldwin,1
+Hartford,East  Granby,President,,write-in,Roger Calero,0
+Hartford,East  Granby,President,,write-in,Cynthia McKinney,0
+Hartford,East  Granby,President,,write-in,Stewart Moore,0
+Hartford,East  Granby,US House,1,Rep,Joe  Visconti,1038
+Hartford,East  Granby,US House,1,Dem,John Larson,1468
+Hartford,East  Granby,US House,1,Green,Stephen Fournier,68
+Hartford,East  Granby,US House,1,WF,John Larson,130
+Hartford,East  Granby,US House,1,write-in,Matthew Coleman,0
+Middlesex,East  Haddam,President,,Rep,John McCain,1918
+Middlesex,East  Haddam,President,,Dem,Barack Obama,2874
+Middlesex,East  Haddam,President,,Ind,Ralph Nader,85
+Middlesex,East  Haddam,President,,write-in,Chuck Baldwin,1
+Middlesex,East  Haddam,President,,write-in,Roger Calero,0
+Middlesex,East  Haddam,President,,write-in,Cynthia McKinney,0
+Middlesex,East  Haddam,President,,write-in,Stewart Moore,1
+Middlesex,East  Haddam,US House,2,Rep,Sean Sullivan,1518
+Middlesex,East  Haddam,US House,2,Dem,Joe  Courtney,2794
+Middlesex,East  Haddam,US House,2,Green,Scott Deshefy,120
+Middlesex,East  Haddam,US House,2,WF,Joe Courtney,161
+Middlesex,East  Haddam,US House,2,write-in,Todd Vachon,1
+Middlesex,East  Hampton,President,,Rep,John McCain,2895
+Middlesex,East  Hampton,President,,Dem,Barack Obama,3844
+Middlesex,East  Hampton,President,,Ind,Ralph Nader,121
+Middlesex,East  Hampton,President,,write-in,Chuck Baldwin,0
+Middlesex,East  Hampton,President,,write-in,Roger Calero,0
+Middlesex,East  Hampton,President,,write-in,Cynthia McKinney,0
+Middlesex,East  Hampton,President,,write-in,Stewart Moore,0
+Middlesex,East  Hampton,US House,2,Rep,Sean Sullivan,2280
+Middlesex,East  Hampton,US House,2,Dem,Joe  Courtney,3697
+Middlesex,East  Hampton,US House,2,Green,Scott Deshefy,154
+Middlesex,East  Hampton,US House,2,WF,Joe Courtney,330
+Middlesex,East  Hampton,US House,2,write-in,Todd Vachon,0
+Hartford,East  Hartford,President,,Rep,John McCain,5195
+Hartford,East  Hartford,President,,Dem,Barack Obama,14811
+Hartford,East  Hartford,President,,Ind,Ralph Nader,225
+Hartford,East  Hartford,President,,write-in,Chuck Baldwin,5
+Hartford,East  Hartford,President,,write-in,Roger Calero,0
+Hartford,East  Hartford,President,,write-in,Cynthia McKinney,0
+Hartford,East  Hartford,President,,write-in,Stewart Moore,0
+Hartford,East  Hartford,US House,1,Rep,Joe  Visconti,3013
+Hartford,East  Hartford,US House,1,Dem,John Larson,11973
+Hartford,East  Hartford,US House,1,Green,Stephen Fournier,352
+Hartford,East  Hartford,US House,1,WF,John Larson,2385
+Hartford,East  Hartford,US House,1,write-in,Matthew Coleman,0
+New Haven,East  Haven,President,,Rep,John McCain,5287
+New Haven,East  Haven,President,,Dem,Barack Obama,6878
+New Haven,East  Haven,President,,Ind,Ralph Nader,185
+New Haven,East  Haven,President,,write-in,Chuck Baldwin,0
+New Haven,East  Haven,President,,write-in,Roger Calero,0
+New Haven,East  Haven,President,,write-in,Cynthia McKinney,0
+New Haven,East  Haven,President,,write-in,Stewart Moore,0
+New Haven,East  Haven,US House,3,Rep,Bo Itshaky,2169
+New Haven,East  Haven,US House,3,Dem,Rosa DeLauro,7192
+New Haven,East  Haven,US House,3,Green,Ralph Ferrucci,313
+New Haven,East  Haven,US House,3,WF,Rosa DeLauro,1754
+New London,East  Lyme,President,,Rep,John McCain,3819
+New London,East  Lyme,President,,Dem,Barack Obama,5961
+New London,East  Lyme,President,,Ind,Ralph Nader,91
+New London,East  Lyme,President,,write-in,Chuck Baldwin,1
+New London,East  Lyme,President,,write-in,Roger Calero,0
+New London,East  Lyme,President,,write-in,Cynthia McKinney,0
+New London,East  Lyme,President,,write-in,Stewart Moore,0
+New London,East  Lyme,US House,2,Rep,Sean Sullivan,2798
+New London,East  Lyme,US House,2,Dem,Joe  Courtney,6138
+New London,East  Lyme,US House,2,Green,Scott Deshefy,136
+New London,East  Lyme,US House,2,WF,Joe Courtney,244
+New London,East  Lyme,US House,2,write-in,Todd Vachon,0
+Hartford,East  Windsor,President,,Rep,John McCain,2100
+Hartford,East  Windsor,President,,Dem,Barack Obama,3106
+Hartford,East  Windsor,President,,Ind,Ralph Nader,74
+Hartford,East  Windsor,President,,write-in,Chuck Baldwin,1
+Hartford,East  Windsor,President,,write-in,Roger Calero,0
+Hartford,East  Windsor,President,,write-in,Cynthia McKinney,0
+Hartford,East  Windsor,President,,write-in,Stewart Moore,0
+Hartford,East  Windsor,US House,1,Rep,Joe  Visconti,1315
+Hartford,East  Windsor,US House,1,Dem,John Larson,3220
+Hartford,East  Windsor,US House,1,Green,Stephen Fournier,161
+Hartford,East  Windsor,US House,1,WF,John Larson,199
+Hartford,East  Windsor,US House,1,write-in,Matthew Coleman,0
+Hartford,East Granby,State Senate,7,Rep,John A. Kissel,1355
+Hartford,East Granby,State Senate,7,Dem,George  Colli,1186
+Hartford,East Granby,State Senate,7,WF,John A. Kissel,154
+Hartford,East Granby  Part,State House,61,Dem,"Matthew J. Conway, Jr.",163
+Hartford,East Granby  Part,State House,61,Rep,Lauren K. Life,167
+Hartford,East Granby  Part,State House,61,WF,"Matthew J. Conway, Jr.",16
+Hartford,East Granby  Part,State House,62,Rep,Richard F. Ferrari,1160
+Hartford,East Granby  Part,State House,62,Dem,Annie  Hornish,1134
+Hartford,East Granby  Part,State House,62,WF,Annie  Hornish,103
+Middlesex,East Haddam,State Senate,33,Rep,Vincent A. Pacileo III,1529
+Middlesex,East Haddam,State Senate,33,Dem,Eileen M. Daily,2846
+Middlesex,East Haddam,State Senate,33,Green,Colin D. Bennett,177
+Middlesex,East Haddam,State House,48,Dem,Linda A. Orange,3556
+Middlesex,East Hampton,State Senate,33,Rep,Vincent A. Pacileo III,2263
+Middlesex,East Hampton,State Senate,33,Dem,Eileen M. Daily,3809
+Middlesex,East Hampton,State Senate,33,Green,Colin D. Bennett,275
+Middlesex,East Hampton,State House,34,Rep,David  Bauer,2928
+Middlesex,East Hampton,State House,34,Dem,Gail K. Hamm,3234
+Middlesex,East Hampton,State House,34,WF,Gail K. Hamm,304
+Hartford,East Hartford,State Senate,3,Dem,Gary D. LeBeau,12351
+Hartford,East Hartford,State Senate,3,WF,Gary D. LeBeau,2264
+Hartford,East Hartford  Part,State House,10,Dem,Henry J. Genga,6456
+Hartford,East Hartford  Part,State House,11,Dem,Timothy D. Larson,5237
+Hartford,East Hartford  Part,State House,9,Rep,Clifton E. Thompson,886
+Hartford,East Hartford  Part,State House,9,Dem,Jason  Rojas,1896
+Hartford,East Hartford  Part,State House,9,WF,Jason  Rojas,301
+New Haven,East Haven,State Senate,34,Rep,Leonard A. Fasano,5184
+New Haven,East Haven,State Senate,34,WF,Leonard A. Fasano,1969
+New Haven,East Haven  Part,State House,86,Rep,Vincent J. Candelora,1248
+New Haven,East Haven  Part,State House,99,Rep,Lori  Musco,3399
+New Haven,East Haven  Part,State House,99,Dem,Mike  Lawlor,4795
+New Haven,East Haven  Part,State House,99,WF,Mike  Lawlor,879
+New London,East Lyme,State Senate,20,Rep,Thomas C. Simones,2936
+New London,East Lyme,State Senate,20,Dem,Andrea L. Stillman,5964
+New London,East Lyme,State Senate,20,Lbt,Marc L. Guttman,162
+New London,East Lyme,State House,37,Dem,Ed  Jutila,6256
+New London,East Lyme,State House,37,Rep,Gregory  Ellis,2863
+Hartford,East Windsor,State Senate,3,Dem,Gary D. LeBeau,3087
+Hartford,East Windsor,State Senate,3,WF,Gary D. LeBeau,594
+Hartford,East Windsor,State House,57,Dem,Ted  Graziani,2206
+Hartford,East Windsor,State House,57,WF,Ted  Graziani,226
+Hartford,East Windsor,State House,57,Rep,Christopher  Davis,2330
+Windham,Eastford,US House,2,Rep,Sean Sullivan,385
+Windham,Eastford,US House,2,Dem,Joe  Courtney,497
+Windham,Eastford,US House,2,Green,Scott Deshefy,19
+Windham,Eastford,US House,2,WF,Joe Courtney,27
+Windham,Eastford,US House,2,write-in,Todd Vachon,0
+Windham,Eastford,State Senate,35,Rep,Tony  Guglielmo,665
+Windham,Eastford,State House,50,Rep,Mike  Alberts,497
+Windham,Eastford,State House,50,Dem,Sherri  Vogt,402
+Windham,Eastford,State House,50,WF,Sherri  Vogt,26
+Fairfield,Easton,President,,Rep,John McCain,2259
+Fairfield,Easton,President,,Dem,Barack Obama,2238
+Fairfield,Easton,President,,Ind,Ralph Nader,26
+Fairfield,Easton,President,,write-in,Chuck Baldwin,1
+Fairfield,Easton,President,,write-in,Roger Calero,0
+Fairfield,Easton,President,,write-in,Cynthia McKinney,0
+Fairfield,Easton,President,,write-in,Stewart Moore,0
+Fairfield,Easton,US House,4,Rep,Christopher Shays,2613
+Fairfield,Easton,US House,4,Dem,Jim Himes,1568
+Fairfield,Easton,US House,4,Green,Richard  Z.  Duffee,25
+Fairfield,Easton,US House,4,WF,Jim Himes,178
+Fairfield,Easton,US House,4,Lbt,Michael Carrano,40
+Fairfield,Easton,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Easton,State Senate,28,Rep,John  McKinney,2786
+Fairfield,Easton,State Senate,28,Dem,Martin A. Goldberg,1477
+Fairfield,Easton,State Senate,28,WF,Martin A. Goldberg,0
+Fairfield,Easton,State House,135,Rep,John  Stripp,2872
+Fairfield,Easton,State House,135,Green,Remy G. Chevalier,553
+Tolland,Ellington,President,,Rep,John McCain,3519
+Tolland,Ellington,President,,Dem,Barack Obama,4236
+Tolland,Ellington,President,,Ind,Ralph Nader,98
+Tolland,Ellington,President,,write-in,Chuck Baldwin,0
+Tolland,Ellington,President,,write-in,Roger Calero,0
+Tolland,Ellington,President,,write-in,Cynthia McKinney,1
+Tolland,Ellington,President,,write-in,Stewart Moore,0
+Tolland,Ellington,US House,2,Rep,Sean Sullivan,2548
+Tolland,Ellington,US House,2,Dem,Joe  Courtney,4093
+Tolland,Ellington,US House,2,Green,Scott Deshefy,104
+Tolland,Ellington,US House,2,WF,Joe Courtney,384
+Tolland,Ellington,US House,2,write-in,Todd Vachon,0
+Tolland,Ellington,State House,57,Dem,Ted  Graziani,3779
+Tolland,Ellington,State House,57,WF,Ted  Graziani,421
+Tolland,Ellington,State House,57,Rep,Christopher  Davis,2959
+Tolland,Ellington  Part,State Senate,3,Dem,Gary D. LeBeau,3454
+Tolland,Ellington  Part,State Senate,3,WF,Gary D. LeBeau,591
+Tolland,Ellington  Part,State Senate,35,Rep,Tony  Guglielmo,1162
+Hartford,Enfield,President,,Rep,John McCain,7656
+Hartford,Enfield,President,,Dem,Barack Obama,11584
+Hartford,Enfield,President,,Ind,Ralph Nader,310
+Hartford,Enfield,President,,write-in,Chuck Baldwin,6
+Hartford,Enfield,President,,write-in,Roger Calero,0
+Hartford,Enfield,President,,write-in,Cynthia McKinney,1
+Hartford,Enfield,President,,write-in,Stewart Moore,0
+Hartford,Enfield,US House,2,Rep,Sean Sullivan,5413
+Hartford,Enfield,US House,2,Dem,Joe  Courtney,12075
+Hartford,Enfield,US House,2,Green,Scott Deshefy,269
+Hartford,Enfield,US House,2,WF,Joe Courtney,716
+Hartford,Enfield,US House,2,write-in,Todd Vachon,0
+Hartford,Enfield,State Senate,7,Rep,John A. Kissel,9530
+Hartford,Enfield,State Senate,7,Dem,George  Colli,8211
+Hartford,Enfield,State Senate,7,WF,John A. Kissel,832
+Hartford,Enfield  Part,State House,58,Dem,Kathy  Tallarita,5995
+Hartford,Enfield  Part,State House,58,Rep,Susan  Lavelli-Hozempa,2915
+Hartford,Enfield  Part,State House,59,Rep,William J. Ballard,2566
+Hartford,Enfield  Part,State House,59,Dem,Karen  Jarmoc,6753
+Middlesex,Essex,President,,Rep,John McCain,1541
+Middlesex,Essex,President,,Dem,Barack Obama,2542
+Middlesex,Essex,President,,Ind,Ralph Nader,3€)
+Middlesex,Essex,President,,write-in,Chuck Baldwin,0
+Middlesex,Essex,President,,write-in,Roger Calero,0
+Middlesex,Essex,President,,write-in,Cynthia McKinney,1
+Middlesex,Essex,President,,write-in,Stewart Moore,0
+Middlesex,Essex,US House,2,Rep,Sean Sullivan,1380
+Middlesex,Essex,US House,2,Dem,Joe  Courtney,2397
+Middlesex,Essex,US House,2,Green,Scott Deshefy,54
+Middlesex,Essex,US House,2,WF,Joe Courtney,53
+Middlesex,Essex,US House,2,write-in,Todd Vachon,0
+Middlesex,Essex,State Senate,33,Rep,Vincent A. Pacileo III,1717
+Middlesex,Essex,State Senate,33,Dem,Eileen M. Daily,2137
+Middlesex,Essex,State Senate,33,Green,Colin D. Bennett,74
+Middlesex,Essex,State House,36,Dem,James Field Spallone,2605
+Middlesex,Essex,State House,36,Rep,Nelson  Struck,1253
+Fairfield,Fairfield,President,,Rep,John McCain,13071
+Fairfield,Fairfield,President,,Dem,Barack Obama,17236
+Fairfield,Fairfield,President,,Ind,Ralph Nader,230
+Fairfield,Fairfield,President,,write-in,Chuck Baldwin,0
+Fairfield,Fairfield,President,,write-in,Roger Calero,0
+Fairfield,Fairfield,President,,write-in,Cynthia McKinney,0
+Fairfield,Fairfield,President,,write-in,Stewart Moore,0
+Fairfield,Fairfield,US House,4,Rep,Christopher Shays,16068
+Fairfield,Fairfield,US House,4,Dem,Jim Himes,13077
+Fairfield,Fairfield,US House,4,Green,Richard  Z.  Duffee,123
+Fairfield,Fairfield,US House,4,WF,Jim Himes,592
+Fairfield,Fairfield,US House,4,Lbt,Michael Carrano,179
+Fairfield,Fairfield,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Fairfield,State Senate,28,Rep,John  McKinney,17933
+Fairfield,Fairfield,State Senate,28,Dem,Martin A. Goldberg,10526
+Fairfield,Fairfield,State Senate,28,WF,Martin A. Goldberg,282
+Fairfield,Fairfield  Part,State House,132,Rep,Ralph  Bowley,4492
+Fairfield,Fairfield  Part,State House,132,Dem,Thomas J. Drew,5138
+Fairfield,Fairfield  Part,State House,132,WF,Thomas J. Drew,324
+Fairfield,Fairfield  Part,State House,133,Rep,Amanda  Parks,4048
+Fairfield,Fairfield  Part,State House,133,Dem,Kim  Fawcett,6531
+Fairfield,Fairfield  Part,State House,134,Rep,Tony  Hwang,3562
+Fairfield,Fairfield  Part,State House,134,Dem,Tom F. Christiano,2912
+Hartford,Farmington,President,,Rep,John McCain,5822
+Hartford,Farmington,President,,Dem,Barack Obama,8088
+Hartford,Farmington,President,,Ind,Ralph Nader,156
+Hartford,Farmington,President,,write-in,Chuck Baldwin,3
+Hartford,Farmington,President,,write-in,Roger Calero,1
+Hartford,Farmington,President,,write-in,Cynthia McKinney,1
+Hartford,Farmington,President,,write-in,Stewart Moore,0
+Hartford,Farmington,US House,5,Rep,David  J.  Cappiello,5074
+Hartford,Farmington,US House,5,Dem,Chris Murphy,7272
+Hartford,Farmington,US House,5,Ind,Thomas  L.  Winn,93
+Hartford,Farmington,US House,5,Green,Harold  H.  Burbank  II,129
+Hartford,Farmington,US House,5,WF,Chris  Murphy,776
+Hartford,Farmington,US House,5,write-in,Walter  Gengarelly,0
+Hartford,Farmington  Part,State Senate,5,Rep,Joseph  Merritt,4075
+Hartford,Farmington  Part,State Senate,6,Rep,Thomas A.  Bozek,794
+Hartford,Farmington  Part,State Senate,6,Dem,Donald J. DeFronzo,779
+Hartford,Farmington  Part,State Senate,5,Dem,Jonathan A. Harris,7174
+Hartford,Farmington  Part,State Senate,6,WF,Donald J. DeFronzo,72
+Hartford,Farmington  Part,State Senate,5,WF,Jonathan A. Harris,523
+Hartford,Farmington  Part,State House,19,Rep,Theresa  McGrath,562
+Hartford,Farmington  Part,State House,19,Dem,Beth  Bye,491
+Hartford,Farmington  Part,State House,21,Rep,Demetrios  Giannaros,9382
+New London,Franklin,President,,Rep,John McCain,504
+New London,Franklin,President,,Dem,Barack Obama,538
+New London,Franklin,President,,Ind,Ralph Nader,21
+New London,Franklin,President,,write-in,Chuck Baldwin,1
+New London,Franklin,President,,write-in,Roger Calero,0
+New London,Franklin,President,,write-in,Cynthia McKinney,0
+New London,Franklin,President,,write-in,Stewart Moore,0
+New London,Franklin,US House,2,Rep,Sean Sullivan,291
+New London,Franklin,US House,2,Dem,Joe  Courtney,605
+New London,Franklin,US House,2,Green,Scott Deshefy,29
+New London,Franklin,US House,2,WF,Joe Courtney,28
+New London,Franklin,US House,2,write-in,Todd Vachon,0
+New London,Franklin,State Senate,19,Dem,Edith G. Prague,724
+New London,Franklin,State Senate,19,WF,Edith G. Prague,59
+New London,Franklin,State House,139,Dem,Kevin  Ryan,745
+Hartford,Glastonbury,President,,Rep,John McCain,7755
+Hartford,Glastonbury,President,,Dem,Barack Obama,11767
+Hartford,Glastonbury,President,,Ind,Ralph Nader,250
+Hartford,Glastonbury,President,,write-in,Chuck Baldwin,6
+Hartford,Glastonbury,President,,write-in,Roger Calero,0
+Hartford,Glastonbury,President,,write-in,Cynthia McKinney,0
+Hartford,Glastonbury,President,,write-in,Stewart Moore,0
+Hartford,Glastonbury,State Senate,4,Rep,David H. Blackwell,8071
+Hartford,Glastonbury,State Senate,4,Dem,Mary Ann  Handley,9711
+Hartford,Glastonbury,State Senate,4,WF,Mary Ann  Handley,702
+Hartford,Glastonbury  Part,US House,1,Rep,Joe  Visconti,3638
+Hartford,Glastonbury  Part,US House,1,Dem,John Larson,7637
+Hartford,Glastonbury  Part,US House,1,Green,Stephen Fournier,274
+Hartford,Glastonbury  Part,US House,1,WF,John Larson,564
+Hartford,Glastonbury  Part,US House,1,write-in,Matthew Coleman,0
+Hartford,Glastonbury  Part,US House,2,Rep,Sean Sullivan,2651
+Hartford,Glastonbury  Part,US House,2,Dem,Joe  Courtney,3476
+Hartford,Glastonbury  Part,US House,2,Green,Scott Deshefy,78
+Hartford,Glastonbury  Part,US House,2,WF,Joe Courtney,190
+Hartford,Glastonbury  Part,US House,2,write-in,Todd Vachon,0
+Hartford,Glastonbury  Part,State House,9,Rep,Clifton E. Thompson,1945
+Hartford,Glastonbury  Part,State House,9,Dem,Jason  Rojas,2727
+Hartford,Glastonbury  Part,State House,9,WF,Jason  Rojas,195
+Hartford,Glastonbury  Part,State House,31,Rep,Kurt P. Cavanaugh,6512
+Hartford,Glastonbury  Part,State House,31,Dem,Thomas J. Kehoe,7118
+Litchfield,Goshen,President,,Rep,John McCain,927
+Litchfield,Goshen,President,,Dem,Barack Obama,856
+Litchfield,Goshen,President,,Ind,Ralph Nader,24
+Litchfield,Goshen,President,,write-in,Chuck Baldwin,0
+Litchfield,Goshen,President,,write-in,Roger Calero,0
+Litchfield,Goshen,President,,write-in,Cynthia McKinney,0
+Litchfield,Goshen,President,,write-in,Stewart Moore,0
+Litchfield,Goshen,US House,5,Rep,David  J.  Cappiello,814
+Litchfield,Goshen,US House,5,Dem,Chris Murphy,784
+Litchfield,Goshen,US House,5,Ind,Thomas  L.  Winn,13
+Litchfield,Goshen,US House,5,Green,Harold  H.  Burbank  II,13
+Litchfield,Goshen,US House,5,WF,Chris  Murphy,97
+Litchfield,Goshen,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Goshen,State Senate,30,Rep,Andrew  Roraback,1445
+Litchfield,Goshen,State Senate,30,Dem,Michael J. Renzullo,247
+Litchfield,Goshen,State Senate,30,WF,Michael J. Renzullo,32
+Litchfield,Goshen,State House,64,WF,Roberta B. Willis,193
+Litchfield,Goshen,State House,64,Dem,Roberta B. Willis,907
+Hartford,Granby,President,,Rep,John McCain,2947
+Hartford,Granby,President,,Dem,Barack Obama,3456
+Hartford,Granby,President,,Ind,Ralph Nader,87
+Hartford,Granby,President,,write-in,Chuck Baldwin,1
+Hartford,Granby,President,,write-in,Roger Calero,0
+Hartford,Granby,President,,write-in,Cynthia McKinney,1
+Hartford,Granby,President,,write-in,Stewart Moore,0
+Hartford,Granby,US House,1,Rep,Joe  Visconti,2496
+Hartford,Granby,US House,1,Dem,John Larson,3159
+Hartford,Granby,US House,1,Green,Stephen Fournier,136
+Hartford,Granby,US House,1,WF,John Larson,243
+Hartford,Granby,US House,1,write-in,Matthew Coleman,0
+Hartford,Granby,State House,62,Rep,Richard F. Ferrari,2901
+Hartford,Granby,State House,62,Dem,Annie  Hornish,2887
+Hartford,Granby,State House,62,WF,Annie  Hornish,324
+Hartford,Granby  Part,State Senate,7,Rep,John A. Kissel,2150
+Hartford,Granby  Part,State Senate,7,Dem,George  Colli,1820
+Hartford,Granby  Part,State Senate,7,WF,John A. Kissel,257
+Hartford,Granby  Part,State Senate,8,Rep,Kevin D. Witkos,1008
+Hartford,Granby  Part,State Senate,8,Dem,Arthur H. House,758
+Hartford,Granby  Part,State Senate,8,WF,Arthur H. House,44
+Fairfield,Greenwich,President,,Rep,John McCain,13937
+Fairfield,Greenwich,President,,Dem,Barack Obama,16233
+Fairfield,Greenwich,President,,Ind,Ralph Nader,204
+Fairfield,Greenwich,President,,write-in,Chuck Baldwin,0
+Fairfield,Greenwich,President,,write-in,Roger Calero,0
+Fairfield,Greenwich,President,,write-in,Cynthia McKinney,0
+Fairfield,Greenwich,President,,write-in,Stewart Moore,0
+Fairfield,Greenwich,US House,4,Rep,Christopher Shays,16384
+Fairfield,Greenwich,US House,4,Dem,Jim Himes,12555
+Fairfield,Greenwich,US House,4,Green,Richard  Z.  Duffee,149
+Fairfield,Greenwich,US House,4,WF,Jim Himes,237
+Fairfield,Greenwich,US House,4,Lbt,Michael Carrano,190
+Fairfield,Greenwich,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Greenwich,State Senate,36,Rep,L. Scott  Frantz,16971
+Fairfield,Greenwich,State Senate,36,Dem,Mark  Diamond,9940
+Fairfield,Greenwich,State Senate,36,Green,Zachary A. Chaves,597
+Fairfield,Greenwich  Part,State House,149,Rep,Livvy R. Floren,5365
+Fairfield,Greenwich  Part,State House,150,Rep,Lile R. Gibbons,6415
+Fairfield,Greenwich  Part,State House,151,Rep,Fred  Camillo,5932
+Fairfield,Greenwich  Part,State House,151,Dem,Edward  Krumeich,4784
+New London,Griswold,President,,Rep,John McCain,2286
+New London,Griswold,President,,Dem,Barack Obama,2803
+New London,Griswold,President,,Ind,Ralph Nader,95
+New London,Griswold,President,,write-in,Chuck Baldwin,1
+New London,Griswold,President,,write-in,Roger Calero,0
+New London,Griswold,President,,write-in,Cynthia McKinney,0
+New London,Griswold,President,,write-in,Stewart Moore,0
+New London,Griswold,US House,2,Rep,Sean Sullivan,1365
+New London,Griswold,US House,2,Dem,Joe  Courtney,2714
+New London,Griswold,US House,2,Green,Scott Deshefy,96
+New London,Griswold,US House,2,WF,Joe Courtney,546
+New London,Griswold,US House,2,write-in,Todd Vachon,0
+New London,Griswold,State Senate,18,Rep,Anne P. Hatfield,1347
+New London,Griswold,State Senate,18,Dem,Andrew M. Maynard,3230
+New London,Griswold,State House,45,Rep,Ed  Berdick,1220
+New London,Griswold,State House,45,Dem,Steven  Mikutel,2903
+New London,Griswold,State House,45,WF,Steven  Mikutel,630
+New London,Groton,President,,Rep,John McCain,5814
+New London,Groton,President,,Dem,Barack Obama,8953
+New London,Groton,President,,Ind,Ralph Nader,168
+New London,Groton,President,,write-in,Chuck Baldwin,2
+New London,Groton,President,,write-in,Roger Calero,0
+New London,Groton,President,,write-in,Cynthia McKinney,0
+New London,Groton,President,,write-in,Stewart Moore,0
+New London,Groton,US House,2,Rep,Sean Sullivan,4296
+New London,Groton,US House,2,Dem,Joe  Courtney,8652
+New London,Groton,US House,2,Green,Scott Deshefy,248
+New London,Groton,US House,2,WF,Joe Courtney,661
+New London,Groton,US House,2,write-in,Todd Vachon,6
+New London,Groton,State Senate,18,Rep,Anne P. Hatfield,4294
+New London,Groton,State Senate,18,Dem,Andrew M. Maynard,8917
+New London,Groton  Part,State House,40,Dem,Edward E. Moukawsher,3845
+New London,Groton  Part,State House,41,Rep,Deborah  Peruzzotti,3299
+New London,Groton  Part,State House,41,Rep,Elissa T. Wright,5254
+New Haven,Guilford,President,,Rep,John McCain,5073
+New Haven,Guilford,President,,Dem,Barack Obama,8134
+New Haven,Guilford,President,,Ind,Ralph Nader,123
+New Haven,Guilford,President,,write-in,Chuck Baldwin,0
+New Haven,Guilford,President,,write-in,Roger Calero,0
+New Haven,Guilford,President,,write-in,Cynthia McKinney,0
+New Haven,Guilford,President,,write-in,Stewart Moore,0
+New Haven,Guilford,US House,3,Rep,Bo Itshaky,3037
+New Haven,Guilford,US House,3,Dem,Rosa DeLauro,8599
+New Haven,Guilford,US House,3,Green,Ralph Ferrucci,325
+New Haven,Guilford,US House,3,WF,Rosa DeLauro,670
+New Haven,Guilford,State Senate,12,Rep,Ryan  Suerth,4762
+New Haven,Guilford,State Senate,12,Dem,Edward  Meyer,7695
+New Haven,Guilford  Part,State House,98,Dem,Patricia M. Widlitz,7473
+New Haven,Guilford  Part,State House,101,Rep,Jeanne  Stevens,919
+New Haven,Guilford  Part,State House,101,Dem,Deborah  Heinrich,1764
+Middlesex,Haddam,President,,Rep,John McCain,2068
+Middlesex,Haddam,President,,Dem,Barack Obama,2637
+Middlesex,Haddam,President,,Ind,Ralph Nader,68
+Middlesex,Haddam,President,,write-in,Chuck Baldwin,0
+Middlesex,Haddam,President,,write-in,Roger Calero,0
+Middlesex,Haddam,President,,write-in,Cynthia McKinney,0
+Middlesex,Haddam,President,,write-in,Stewart Moore,0
+Middlesex,Haddam,US House,2,Rep,Sean Sullivan,1668
+Middlesex,Haddam,US House,2,Dem,Joe  Courtney,2624
+Middlesex,Haddam,US House,2,Green,Scott Deshefy,106
+Middlesex,Haddam,US House,2,WF,Joe Courtney,95
+Middlesex,Haddam,US House,2,write-in,Todd Vachon,0
+Middlesex,Haddam,State Senate,33,Rep,Vincent A. Pacileo III,1700
+Middlesex,Haddam,State Senate,33,Dem,Eileen M. Daily,2625
+Middlesex,Haddam,State Senate,33,Green,Colin D. Bennett,193
+Middlesex,Haddam,State House,36,Dem,James Field Spallone,2768
+Middlesex,Haddam,State House,36,Rep,Nelson  Struck,1655
+New Haven,Hamden,President,,Rep,John McCain,8531
+New Haven,Hamden,President,,Dem,Barack Obama,19960
+New Haven,Hamden,President,,Ind,Ralph Nader,271
+New Haven,Hamden,President,,write-in,Chuck Baldwin,8
+New Haven,Hamden,President,,write-in,Roger Calero,0
+New Haven,Hamden,President,,write-in,Cynthia McKinney,2
+New Haven,Hamden,President,,write-in,Stewart Moore,0
+New Haven,Hamden,US House,3,Rep,Bo Itshaky,4422
+New Haven,Hamden,US House,3,Dem,Rosa DeLauro,19342
+New Haven,Hamden,US House,3,Green,Ralph Ferrucci,790
+New Haven,Hamden,US House,3,WF,Rosa DeLauro,2134
+New Haven,Hamden  Part,State Senate,11,Dem,Martin M. Looney,12311
+New Haven,Hamden  Part,State Senate,11,WF,Martin M. Looney,853
+New Haven,Hamden  Part,State Senate,17,Rep,Tamath K.  Rossi,1870
+New Haven,Hamden  Part,State Senate,17,Dem,Joe  Crisco,6850
+New Haven,Hamden  Part,State Senate,17,WF,Joe  Crisco,537
+New Haven,Hamden  Part,State House,88,Dem,Brendan  Sharkey,5906
+New Haven,Hamden  Part,State House,88,PC,Matthew J. Corcoran,3218
+New Haven,Hamden  Part,State House,91,Dem,Peter F. Villano,7429
+New Haven,Hamden  Part,State House,91,WF,Peter F. Villano,651
+New Haven,Hamden  Part,State House,91,PC,David P. Aron,598
+New Haven,Hamden  Part,State House,96,Dem,Cameron  Staples,3310
+New Haven,Hamden  Part,State House,103,Rep,Al  Adinolfi,1204
+New Haven,Hamden  Part,State House,103,Dem,Elizabeth  Esty,1595
+Windham,Hampton,President,,Rep,John McCain,433
+Windham,Hampton,President,,Dem,Barack Obama,643
+Windham,Hampton,President,,Ind,Ralph Nader,29
+Windham,Hampton,President,,write-in,Chuck Baldwin,0
+Windham,Hampton,President,,write-in,Roger Calero,0
+Windham,Hampton,President,,write-in,Cynthia McKinney,0
+Windham,Hampton,President,,write-in,Stewart Moore,0
+Windham,Hampton,US House,2,Rep,Sean Sullivan,313
+Windham,Hampton,US House,2,Dem,Joe  Courtney,661
+Windham,Hampton,US House,2,Green,Scott Deshefy,17
+Windham,Hampton,US House,2,WF,Joe Courtney,50
+Windham,Hampton,US House,2,write-in,Todd Vachon,0
+Windham,Hampton,State Senate,35,Rep,Tony  Guglielmo,678
+Windham,Hampton,State House,50,Rep,Mike  Alberts,471
+Windham,Hampton,State House,50,Dem,Sherri  Vogt,532
+Windham,Hampton,State House,50,WF,Sherri  Vogt,45
+Hartford,Hartford,President,,Rep,John McCain,2686
+Hartford,Hartford,President,,Dem,Barack Obama,31741
+Hartford,Hartford,President,,Ind,Ralph Nader,165
+Hartford,Hartford,President,,write-in,Chuck Baldwin,1
+Hartford,Hartford,President,,write-in,Roger Calero,0
+Hartford,Hartford,President,,write-in,Cynthia McKinney,2
+Hartford,Hartford,President,,write-in,Stewart Moore,2
+Hartford,Hartford,US House,1,Rep,Joe  Visconti,1800
+Hartford,Hartford,US House,1,Dem,John Larson,23209
+Hartford,Hartford,US House,1,Green,Stephen Fournier,1016
+Hartford,Hartford,US House,1,WF,John Larson,2049
+Hartford,Hartford,US House,1,write-in,Matthew Coleman,0
+Hartford,Hartford  Part,State Senate,1,Rep,Barbara J. Ruhe,1382
+Hartford,Hartford  Part,State Senate,2,Rep,Veronica  Airey-Wilson,2100
+Hartford,Hartford  Part,State Senate,2,Dem,Eric D. Coleman,10298
+Hartford,Hartford  Part,State Senate,1,Dem,John W. Fonfara,12450
+Hartford,Hartford  Part,State Senate,2,WF,Eric D. Coleman,1348
+Hartford,Hartford  Part,State Senate,1,Green,S. Michael  DeRosa,617
+Hartford,Hartford  Part,State Senate,1,WF,John W. Fonfara,1111
+Hartford,Hartford  Part,State House,1,Dem,Kenneth P. Green,3239
+Hartford,Hartford  Part,State House,3,Dem,Minnie  Gonzalez,3628
+Hartford,Hartford  Part,State House,4,Dem,Kelvin  Roldan,3026
+Hartford,Hartford  Part,State House,5,Dem,Marie  Lopez Kirkley-Bey,4147
+Hartford,Hartford  Part,State House,6,Dem,Hector Luis Robles,4676
+Hartford,Hartford  Part,State House,7,Dem,Douglas  McCrory,5049
+Hartford,Hartford  Part,State House,1,CFL,Mark A. Friedman,214
+Hartford,Hartford  Part,State House,4,CFL,Bryce  Snarski-Pierce,238
+Hartford,Hartford  Part,State House,5,PC,Craig T. Stallings,87
+Hartford,Hartford  Part,State House,6,WF,Hector Luis Robles,598
+Hartford,Hartford  Part,State House,5,PC,Larry  Charles,821
+Hartford,Hartland,President,,Rep,John McCain,756
+Hartford,Hartland,President,,Dem,Barack Obama,496
+Hartford,Hartland,President,,Ind,Ralph Nader,22
+Hartford,Hartland,President,,write-in,Chuck Baldwin,2
+Hartford,Hartland,President,,write-in,Roger Calero,0
+Hartford,Hartland,President,,write-in,Cynthia McKinney,0
+Hartford,Hartland,President,,write-in,Stewart Moore,0
+Hartford,Hartland,US House,1,Rep,Joe  Visconti,580
+Hartford,Hartland,US House,1,Dem,John Larson,489
+Hartford,Hartland,US House,1,Green,Stephen Fournier,41
+Hartford,Hartland,US House,1,WF,John Larson,62
+Hartford,Hartland,US House,1,write-in,Matthew Coleman,0
+Hartford,Hartland,State Senate,8,Rep,Kevin D. Witkos,754
+Hartford,Hartland,State Senate,8,Dem,Arthur H. House,383
+Hartford,Hartland,State Senate,8,WF,Arthur H. House,38
+Hartford,Hartland,State House,63,Rep,John B. Rigby,775
+Hartford,Hartland,State House,63,write-in,William O. Riiska,131
+Litchfield,Harwinton,President,,Rep,John McCain,1749
+Litchfield,Harwinton,President,,Dem,Barack Obama,1485
+Litchfield,Harwinton,President,,Ind,Ralph Nader,71
+Litchfield,Harwinton,President,,write-in,Chuck Baldwin,4
+Litchfield,Harwinton,President,,write-in,Roger Calero,0
+Litchfield,Harwinton,President,,write-in,Cynthia McKinney,0
+Litchfield,Harwinton,President,,write-in,Stewart Moore,0
+Litchfield,Harwinton,US House,5,Rep,David  J.  Cappiello,1491
+Litchfield,Harwinton,US House,5,Dem,Chris Murphy,1387
+Litchfield,Harwinton,US House,5,Ind,Thomas  L.  Winn,33
+Litchfield,Harwinton,US House,5,Green,Harold  H.  Burbank  II,29
+Litchfield,Harwinton,US House,5,WF,Chris  Murphy,202
+Litchfield,Harwinton,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Harwinton,State House,76,Rep,John  Piscopo,1845
+Litchfield,Harwinton,State House,76,Dem,Joseph  Arcuri,1251
+Litchfield,Harwinton  Part,State Senate,8,Rep,Kevin D. Witkos,934
+Litchfield,Harwinton  Part,State Senate,8,Dem,Arthur H. House,728
+Litchfield,Harwinton  Part,State Senate,8,WF,Arthur H. House,88
+Litchfield,Harwinton  Part,State Senate,31,Dem,Thomas A. Colapietro,633
+Litchfield,Harwinton  Part,State Senate,31,WF,Thomas A. Colapietro,141
+Tolland,Hebron,President,,Rep,John McCain,2285
+Tolland,Hebron,President,,Dem,Barack Obama,2954
+Tolland,Hebron,President,,Ind,Ralph Nader,78
+Tolland,Hebron,President,,write-in,Chuck Baldwin,0
+Tolland,Hebron,President,,write-in,Roger Calero,0
+Tolland,Hebron,President,,write-in,Cynthia McKinney,0
+Tolland,Hebron,President,,write-in,Stewart Moore,0
+Tolland,Hebron,US House,2,Rep,Sean Sullivan,1860
+Tolland,Hebron,US House,2,Dem,Joe  Courtney,2995
+Tolland,Hebron,US House,2,Green,Scott Deshefy,92
+Tolland,Hebron,US House,2,WF,Joe Courtney,63
+Tolland,Hebron,US House,2,write-in,Todd Vachon,0
+Tolland,Hebron,State Senate,19,Dem,Edith G. Prague,3494
+Tolland,Hebron,State Senate,19,WF,Edith G. Prague,324
+Tolland,Hebron,State House,55,Rep,Pamela Z. Sawyer,3923
+Litchfield,Kent,President,,Rep,John McCain,591
+Litchfield,Kent,President,,Dem,Barack Obama,1172
+Litchfield,Kent,President,,Ind,Ralph Nader,19
+Litchfield,Kent,President,,write-in,Chuck Baldwin,0
+Litchfield,Kent,President,,write-in,Roger Calero,0
+Litchfield,Kent,President,,write-in,Cynthia McKinney,0
+Litchfield,Kent,President,,write-in,Stewart Moore,0
+Litchfield,Kent,US House,5,Rep,David  J.  Cappiello,555
+Litchfield,Kent,US House,5,Dem,Chris Murphy,1013
+Litchfield,Kent,US House,5,Ind,Thomas  L.  Winn,8
+Litchfield,Kent,US House,5,Green,Harold  H.  Burbank  II,7
+Litchfield,Kent,US House,5,WF,Chris  Murphy,88
+Litchfield,Kent,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Kent,State Senate,30,Rep,Andrew  Roraback,963
+Litchfield,Kent,State Senate,30,Dem,Michael J. Renzullo,622
+Litchfield,Kent,State Senate,30,WF,Michael J. Renzullo,33
+Litchfield,Kent,State House,108,Rep,Mary Ann  Carson,986
+Windham,Killingly,President,,Rep,John McCain,2815
+Windham,Killingly,President,,Dem,Barack Obama,3629
+Windham,Killingly,President,,Ind,Ralph Nader,126
+Windham,Killingly,President,,write-in,Chuck Baldwin,1
+Windham,Killingly,President,,write-in,Roger Calero,0
+Windham,Killingly,President,,write-in,Cynthia McKinney,0
+Windham,Killingly,President,,write-in,Stewart Moore,0
+Windham,Killingly,US House,2,Rep,Sean Sullivan,1884
+Windham,Killingly,US House,2,Dem,Joe  Courtney,3590
+Windham,Killingly,US House,2,Green,Scott Deshefy,110
+Windham,Killingly,US House,2,WF,Joe Courtney,208
+Windham,Killingly,US House,2,write-in,Todd Vachon,0
+Windham,Killingly,State Senate,29,Rep,Harry  Carboni,1574
+Windham,Killingly,State Senate,29,Dem,Donald E. Williams,3883
+Windham,Killingly,State Senate,29,WF,Donald E. Williams,459
+Windham,Killingly  Part,State House,44,Rep,Angeline  Kwasny,1149
+Windham,Killingly  Part,State House,44,Dem,Mae  Flexer,2763
+Windham,Killingly  Part,State House,51,Rep,Shawn T. Johnston,912
+Windham,Killingly  Part,State House,51,Dem,Shawn T. Johnston,1017
+Middlesex,Killingworth,President,,Rep,John McCain,1728
+Middlesex,Killingworth,President,,Dem,Barack Obama,2169
+Middlesex,Killingworth,President,,Ind,Ralph Nader,34
+Middlesex,Killingworth,President,,write-in,Chuck Baldwin,1
+Middlesex,Killingworth,President,,write-in,Roger Calero,0
+Middlesex,Killingworth,President,,write-in,Cynthia McKinney,0
+Middlesex,Killingworth,President,,write-in,Stewart Moore,0
+Middlesex,Killingworth,US House,2,Rep,Sean Sullivan,1469
+Middlesex,Killingworth,US House,2,Dem,Joe  Courtney,2074
+Middlesex,Killingworth,US House,2,Green,Scott Deshefy,81
+Middlesex,Killingworth,US House,2,WF,Joe Courtney,69
+Middlesex,Killingworth,US House,2,write-in,Todd Vachon,0
+Middlesex,Killingworth,State Senate,12,Rep,Ryan  Suerth,1539
+Middlesex,Killingworth,State Senate,12,Dem,Edward  Meyer,2106
+Middlesex,Killingworth,State House,35,Dem,Brian J. O'Connor,2547
+New London,Lebanon,President,,Rep,John McCain,1691
+New London,Lebanon,President,,Dem,Barack Obama,2103
+New London,Lebanon,President,,Ind,Ralph Nader,74
+New London,Lebanon,President,,write-in,Chuck Baldwin,0
+New London,Lebanon,President,,write-in,Roger Calero,0
+New London,Lebanon,President,,write-in,Cynthia McKinney,0
+New London,Lebanon,President,,write-in,Stewart Moore,0
+New London,Lebanon,US House,2,Rep,Sean Sullivan,1179
+New London,Lebanon,US House,2,Dem,Joe  Courtney,2002
+New London,Lebanon,US House,2,Green,Scott Deshefy,146
+New London,Lebanon,US House,2,WF,Joe Courtney,247
+New London,Lebanon,US House,2,write-in,Todd Vachon,0
+New London,Lebanon,State Senate,19,Dem,Edith G. Prague,2472
+New London,Lebanon,State Senate,19,WF,Edith G. Prague,443
+New London,Lebanon,State House,139,Dem,Kevin  Ryan,2596
+New London,Ledyard,President,,Rep,John McCain,3549
+New London,Ledyard,President,,Dem,Barack Obama,3978
+New London,Ledyard,President,,Ind,Ralph Nader,70
+New London,Ledyard,President,,write-in,Chuck Baldwin,7
+New London,Ledyard,President,,write-in,Roger Calero,0
+New London,Ledyard,President,,write-in,Cynthia McKinney,0
+New London,Ledyard,President,,write-in,Stewart Moore,0
+New London,Ledyard,US House,2,Rep,Sean Sullivan,2804
+New London,Ledyard,US House,2,Dem,Joe  Courtney,4103
+New London,Ledyard,US House,2,Green,Scott Deshefy,122
+New London,Ledyard,US House,2,WF,Joe Courtney,0
+New London,Ledyard,US House,2,write-in,Todd Vachon,0
+New London,Ledyard,State Senate,19,Dem,Edith G. Prague,5065
+New London,Ledyard,State Senate,19,WF,Edith G. Prague,204
+New London,Ledyard,State House,42,Dem,Tom  Reynolds,5271
+New London,Lisbon,President,,Rep,John McCain,938
+New London,Lisbon,President,,Dem,Barack Obama,1277
+New London,Lisbon,President,,Ind,Ralph Nader,44
+New London,Lisbon,President,,write-in,Chuck Baldwin,0
+New London,Lisbon,President,,write-in,Roger Calero,0
+New London,Lisbon,President,,write-in,Cynthia McKinney,0
+New London,Lisbon,President,,write-in,Stewart Moore,0
+New London,Lisbon,US House,2,Rep,Sean Sullivan,593
+New London,Lisbon,US House,2,Dem,Joe  Courtney,1218
+New London,Lisbon,US House,2,Green,Scott Deshefy,23
+New London,Lisbon,US House,2,WF,Joe Courtney,209
+New London,Lisbon,US House,2,write-in,Todd Vachon,0
+New London,Lisbon,State Senate,19,Dem,Edith G. Prague,1365
+New London,Lisbon,State Senate,19,WF,Edith G. Prague,308
+New London,Lisbon,State House,45,Rep,Ed  Berdick,487
+New London,Lisbon,State House,45,Dem,Steven  Mikutel,1249
+New London,Lisbon,State House,45,WF,Steven  Mikutel,224
+Litchfield,Litchfeld,President,,Rep,John McCain,2356
+Litchfield,Litchfeld,President,,Dem,Barack Obama,2549
+Litchfield,Litchfeld,President,,Ind,Ralph Nader,91
+Litchfield,Litchfeld,President,,write-in,Chuck Baldwin,3
+Litchfield,Litchfeld,President,,write-in,Roger Calero,0
+Litchfield,Litchfeld,President,,write-in,Cynthia McKinney,0
+Litchfield,Litchfeld,President,,write-in,Stewart Moore,0
+Litchfield,Litchfield,US House,5,Rep,David  J.  Cappiello,2090
+Litchfield,Litchfield,US House,5,Dem,Chris Murphy,2470
+Litchfield,Litchfield,US House,5,Ind,Thomas  L.  Winn,60
+Litchfield,Litchfield,US House,5,Green,Harold  H.  Burbank  II,42
+Litchfield,Litchfield,US House,5,WF,Chris  Murphy,215
+Litchfield,Litchfield,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Litchfield,State Senate,30,Rep,Andrew  Roraback,3621
+Litchfield,Litchfield,State Senate,30,Dem,Michael J. Renzullo,1061
+Litchfield,Litchfield,State Senate,30,WF,Michael J. Renzullo,87
+Litchfield,Litchfield  Part,State House,66,Rep,Craig A. Miner,2578
+Litchfield,Litchfield  Part,State House,66,Dem,Nick  Creed,1296
+Litchfield,Litchfield  Part,State House,66,CC,Richard S. Schuley,61
+Litchfield,Litchfield  Part,State House,66,WF,Nick  Creed,84
+Litchfield,Litchfield  Part,State House,76,Rep,John  Piscopo,542
+Litchfield,Litchfield  Part,State House,76,Dem,Joseph  Arcuri,214
+New London,Lyme,President,,Rep,John McCain,565
+New London,Lyme,President,,Dem,Barack Obama,1003
+New London,Lyme,President,,Ind,Ralph Nader,16
+New London,Lyme,President,,write-in,Chuck Baldwin,1
+New London,Lyme,President,,write-in,Roger Calero,0
+New London,Lyme,President,,write-in,Cynthia McKinney,0
+New London,Lyme,President,,write-in,Stewart Moore,0
+New London,Lyme,US House,2,Rep,Sean Sullivan,498
+New London,Lyme,US House,2,Dem,Joe  Courtney,905
+New London,Lyme,US House,2,Green,Scott Deshefy,34
+New London,Lyme,US House,2,WF,Joe Courtney,75
+New London,Lyme,US House,2,write-in,Todd Vachon,0
+New London,Lyme,State Senate,33,Rep,Vincent A. Pacileo III,475
+New London,Lyme,State Senate,33,Dem,Eileen M. Daily,949
+New London,Lyme,State Senate,33,Green,Colin D. Bennett,46
+New London,Lyme,State House,23,Rep,Marilyn  Giuliano,726
+New London,Lyme,State House,23,Dem,Eileen D. Baker,725
+New London,Lyme,State House,23,WF,Eileen D. Baker,41
+New Haven,Madison,President,,Rep,John McCain,4727
+New Haven,Madison,President,,Dem,Barack Obama,6097
+New Haven,Madison,President,,Ind,Ralph Nader,106
+New Haven,Madison,President,,write-in,Chuck Baldwin,0
+New Haven,Madison,President,,write-in,Roger Calero,0
+New Haven,Madison,President,,write-in,Cynthia McKinney,0
+New Haven,Madison,President,,write-in,Stewart Moore,0
+New Haven,Madison,US House,2,Rep,Sean Sullivan,4541
+New Haven,Madison,US House,2,Dem,Joe  Courtney,5508
+New Haven,Madison,US House,2,Green,Scott Deshefy,121
+New Haven,Madison,US House,2,WF,Joe Courtney,154
+New Haven,Madison,US House,2,write-in,Todd Vachon,0
+New Haven,Madison,State Senate,12,Rep,Ryan  Suerth,4996
+New Haven,Madison,State Senate,12,Dem,Edward  Meyer,5299
+New Haven,Madison,State House,101,Rep,Jeanne  Stevens,4051
+New Haven,Madison,State House,101,Dem,Deborah  Heinrich,6316
+Manchester,Manchester,President,,Rep,John McCain,8457
+Manchester,Manchester,President,,Dem,Barack Obama,17782
+Manchester,Manchester,President,,Ind,Ralph Nader,356
+Manchester,Manchester,President,,write-in,Chuck Baldwin,4
+Manchester,Manchester,President,,write-in,Roger Calero,0
+Manchester,Manchester,President,,write-in,Cynthia McKinney,3
+Manchester,Manchester,President,,write-in,Stewart Moore,0
+Manchester,Manchester,US House,1,Rep,Joe  Visconti,6211
+Manchester,Manchester,US House,1,Dem,John Larson,16048
+Manchester,Manchester,US House,1,Green,Stephen Fournier,540
+Manchester,Manchester,US House,1,WF,John Larson,1089
+Manchester,Manchester,US House,1,write-in,Matthew Coleman,0
+Manchester,Manchester,State Senate,4,Rep,David H. Blackwell,9417
+Manchester,Manchester,State Senate,4,Dem,Mary Ann  Handley,13746
+Manchester,Manchester,State Senate,4,WF,Mary Ann  Handley,1005
+Manchester,Manchester  Part,State House,12,Dem,Ryan P. Barry,8334
+Manchester,Manchester  Part,State House,13,Rep,Cheri Ann  Pelletier,2673
+Manchester,Manchester  Part,State House,9,Rep,Clifton E. Thompson,2369
+Manchester,Manchester  Part,State House,13,Dem,John W. Thompson,4961
+Manchester,Manchester  Part,State House,9,Dem,Jason  Rojas,2401
+Manchester,Manchester  Part,State House,13,WF,John W. Thompson,353
+Manchester,Manchester  Part,State House,9,WF,Jason  Rojas,140
+Tolland,Mansfield,President,,Rep,John McCain,2235
+Tolland,Mansfield,President,,Dem,Barack Obama,7874
+Tolland,Mansfield,President,,Ind,Ralph Nader,187
+Tolland,Mansfield,President,,write-in,Chuck Baldwin,0
+Tolland,Mansfield,President,,write-in,Roger Calero,0
+Tolland,Mansfield,President,,write-in,Cynthia McKinney,9
+Tolland,Mansfield,President,,write-in,Stewart Moore,1
+Tolland,Mansfield,US House,2,Rep,Sean Sullivan,1708
+Tolland,Mansfield,US House,2,Dem,Joe  Courtney,7417
+Tolland,Mansfield,US House,2,Green,Scott Deshefy,252
+Tolland,Mansfield,US House,2,WF,Joe Courtney,221
+Tolland,Mansfield,US House,2,write-in,Todd Vachon,1
+Tolland,Mansfield,State Senate,29,Rep,Harry  Carboni,1917
+Tolland,Mansfield,State Senate,29,Dem,Donald E. Williams,6934
+Tolland,Mansfield,State Senate,29,WF,Donald E. Williams,272
+Tolland,Mansfield,State House,54,Dem,Denise W. Merrill,8031
+Hartford,Marlborough,President,,Rep,John McCain,1594
+Hartford,Marlborough,President,,Dem,Barack Obama,2071
+Hartford,Marlborough,President,,Ind,Ralph Nader,36
+Hartford,Marlborough,President,,write-in,Chuck Baldwin,0
+Hartford,Marlborough,President,,write-in,Roger Calero,0
+Hartford,Marlborough,President,,write-in,Cynthia McKinney,2
+Hartford,Marlborough,President,,write-in,Stewart Moore,0
+Hartford,Marlborough,US House,2,Rep,Sean Sullivan,1314
+Hartford,Marlborough,US House,2,Dem,Joe  Courtney,1860
+Hartford,Marlborough,US House,2,Green,Scott Deshefy,47
+Hartford,Marlborough,US House,2,WF,Joe Courtney,215
+Hartford,Marlborough,US House,2,write-in,Todd Vachon,0
+Hartford,Marlborough,State Senate,4,Rep,David H. Blackwell,1481
+Hartford,Marlborough,State Senate,4,Dem,Mary Ann  Handley,1699
+Hartford,Marlborough,State Senate,4,WF,Mary Ann  Handley,195
+Hartford,Marlborough,State House,55,Rep,Pamela Z. Sawyer,2467
+New Haven,Meriden,President,,Rep,John McCain,7363
+New Haven,Meriden,President,,Dem,Barack Obama,15913
+New Haven,Meriden,President,,Ind,Ralph Nader,301
+New Haven,Meriden,President,,write-in,Chuck Baldwin,0
+New Haven,Meriden,President,,write-in,Roger Calero,0
+New Haven,Meriden,President,,write-in,Cynthia McKinney,0
+New Haven,Meriden,President,,write-in,Stewart Moore,0
+New Haven,Meriden,US House,5,Rep,David  J.  Cappiello,5316
+New Haven,Meriden,US House,5,Dem,Chris Murphy,13944
+New Haven,Meriden,US House,5,Ind,Thomas  L.  Winn,216
+New Haven,Meriden,US House,5,Green,Harold  H.  Burbank  II,174
+New Haven,Meriden,US House,5,WF,Chris  Murphy,2040
+New Haven,Meriden,US House,5,write-in,Walter  Gengarelly,0
+New Haven,Meriden,State Senate,13,Rep,Tim  Lenox,4177
+New Haven,Meriden,State Senate,13,Dem,Thomas P. Gaffey,14958
+New Haven,Meriden,State Senate,13,WF,Thomas P. Gaffey,2027
+New Haven,Meriden  Part,State House,82,Rep,Floresia V. Allen,2216
+New Haven,Meriden  Part,State House,82,Dem,"Emil ""Buddy""  Altobello",7096
+New Haven,Meriden  Part,State House,83,Rep,Kevin  Scarpati,1924
+New Haven,Meriden  Part,State House,83,Dem,Catherine F. Abercrombie,4229
+New Haven,Meriden  Part,State House,84,Rep,Joseph T. Moller,908
+New Haven,Meriden  Part,State House,84,Dem,Christopher G. Donovan,4345
+New Haven,Middlebury,President,,Rep,John McCain,2468
+New Haven,Middlebury,President,,Dem,Barack Obama,1905
+New Haven,Middlebury,President,,Ind,Ralph Nader,59
+New Haven,Middlebury,President,,write-in,Chuck Baldwin,1
+New Haven,Middlebury,President,,write-in,Roger Calero,0
+New Haven,Middlebury,President,,write-in,Cynthia McKinney,0
+New Haven,Middlebury,President,,write-in,Stewart Moore,0
+New Haven,Middlebury,US House,5,Rep,David  J.  Cappiello,2087
+New Haven,Middlebury,US House,5,Dem,Chris Murphy,1732
+New Haven,Middlebury,US House,5,Ind,Thomas  L.  Winn,64
+New Haven,Middlebury,US House,5,Green,Harold  H.  Burbank  II,25
+New Haven,Middlebury,US House,5,WF,Chris  Murphy,161
+New Haven,Middlebury,US House,5,write-in,Walter  Gengarelly,0
+New Haven,Middlebury,State Senate,32,Rep,Robert J. Kane,2489
+New Haven,Middlebury,State Senate,32,Dem,John  McCarthy,1378
+New Haven,Middlebury,State Senate,32,WF,John  McCarthy,124
+New Haven,Middlebury,State House,71,Rep,Anthony J. D'Amelio,2155
+New Haven,Middlebury,State House,71,Dem,"Stephen R. Ferrucci, III",1338
+New Haven,Middlebury,State House,71,Ind,"Arthur J. Denze, Sr.",413
+New Haven,Middlebury,State House,71,WF,"Stephen R. Ferrucci, III",116
+Middlesex,Middlefield,President,,Rep,John McCain,1079
+Middlesex,Middlefield,President,,Dem,Barack Obama,1452
+Middlesex,Middlefield,President,,Ind,Ralph Nader,34
+Middlesex,Middlefield,President,,write-in,Chuck Baldwin,1
+Middlesex,Middlefield,President,,write-in,Roger Calero,0
+Middlesex,Middlefield,President,,write-in,Cynthia McKinney,0
+Middlesex,Middlefield,President,,write-in,Stewart Moore,0
+Middlesex,Middlefield,US House,3,Rep,Bo Itshaky,583
+Middlesex,Middlefield,US House,3,Dem,Rosa DeLauro,1609
+Middlesex,Middlefield,US House,3,Green,Ralph Ferrucci,85
+Middlesex,Middlefield,US House,3,WF,Rosa DeLauro,179
+Middlesex,Middlefield,State Senate,13,Rep,Tim  Lenox,771
+Middlesex,Middlefield,State Senate,13,Dem,Thomas P. Gaffey,1464
+Middlesex,Middlefield,State Senate,13,WF,Thomas P. Gaffey,138
+Middlesex,Middlefield,State House,100,Rep,Raymond C. Kalinowski,1324
+Middlesex,Middlefield,State House,100,Dem,Matthew  Lesser,1057
+Middlesex,Middlefield,State House,100,WF,Matthew  Lesser,95
+Middlesex,Middletown,President,,Rep,John McCain,5907
+Middlesex,Middletown,President,,Dem,Barack Obama,15143
+Middlesex,Middletown,President,,Ind,Ralph Nader,335
+Middlesex,Middletown,President,,write-in,Chuck Baldwin,4
+Middlesex,Middletown,President,,write-in,Roger Calero,0
+Middlesex,Middletown,President,,write-in,Cynthia McKinney,3
+Middlesex,Middletown,President,,write-in,Stewart Moore,0
+Middlesex,Middletown  Part,US House,1,Rep,Joe  Visconti,953
+Middlesex,Middletown  Part,US House,1,Dem,John Larson,2659
+Middlesex,Middletown  Part,US House,1,Green,Stephen Fournier,73
+Middlesex,Middletown  Part,US House,1,WF,John Larson,212
+Middlesex,Middletown  Part,US House,1,write-in,Matthew Coleman,0
+Middlesex,Middletown  Part,US House,3,Rep,Bo Itshaky,2696
+Middlesex,Middletown  Part,US House,3,Dem,Rosa DeLauro,10764
+Middlesex,Middletown  Part,US House,3,Green,Ralph Ferrucci,540
+Middlesex,Middletown  Part,US House,3,WF,Rosa DeLauro,1167
+Middlesex,Middletown  Part,State Senate,9,Rep,Ralph  Capenera,3793
+Middlesex,Middletown  Part,State Senate,13,Rep,Tim  Lenox,1769
+Middlesex,Middletown  Part,State Senate,9,Dem,Paul R. Doyle,7618
+Middlesex,Middletown  Part,State Senate,13,Dem,Thomas P. Gaffey,5153
+Middlesex,Middletown  Part,State Senate,13,WF,Thomas P. Gaffey,456
+Middlesex,Middletown  Part,State House,32,Rep,Scott  Adamsons,98
+Middlesex,Middletown  Part,State House,32,Dem,Jim  O'Rourke,311
+Middlesex,Middletown  Part,State House,33,Rep,Catherine M. Johnson,3200
+Middlesex,Middletown  Part,State House,33,Dem,Joseph C. Serra,5903
+Middlesex,Middletown  Part,State House,33,WF,Joseph C. Serra,573
+Middlesex,Middletown  Part,State House,34,Rep,David  Bauer,1103
+Middlesex,Middletown  Part,State House,34,Dem,Gail K. Hamm,2197
+Middlesex,Middletown  Part,State House,34,WF,Gail K. Hamm,211
+Middlesex,Middletown  Part,State House,100,Rep,Raymond C. Kalinowski,2000
+Middlesex,Middletown  Part,State House,100,Dem,Matthew  Lesser,3156
+Middlesex,Middletown  Part,State House,100,WF,Matthew  Lesser,288
+New Haven,Milford,President,,Rep,John McCain,11772
+New Haven,Milford,President,,Dem,Barack Obama,14873
+New Haven,Milford,President,,Ind,Ralph Nader,347
+New Haven,Milford,President,,write-in,Chuck Baldwin,2
+New Haven,Milford,President,,write-in,Roger Calero,0
+New Haven,Milford,President,,write-in,Cynthia McKinney,0
+New Haven,Milford,President,,write-in,Stewart Moore,0
+New Haven,Milford,US House,3,Rep,Bo Itshaky,6011
+New Haven,Milford,US House,3,Dem,Rosa DeLauro,16249
+New Haven,Milford,US House,3,Green,Ralph Ferrucci,617
+New Haven,Milford,US House,3,WF,Rosa DeLauro,2477
+New Haven,Milford,State Senate,14,Rep,Vincent  Marino,9098
+New Haven,Milford,State Senate,14,Dem,Gayle  Slossberg,16429
+New Haven,Milford  Part,State House,117,Rep,Stephanie A. Williams,1830
+New Haven,Milford  Part,State House,117,D,Paul  Davis,2088
+New Haven,Milford  Part,State House,118,Rep,Nanci A. Seltzer,3665
+New Haven,Milford  Part,State House,118,Dem,Barbara L. Lambert,5472
+New Haven,Milford  Part,State House,118,Ind,"Rocco J. Frank, Jr.",969
+New Haven,Milford  Part,State House,119,Rep,Kevin G. Liddy,3995
+New Haven,Milford  Part,State House,119,Dem,Richard F. Roy,6964
+Fairfield,Monroe,President,,Rep,John McCain,5815
+Fairfield,Monroe,President,,Dem,Barack Obama,5133
+Fairfield,Monroe,President,,Ind,Ralph Nader,110
+Fairfield,Monroe,President,,write-in,Chuck Baldwin,1
+Fairfield,Monroe,President,,write-in,Roger Calero,0
+Fairfield,Monroe,President,,write-in,Cynthia McKinney,0
+Fairfield,Monroe,President,,write-in,Stewart Moore,0
+Fairfield,Monroe,US House,4,Rep,Christopher Shays,5816
+Fairfield,Monroe,US House,4,Dem,Jim Himes,4188
+Fairfield,Monroe,US House,4,Green,Richard  Z.  Duffee,54
+Fairfield,Monroe,US House,4,WF,Jim Himes,408
+Fairfield,Monroe,US House,4,Lbt,Michael Carrano,125
+Fairfield,Monroe,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Monroe,State House,112,Rep,Debralee  Hovey,5921
+Fairfield,Monroe,State House,112,Dem,Michele C. Mount,4498
+Fairfield,Monroe  Part,State Senate,21,Rep,Dan  Debicella,3056
+Fairfield,Monroe  Part,State Senate,21,Dem,Janice  Andersen,2106
+Fairfield,Monroe  Part,State Senate,21,WF,Janice  Andersen,147
+Fairfield,Monroe  Part,State Senate,22,Rep,Robert D. Russo,2875
+Fairfield,Monroe  Part,State Senate,22,Dem,Anthony J. Musto,1902
+Fairfield,Monroe  Part,State Senate,22,WF,Anthony J. Musto,113
+New London,Montville,President,,Rep,John McCain,3526
+New London,Montville,President,,Dem,Barack Obama,4438
+New London,Montville,President,,Ind,Ralph Nader,109
+New London,Montville,President,,write-in,Chuck Baldwin,3
+New London,Montville,President,,write-in,Roger Calero,0
+New London,Montville,President,,write-in,Cynthia McKinney,0
+New London,Montville,President,,write-in,Stewart Moore,0
+New London,Montville,US House,2,Rep,Sean Sullivan,2319
+New London,Montville,US House,2,Dem,Joe  Courtney,4490
+New London,Montville,US House,2,Green,Scott Deshefy,183
+New London,Montville,US House,2,WF,Joe Courtney,492
+New London,Montville,US House,2,write-in,Todd Vachon,1
+New London,Montville  Part,State Senate,19,Dem,Edith G. Prague,1400
+New London,Montville  Part,State Senate,19,WF,Edith G. Prague,224
+New London,Montville  Part,State Senate,20,Rep,Thomas C. Simones,1914
+New London,Montville  Part,State Senate,20,Dem,Andrea L. Stillman,3239
+New London,Montville  Part,State Senate,20,Lbt,Marc L. Guttman,101
+New London,Montville  Part,State House,38,Dem,Elizabeth B. Ritter,1279
+New London,Montville  Part,State House,42,Dem,Tom  Reynolds,910
+New London,Montville  Part,State House,139,Dem,Kevin  Ryan,3386
+Litchfield,Morris,President,,Rep,John McCain,704
+Litchfield,Morris,President,,Dem,Barack Obama,648
+Litchfield,Morris,President,,Ind,Ralph Nader,34
+Litchfield,Morris,President,,write-in,Chuck Baldwin,0
+Litchfield,Morris,President,,write-in,Roger Calero,0
+Litchfield,Morris,President,,write-in,Cynthia McKinney,0
+Litchfield,Morris,President,,write-in,Stewart Moore,0
+Litchfield,Morris,US House,5,Rep,David  J.  Cappiello,624
+Litchfield,Morris,US House,5,Dem,Chris Murphy,591
+Litchfield,Morris,US House,5,Ind,Thomas  L.  Winn,11
+Litchfield,Morris,US House,5,Green,Harold  H.  Burbank  II,12
+Litchfield,Morris,US House,5,WF,Chris  Murphy,78
+Litchfield,Morris,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Morris,State Senate,30,Rep,Andrew  Roraback,898
+Litchfield,Morris,State Senate,30,Dem,Michael J. Renzullo,340
+Litchfield,Morris,State Senate,30,WF,Michael J. Renzullo,29
+Litchfield,Morris,State House,66,Rep,Craig A. Miner,782
+Litchfield,Morris,State House,66,Dem,Nick  Creed,428
+Litchfield,Morris,State House,66,CC,Richard S. Schuley,27
+Litchfield,Morris,State House,66,WF,Nick  Creed,41
+New Haven,Naugatuck,President,,Rep,John McCain,6148
+New Haven,Naugatuck,President,,Dem,Barack Obama,7034
+New Haven,Naugatuck,President,,Ind,Ralph Nader,157
+New Haven,Naugatuck,President,,write-in,Chuck Baldwin,6
+New Haven,Naugatuck,President,,write-in,Roger Calero,0
+New Haven,Naugatuck,President,,write-in,Cynthia McKinney,0
+New Haven,Naugatuck,President,,write-in,Stewart Moore,0
+New Haven,Naugatuck,US House,3,Rep,Bo Itshaky,2833
+New Haven,Naugatuck,US House,3,Dem,Rosa DeLauro,6576
+New Haven,Naugatuck,US House,3,Green,Ralph Ferrucci,397
+New Haven,Naugatuck,US House,3,WF,Rosa DeLauro,1140
+New Haven,Naugatuck  Part,State Senate,15,Ind,"Cicero B. Booker, Jr.",478
+New Haven,Naugatuck  Part,State Senate,15,Dem,Joan V. Hartley,3370
+New Haven,Naugatuck  Part,State Senate,15,WF,"Cicero B. Booker, Jr.",128
+New Haven,Naugatuck  Part,State Senate,17,Rep,Tamath K.  Rossi,4107
+New Haven,Naugatuck  Part,State Senate,17,Dem,Joe  Crisco,2938
+New Haven,Naugatuck  Part,State Senate,17,WF,Joe  Crisco,430
+New Haven,Naugatuck  Part,State House,70,Rep,Kevin M. DelGobbo,6462
+New Haven,Naugatuck  Part,State House,70,Rep,Ronald E. Fischer,928
+New Haven,Naugatuck  Part,State House,131,Rep,David K. Labriola,2294
+Hartford,New  Britain,President,,Rep,John McCain,5442
+Hartford,New  Britain,President,,Dem,Barack Obama,16742
+Hartford,New  Britain,President,,Ind,Ralph Nader,272
+Hartford,New  Britain,President,,write-in,Chuck Baldwin,2
+Hartford,New  Britain,President,,write-in,Roger Calero,0
+Hartford,New  Britain,President,,write-in,Cynthia McKinney,1
+Hartford,New  Britain,President,,write-in,Stewart Moore,1
+Hartford,New  Britain,US House,5,Rep,David  J.  Cappiello,3941
+Hartford,New  Britain,US House,5,Dem,Chris Murphy,14831
+Hartford,New  Britain,US House,5,Ind,Thomas  L.  Winn,184
+Hartford,New  Britain,US House,5,Green,Harold  H.  Burbank  II,178
+Hartford,New  Britain,US House,5,WF,Chris  Murphy,1061
+Hartford,New  Britain,US House,5,write-in,Walter  Gengarelly,0
+Fairfield,New  Canaan,President,,Rep,John McCain,5877
+Fairfield,New  Canaan,President,,Dem,Barack Obama,5187
+Fairfield,New  Canaan,President,,Ind,Ralph Nader,63
+Fairfield,New  Canaan,President,,write-in,Chuck Baldwin,0
+Fairfield,New  Canaan,President,,write-in,Roger Calero,0
+Fairfield,New  Canaan,President,,write-in,Cynthia McKinney,1
+Fairfield,New  Canaan,President,,write-in,Stewart Moore,0
+Fairfield,New  Canaan,US House,4,Rep,Christopher Shays,7305
+Fairfield,New  Canaan,US House,4,Dem,Jim Himes,3301
+Fairfield,New  Canaan,US House,4,Green,Richard  Z.  Duffee,74
+Fairfield,New  Canaan,US House,4,WF,Jim Himes,45
+Fairfield,New  Canaan,US House,4,Lbt,Michael Carrano,81
+Fairfield,New  Canaan,US House,4,write-in,Eugene Flanagan,0
+Fairfield,New  Fairfield,President,,Rep,John McCain,4064
+Fairfield,New  Fairfield,President,,Dem,Barack Obama,3377
+Fairfield,New  Fairfield,President,,Ind,Ralph Nader,79
+Fairfield,New  Fairfield,President,,write-in,Chuck Baldwin,2
+Fairfield,New  Fairfield,President,,write-in,Roger Calero,0
+Fairfield,New  Fairfield,President,,write-in,Cynthia McKinney,0
+Fairfield,New  Fairfield,President,,write-in,Stewart Moore,0
+Fairfield,New  Fairfield,US House,5,Rep,David  J.  Cappiello,4075
+Fairfield,New  Fairfield,US House,5,Dem,Chris Murphy,2729
+Fairfield,New  Fairfield,US House,5,Ind,Thomas  L.  Winn,49
+Fairfield,New  Fairfield,US House,5,Green,Harold  H.  Burbank  II,44
+Fairfield,New  Fairfield,US House,5,WF,Chris  Murphy,315
+Fairfield,New  Fairfield,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,New  Hartford,President,,Rep,John McCain,1948
+Litchfield,New  Hartford,President,,Dem,Barack Obama,2193
+Litchfield,New  Hartford,President,,Ind,Ralph Nader,86
+Litchfield,New  Hartford,President,,write-in,Chuck Baldwin,0
+Litchfield,New  Hartford,President,,write-in,Roger Calero,0
+Litchfield,New  Hartford,President,,write-in,Cynthia McKinney,0
+Litchfield,New  Hartford,President,,write-in,Stewart Moore,0
+Litchfield,New  Hartford,US House,1,Rep,Joe  Visconti,1561
+Litchfield,New  Hartford,US House,1,Dem,John Larson,2047
+Litchfield,New  Hartford,US House,1,Green,Stephen Fournier,113
+Litchfield,New  Hartford,US House,1,WF,John Larson,177
+Litchfield,New  Hartford,US House,1,write-in,Matthew Coleman,0
+New Haven,New  Haven,President,,Rep,John McCain,5098
+New Haven,New  Haven,President,,Dem,Barack Obama,39112
+New Haven,New  Haven,President,,Ind,Ralph Nader,347
+New Haven,New  Haven,President,,write-in,Chuck Baldwin,0
+New Haven,New  Haven,President,,write-in,Roger Calero,0
+New Haven,New  Haven,President,,write-in,Cynthia McKinney,12
+New Haven,New  Haven,President,,write-in,Stewart Moore,0
+New Haven,New  Haven,US House,3,Rep,Bo Itshaky,2551
+New Haven,New  Haven,US House,3,Dem,Rosa DeLauro,33113
+New Haven,New  Haven,US House,3,Green,Ralph Ferrucci,1257
+New Haven,New  Haven,US House,3,WF,Rosa DeLauro,3192
+New London,New  London,President,,Rep,John McCain,1982
+New London,New  London,President,,Dem,Barack Obama,8358
+New London,New  London,President,,Ind,Ralph Nader,93
+New London,New  London,President,,write-in,Chuck Baldwin,0
+New London,New  London,President,,write-in,Roger Calero,0
+New London,New  London,President,,write-in,Cynthia McKinney,1
+New London,New  London,President,,write-in,Stewart Moore,0
+New London,New  London,US House,2,Rep,Sean Sullivan,1406
+New London,New  London,US House,2,Dem,Joe  Courtney,5803
+New London,New  London,US House,2,Green,Scott Deshefy,294
+New London,New  London,US House,2,WF,Joe Courtney,827
+New London,New  London,US House,2,write-in,Todd Vachon,0
+Litchfield,New  Mil!ford,President,,Rep,John McCain,6255
+Litchfield,New  Mil!ford,President,,Dem,Barack Obama,7364
+Litchfield,New  Mil!ford,President,,Ind,Ralph Nader,141
+Litchfield,New  Mil!ford,President,,write-in,Chuck Baldwin,1
+Litchfield,New  Mil!ford,President,,write-in,Roger Calero,0
+Litchfield,New  Mil!ford,President,,write-in,Cynthia McKinney,2
+Litchfield,New  Mil!ford,President,,write-in,Stewart Moore,0
+Litchfield,New  Millford,US House,5,Rep,David  J.  Cappiello,5488
+Litchfield,New  Millford,US House,5,Dem,Chris Murphy,6380
+Litchfield,New  Millford,US House,5,Ind,Thomas  L.  Winn,105
+Litchfield,New  Millford,US House,5,Green,Harold  H.  Burbank  II,92
+Litchfield,New  Millford,US House,5,WF,Chris  Murphy,670
+Litchfield,New  Millford,US House,5,write-in,Walter  Gengarelly,0
+Hartford,New Britain,State Senate,6,Rep,Thomas A.  Bozek,5059
+Hartford,New Britain,State Senate,6,Dem,Donald J. DeFronzo,14123
+Hartford,New Britain,State Senate,6,WF,Donald J. DeFronzo,985
+Hartford,New Britain  Part,State House,22,Rep,Scott  Saunders,277
+Hartford,New Britain  Part,State House,22,Dem,"Elizabeth ""Betty"" Boukas",1010
+Hartford,New Britain  Part,State House,24,Rep,Alphonse  Wright,1405
+Hartford,New Britain  Part,State House,24,Dem,Tim  O'Brien,4592
+Hartford,New Britain  Part,State House,24,CC,Ellen  Pappalardo,146
+Hartford,New Britain  Part,State House,24,WF,Tim  O'Brien,362
+Hartford,New Britain  Part,State House,25,Rep,Barbara  Krajewski,916
+Hartford,New Britain  Part,State House,25,Dem,John C. Geragosian,3890
+Hartford,New Britain  Part,State House,25,WF,John C. Geragosian,200
+Hartford,New Britain  Part,State House,26,Rep,Nicholas  Paonessa,1254
+Hartford,New Britain  Part,State House,26,Dem,Peter A. Tercyak,4918
+Hartford,New Britain  Part,State House,26,WF,Peter A. Tercyak,365
+Fairfield,New Canaan  Part,State Senate,26,Rep,Toni  Boucher,3102
+Fairfield,New Canaan  Part,State Senate,26,Dem,John  Hartwell,1592
+Fairfield,New Canaan  Part,State Senate,26,WF,John  Hartwell,21
+Fairfield,New Canaan  Part,State Senate,36,Rep,L. Scott  Frantz,3746
+Fairfield,New Canaan  Part,State Senate,36,Dem,Mark  Diamond,1631
+Fairfield,New Canaan  Part,State Senate,36,Green,Zachary A. Chaves,123
+Fairfield,New Canaan  Part,State House,125,Rep,John W. Hetherington,7228
+Fairfield,New Canaan  Part,State House,147,Dem,William M. Tong,669
+Fairfield,New Canaan  Part,State House,147,write-in,Brent  Yarnell,1
+Fairfield,New Fairfield,State Senate,24,Rep,Michael A. McLachlan,4055
+Fairfield,New Fairfield,State Senate,24,Dem,Duane E. Perkins,2427
+Fairfield,New Fairfield,State Senate,24,Ind,Michael A. McLachlan,264
+Fairfield,New Fairfield,State Senate,24,WF,Duane E. Perkins,184
+Fairfield,New Fairfield,State Senate,24,PC,Manuel A. Bataguas,33
+Fairfield,New Fairfield  Part,State House,108,Rep,Mary Ann  Carson,4828
+Fairfield,New Fairfield  Part,State House,138,Rep,Janice R. Giegler,584
+Fairfield,New Fairfield  Part,State House,138,Dem,William R. Melillo,457
+Fairfield,New Fairfield  Part,State House,138,Ind,Janice R. Giegler,46
+Litchfield,New Hartford,State Senate,8,Rep,Kevin D. Witkos,2009
+Litchfield,New Hartford,State Senate,8,Dem,Arthur H. House,1761
+Litchfield,New Hartford,State Senate,8,WF,Arthur H. House,142
+Litchfield,New Hartford,State House,62,Rep,Richard F. Ferrari,1876
+Litchfield,New Hartford,State House,62,Dem,Annie  Hornish,1842
+Litchfield,New Hartford,State House,62,WF,Annie  Hornish,186
+New Haven,New Haven  Part,State Senate,10,Rep,Melissa  Papantones,1515
+New Haven,New Haven  Part,State Senate,11,Dem,Martin M. Looney,15009
+New Haven,New Haven  Part,State Senate,10,Dem,Toni N. Harp,19418
+New Haven,New Haven  Part,State Senate,11,WF,Martin M. Looney,1253
+New Haven,New Haven  Part,State House,92,Rep,Paul  Ortiz,726
+New Haven,New Haven  Part,State House,92,Dem,Patricia A. Dillon,7061
+New Haven,New Haven  Part,State House,92,WF,Patricia A. Dillon,439
+New Haven,New Haven  Part,State House,93,Dem,Toni  Edmonds-Walker,5321
+New Haven,New Haven  Part,State House,94,Dem,Gary A. Winfield,5828
+New Haven,New Haven  Part,State House,94,PC,Willie D. Greene,940
+New Haven,New Haven  Part,State House,95,Dem,Juan  Candelaria,5125
+New Haven,New Haven  Part,State House,96,Dem,Cameron  Staples,4495
+New Haven,New Haven  Part,State House,97,Dem,Robert  Megna,5725
+New London,New London,State Senate,20,Rep,Thomas C. Simones,1661
+New London,New London,State Senate,20,Dem,Andrea L. Stillman,6166
+New London,New London,State Senate,20,Lbt,Marc L. Guttman,217
+New London,New London  Part,State House,39,Rep,Jason L. Catala,1109
+New London,New London  Part,State House,39,Dem,Ernest  Hewett,3948
+New London,New London  Part,State House,39,Green,Kenric M. Hanson,529
+New London,New London  Part,State House,39,WF,Ernest  Hewett,594
+New London,New London  Part,State House,40,Dem,Edward E. Moukawsher,1357
+Litchfield,New Millford,State Senate,30,Rep,Andrew  Roraback,7175
+Litchfield,New Millford,State Senate,30,Dem,Michael J. Renzullo,4560
+Litchfield,New Millford,State Senate,30,WF,Michael J. Renzullo,409
+Litchfield,New Millford  Part,State House,67,Rep,Clark J. Chapin,7433
+Litchfield,New Millford  Part,State House,108,Rep,Mary Ann  Carson,1407
+Hartford,Newington,President,,Rep,John McCain,5726
+Hartford,Newington,President,,Dem,Barack Obama,9875
+Hartford,Newington,President,,Ind,Ralph Nader,224
+Hartford,Newington,President,,write-in,Chuck Baldwin,6
+Hartford,Newington,President,,write-in,Roger Calero,0
+Hartford,Newington,President,,write-in,Cynthia McKinney,0
+Hartford,Newington,President,,write-in,Stewart Moore,0
+Hartford,Newington,US House,1,Rep,Joe  Visconti,3796
+Hartford,Newington,US House,1,Dem,John Larson,9133
+Hartford,Newington,US House,1,Green,Stephen Fournier,293
+Hartford,Newington,US House,1,WF,John Larson,1246
+Hartford,Newington,US House,1,write-in,Matthew Coleman,0
+Hartford,Newington,State Senate,9,Rep,Ralph  Capenera,6122
+Hartford,Newington,State Senate,9,Dem,Paul R. Doyle,8459
+Hartford,Newington  Part,State House,24,Rep,Alphonse  Wright,367
+Hartford,Newington  Part,State House,24,Dem,Tim  O'Brien,917
+Hartford,Newington  Part,State House,24,CC,Ellen  Pappalardo,40
+Hartford,Newington  Part,State House,24,WF,Tim  O'Brien,80
+Hartford,Newington  Part,State House,27,Rep,Mark  Pappa,3520
+Hartford,Newington  Part,State House,27,Dem,Sandy  Nafis,7088
+Hartford,Newington  Part,State House,27,WF,Sandy  Nafis,1189
+Hartford,Newington  Part,State House,29,Dem,"Antonio ""Tony""  Guerrera",919
+Hartford,Newington  Part,State House,29,WF,"Antonio ""Tony""  Guerrera",140
+Hartford,Newington  Part,State House,29,CFL,Tomoyo  Wakamatsu,80
+Fairfield,Newtown,President,,Rep,John McCain,7270
+Fairfield,Newtown,President,,Dem,Barack Obama,7764
+Fairfield,Newtown,President,,Ind,Ralph Nader,137
+Fairfield,Newtown,President,,write-in,Chuck Baldwin,10
+Fairfield,Newtown,President,,write-in,Roger Calero,0
+Fairfield,Newtown,President,,write-in,Cynthia McKinney,1
+Fairfield,Newtown,President,,write-in,Stewart Moore,0
+Fairfield,Newtown,US House,5,Rep,David  J.  Cappiello,6499
+Fairfield,Newtown,US House,5,Dem,Chris Murphy,7089
+Fairfield,Newtown,US House,5,Ind,Thomas  L.  Winn,136
+Fairfield,Newtown,US House,5,Green,Harold  H.  Burbank  II,103
+Fairfield,Newtown,US House,5,WF,Chris  Murphy,633
+Fairfield,Newtown,US House,5,write-in,Walter  Gengarelly,2
+Fairfield,Newtown,State Senate,28,Rep,John  McKinney,8568
+Fairfield,Newtown,State Senate,28,Dem,Martin A. Goldberg,5058
+Fairfield,Newtown,State Senate,28,WF,Martin A. Goldberg,330
+Fairfield,Newtown  Part,State House,106,Rep,William F. L. Rodgers,5200
+Fairfield,Newtown  Part,State House,106,Dem,Christopher Brennan Lyddy,7054
+Fairfield,Newtown  Part,State House,106,Ind,William F. L. Rodgers,307
+Fairfield,Newtown  Part,State House,112,Rep,Debralee  Hovey,878
+Fairfield,Newtown  Part,State House,112,Dem,Michele C. Mount,777
+Litchfield,Norfolk,President,,Rep,John McCain,188
+Litchfield,Norfolk,President,,Dem,Barack Obama,640
+Litchfield,Norfolk,President,,Ind,Ralph Nader,20
+Litchfield,Norfolk,President,,write-in,Chuck Baldwin,1
+Litchfield,Norfolk,President,,write-in,Roger Calero,0
+Litchfield,Norfolk,President,,write-in,Cynthia McKinney,0
+Litchfield,Norfolk,President,,write-in,Stewart Moore,0
+Litchfield,Norfolk,US House,5,Rep,David  J.  Cappiello,317
+Litchfield,Norfolk,US House,5,Dem,Chris Murphy,576
+Litchfield,Norfolk,US House,5,Ind,Thomas  L.  Winn,16
+Litchfield,Norfolk,US House,5,Green,Harold  H.  Burbank  II,8
+Litchfield,Norfolk,US House,5,WF,Chris  Murphy,33
+Litchfield,Norfolk,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Norfolk,State Senate,8,Rep,Kevin D. Witkos,588
+Litchfield,Norfolk,State Senate,8,Dem,Arthur H. House,522
+Litchfield,Norfolk,State Senate,8,WF,Arthur H. House,20
+Litchfield,Norfolk,State House,63,Rep,John B. Rigby,353
+Litchfield,Norfolk,State House,63,write-in,William O. Riiska,438
+New Haven,North  Branford,President,,Rep,John McCain,3504
+New Haven,North  Branford,President,,Dem,Barack Obama,3779
+New Haven,North  Branford,President,,Ind,Ralph Nader,100
+New Haven,North  Branford,President,,write-in,Chuck Baldwin,3
+New Haven,North  Branford,President,,write-in,Roger Calero,0
+New Haven,North  Branford,President,,write-in,Cynthia McKinney,0
+New Haven,North  Branford,President,,write-in,Stewart Moore,0
+New Haven,North  Branford,US House,3,Rep,Bo Itshaky,1768
+New Haven,North  Branford,US House,3,Dem,Rosa DeLauro,4450
+New Haven,North  Branford,US House,3,Green,Ralph Ferrucci,195
+New Haven,North  Branford,US House,3,WF,Rosa DeLauro,636
+Litchfield,North  Canaan,President,,Rep,John McCain,611
+Litchfield,North  Canaan,President,,Dem,Barack Obama,910
+Litchfield,North  Canaan,President,,Ind,Ralph Nader,20
+Litchfield,North  Canaan,President,,write-in,Chuck Baldwin,0
+Litchfield,North  Canaan,President,,write-in,Roger Calero,0
+Litchfield,North  Canaan,President,,write-in,Cynthia McKinney,0
+Litchfield,North  Canaan,President,,write-in,Stewart Moore,0
+Litchfield,North  Canaan,US House,5,Rep,David  J.  Cappiello,567
+Litchfield,North  Canaan,US House,5,Dem,Chris Murphy,831
+Litchfield,North  Canaan,US House,5,Ind,Thomas  L.  Winn,16
+Litchfield,North  Canaan,US House,5,Green,Harold  H.  Burbank  II,21
+Litchfield,North  Canaan,US House,5,WF,Chris  Murphy,130
+Litchfield,North  Canaan,US House,5,write-in,Walter  Gengarelly,0
+New Haven,North  Haven,President,,Rep,John McCain,6298
+New Haven,North  Haven,President,,Dem,Barack Obama,6982
+New Haven,North  Haven,President,,Ind,Ralph Nader,142
+New Haven,North  Haven,President,,write-in,Chuck Baldwin,5
+New Haven,North  Haven,President,,write-in,Roger Calero,1
+New Haven,North  Haven,President,,write-in,Cynthia McKinney,2
+New Haven,North  Haven,President,,write-in,Stewart Moore,0
+New Haven,North  Haven,US House,3,Rep,Bo Itshaky,2945
+New Haven,North  Haven,US House,3,Dem,Rosa DeLauro,8268
+New Haven,North  Haven,US House,3,Green,Ralph Ferrucci,393
+New Haven,North  Haven,US House,3,WF,Rosa DeLauro,1067
+New London,North  Stonington,President,,Rep,John McCain,1396
+New London,North  Stonington,President,,Dem,Barack Obama,1553
+New London,North  Stonington,President,,Ind,Ralph Nader,37
+New London,North  Stonington,President,,write-in,Chuck Baldwin,5
+New London,North  Stonington,President,,write-in,Roger Calero,0
+New London,North  Stonington,President,,write-in,Cynthia McKinney,1
+New London,North  Stonington,President,,write-in,Stewart Moore,0
+New London,North  Stonington,US House,2,Rep,Sean Sullivan,986
+New London,North  Stonington,US House,2,Dem,Joe  Courtney,1632
+New London,North  Stonington,US House,2,Green,Scott Deshefy,57
+New London,North  Stonington,US House,2,WF,Joe Courtney,141
+New London,North  Stonington,US House,2,write-in,Todd Vachon,0
+New Haven,North Branford,State Senate,12,Rep,Ryan  Suerth,2739
+New Haven,North Branford,State Senate,12,Dem,Edward  Meyer,4075
+New Haven,North Branford,State House,86,Rep,Vincent J. Candelora,5016
+New Haven,North Canaan,State Senate,30,Rep,Andrew  Roraback,1206
+New Haven,North Canaan,State Senate,30,Dem,Michael J. Renzullo,435
+New Haven,North Canaan,State Senate,30,WF,Michael J. Renzullo,41
+New Haven,North Canaan,State House,63,Rep,John B. Rigby,946
+New Haven,North Canaan,State House,63,write-in,William O. Riiska,225
+New Haven,North Haven,State Senate,34,Rep,Leonard A. Fasano,7501
+New Haven,North Haven,State Senate,34,WF,Leonard A. Fasano,1842
+New Haven,North Haven,State House,87,Rep,Veronica H. Kivela,4836
+New Haven,North Haven,State House,87,Dem,Steve  Fontana,7011
+New Haven,North Haven,State House,87,WF,Steve  Fontana,887
+New London,North Stonington,State Senate,18,Rep,Anne P. Hatfield,1002
+New London,North Stonington,State Senate,18,Dem,Andrew M. Maynard,1675
+New London,North Stonington,State House,43,Rep,Brian  Kluberdanz,1108
+New London,North Stonington,State House,43,Dem,Diana S. Urban,1695
+Fairfield,Norwalk,President,,Rep,John McCain,12651
+Fairfield,Norwalk,President,,Dem,Barack Obama,24489
+Fairfield,Norwalk,President,,Ind,Ralph Nader,244
+Fairfield,Norwalk,President,,write-in,Chuck Baldwin,0
+Fairfield,Norwalk,President,,write-in,Roger Calero,0
+Fairfield,Norwalk,President,,write-in,Cynthia McKinney,0
+Fairfield,Norwalk,President,,write-in,Stewart Moore,0
+Fairfield,Norwalk,US House,4,Rep,Christopher Shays,14243
+Fairfield,Norwalk,US House,4,Dem,Jim Himes,19037
+Fairfield,Norwalk,US House,4,Green,Richard  Z.  Duffee,171
+Fairfield,Norwalk,US House,4,WF,Jim Himes,1963
+Fairfield,Norwalk,US House,4,Lbt,Michael Carrano,246
+Fairfield,Norwalk,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Norwalk,State Senate,25,Rep,Steve  Papadakos,8952
+Fairfield,Norwalk,State Senate,25,Dem,Bob  Duff,23675
+Fairfield,Norwalk,State Senate,25,WF,Bob  Duff,1855
+Fairfield,Norwalk  Part,State House,137,Rep,Ellen Gamer Wink,2583
+Fairfield,Norwalk  Part,State House,137,Dem,Chris  Perone,6082
+Fairfield,Norwalk  Part,State House,137,WF,Chris  Perone,437
+Fairfield,Norwalk  Part,State House,140,Dem,Bruce V. Morris,5147
+Fairfield,Norwalk  Part,State House,140,WF,Bruce V. Morris,493
+Fairfield,Norwalk  Part,State House,141,Rep,Terrie E. Wood,1440
+Fairfield,Norwalk  Part,State House,142,Rep,Lawrence F. Cafero,6738
+Fairfield,Norwalk  Part,State House,142,WF,A. Brian  Petronella,1694
+Fairfield,Norwalk  Part,State House,143,Dem,Peggy  Reeves,2691
+Fairfield,Norwalk  Part,State House,143,Rep,Susan A. Bruschi,1925
+New London,Norwich,President,,Rep,John McCain,4505
+New London,Norwich,President,,Dem,Barack Obama,8896
+New London,Norwich,President,,Ind,Ralph Nader,190
+New London,Norwich,President,,write-in,Chuck Baldwin,0
+New London,Norwich,President,,write-in,Roger Calero,0
+New London,Norwich,President,,write-in,Cynthia McKinney,0
+New London,Norwich,President,,write-in,Stewart Moore,0
+New London,Norwich,US House,2,Rep,Sean Sullivan,2926
+New London,Norwich,US House,2,Dem,Joe  Courtney,8800
+New London,Norwich,US House,2,Green,Scott Deshefy,342
+New London,Norwich,US House,2,WF,Joe Courtney,224
+New London,Norwich,US House,2,write-in,Todd Vachon,0
+New London,Norwich,State Senate,19,Dem,Edith G. Prague,9943
+New London,Norwich,State Senate,19,WF,Edith G. Prague,535
+New London,Norwich  Part,State House,46,Dem,Melissa  Olson,6292
+New London,Norwich  Part,State House,47,Rep,Christopher D. Coutu,2694
+New London,Norwich  Part,State House,47,Dem,Jack  Malone,2508
+New London,Old  Lyme,President,,Rep,John McCain,1906
+New London,Old  Lyme,President,,Dem,Barack Obama,2886
+New London,Old  Lyme,President,,Ind,Ralph Nader,4
+New London,Old  Lyme,President,,write-in,Chuck Baldwin,0
+New London,Old  Lyme,President,,write-in,Roger Calero,0
+New London,Old  Lyme,President,,write-in,Cynthia McKinney,0
+New London,Old  Lyme,President,,write-in,Stewart Moore,0
+New London,Old  Lyme,US House,2,Rep,Sean Sullivan,1544
+New London,Old  Lyme,US House,2,Dem,Joe  Courtney,2962
+New London,Old  Lyme,US House,2,Green,Scott Deshefy,73
+New London,Old  Lyme,US House,2,WF,Joe Courtney,0
+New London,Old  Lyme,US House,2,write-in,Todd Vachon,0
+Middlesex,Old  Saybrook,President,,Rep,John McCain,2715
+Middlesex,Old  Saybrook,President,,Dem,Barack Obama,3462
+Middlesex,Old  Saybrook,President,,Ind,Ralph Nader,65
+Middlesex,Old  Saybrook,President,,write-in,Chuck Baldwin,1
+Middlesex,Old  Saybrook,President,,write-in,Roger Calero,0
+Middlesex,Old  Saybrook,President,,write-in,Cynthia McKinney,0
+Middlesex,Old  Saybrook,President,,write-in,Stewart Moore,0
+Middlesex,Old  Saybrook,US House,2,Rep,Sean Sullivan,2277
+Middlesex,Old  Saybrook,US House,2,Dem,Joe  Courtney,3355
+Middlesex,Old  Saybrook,US House,2,Green,Scott Deshefy,66
+Middlesex,Old  Saybrook,US House,2,WF,Joe Courtney,279
+Middlesex,Old  Saybrook,US House,2,write-in,Todd Vachon,0
+New London,Old Lyme,State Senate,20,Rep,Thomas C. Simones,1613
+New London,Old Lyme,State Senate,20,Dem,Andrea L. Stillman,2767
+New London,Old Lyme,State Senate,20,Lbt,Marc L. Guttman,0
+New London,Old Lyme,State House,23,Rep,Marilyn  Giuliano,2644
+New London,Old Lyme,State House,23,Dem,Eileen D. Baker,1915
+New London,Old Lyme,State House,23,WF,Eileen D. Baker,0
+Middlesex,Old Saybrook,State House,23,Rep,Marilyn  Giuliano,3251
+Middlesex,Old Saybrook,State House,23,Dem,Eileen D. Baker,2434
+Middlesex,Old Saybrook,State House,23,WF,Eileen D. Baker,237
+Middlesex,Old Saybrook  Part,State Senate,20,Rep,Thomas C. Simones,1539
+Middlesex,Old Saybrook  Part,State Senate,20,Dem,Andrea L. Stillman,3536
+Middlesex,Old Saybrook  Part,State Senate,20,Lbt,Marc L. Guttman,53
+Middlesex,Old Saybrook  Part,State Senate,33,Rep,Vincent A. Pacileo III,799
+Middlesex,Old Saybrook  Part,State Senate,33,Dem,Eileen M. Daily,1244
+Middlesex,Old Saybrook  Part,State Senate,33,Green,Colin D. Bennett,51
+New Haven,Orange,President,,Rep,John McCain,4205
+New Haven,Orange,President,,Dem,Barack Obama,4074
+New Haven,Orange,President,,Ind,Ralph Nader,97
+New Haven,Orange,President,,write-in,Chuck Baldwin,0
+New Haven,Orange,President,,write-in,Roger Calero,1
+New Haven,Orange,President,,write-in,Cynthia McKinney,0
+New Haven,Orange,President,,write-in,Stewart Moore,0
+New Haven,Orange,US House,3,Rep,Bo Itshaky,2349
+New Haven,Orange,US House,3,Dem,Rosa DeLauro,5242
+New Haven,Orange,US House,3,Green,Ralph Ferrucci,168
+New Haven,Orange,US House,3,WF,Rosa DeLauro,205
+New Haven,Orange,State Senate,14,Rep,Vincent  Marino,3787
+New Haven,Orange,State Senate,14,Dem,Gayle  Slossberg,4198
+New Haven,Orange  Part,State House,114,Rep,Themis  Klarides,2534
+New Haven,Orange  Part,State House,114,Dem,Marc J. Garofalo,1662
+New Haven,Orange  Part,State House,117,Rep,Stephanie A. Williams,1479
+New Haven,Orange  Part,State House,117,D,Paul  Davis,2208
+New Haven,Oxford,President,,Rep,John McCain,3826
+New Haven,Oxford,President,,Dem,Barack Obama,2957
+New Haven,Oxford,President,,Ind,Ralph Nader,87
+New Haven,Oxford,President,,write-in,Chuck Baldwin,2
+New Haven,Oxford,President,,write-in,Roger Calero,0
+New Haven,Oxford,President,,write-in,Cynthia McKinney,1
+New Haven,Oxford,President,,write-in,Stewart Moore,0
+New Haven,Oxford,US House,4,Rep,Christopher Shays,3336
+New Haven,Oxford,US House,4,Dem,Jim Himes,2653
+New Haven,Oxford,US House,4,Green,Richard  Z.  Duffee,43
+New Haven,Oxford,US House,4,WF,Jim Himes,302
+New Haven,Oxford,US House,4,Lbt,Michael Carrano,71
+New Haven,Oxford,US House,4,write-in,Eugene Flanagan,0
+New Haven,Oxford,State Senate,32,Rep,Robert J. Kane,3487
+New Haven,Oxford,State Senate,32,Dem,John  McCarthy,2416
+New Haven,Oxford,State Senate,32,WF,John  McCarthy,222
+New Haven,Oxford,State House,131,Rep,David K. Labriola,4558
+Windham,Plainfield,President,,Rep,John McCain,2743
+Windham,Plainfield,President,,Dem,Barack Obama,3372
+Windham,Plainfield,President,,Ind,Ralph Nader,104
+Windham,Plainfield,President,,write-in,Chuck Baldwin,3
+Windham,Plainfield,President,,write-in,Roger Calero,0
+Windham,Plainfield,President,,write-in,Cynthia McKinney,0
+Windham,Plainfield,President,,write-in,Stewart Moore,0
+Windham,Plainfield,US House,2,Rep,Sean Sullivan,1746
+Windham,Plainfield,US House,2,Dem,Joe  Courtney,3952
+Windham,Plainfield,US House,2,Green,Scott Deshefy,107
+Windham,Plainfield,US House,2,WF,Joe Courtney,0
+Windham,Plainfield,US House,2,write-in,Todd Vachon,0
+Windham,Plainfield,State Senate,18,Rep,Anne P. Hatfield,2028
+Windham,Plainfield,State Senate,18,Dem,Andrew M. Maynard,3494
+Windham,Plainfield  Part,State House,44,Rep,Angeline  Kwasny,1210
+Windham,Plainfield  Part,State House,44,Dem,Mae  Flexer,2399
+Windham,Plainfield  Part,State House,45,Rep,Ed  Berdick,489
+Windham,Plainfield  Part,State House,45,Dem,Steven  Mikutel,1544
+Windham,Plainfield  Part,State House,45,WF,Steven  Mikutel,0
+Hartford,Plainville,President,,Rep,John McCain,3384
+Hartford,Plainville,President,,Dem,Barack Obama,4983
+Hartford,Plainville,President,,Ind,Ralph Nader,123
+Hartford,Plainville,President,,write-in,Chuck Baldwin,0
+Hartford,Plainville,President,,write-in,Roger Calero,0
+Hartford,Plainville,President,,write-in,Cynthia McKinney,0
+Hartford,Plainville,President,,write-in,Stewart Moore,0
+Hartford,Plainville,US House,5,Rep,David  J.  Cappiello,2589
+Hartford,Plainville,US House,5,Dem,Chris Murphy,4356
+Hartford,Plainville,US House,5,Ind,Thomas  L.  Winn,87
+Hartford,Plainville,US House,5,Green,Harold  H.  Burbank  II,63
+Hartford,Plainville,US House,5,WF,Chris  Murphy,458
+Hartford,Plainville,US House,5,write-in,Walter  Gengarelly,0
+Hartford,Plainville,State Senate,31,Dem,Thomas A. Colapietro,4944
+Hartford,Plainville,State Senate,31,WF,Thomas A. Colapietro,841
+Hartford,Plainville,State House,22,Rep,Scott  Saunders,2641
+Hartford,Plainville,State House,22,Dem,"Elizabeth ""Betty"" Boukas",5132
+Litchfield,Plymouth,President,,Rep,John McCain,2689
+Litchfield,Plymouth,President,,Dem,Barack Obama,2865
+Litchfield,Plymouth,President,,Ind,Ralph Nader,102
+Litchfield,Plymouth,President,,write-in,Chuck Baldwin,2
+Litchfield,Plymouth,President,,write-in,Roger Calero,0
+Litchfield,Plymouth,President,,write-in,Cynthia McKinney,0
+Litchfield,Plymouth,President,,write-in,Stewart Moore,0
+Litchfield,Plymouth,US House,5,Rep,David  J.  Cappiello,2044
+Litchfield,Plymouth,US House,5,Dem,Chris Murphy,2589
+Litchfield,Plymouth,US House,5,Ind,Thomas  L.  Winn,74
+Litchfield,Plymouth,US House,5,Green,Harold  H.  Burbank  II,50
+Litchfield,Plymouth,US House,5,WF,Chris  Murphy,337
+Litchfield,Plymouth,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Plymouth,State Senate,31,Dem,Thomas A. Colapietro,3025
+Litchfield,Plymouth,State Senate,31,WF,Thomas A. Colapietro,743
+Litchfield,Plymouth,State House,78,Rep,William A. Hamzy,3576
+Litchfield,Plymouth,State House,78,Dem,Jacqui D. Denski,1475
+Litchfield,Plymouth,State House,78,WF,Jacqui D. Denski,195
+Windham,Pomfret,President,,Rep,John McCain,1017
+Windham,Pomfret,President,,Dem,Barack Obama,1203
+Windham,Pomfret,President,,Ind,Ralph Nader,37
+Windham,Pomfret,President,,write-in,Chuck Baldwin,0
+Windham,Pomfret,President,,write-in,Roger Calero,0
+Windham,Pomfret,President,,write-in,Cynthia McKinney,1
+Windham,Pomfret,President,,write-in,Stewart Moore,0
+Windham,Pomfret,US House,2,Rep,Sean Sullivan,762
+Windham,Pomfret,US House,2,Dem,Joe  Courtney,1297
+Windham,Pomfret,US House,2,Green,Scott Deshefy,46
+Windham,Pomfret,US House,2,WF,Joe Courtney,36
+Windham,Pomfret,US House,2,write-in,Todd Vachon,0
+Windham,Pomfret,State Senate,35,Rep,Tony  Guglielmo,1479
+Windham,Pomfret,State House,50,Rep,Mike  Alberts,1055
+Windham,Pomfret,State House,50,Dem,Sherri  Vogt,1026
+Windham,Pomfret,State House,50,WF,Sherri  Vogt,52
+Middlesex,Portland,President,,Rep,John McCain,1845
+Middlesex,Portland,President,,Dem,Barack Obama,2925
+Middlesex,Portland,President,,Ind,Ralph Nader,162
+Middlesex,Portland,President,,write-in,Chuck Baldwin,0
+Middlesex,Portland,President,,write-in,Roger Calero,0
+Middlesex,Portland,President,,write-in,Cynthia McKinney,0
+Middlesex,Portland,President,,write-in,Stewart Moore,0
+Middlesex,Portland,US House,1,Rep,Joe  Visconti,1349
+Middlesex,Portland,US House,1,Dem,John Larson,2876
+Middlesex,Portland,US House,1,Green,Stephen Fournier,115
+Middlesex,Portland,US House,1,WF,John Larson,0
+Middlesex,Portland,US House,1,write-in,Matthew Coleman,0
+Middlesex,Portland,State Senate,33,Rep,Vincent A. Pacileo III,1493
+Middlesex,Portland,State Senate,33,Dem,Eileen M. Daily,2810
+Middlesex,Portland,State Senate,33,Green,Colin D. Bennett,133
+Middlesex,Portland,State House,32,Rep,Scott  Adamsons,1506
+Middlesex,Portland,State House,32,Dem,Jim  O'Rourke,3019
+New London,Preston,President,,Rep,John McCain,1266
+New London,Preston,President,,Dem,Barack Obama,1382
+New London,Preston,President,,Ind,Ralph Nader,40
+New London,Preston,President,,write-in,Chuck Baldwin,0
+New London,Preston,President,,write-in,Roger Calero,0
+New London,Preston,President,,write-in,Cynthia McKinney,0
+New London,Preston,President,,write-in,Stewart Moore,5
+New London,Preston,US House,2,Rep,Sean Sullivan,793
+New London,Preston,US House,2,Dem,Joe  Courtney,1448
+New London,Preston,US House,2,Green,Scott Deshefy,86
+New London,Preston,US House,2,WF,Joe Courtney,112
+New London,Preston,US House,2,write-in,Todd Vachon,0
+New London,Preston,State Senate,18,Rep,Anne P. Hatfield,894
+New London,Preston,State Senate,18,Dem,Andrew M. Maynard,1536
+New London,Preston,State House,42,Dem,Tom  Reynolds,1950
+New Haven,Prospect,President,,Rep,John McCain,2982
+New Haven,Prospect,President,,Dem,Barack Obama,2134
+New Haven,Prospect,President,,Ind,Ralph Nader,78
+New Haven,Prospect,President,,write-in,Chuck Baldwin,3
+New Haven,Prospect,President,,write-in,Roger Calero,0
+New Haven,Prospect,President,,write-in,Cynthia McKinney,0
+New Haven,Prospect,President,,write-in,Stewart Moore,0
+New Haven,Prospect,US House,3,Rep,Bo Itshaky,1444
+New Haven,Prospect,US House,3,Dem,Rosa DeLauro,2679
+New Haven,Prospect,US House,3,Green,Ralph Ferrucci,147
+New Haven,Prospect,US House,3,WF,Rosa DeLauro,1004
+New Haven,Prospect,State Senate,15,Ind,"Cicero B. Booker, Jr.",514
+New Haven,Prospect,State Senate,15,Dem,Joan V. Hartley,3428
+New Haven,Prospect,State Senate,15,WF,"Cicero B. Booker, Jr.",134
+New Haven,Prospect,State House,89,Rep,Martin A. Atkins,1616
+New Haven,Prospect,State House,89,Dem,Vickie O. Nardello,3031
+Windham,Putnam,President,,Rep,John McCain,1621
+Windham,Putnam,President,,Dem,Barack Obama,2041
+Windham,Putnam,President,,Ind,Ralph Nader,61
+Windham,Putnam,President,,write-in,Chuck Baldwin,4
+Windham,Putnam,President,,write-in,Roger Calero,0
+Windham,Putnam,President,,write-in,Cynthia McKinney,0
+Windham,Putnam,President,,write-in,Stewart Moore,0
+Windham,Putnam,US House,2,Rep,Sean Sullivan,1141
+Windham,Putnam,US House,2,Dem,Joe  Courtney,1977
+Windham,Putnam,US House,2,Green,Scott Deshefy,63
+Windham,Putnam,US House,2,WF,Joe Courtney,215
+Windham,Putnam,US House,2,write-in,Todd Vachon,0
+Windham,Putnam,State Senate,29,Rep,Harry  Carboni,849
+Windham,Putnam,State Senate,29,Dem,Donald E. Williams,2244
+Windham,Putnam,State Senate,29,WF,Donald E. Williams,295
+Windham,Putnam,State House,51,Rep,Shawn T. Johnston,1268
+Windham,Putnam,State House,51,Dem,Shawn T. Johnston,2041
+Fairfield,Redding,President,,Rep,John McCain,2319
+Fairfield,Redding,President,,Dem,Barack Obama,3245
+Fairfield,Redding,President,,Ind,Ralph Nader,50
+Fairfield,Redding,President,,write-in,Chuck Baldwin,0
+Fairfield,Redding,President,,write-in,Roger Calero,0
+Fairfield,Redding,President,,write-in,Cynthia McKinney,0
+Fairfield,Redding,President,,write-in,Stewart Moore,0
+Fairfield,Redding,US House,4,Rep,Christopher Shays,2902
+Fairfield,Redding,US House,4,Dem,Jim Himes,2389
+Fairfield,Redding,US House,4,Green,Richard  Z.  Duffee,35
+Fairfield,Redding,US House,4,WF,Jim Himes,91
+Fairfield,Redding,US House,4,Lbt,Michael Carrano,44
+Fairfield,Redding,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Redding,State Senate,26,Rep,Toni  Boucher,2562
+Fairfield,Redding,State Senate,26,Dem,John  Hartwell,2606
+Fairfield,Redding,State Senate,26,WF,John  Hartwell,83
+Fairfield,Redding  Part,State House,2,Rep,Melanie P. O'Brien,781
+Fairfield,Redding  Part,State House,2,Dem,Jason W. Bartlett,937
+Fairfield,Redding  Part,State House,2,Ind,Melanie P. O'Brien,38
+Fairfield,Redding  Part,State House,135,Rep,John  Stripp,2023
+Fairfield,Redding  Part,State House,135,Green,Remy G. Chevalier,541
+Fairfield,Ridgefield,President,,Rep,John McCain,6786
+Fairfield,Ridgefield,President,,Dem,Barack Obama,7480
+Fairfield,Ridgefield,President,,Ind,Ralph Nader,67
+Fairfield,Ridgefield,President,,write-in,Chuck Baldwin,4
+Fairfield,Ridgefield,President,,write-in,Roger Calero,0
+Fairfield,Ridgefield,President,,write-in,Cynthia McKinney,0
+Fairfield,Ridgefield,President,,write-in,Stewart Moore,0
+Fairfield,Ridgefield,US House,4,Rep,Christopher Shays,8411
+Fairfield,Ridgefield,US House,4,Dem,Jim Himes,5056
+Fairfield,Ridgefield,US House,4,Green,Richard  Z.  Duffee,75
+Fairfield,Ridgefield,US House,4,WF,Jim Himes,128
+Fairfield,Ridgefield,US House,4,Lbt,Michael Carrano,135
+Fairfield,Ridgefield,US House,4,write-in,Eugene Flanagan,2
+Fairfield,Ridgefield,State Senate,26,Rep,Toni  Boucher,7229
+Fairfield,Ridgefield,State Senate,26,Dem,John  Hartwell,5991
+Fairfield,Ridgefield,State Senate,26,WF,John  Hartwell,144
+Fairfield,Ridgefield,State House,111,Rep,John H. Frey,8378
+Fairfield,Ridgefield,State House,111,Dem,Di  Masters,5452
+Hartford,Rocky Hill,President,,Rep,John McCain,3951
+Hartford,Rocky Hill,President,,Dem,Barack Obama,5957
+Hartford,Rocky Hill,President,,Ind,Ralph Nader,142
+Hartford,Rocky Hill,President,,write-in,Chuck Baldwin,0
+Hartford,Rocky Hill,President,,write-in,Roger Calero,1
+Hartford,Rocky Hill,President,,write-in,Cynthia McKinney,0
+Hartford,Rocky Hill,President,,write-in,Stewart Moore,0
+Hartford,Rocky Hill,US House,1,Rep,Joe  Visconti,2596
+Hartford,Rocky Hill,US House,1,Dem,John Larson,5577
+Hartford,Rocky Hill,US House,1,Green,Stephen Fournier,212
+Hartford,Rocky Hill,US House,1,WF,John Larson,370
+Hartford,Rocky Hill,US House,1,write-in,Matthew Coleman,0
+Hartford,Rocky Hill,State Senate,9,Rep,Ralph  Capenera,4506
+Hartford,Rocky Hill,State Senate,9,Dem,Paul R. Doyle,4893
+Hartford,Rocky Hill,State House,29,Dem,"Antonio ""Tony""  Guerrera",6326
+Hartford,Rocky Hill,State House,29,WF,"Antonio ""Tony""  Guerrera",728
+Hartford,Rocky Hill,State House,29,CFL,Tomoyo  Wakamatsu,712
+Litchfield,Roxbury,President,,Rep,John McCain,659
+Litchfield,Roxbury,President,,Dem,Barack Obama,840
+Litchfield,Roxbury,President,,Ind,Ralph Nader,18
+Litchfield,Roxbury,President,,write-in,Chuck Baldwin,0
+Litchfield,Roxbury,President,,write-in,Roger Calero,0
+Litchfield,Roxbury,President,,write-in,Cynthia McKinney,0
+Litchfield,Roxbury,President,,write-in,Stewart Moore,0
+Litchfield,Roxbury,US House,5,Rep,David  J.  Cappiello,633
+Litchfield,Roxbury,US House,5,Dem,Chris Murphy,719
+Litchfield,Roxbury,US House,5,Ind,Thomas  L.  Winn,9
+Litchfield,Roxbury,US House,5,Green,Harold  H.  Burbank  II,17
+Litchfield,Roxbury,US House,5,WF,Chris  Murphy,63
+Litchfield,Roxbury,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Roxbury,State Senate,32,Rep,Robert J. Kane,675
+Litchfield,Roxbury,State Senate,32,Dem,John  McCarthy,678
+Litchfield,Roxbury,State Senate,32,WF,John  McCarthy,40
+Litchfield,Roxbury,State House,69,Rep,Arthur J. O'Neill,866
+New London,Salem,President,,Rep,John McCain,1022
+New London,Salem,President,,Dem,Barack Obama,1220
+New London,Salem,President,,Ind,Ralph Nader,30
+New London,Salem,President,,write-in,Chuck Baldwin,0
+New London,Salem,President,,write-in,Roger Calero,0
+New London,Salem,President,,write-in,Cynthia McKinney,0
+New London,Salem,President,,write-in,Stewart Moore,0
+New London,Salem,US House,2,Rep,Sean Sullivan,730
+New London,Salem,US House,2,Dem,Joe  Courtney,1276
+New London,Salem,US House,2,Green,Scott Deshefy,42
+New London,Salem,US House,2,WF,Joe Courtney,115
+New London,Salem,US House,2,write-in,Todd Vachon,4
+New London,Salem,State Senate,20,Rep,Thomas C. Simones,816
+New London,Salem,State Senate,20,Dem,Andrea L. Stillman,1277
+New London,Salem,State Senate,20,Lbt,Marc L. Guttman,1
+New London,Salem,State House,37,Dem,Ed  Jutila,1381
+New London,Salem,State House,37,Rep,Gregory  Ellis,724
+Litchfield,Salisbury,President,,Rep,John McCain,573
+Litchfield,Salisbury,President,,Dem,Barack Obama,1751
+Litchfield,Salisbury,President,,Ind,Ralph Nader,24
+Litchfield,Salisbury,President,,write-in,Chuck Baldwin,0
+Litchfield,Salisbury,President,,write-in,Roger Calero,0
+Litchfield,Salisbury,President,,write-in,Cynthia McKinney,0
+Litchfield,Salisbury,President,,write-in,Stewart Moore,0
+Litchfield,Salisbury,US House,5,Rep,David  J.  Cappiello,533
+Litchfield,Salisbury,US House,5,Dem,Chris Murphy,1585
+Litchfield,Salisbury,US House,5,Ind,Thomas  L.  Winn,9
+Litchfield,Salisbury,US House,5,Green,Harold  H.  Burbank  II,28
+Litchfield,Salisbury,US House,5,WF,Chris  Murphy,108
+Litchfield,Salisbury,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Salisbury,State Senate,30,Rep,Andrew  Roraback,1447
+Litchfield,Salisbury,State Senate,30,Dem,Michael J. Renzullo,721
+Litchfield,Salisbury,State Senate,30,WF,Michael J. Renzullo,41
+Litchfield,Salisbury,State House,64,WF,Roberta B. Willis,176
+Litchfield,Salisbury,State House,64,Dem,Roberta B. Willis,1773
+Windham,Scotland,President,,Rep,John McCain,436
+Windham,Scotland,President,,Dem,Barack Obama,476
+Windham,Scotland,President,,Ind,Ralph Nader,16
+Windham,Scotland,President,,write-in,Chuck Baldwin,0
+Windham,Scotland,President,,write-in,Roger Calero,0
+Windham,Scotland,President,,write-in,Cynthia McKinney,2
+Windham,Scotland,President,,write-in,Stewart Moore,0
+Windham,Scotland,US House,2,Rep,Sean Sullivan,337
+Windham,Scotland,US House,2,Dem,Joe  Courtney,488
+Windham,Scotland,US House,2,Green,Scott Deshefy,19
+Windham,Scotland,US House,2,WF,Joe Courtney,43
+Windham,Scotland,US House,2,write-in,Todd Vachon,0
+Windham,Scotland,State Senate,29,Rep,Harry  Carboni,300
+Windham,Scotland,State Senate,29,Dem,Donald E. Williams,530
+Windham,Scotland,State Senate,29,WF,Donald E. Williams,37
+Windham,Scotland,State House,47,Rep,Christopher D. Coutu,469
+Windham,Scotland,State House,47,Dem,Jack  Malone,402
+New Haven,Seymour,President,,Rep,John McCain,3868
+New Haven,Seymour,President,,Dem,Barack Obama,3822
+New Haven,Seymour,President,,Ind,Ralph Nader,124
+New Haven,Seymour,President,,write-in,Chuck Baldwin,9
+New Haven,Seymour,President,,write-in,Roger Calero,0
+New Haven,Seymour,President,,write-in,Cynthia McKinney,1
+New Haven,Seymour,President,,write-in,Stewart Moore,0
+New Haven,Seymour,US House,3,Rep,Bo Itshaky,1875
+New Haven,Seymour,US House,3,Dem,Rosa DeLauro,4549
+New Haven,Seymour,US House,3,Green,Ralph Ferrucci,201
+New Haven,Seymour,US House,3,WF,Rosa DeLauro,693
+New Haven,Seymour,State House,105,Rep,Brian F. Koskelowski,2925
+New Haven,Seymour,State House,105,Dem,Theresa W. Conroy,4306
+New Haven,Seymour  Part,State Senate,21,Rep,Dan  Debicella,909
+New Haven,Seymour  Part,State Senate,21,Dem,Janice  Andersen,632
+New Haven,Seymour  Part,State Senate,21,WF,Janice  Andersen,54
+New Haven,Seymour  Part,State Senate,32,Rep,Robert J. Kane,2305
+New Haven,Seymour  Part,State Senate,32,Dem,John  McCarthy,2784
+New Haven,Seymour  Part,State Senate,32,WF,John  McCarthy,320
+Litchfield,Sharon,President,,Rep,John McCain,527
+Litchfield,Sharon,President,,Dem,Barack Obama,1010
+Litchfield,Sharon,President,,Ind,Ralph Nader,21
+Litchfield,Sharon,President,,write-in,Chuck Baldwin,0
+Litchfield,Sharon,President,,write-in,Roger Calero,0
+Litchfield,Sharon,President,,write-in,Cynthia McKinney,0
+Litchfield,Sharon,President,,write-in,Stewart Moore,0
+Litchfield,Sharon,US House,5,Rep,David  J.  Cappiello,475
+Litchfield,Sharon,US House,5,Dem,Chris Murphy,909
+Litchfield,Sharon,US House,5,Ind,Thomas  L.  Winn,11
+Litchfield,Sharon,US House,5,Green,Harold  H.  Burbank  II,13
+Litchfield,Sharon,US House,5,WF,Chris  Murphy,89
+Litchfield,Sharon,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Sharon,State Senate,30,Rep,Andrew  Roraback,1001
+Litchfield,Sharon,State Senate,30,Dem,Michael J. Renzullo,425
+Litchfield,Sharon,State Senate,30,WF,Michael J. Renzullo,23
+Litchfield,Sharon,State House,64,WF,Roberta B. Willis,137
+Litchfield,Sharon,State House,64,Dem,Roberta B. Willis,1029
+Fairfield,Shelton,President,,Rep,John McCain,10428
+Fairfield,Shelton,President,,Dem,Barack Obama,9655
+Fairfield,Shelton,President,,Ind,Ralph Nader,259
+Fairfield,Shelton,President,,write-in,Chuck Baldwin,0
+Fairfield,Shelton,President,,write-in,Roger Calero,0
+Fairfield,Shelton,President,,write-in,Cynthia McKinney,0
+Fairfield,Shelton,President,,write-in,Stewart Moore,0
+Fairfield,Shelton,State Senate,21,Rep,Dan  Debicella,11358
+Fairfield,Shelton,State Senate,21,Dem,Janice  Andersen,7104
+Fairfield,Shelton,State Senate,21,WF,Janice  Andersen,736
+Fairfield,Shelton  Part,US House,3,Rep,Bo Itshaky,1281
+Fairfield,Shelton  Part,US House,3,Dem,Rosa DeLauro,2704
+Fairfield,Shelton  Part,US House,3,Green,Ralph Ferrucci,129
+Fairfield,Shelton  Part,US House,3,WF,Rosa DeLauro,400
+Fairfield,Shelton  Part,US House,4,Rep,Christopher Shays,7668
+Fairfield,Shelton  Part,US House,4,Dem,Jim Himes,6338
+Fairfield,Shelton  Part,US House,4,Green,Richard  Z.  Duffee,78
+Fairfield,Shelton  Part,US House,4,WF,Jim Himes,662
+Fairfield,Shelton  Part,US House,4,Lbt,Michael Carrano,126
+Fairfield,Shelton  Part,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Shelton  Part,State House,113,Rep,Jason D. Perillo,7847
+Fairfield,Shelton  Part,State House,122,Rep,Lawrence G. Miller,4526
+Fairfield,Shelton  Part,State House,122,Dem,Cheryl  Jansen,3844
+Fairfield,Sherman,President,,Rep,John McCain,1026
+Fairfield,Sherman,President,,Dem,Barack Obama,1110
+Fairfield,Sherman,President,,Ind,Ralph Nader,28
+Fairfield,Sherman,President,,write-in,Chuck Baldwin,0
+Fairfield,Sherman,President,,write-in,Roger Calero,0
+Fairfield,Sherman,President,,write-in,Cynthia McKinney,0
+Fairfield,Sherman,President,,write-in,Stewart Moore,0
+Fairfield,Sherman,US House,5,Rep,David  J.  Cappiello,1024
+Fairfield,Sherman,US House,5,Dem,Chris Murphy,1026
+Fairfield,Sherman,US House,5,Ind,Thomas  L.  Winn,15
+Fairfield,Sherman,US House,5,Green,Harold  H.  Burbank  II,18
+Fairfield,Sherman,US House,5,WF,Chris  Murphy,0
+Fairfield,Sherman,US House,5,write-in,Walter  Gengarelly,0
+Fairfield,Sherman,State Senate,24,Rep,Michael A. McLachlan,1179
+Fairfield,Sherman,State Senate,24,Dem,Duane E. Perkins,827
+Fairfield,Sherman,State Senate,24,Ind,Michael A. McLachlan,0
+Fairfield,Sherman,State Senate,24,WF,Duane E. Perkins,0
+Fairfield,Sherman,State Senate,24,PC,Manuel A. Bataguas,6
+Fairfield,Sherman,State House,108,Rep,Mary Ann  Carson,1451
+Hartford,Simsbury,President,,Rep,John McCain,5928
+Hartford,Simsbury,President,,Dem,Barack Obama,7964
+Hartford,Simsbury,President,,Ind,Ralph Nader,133
+Hartford,Simsbury,President,,write-in,Chuck Baldwin,2
+Hartford,Simsbury,President,,write-in,Roger Calero,0
+Hartford,Simsbury,President,,write-in,Cynthia McKinney,0
+Hartford,Simsbury,President,,write-in,Stewart Moore,0
+Hartford,Simsbury,US House,5,Rep,David  J.  Cappiello,5362
+Hartford,Simsbury,US House,5,Dem,Chris Murphy,7264
+Hartford,Simsbury,US House,5,Ind,Thomas  L.  Winn,98
+Hartford,Simsbury,US House,5,Green,Harold  H.  Burbank  II,119
+Hartford,Simsbury,US House,5,WF,Chris  Murphy,567
+Hartford,Simsbury,US House,5,write-in,Walter  Gengarelly,0
+Hartford,Simsbury,State Senate,8,Rep,Kevin D. Witkos,6566
+Hartford,Simsbury,State Senate,8,Dem,Arthur H. House,6242
+Hartford,Simsbury,State Senate,8,WF,Arthur H. House,399
+Hartford,Simsbury,State House,16,Rep,Robert  Heagney,5477
+Hartford,Simsbury,State House,16,Dem,Linda  Schofield,7607
+Hartford,Simsbury,State House,16,WF,Deborah Beth  Noble,340
+Hartford,Simsbury,State House,16,PC,Robert H. Kalechman,52
+Tolland,Somers,President,,Rep,John McCain,2535
+Tolland,Somers,President,,Dem,Barack Obama,2473
+Tolland,Somers,President,,Ind,Ralph Nader,56
+Tolland,Somers,President,,write-in,Chuck Baldwin,2
+Tolland,Somers,President,,write-in,Roger Calero,0
+Tolland,Somers,President,,write-in,Cynthia McKinney,0
+Tolland,Somers,President,,write-in,Stewart Moore,0
+Tolland,Somers,US House,2,Rep,Sean Sullivan,2000
+Tolland,Somers,US House,2,Dem,Joe  Courtney,2267
+Tolland,Somers,US House,2,Green,Scott Deshefy,56
+Tolland,Somers,US House,2,WF,Joe Courtney,94
+Tolland,Somers,US House,2,write-in,Todd Vachon,0
+Tolland,Somers,State Senate,7,Rep,John A. Kissel,2604
+Tolland,Somers,State Senate,7,Dem,George  Colli,1702
+Tolland,Somers,State Senate,7,WF,John A. Kissel,97
+Tolland,Somers,State House,52,Rep,Penny  Bacchiochi,3424
+Tolland,Somers,State House,52,Dem,Arlene  Avery,1069
+Tolland,Somers,State House,52,WF,Arlene  Avery,51
+Tolland,Somers,State House,52,CC,John M. Traceski,105
+Hartford,South Windsor,President,,Rep,John McCain,5421
+Hartford,South Windsor,President,,Dem,Barack Obama,8773
+Hartford,South Windsor,President,,Ind,Ralph Nader,184
+Hartford,South Windsor,President,,write-in,Chuck Baldwin,2
+Hartford,South Windsor,President,,write-in,Roger Calero,0
+Hartford,South Windsor,President,,write-in,Cynthia McKinney,0
+Hartford,South Windsor,President,,write-in,Stewart Moore,0
+Hartford,South Windsor,US House,1,Rep,Joe  Visconti,3426
+Hartford,South Windsor,US House,1,Dem,John Larson,8734
+Hartford,South Windsor,US House,1,Green,Stephen Fournier,206
+Hartford,South Windsor,US House,1,WF,John Larson,935
+Hartford,South Windsor,US House,1,write-in,Matthew Coleman,0
+Hartford,South Windsor,State Senate,3,Dem,Gary D. LeBeau,9234
+Hartford,South Windsor,State Senate,3,WF,Gary D. LeBeau,1337
+Hartford,South Windsor  Part,State House,11,Dem,Timothy D. Larson,460
+Hartford,South Windsor  Part,State House,14,Rep,Bill  Aman,7168
+Hartford,South Windsor  Part,State House,14,Dem,Kathy  Hale,5341
+Hartford,South Windsor  Part,State House,14,WF,Kathy  Hale,620
+New Haven,Southbury,President,,Rep,John McCain,6172
+New Haven,Southbury,President,,Dem,Barack Obama,5458
+New Haven,Southbury,President,,Ind,Ralph Nader,119
+New Haven,Southbury,President,,write-in,Chuck Baldwin,2
+New Haven,Southbury,President,,write-in,Roger Calero,0
+New Haven,Southbury,President,,write-in,Cynthia McKinney,1
+New Haven,Southbury,President,,write-in,Stewart Moore,0
+New Haven,Southbury,US House,5,Rep,David  J.  Cappiello,5577
+New Haven,Southbury,US House,5,Dem,Chris Murphy,4956
+New Haven,Southbury,US House,5,Ind,Thomas  L.  Winn,90
+New Haven,Southbury,US House,5,Green,Harold  H.  Burbank  II,47
+New Haven,Southbury,US House,5,WF,Chris  Murphy,461
+New Haven,Southbury,US House,5,write-in,Walter  Gengarelly,0
+New Haven,Southbury,State Senate,32,Rep,Robert J. Kane,5993
+New Haven,Southbury,State Senate,32,Dem,John  McCarthy,4507
+New Haven,Southbury,State Senate,32,WF,John  McCarthy,351
+New Haven,Southbury  Part,State House,69,Rep,Arthur J. O'Neill,6213
+New Haven,Southbury  Part,State House,131,Rep,David K. Labriola,1573
+Hartford,Southington,President,,Rep,John McCain,9845
+Hartford,Southington,President,,Dem,Barack Obama,12066
+Hartford,Southington,President,,Ind,Ralph Nader,309
+Hartford,Southington,President,,write-in,Chuck Baldwin,9
+Hartford,Southington,President,,write-in,Roger Calero,1
+Hartford,Southington,President,,write-in,Cynthia McKinney,0
+Hartford,Southington,President,,write-in,Stewart Moore,0
+Hartford,Southington,US House,1,Rep,Joe  Visconti,7105
+Hartford,Southington,US House,1,Dem,John Larson,11572
+Hartford,Southington,US House,1,Green,Stephen Fournier,453
+Hartford,Southington,US House,1,WF,John Larson,985
+Hartford,Southington,US House,1,write-in,Matthew Coleman,1
+Hartford,Southington,State Senate,16,Rep,Sam S.F. Caligiuri,12079
+Hartford,Southington,State Senate,16,Ind,Mark A. Orsini,3821
+Hartford,Southington  Part,State House,30,Dem,Joe  Aresimowicz,3740
+Hartford,Southington  Part,State House,30,Dem,Joe  Aresimowicz,647
+Hartford,Southington  Part,State House,80,Dem,Corky  Mazurek,2620
+Hartford,Southington  Part,State House,80,CC,James F. Farrell,444
+Hartford,Southington  Part,State House,80,PC,Samuel  Zotto,103
+Hartford,Southington  Part,State House,81,Rep,Dan  Banici,3290
+Hartford,Southington  Part,State House,81,Dem,Bruce Zeke  Zalaski,7155
+Hartford,Southington  Part,State House,81,CC,Timothy A. Knibbs,323
+New London,Sprague,President,,Rep,John McCain,683
+New London,Sprague,President,,Dem,Barack Obama,766
+New London,Sprague,President,,Ind,Ralph Nader,30
+New London,Sprague,President,,write-in,Chuck Baldwin,0
+New London,Sprague,President,,write-in,Roger Calero,0
+New London,Sprague,President,,write-in,Cynthia McKinney,0
+New London,Sprague,President,,write-in,Stewart Moore,0
+New London,Sprague,US House,2,Rep,Sean Sullivan,425
+New London,Sprague,US House,2,Dem,Joe  Courtney,852
+New London,Sprague,US House,2,Green,Scott Deshefy,22
+New London,Sprague,US House,2,WF,Joe Courtney,81
+New London,Sprague,US House,2,write-in,Todd Vachon,1
+New London,Sprague,State Senate,19,Dem,Edith G. Prague,954
+New London,Sprague,State Senate,19,WF,Edith G. Prague,157
+New London,Sprague,State House,47,Rep,Christopher D. Coutu,761
+New London,Sprague,State House,47,Dem,Jack  Malone,632
+Tolland,Stafford,US House,2,Rep,Sean Sullivan,1696
+Tolland,Stafford,US House,2,Dem,Joe  Courtney,3525
+Tolland,Stafford,US House,2,Green,Scott Deshefy,76
+Tolland,Stafford,US House,2,WF,Joe Courtney,395
+Tolland,Stafford,US House,2,write-in,Todd Vachon,0
+Tolland,Stafford,State Senate,35,Rep,Tony  Guglielmo,4616
+Tolland,Stafford,State House,52,Rep,Penny  Bacchiochi,3519
+Tolland,Stafford,State House,52,Dem,Arlene  Avery,2155
+Tolland,Stafford,State House,52,WF,Arlene  Avery,239
+Tolland,Stafford,State House,52,CC,John M. Traceski,34
+Tolland,Stafford,President,,Rep,John McCain,2505
+Tolland,Stafford,President,,Dem,Barack Obama,3540
+Tolland,Stafford,President,,Ind,Ralph Nader,131
+Tolland,Stafford,President,,write-in,Chuck Baldwin,0
+Tolland,Stafford,President,,write-in,Roger Calero,0
+Tolland,Stafford,President,,write-in,Cynthia McKinney,0
+Tolland,Stafford,President,,write-in,Stewart Moore,0
+Fairfield,Stamford,President,,Rep,John McCain,17510
+Fairfield,Stamford,President,,Dem,Barack Obama,31733
+Fairfield,Stamford,President,,Ind,Ralph Nader,280
+Fairfield,Stamford,President,,write-in,Chuck Baldwin,7
+Fairfield,Stamford,President,,write-in,Roger Calero,1
+Fairfield,Stamford,President,,write-in,Cynthia McKinney,2
+Fairfield,Stamford,President,,write-in,Stewart Moore,1
+Fairfield,Stamford,US House,4,Rep,Christopher Shays,19735
+Fairfield,Stamford,US House,4,Dem,Jim Himes,26039
+Fairfield,Stamford,US House,4,Green,Richard  Z.  Duffee,213
+Fairfield,Stamford,US House,4,WF,Jim Himes,1035
+Fairfield,Stamford,US House,4,Lbt,Michael Carrano,306
+Fairfield,Stamford,US House,4,write-in,Eugene Flanagan,2
+Fairfield,Stamford  Part,State Senate,27,Dem,Andrew J. McDonald,24254
+Fairfield,Stamford  Part,State Senate,27,write-in,David  Bedell,5
+Fairfield,Stamford  Part,State Senate,36,Rep,L. Scott  Frantz,5591
+Fairfield,Stamford  Part,State Senate,36,Dem,Mark  Diamond,6341
+Fairfield,Stamford  Part,State Senate,36,Green,Zachary A. Chaves,255
+Fairfield,Stamford  Part,State House,144,Dem,James A. Shapiro,6811
+Fairfield,Stamford  Part,State House,144,write-in,Richard  Duffee,2
+Fairfield,Stamford  Part,State House,145,Dem,Patricia Billie  Miller,4634
+Fairfield,Stamford  Part,State House,145,Rep,Fritz  Blau,945
+Fairfield,Stamford  Part,State House,146,Dem,"Gerald M. Fox, III",6425
+Fairfield,Stamford  Part,State House,146,write-in,German  Tedesco,1
+Fairfield,Stamford  Part,State House,147,Dem,William M. Tong,7679
+Fairfield,Stamford  Part,State House,147,write-in,Brent  Yarnell,0
+Fairfield,Stamford  Part,State House,148,Dem,Carlo  Leone,5686
+Fairfield,Stamford  Part,State House,148,write-in,David  Bedell,8
+Fairfield,Stamford  Part,State House,149,Rep,Livvy R. Floren,1867
+Windham,Sterling,President,,Rep,John McCain,785
+Windham,Sterling,President,,Dem,Barack Obama,704
+Windham,Sterling,President,,Ind,Ralph Nader,29
+Windham,Sterling,President,,write-in,Chuck Baldwin,4
+Windham,Sterling,President,,write-in,Roger Calero,0
+Windham,Sterling,President,,write-in,Cynthia McKinney,0
+Windham,Sterling,President,,write-in,Stewart Moore,0
+Windham,Sterling,US House,2,Rep,Sean Sullivan,538
+Windham,Sterling,US House,2,Dem,Joe  Courtney,744
+Windham,Sterling,US House,2,Green,Scott Deshefy,27
+Windham,Sterling,US House,2,WF,Joe Courtney,62
+Windham,Sterling,US House,2,write-in,Todd Vachon,0
+Windham,Sterling,State Senate,18,Rep,Anne P. Hatfield,629
+Windham,Sterling,State Senate,18,Dem,Andrew M. Maynard,717
+Windham,Sterling,State House,44,Rep,Angeline  Kwasny,520
+Windham,Sterling,State House,44,Dem,Mae  Flexer,853
+New London,Stonington,President,,Rep,John McCain,4011
+New London,Stonington,President,,Dem,Barack Obama,6307
+New London,Stonington,President,,Ind,Ralph Nader,121
+New London,Stonington,President,,write-in,Chuck Baldwin,4
+New London,Stonington,President,,write-in,Roger Calero,0
+New London,Stonington,President,,write-in,Cynthia McKinney,0
+New London,Stonington,President,,write-in,Stewart Moore,0
+New London,Stonington,US House,2,Rep,Sean Sullivan,3065
+New London,Stonington,US House,2,Dem,Joe  Courtney,6292
+New London,Stonington,US House,2,Green,Scott Deshefy,155
+New London,Stonington,US House,2,WF,Joe Courtney,181
+New London,Stonington,US House,2,write-in,Todd Vachon,0
+New London,Stonington,State Senate,18,Rep,Anne P. Hatfield,2597
+New London,Stonington,State Senate,18,Dem,Andrew M. Maynard,7047
+New London,Stonington,State House,43,Rep,Brian  Kluberdanz,3493
+New London,Stonington,State House,43,Dem,Diana S. Urban,6383
+Fairfield,Stratford,President,,Rep,John McCain,10199
+Fairfield,Stratford,President,,Dem,Barack Obama,14626
+Fairfield,Stratford,President,,Ind,Ralph Nader,265
+Fairfield,Stratford,President,,write-in,Chuck Baldwin,0
+Fairfield,Stratford,President,,write-in,Roger Calero,0
+Fairfield,Stratford,President,,write-in,Cynthia McKinney,0
+Fairfield,Stratford,President,,write-in,Stewart Moore,0
+Fairfield,Stratford,US House,3,Rep,Bo Itshaky,4998
+Fairfield,Stratford,US House,3,Dem,Rosa DeLauro,16524
+Fairfield,Stratford,US House,3,Green,Ralph Ferrucci,387
+Fairfield,Stratford,US House,3,WF,Rosa DeLauro,1074
+Fairfield,Stratford  Part,State Senate,21,Rep,Dan  Debicella,9602
+Fairfield,Stratford  Part,State Senate,21,Dem,Janice  Andersen,9952
+Fairfield,Stratford  Part,State Senate,21,WF,Janice  Andersen,603
+Fairfield,Stratford  Part,State Senate,23,Rep,Milton  Johnson,373
+Fairfield,Stratford  Part,State Senate,23,Dem,Edwin A. Gomes,2315
+Fairfield,Stratford  Part,State Senate,23,WF,Edwin A. Gomes,115
+Fairfield,Stratford  Part,State House,120,Rep,John A. Harkins,5890
+Fairfield,Stratford  Part,State House,120,Dem,Scott  Potter,4754
+Fairfield,Stratford  Part,State House,121,Dem,Terry  Backer,7322
+Fairfield,Stratford  Part,State House,122,Rep,Lawrence G. Miller,1941
+Fairfield,Stratford  Part,State House,122,Dem,Cheryl  Jansen,1510
+Hartford,Suffield,US House,2,Rep,Sean Sullivan,2761
+Hartford,Suffield,US House,2,Dem,Joe  Courtney,3530
+Hartford,Suffield,US House,2,Green,Scott Deshefy,137
+Hartford,Suffield,US House,2,WF,Joe Courtney,403
+Hartford,Suffield,US House,2,write-in,Todd Vachon,0
+Hartford,Suffield,State Senate,7,Rep,John A. Kissel,3239
+Hartford,Suffield,State Senate,7,Dem,George  Colli,3260
+Hartford,Suffield,State Senate,7,WF,John A. Kissel,423
+Hartford,Suffield,State House,61,Dem,"Matthew J. Conway, Jr.",3057
+Hartford,Suffield,State House,61,Rep,Lauren K. Life,3613
+Hartford,Suffield,State House,61,WF,"Matthew J. Conway, Jr.",497
+Hartford,Suffield,President,,Rep,John McCain,3562
+Hartford,Suffield,President,,Dem,Barack Obama,3808
+Hartford,Suffield,President,,Ind,Ralph Nader,90
+Hartford,Suffield,President,,write-in,Chuck Baldwin,0
+Hartford,Suffield,President,,write-in,Roger Calero,0
+Hartford,Suffield,President,,write-in,Cynthia McKinney,0
+Hartford,Suffield,President,,write-in,Stewart Moore,0
+Litchfield,Thomaston,President,,Rep,John McCain,2122
+Litchfield,Thomaston,President,,Dem,Barack Obama,1842
+Litchfield,Thomaston,President,,Ind,Ralph Nader,74
+Litchfield,Thomaston,President,,write-in,Chuck Baldwin,3
+Litchfield,Thomaston,President,,write-in,Roger Calero,0
+Litchfield,Thomaston,President,,write-in,Cynthia McKinney,1
+Litchfield,Thomaston,President,,write-in,Stewart Moore,0
+Litchfield,Thomaston,US House,5,Rep,David  J.  Cappiello,1702
+Litchfield,Thomaston,US House,5,Dem,Chris Murphy,2048
+Litchfield,Thomaston,US House,5,Ind,Thomas  L.  Winn,64
+Litchfield,Thomaston,US House,5,Green,Harold  H.  Burbank  II,27
+Litchfield,Thomaston,US House,5,WF,Chris  Murphy,179
+Litchfield,Thomaston,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Thomaston,State Senate,32,Rep,Robert J. Kane,2045
+Litchfield,Thomaston,State Senate,32,Dem,John  McCarthy,1617
+Litchfield,Thomaston,State Senate,32,WF,John  McCarthy,152
+Litchfield,Thomaston,State House,76,Rep,John  Piscopo,2623
+Litchfield,Thomaston,State House,76,Dem,Joseph  Arcuri,1125
+Windham,Thompson,President,,Rep,John McCain,2112
+Windham,Thompson,President,,Dem,Barack Obama,2290
+Windham,Thompson,President,,Ind,Ralph Nader,82
+Windham,Thompson,President,,write-in,Chuck Baldwin,2
+Windham,Thompson,President,,write-in,Roger Calero,0
+Windham,Thompson,President,,write-in,Cynthia McKinney,0
+Windham,Thompson,President,,write-in,Stewart Moore,0
+Windham,Thompson,US House,2,Rep,Sean Sullivan,1453
+Windham,Thompson,US House,2,Dem,Joe  Courtney,2299
+Windham,Thompson,US House,2,Green,Scott Deshefy,67
+Windham,Thompson,US House,2,WF,Joe Courtney,209
+Windham,Thompson,US House,2,write-in,Todd Vachon,0
+Windham,Thompson,State Senate,29,Rep,Harry  Carboni,1033
+Windham,Thompson,State Senate,29,Dem,Donald E. Williams,2649
+Windham,Thompson,State Senate,29,WF,Donald E. Williams,340
+Windham,Thompson,State House,51,Rep,Shawn T. Johnston,1625
+Windham,Thompson,State House,51,Dem,Shawn T. Johnston,2287
+Tolland,Tolland,President,,Rep,John McCain,3611
+Tolland,Tolland,President,,Dem,Barack Obama,4752
+Tolland,Tolland,President,,Ind,Ralph Nader,106
+Tolland,Tolland,President,,write-in,Chuck Baldwin,6
+Tolland,Tolland,President,,write-in,Roger Calero,0
+Tolland,Tolland,President,,write-in,Cynthia McKinney,0
+Tolland,Tolland,President,,write-in,Stewart Moore,0
+Tolland,Tolland,US House,2,Rep,Sean Sullivan,2659
+Tolland,Tolland,US House,2,Dem,Joe  Courtney,4914
+Tolland,Tolland,US House,2,Green,Scott Deshefy,115
+Tolland,Tolland,US House,2,WF,Joe Courtney,372
+Tolland,Tolland,US House,2,write-in,Todd Vachon,0
+Tolland,Tolland,State Senate,35,Rep,Tony  Guglielmo,6004
+Tolland,Tolland,State House,53,Rep,Robert  Arute,3504
+Tolland,Tolland,State House,53,Rep,Bryan  Hurlburt,4498
+Litchfield,Torrington,President,,Rep,John McCain,7424
+Litchfield,Torrington,President,,Dem,Barack Obama,8159
+Litchfield,Torrington,President,,Ind,Ralph Nader,385
+Litchfield,Torrington,President,,write-in,Chuck Baldwin,2
+Litchfield,Torrington,President,,write-in,Roger Calero,0
+Litchfield,Torrington,President,,write-in,Cynthia McKinney,0
+Litchfield,Torrington,President,,write-in,Stewart Moore,0
+Litchfield,Torrington  Part,US House,1,Rep,Joe  Visconti,3014
+Litchfield,Torrington  Part,US House,1,Dem,John Larson,3524
+Litchfield,Torrington  Part,US House,1,Green,Stephen Fournier,174
+Litchfield,Torrington  Part,US House,1,WF,John Larson,245
+Litchfield,Torrington  Part,US House,1,write-in,Matthew Coleman,0
+Litchfield,Torrington  Part,US House,5,Rep,David  J.  Cappiello,2717
+Litchfield,Torrington  Part,US House,5,Dem,Chris Murphy,4282
+Litchfield,Torrington  Part,US House,5,Ind,Thomas  L.  Winn,110
+Litchfield,Torrington  Part,US House,5,Green,Harold  H.  Burbank  II,71
+Litchfield,Torrington  Part,US House,5,WF,Chris  Murphy,316
+Litchfield,Torrington  Part,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Torrington  Part,State Senate,8,Rep,Kevin D. Witkos,3982
+Litchfield,Torrington  Part,State Senate,8,Dem,Arthur H. House,4474
+Litchfield,Torrington  Part,State Senate,8,WF,Arthur H. House,335
+Litchfield,Torrington  Part,State Senate,30,Rep,Andrew  Roraback,3932
+Litchfield,Torrington  Part,State Senate,30,Dem,Michael J. Renzullo,1445
+Litchfield,Torrington  Part,State Senate,30,WF,Michael J. Renzullo,135
+Litchfield,Torrington  Part,State House,64,WF,Roberta B. Willis,654
+Litchfield,Torrington  Part,State House,64,Dem,Roberta B. Willis,3893
+Litchfield,Torrington  Part,State House,65,Rep,Anne L. Ruwet,3853
+Litchfield,Torrington  Part,State House,65,Dem,Michelle  Cook,4535
+Litchfield,Torrington  Part,State House,65,WF,Michelle  Cook,410
+,Total,US House,2,Rep,Sean Sullivan,104574
+,Total,US House,2,Dem,Joe  Courtney,198984
+,Total,US House,2,Green,Scott Deshefy,6300
+,Total,US House,2,WF,Joe Courtney,13164
+,Total,US House,2,write-in,Todd Vachon,19
+,Total,US House,3,Rep,Bo Itshaky,58583
+,Total,US House,3,Dem,Rosa DeLauro,204761
+,Total,US House,3,Green,Ralph Ferrucci,8613
+,Total,US House,3,WF,Rosa DeLauro,25411
+Fairfield,Trumbull,President,,Rep,John McCain,9927
+Fairfield,Trumbull,President,,Dem,Barack Obama,9757
+Fairfield,Trumbull,President,,Ind,Ralph Nader,157
+Fairfield,Trumbull,President,,write-in,Chuck Baldwin,1
+Fairfield,Trumbull,President,,write-in,Roger Calero,0
+Fairfield,Trumbull,President,,write-in,Cynthia McKinney,0
+Fairfield,Trumbull,President,,write-in,Stewart Moore,0
+Fairfield,Trumbull,US House,4,Rep,Christopher Shays,10325
+Fairfield,Trumbull,US House,4,Dem,Jim Himes,8115
+Fairfield,Trumbull,US House,4,Green,Richard  Z.  Duffee,84
+Fairfield,Trumbull,US House,4,WF,Jim Himes,482
+Fairfield,Trumbull,US House,4,Lbt,Michael Carrano,151
+Fairfield,Trumbull,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Trumbull,State Senate,22,Rep,Robert D. Russo,10141
+Fairfield,Trumbull,State Senate,22,Dem,Anthony J. Musto,8183
+Fairfield,Trumbull,State Senate,22,WF,Anthony J. Musto,432
+Fairfield,Trumbull  Part,State House,123,Rep,T.R.  Rowe,8077
+Fairfield,Trumbull  Part,State House,123,Dem,Cheryl  Bochet,4829
+Fairfield,Trumbull  Part,State House,134,Rep,Tony  Hwang,2863
+Fairfield,Trumbull  Part,State House,134,Dem,Tom F. Christiano,2845
+Tolland,Union,President,,Rep,John McCain,252
+Tolland,Union,President,,Dem,Barack Obama,273
+Tolland,Union,President,,Ind,Ralph Nader,11
+Tolland,Union,President,,write-in,Chuck Baldwin,0
+Tolland,Union,President,,write-in,Roger Calero,0
+Tolland,Union,President,,write-in,Cynthia McKinney,0
+Tolland,Union,President,,write-in,Stewart Moore,0
+Tolland,Union,US House,2,Rep,Sean Sullivan,199
+Tolland,Union,US House,2,Dem,Joe  Courtney,281
+Tolland,Union,US House,2,Green,Scott Deshefy,6
+Tolland,Union,US House,2,WF,Joe Courtney,18
+Tolland,Union,US House,2,write-in,Todd Vachon,0
+Tolland,Union,State Senate,35,Rep,Tony  Guglielmo,413
+Tolland,Union,State House,52,Rep,Penny  Bacchiochi,317
+Tolland,Union,State House,52,Dem,Arlene  Avery,182
+Tolland,Union,State House,52,WF,Arlene  Avery,11
+Tolland,Union,State House,52,CC,John M. Traceski,5
+Tolland,Vernon,President,,Rep,John McCain,5098
+Tolland,Vernon,President,,Dem,Barack Obama,8645
+Tolland,Vernon,President,,Ind,Ralph Nader,186
+Tolland,Vernon,President,,write-in,Chuck Baldwin,4
+Tolland,Vernon,President,,write-in,Roger Calero,1
+Tolland,Vernon,President,,write-in,Cynthia McKinney,2
+Tolland,Vernon,President,,write-in,Stewart Moore,0
+Tolland,Vernon,US House,2,Rep,Sean Sullivan,3487
+Tolland,Vernon,US House,2,Dem,Joe  Courtney,8331
+Tolland,Vernon,US House,2,Green,Scott Deshefy,188
+Tolland,Vernon,US House,2,WF,Joe Courtney,508
+Tolland,Vernon,US House,2,write-in,Todd Vachon,2
+Tolland,Vernon,State Senate,35,Rep,Tony  Guglielmo,8642
+Tolland,Vernon  Part,State House,8,Rep,Timothy J. Ackert,1449
+Tolland,Vernon  Part,State House,8,Dem,Joan A. Lewis,1655
+Tolland,Vernon  Part,State House,8,WF,Joan A. Lewis,139
+Tolland,Vernon  Part,State House,56,Dem,Claire L. Janowski,7715
+New London,Voluntown,President,,Rep,John McCain,664
+New London,Voluntown,President,,Dem,Barack Obama,618
+New London,Voluntown,President,,Ind,Ralph Nader,20
+New London,Voluntown,President,,write-in,Chuck Baldwin,1
+New London,Voluntown,President,,write-in,Roger Calero,0
+New London,Voluntown,President,,write-in,Cynthia McKinney,0
+New London,Voluntown,President,,write-in,Stewart Moore,0
+New London,Voluntown,US House,2,Rep,Sean Sullivan,410
+New London,Voluntown,US House,2,Dem,Joe  Courtney,645
+New London,Voluntown,US House,2,Green,Scott Deshefy,27
+New London,Voluntown,US House,2,WF,Joe Courtney,112
+New London,Voluntown,US House,2,write-in,Todd Vachon,0
+New London,Voluntown,State Senate,18,Rep,Anne P. Hatfield,398
+New London,Voluntown,State Senate,18,Dem,Andrew M. Maynard,773
+New London,Voluntown,State House,45,Rep,Ed  Berdick,293
+New London,Voluntown,State House,45,Dem,Steven  Mikutel,759
+New London,Voluntown,State House,45,WF,Steven  Mikutel,158
+New Haven,Wallingford,President,,Rep,John McCain,9372
+New Haven,Wallingford,President,,Dem,Barack Obama,12833
+New Haven,Wallingford,President,,Ind,Ralph Nader,320
+New Haven,Wallingford,President,,write-in,Chuck Baldwin,14
+New Haven,Wallingford,President,,write-in,Roger Calero,0
+New Haven,Wallingford,President,,write-in,Cynthia McKinney,5
+New Haven,Wallingford,President,,write-in,Stewart Moore,0
+New Haven,Wallingford,US House,3,Rep,Bo Itshaky,4683
+New Haven,Wallingford,US House,3,Dem,Rosa DeLauro,13170
+New Haven,Wallingford,US House,3,Green,Ralph Ferrucci,723
+New Haven,Wallingford,US House,3,WF,Rosa DeLauro,2278
+New Haven,Wallingford,State Senate,34,Rep,Leonard A. Fasano,11101
+New Haven,Wallingford,State Senate,34,WF,Leonard A. Fasano,3525
+New Haven,Wallingford  Part,State House,85,Rep,Michael T. Vitali,3793
+New Haven,Wallingford  Part,State House,85,Dem,Mary M. Mushinsky,5568
+New Haven,Wallingford  Part,State House,85,WF,Mary M. Mushinsky,893
+New Haven,Wallingford  Part,State House,86,Rep,Vincent J. Candelora,791
+New Haven,Wallingford  Part,State House,90,Dem,Mary G. Fritz,5418
+New Haven,Wallingford  Part,State House,90,CFL,Peter J. Votto,855
+New Haven,Wallingford  Part,State House,103,Rep,Al  Adinolfi,1370
+New Haven,Wallingford  Part,State House,103,Dem,Elizabeth  Esty,1364
+Litchfield,Warren,President,,Rep,John McCain,384
+Litchfield,Warren,President,,Dem,Barack Obama,455
+Litchfield,Warren,President,,Ind,Ralph Nader,18
+Litchfield,Warren,President,,write-in,Chuck Baldwin,0
+Litchfield,Warren,President,,write-in,Roger Calero,0
+Litchfield,Warren,President,,write-in,Cynthia McKinney,0
+Litchfield,Warren,President,,write-in,Stewart Moore,0
+Litchfield,Warren,US House,5,Rep,David  J.  Cappiello,372
+Litchfield,Warren,US House,5,Dem,Chris Murphy,400
+Litchfield,Warren,US House,5,Ind,Thomas  L.  Winn,48
+Litchfield,Warren,US House,5,Green,Harold  H.  Burbank  II,14
+Litchfield,Warren,US House,5,WF,Chris  Murphy,38
+Litchfield,Warren,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Warren,State Senate,30,Rep,Andrew  Roraback,556
+Litchfield,Warren,State Senate,30,Dem,Michael J. Renzullo,243
+Litchfield,Warren,State Senate,30,WF,Michael J. Renzullo,14
+Litchfield,Warren,State House,66,Rep,Craig A. Miner,461
+Litchfield,Warren,State House,66,Dem,Nick  Creed,317
+Litchfield,Warren,State House,66,CC,Richard S. Schuley,13
+Litchfield,Warren,State House,66,WF,Nick  Creed,21
+Litchfield,Washington,President,,Rep,John McCain,818
+Litchfield,Washington,President,,Dem,Barack Obama,1384
+Litchfield,Washington,President,,Ind,Ralph Nader,21
+Litchfield,Washington,President,,write-in,Chuck Baldwin,0
+Litchfield,Washington,President,,write-in,Roger Calero,0
+Litchfield,Washington,President,,write-in,Cynthia McKinney,0
+Litchfield,Washington,President,,write-in,Stewart Moore,0
+Litchfield,Washington,US House,5,Rep,David  J.  Cappiello,745
+Litchfield,Washington,US House,5,Dem,Chris Murphy,1203
+Litchfield,Washington,US House,5,Ind,Thomas  L.  Winn,9
+Litchfield,Washington,US House,5,Green,Harold  H.  Burbank  II,22
+Litchfield,Washington,US House,5,WF,Chris  Murphy,110
+Litchfield,Washington,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Washington,State Senate,30,Rep,Andrew  Roraback,1205
+Litchfield,Washington,State Senate,30,Dem,Michael J. Renzullo,735
+Litchfield,Washington,State Senate,30,WF,Michael J. Renzullo,41
+Litchfield,Washington,State House,69,Rep,Arthur J. O'Neill,1230
+New Haven,Waterbury,President,,Rep,John McCain,12821
+New Haven,Waterbury,President,,Dem,Barack Obama,22599
+New Haven,Waterbury,President,,Ind,Ralph Nader,529
+New Haven,Waterbury,President,,write-in,Chuck Baldwin,4
+New Haven,Waterbury,President,,write-in,Roger Calero,0
+New Haven,Waterbury,President,,write-in,Cynthia McKinney,1
+New Haven,Waterbury,President,,write-in,Stewart Moore,0
+New Haven,Waterbury  Part,US House,3,Rep,Bo Itshaky,1195
+New Haven,Waterbury  Part,US House,3,Dem,Rosa DeLauro,3427
+New Haven,Waterbury  Part,US House,3,Green,Ralph Ferrucci,363
+New Haven,Waterbury  Part,US House,3,WF,Rosa DeLauro,467
+New Haven,Waterbury  Part,US House,5,Rep,David  J.  Cappiello,7412
+New Haven,Waterbury  Part,US House,5,Dem,Chris Murphy,15390
+New Haven,Waterbury  Part,US House,5,Ind,Thomas  L.  Winn,387
+New Haven,Waterbury  Part,US House,5,Green,Harold  H.  Burbank  II,141
+New Haven,Waterbury  Part,US House,5,WF,Chris  Murphy,2823
+New Haven,Waterbury  Part,US House,5,write-in,Walter  Gengarelly,3
+New Haven,Waterbury  Part,State Senate,15,Ind,"Cicero B. Booker, Jr.",1886
+New Haven,Waterbury  Part,State Senate,16,Rep,Sam S.F. Caligiuri,5547
+New Haven,Waterbury  Part,State Senate,15,Dem,Joan V. Hartley,15041
+New Haven,Waterbury  Part,State Senate,15,WF,"Cicero B. Booker, Jr.",2198
+New Haven,Waterbury  Part,State Senate,16,Ind,Mark A. Orsini,1870
+New Haven,Waterbury  Part,State House,71,Rep,Anthony J. D'Amelio,3408
+New Haven,Waterbury  Part,State House,71,Dem,"Stephen R. Ferrucci, III",2173
+New Haven,Waterbury  Part,State House,71,Ind,"Arthur J. Denze, Sr.",858
+New Haven,Waterbury  Part,State House,71,WF,"Stephen R. Ferrucci, III",151
+New Haven,Waterbury  Part,State House,72,Dem,Larry B. Butler,3631
+New Haven,Waterbury  Part,State House,72,Ind,"Joseph W. Perugini, Jr.",600
+New Haven,Waterbury  Part,State House,72,WF,Larry B. Butler,641
+New Haven,Waterbury  Part,State House,73,Dem,Jeffrey  Berger,5662
+New Haven,Waterbury  Part,State House,73,Ind,Michael J. Telesca,1430
+New Haven,Waterbury  Part,State House,74,Rep,Selim G. Noujaim,4843
+New Haven,Waterbury  Part,State House,74,Ind,"Frank A. Burgio, Sr.",1224
+New Haven,Waterbury  Part,State House,75,Rep,Lisa  Velez,940
+New Haven,Waterbury  Part,State House,75,Dem,David Aldarondo,2935
+New Haven,Waterbury  Part,State House,75,CC,Edward  Plouffe,41
+New Haven,Waterbury  Part,State House,75,Ind,Robert L. Adkins,157
+New Haven,Waterbury  Part,State House,75,WF,David  Aldarondo,394
+New Haven,Waterbury  Part,State House,75,CFL,Robert L. Adkins,41
+New London,Waterford,President,,Rep,John McCain,4376
+New London,Waterford,President,,Dem,Barack Obama,6301
+New London,Waterford,President,,Ind,Ralph Nader,131
+New London,Waterford,President,,write-in,Chuck Baldwin,3
+New London,Waterford,President,,write-in,Roger Calero,0
+New London,Waterford,President,,write-in,Cynthia McKinney,2
+New London,Waterford,President,,write-in,Stewart Moore,1
+New London,Waterford,US House,2,Rep,Sean Sullivan,3162
+New London,Waterford,US House,2,Dem,Joe  Courtney,6396
+New London,Waterford,US House,2,Green,Scott Deshefy,157
+New London,Waterford,US House,2,WF,Joe Courtney,492
+New London,Waterford,US House,2,write-in,Todd Vachon,1
+New London,Waterford,State Senate,20,Rep,Thomas C. Simones,3068
+New London,Waterford,State Senate,20,Dem,Andrea L. Stillman,6859
+New London,Waterford,State Senate,20,Lbt,Marc L. Guttman,166
+New London,Waterford,State House,38,Dem,Elizabeth B. Ritter,7890
+Litchfield,Watertown,President,,Rep,John McCain,6601
+Litchfield,Watertown,President,,Dem,Barack Obama,4914
+Litchfield,Watertown,President,,Ind,Ralph Nader,179
+Litchfield,Watertown,President,,write-in,Chuck Baldwin,0
+Litchfield,Watertown,President,,write-in,Roger Calero,0
+Litchfield,Watertown,President,,write-in,Cynthia McKinney,0
+Litchfield,Watertown,President,,write-in,Stewart Moore,0
+Litchfield,Watertown,US House,5,Rep,David  J.  Cappiello,4972
+Litchfield,Watertown,US House,5,Dem,Chris Murphy,4885
+Litchfield,Watertown,US House,5,Ind,Thomas  L.  Winn,229
+Litchfield,Watertown,US House,5,Green,Harold  H.  Burbank  II,56
+Litchfield,Watertown,US House,5,WF,Chris  Murphy,921
+Litchfield,Watertown,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Watertown,State Senate,32,Rep,Robert J. Kane,6753
+Litchfield,Watertown,State Senate,32,Dem,John  McCarthy,3428
+Litchfield,Watertown,State Senate,32,WF,John  McCarthy,494
+Litchfield,Watertown,State House,68,Rep,Sean  Williams,8689
+Hartford,West Hartford,President,,Rep,John McCain,10021
+Hartford,West Hartford,President,,Dem,Barack Obama,23576
+Hartford,West Hartford,President,,Ind,Ralph Nader,390
+Hartford,West Hartford,President,,write-in,Chuck Baldwin,5
+Hartford,West Hartford,President,,write-in,Roger Calero,1
+Hartford,West Hartford,President,,write-in,Cynthia McKinney,4
+Hartford,West Hartford,President,,write-in,Stewart Moore,0
+Hartford,West Hartford,US House,1,Rep,Joe  Visconti,8212
+Hartford,West Hartford,US House,1,Dem,John Larson,20986
+Hartford,West Hartford,US House,1,Green,Stephen Fournier,798
+Hartford,West Hartford,US House,1,WF,John Larson,1538
+Hartford,West Hartford,US House,1,write-in,Matthew Coleman,0
+New Haven,West  Haven,President,,Rep,John McCain,7005
+New Haven,West  Haven,President,,Dem,Barack Obama,14186
+New Haven,West  Haven,President,,Ind,Ralph Nader,258
+New Haven,West  Haven,President,,write-in,Chuck Baldwin,0
+New Haven,West  Haven,President,,write-in,Roger Calero,1
+New Haven,West  Haven,President,,write-in,Cynthia McKinney,0
+New Haven,West  Haven,President,,write-in,Stewart Moore,0
+New Haven,West  Haven,US House,3,Rep,Bo Itshaky,3022
+New Haven,West  Haven,US House,3,Dem,Rosa DeLauro,14007
+New Haven,West  Haven,US House,3,Green,Ralph Ferrucci,670
+New Haven,West  Haven,US House,3,WF,Rosa DeLauro,2549
+Hartford,West Hartford,State Senate,5,Rep,Joseph  Merritt,7889
+Hartford,West Hartford,State Senate,5,Dem,Jonathan A. Harris,21779
+Hartford,West Hartford,State Senate,5,WF,Jonathan A. Harris,1878
+Hartford,West Hartford  Part,State House,18,Rep,Thomas I. Knox,2938
+Hartford,West Hartford  Part,State House,18,Dem,Andrew M. Fleischmann,7530
+Hartford,West Hartford  Part,State House,18,WF,Andrew M. Fleischmann,558
+Hartford,West Hartford  Part,State House,19,Rep,Theresa  McGrath,3524
+Hartford,West Hartford  Part,State House,19,Dem,Beth  Bye,6959
+Hartford,West Hartford  Part,State House,20,Rep,Chad A. Thompson,2370
+Hartford,West Hartford  Part,State House,20,Dem,David D. McCluskey,7278
+Hartford,West Hartford  Part,State House,20,CFL,John  Mertens,184
+New Haven,West Haven  Part,State Senate,10,Rep,Melissa  Papantones,1321
+New Haven,West Haven  Part,State Senate,14,Rep,Vincent  Marino,3891
+New Haven,West Haven  Part,State Senate,14,Dem,Gayle  Slossberg,7621
+New Haven,West Haven  Part,State Senate,10,Dem,Toni N. Harp,6168
+New Haven,West Haven  Part,State House,115,Dem,Stephen D. Dargan,6158
+New Haven,West Haven  Part,State House,115,WF,Stephen D. Dargan,901
+New Haven,West Haven  Part,State House,116,Dem,"Louis P. Esposito, Jr.",5184
+New Haven,West Haven  Part,State House,116,WF,"Louis P. Esposito, Jr.",663
+New Haven,West Haven  Part,State House,117,Rep,Stephanie A. Williams,1969
+New Haven,West Haven  Part,State House,117,D,Paul  Davis,2325
+Middlesex,Westbrook,President,,Rep,John McCain,1680
+Middlesex,Westbrook,President,,Dem,Barack Obama,2104
+Middlesex,Westbrook,President,,Ind,Ralph Nader,50
+Middlesex,Westbrook,President,,write-in,Chuck Baldwin,1
+Middlesex,Westbrook,President,,write-in,Roger Calero,0
+Middlesex,Westbrook,President,,write-in,Cynthia McKinney,0
+Middlesex,Westbrook,President,,write-in,Stewart Moore,0
+Middlesex,Westbrook,US House,2,Rep,Sean Sullivan,1278
+Middlesex,Westbrook,US House,2,Dem,Joe  Courtney,2080
+Middlesex,Westbrook,US House,2,Green,Scott Deshefy,65
+Middlesex,Westbrook,US House,2,WF,Joe Courtney,131
+Middlesex,Westbrook,US House,2,write-in,Todd Vachon,1
+Middlesex,Westbrook,State Senate,33,Rep,Vincent A. Pacileo III,1224
+Middlesex,Westbrook,State Senate,33,Dem,Eileen M. Daily,2249
+Middlesex,Westbrook,State Senate,33,Green,Colin D. Bennett,94
+Middlesex,Westbrook  Part,State House,23,Rep,Marilyn  Giuliano,846
+Middlesex,Westbrook  Part,State House,23,Dem,Eileen D. Baker,605
+Middlesex,Westbrook  Part,State House,23,WF,Eileen D. Baker,50
+Middlesex,Westbrook  Part,State House,35,Dem,Brian J. O'Connor,1635
+Fairfield,Weston,President,,Rep,John McCain,2143
+Fairfield,Weston,President,,Dem,Barack Obama,3571
+Fairfield,Weston,President,,Ind,Ralph Nader,25
+Fairfield,Weston,President,,write-in,Chuck Baldwin,1
+Fairfield,Weston,President,,write-in,Roger Calero,0
+Fairfield,Weston,President,,write-in,Cynthia McKinney,0
+Fairfield,Weston,President,,write-in,Stewart Moore,0
+Fairfield,Weston,US House,4,Rep,Christopher Shays,3021
+Fairfield,Weston,US House,4,Dem,Jim Himes,2460
+Fairfield,Weston,US House,4,Green,Richard  Z.  Duffee,32
+Fairfield,Weston,US House,4,WF,Jim Himes,12
+Fairfield,Weston,US House,4,Lbt,Michael Carrano,31
+Fairfield,Weston,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Weston,State House,135,Rep,John  Stripp,3244
+Fairfield,Weston,State House,135,Green,Remy G. Chevalier,688
+Fairfield,Weston  Part,State Senate,26,Rep,Toni  Boucher,380
+Fairfield,Weston  Part,State Senate,26,Dem,John  Hartwell,417
+Fairfield,Weston  Part,State Senate,26,WF,John  Hartwell,6
+Fairfield,Weston  Part,State Senate,28,Rep,John  McKinney,2340
+Fairfield,Weston  Part,State Senate,28,Dem,Martin A. Goldberg,2098
+Fairfield,Weston  Part,State Senate,28,WF,Martin A. Goldberg,31
+Fairfield,Westport,President,,Rep,John McCain,5342
+Fairfield,Westport,President,,Dem,Barack Obama,10067
+Fairfield,Westport,President,,Ind,Ralph Nader,62
+Fairfield,Westport,President,,write-in,Chuck Baldwin,2
+Fairfield,Westport,President,,write-in,Roger Calero,0
+Fairfield,Westport,President,,write-in,Cynthia McKinney,2
+Fairfield,Westport,President,,write-in,Stewart Moore,0
+Fairfield,Westport,US House,4,Rep,Christopher Shays,7983
+Fairfield,Westport,US House,4,Dem,Jim Himes,6816
+Fairfield,Westport,US House,4,Green,Richard  Z.  Duffee,75
+Fairfield,Westport,US House,4,WF,Jim Himes,186
+Fairfield,Westport,US House,4,Lbt,Michael Carrano,64
+Fairfield,Westport,US House,4,write-in,Eugene Flanagan,0
+Fairfield,Westport,State Senate,26,Rep,Toni  Boucher,6146
+Fairfield,Westport,State Senate,26,Dem,John  Hartwell,8029
+Fairfield,Westport,State Senate,26,WF,John  Hartwell,146
+Fairfield,Westport  Part,State House,133,Rep,Amanda  Parks,444
+Fairfield,Westport  Part,State House,133,Dem,Kim  Fawcett,762
+Fairfield,Westport  Part,State House,136,Rep,Nitzy  Cohen,4656
+Fairfield,Westport  Part,State House,136,Dem,Joseph  Mioli,8815
+Hartford,Wethersfield,President,,Rep,John McCain,5890
+Hartford,Wethersfield,President,,Dem,Barack Obama,8642
+Hartford,Wethersfield,President,,Ind,Ralph Nader,174
+Hartford,Wethersfield,President,,write-in,Chuck Baldwin,7
+Hartford,Wethersfield,President,,write-in,Roger Calero,0
+Hartford,Wethersfield,President,,write-in,Cynthia McKinney,0
+Hartford,Wethersfield,President,,write-in,Stewart Moore,0
+Hartford,Wethersfield,US House,1,Rep,Joe  Visconti,4052
+Hartford,Wethersfield,US House,1,Dem,John Larson,8497
+Hartford,Wethersfield,US House,1,Green,Stephen Fournier,321
+Hartford,Wethersfield,US House,1,WF,John Larson,590
+Hartford,Wethersfield,US House,1,write-in,Matthew Coleman,2
+Hartford,Wethersfield  Part,State Senate,1,Rep,Barbara J. Ruhe,2645
+Hartford,Wethersfield  Part,State Senate,1,Dem,John W. Fonfara,4952
+Hartford,Wethersfield  Part,State Senate,1,Green,S. Michael  DeRosa,492
+Hartford,Wethersfield  Part,State Senate,1,WF,John W. Fonfara,385
+Hartford,Wethersfield  Part,State Senate,9,Rep,Ralph  Capenera,2251
+Hartford,Wethersfield  Part,State Senate,9,Dem,Paul R. Doyle,2876
+Hartford,Wethersfield  Part,State House,28,Rep,John  Cusano,4306
+Hartford,Wethersfield  Part,State House,28,Dem,Russell A. Morin,7713
+Hartford,Wethersfield  Part,State House,29,Dem,"Antonio ""Tony""  Guerrera",1013
+Hartford,Wethersfield  Part,State House,29,WF,"Antonio ""Tony""  Guerrera",83
+Hartford,Wethersfield  Part,State House,29,CFL,Tomoyo  Wakamatsu,90
+Tolland,Willington,President,,Rep,John McCain,1254
+Tolland,Willington,President,,Dem,Barack Obama,1793
+Tolland,Willington,President,,Ind,Ralph Nader,50
+Tolland,Willington,President,,write-in,Chuck Baldwin,1
+Tolland,Willington,President,,write-in,Roger Calero,0
+Tolland,Willington,President,,write-in,Cynthia McKinney,1
+Tolland,Willington,President,,write-in,Stewart Moore,0
+Tolland,Willington,US House,2,Rep,Sean Sullivan,979
+Tolland,Willington,US House,2,Dem,Joe  Courtney,1723
+Tolland,Willington,US House,2,Green,Scott Deshefy,51
+Tolland,Willington,US House,2,WF,Joe Courtney,136
+Tolland,Willington,US House,2,write-in,Todd Vachon,0
+Tolland,Willington,State Senate,35,Rep,Tony  Guglielmo,2132
+Tolland,Willington,State House,53,Rep,Robert  Arute,1285
+Tolland,Willington,State House,53,Rep,Bryan  Hurlburt,1550
+Fairfield,Wilton,President,,Rep,John McCain,4801
+Fairfield,Wilton,President,,Dem,Barack Obama,5569
+Fairfield,Wilton,President,,Ind,Ralph Nader,54
+Fairfield,Wilton,President,,write-in,Chuck Baldwin,2
+Fairfield,Wilton,President,,write-in,Roger Calero,1
+Fairfield,Wilton,President,,write-in,Cynthia McKinney,0
+Fairfield,Wilton,President,,write-in,Stewart Moore,0
+Fairfield,Wilton,US House,4,Rep,Christopher Shays,5908
+Fairfield,Wilton,US House,4,Dem,Jim Himes,4008
+Fairfield,Wilton,US House,4,Green,Richard  Z.  Duffee,33
+Fairfield,Wilton,US House,4,WF,Jim Himes,117
+Fairfield,Wilton,US House,4,Lbt,Michael Carrano,67
+Fairfield,Wilton,US House,4,write-in,Eugene Flanagan,6
+Fairfield,Wilton,State Senate,26,Rep,Toni  Boucher,6487
+Fairfield,Wilton,State Senate,26,Dem,John  Hartwell,3363
+Fairfield,Wilton,State Senate,26,WF,John  Hartwell,71
+Fairfield,Wilton  Part,State House,125,Rep,John W. Hetherington,1809
+Fairfield,Wilton  Part,State House,143,Dem,Peggy  Reeves,3658
+Fairfield,Wilton  Part,State House,143,Rep,Susan A. Bruschi,3657
+Litchfield,Winchester,President,,Rep,John McCain,2340
+Litchfield,Winchester,President,,Dem,Barack Obama,2620
+Litchfield,Winchester,President,,Ind,Ralph Nader,185
+Litchfield,Winchester,President,,write-in,Chuck Baldwin,0
+Litchfield,Winchester,President,,write-in,Roger Calero,0
+Litchfield,Winchester,President,,write-in,Cynthia McKinney,0
+Litchfield,Winchester,President,,write-in,Stewart Moore,0
+Litchfield,Winchester,US House,1,Rep,Joe  Visconti,1648
+Litchfield,Winchester,US House,1,Dem,John Larson,2392
+Litchfield,Winchester,US House,1,Green,Stephen Fournier,145
+Litchfield,Winchester,US House,1,WF,John Larson,330
+Litchfield,Winchester,US House,1,write-in,Matthew Coleman,0
+Litchfield,Winchester,State Senate,30,Rep,Andrew  Roraback,2635
+Litchfield,Winchester,State Senate,30,Dem,Michael J. Renzullo,1669
+Litchfield,Winchester,State Senate,30,WF,Michael J. Renzullo,287
+Litchfield,Winchester,State House,63,Rep,John B. Rigby,2501
+Litchfield,Winchester,State House,63,write-in,William O. Riiska,1102
+Windham,Windham,President,,Rep,John McCain,2341
+Windham,Windham,President,,Dem,Barack Obama,6312
+Windham,Windham,President,,Ind,Ralph Nader,136
+Windham,Windham,President,,write-in,Chuck Baldwin,3
+Windham,Windham,President,,write-in,Roger Calero,1
+Windham,Windham,President,,write-in,Cynthia McKinney,5
+Windham,Windham,President,,write-in,Stewart Moore,0
+Windham,Windham,US House,2,Rep,Sean Sullivan,1531
+Windham,Windham,US House,2,Dem,Joe  Courtney,5714
+Windham,Windham,US House,2,Green,Scott Deshefy,190
+Windham,Windham,US House,2,WF,Joe Courtney,471
+Windham,Windham,US House,2,write-in,Todd Vachon,0
+Windham,Windham,State Senate,29,Rep,Harry  Carboni,1597
+Windham,Windham,State Senate,29,Dem,Donald E. Williams,5584
+Windham,Windham,State Senate,29,WF,Donald E. Williams,523
+Windham,Windham,State House,49,Rep,Daniel M. Lein,2287
+Windham,Windham,State House,49,Dem,Susan  Johnson,5113
+Windham,Windham,State House,49,CC,Robert D. Gorgoglione,85
+Windham,Windham,State House,49,WF,Susan  Johnson,493
+Hartford,Windsor,President,,Rep,John McCain,4305
+Hartford,Windsor,President,,Dem,Barack Obama,11956
+Hartford,Windsor,President,,Ind,Ralph Nader,175
+Hartford,Windsor,President,,write-in,Chuck Baldwin,12
+Hartford,Windsor,President,,write-in,Roger Calero,2
+Hartford,Windsor,President,,write-in,Cynthia McKinney,2
+Hartford,Windsor,President,,write-in,Stewart Moore,2
+Hartford,Windsor,US House,1,Rep,Joe  Visconti,3247
+Hartford,Windsor,US House,1,Dem,John Larson,10386
+Hartford,Windsor,US House,1,Green,Stephen Fournier,325
+Hartford,Windsor,US House,1,WF,John Larson,1083
+Hartford,Windsor,US House,1,write-in,Matthew Coleman,0
+Hartford,Windsor  Locks,President,,Rep,John McCain,2554
+Hartford,Windsor  Locks,President,,Dem,Barack Obama,3661
+Hartford,Windsor  Locks,President,,Ind,Ralph Nader,101
+Hartford,Windsor  Locks,President,,write-in,Chuck Baldwin,2
+Hartford,Windsor  Locks,President,,write-in,Roger Calero,1
+Hartford,Windsor  Locks,President,,write-in,Cynthia McKinney,0
+Hartford,Windsor  Locks,President,,write-in,Stewart Moore,0
+Hartford,Windsor  Locks,US House,1,Rep,Joe  Visconti,1640
+Hartford,Windsor  Locks,US House,1,Dem,John Larson,3602
+Hartford,Windsor  Locks,US House,1,Green,Stephen Fournier,185
+Hartford,Windsor  Locks,US House,1,WF,John Larson,313
+Hartford,Windsor  Locks,US House,1,write-in,Matthew Coleman,0
+Hartford,Windsor  Part,State Senate,2,Rep,Veronica  Airey-Wilson,4137
+Hartford,Windsor  Part,State Senate,7,Rep,John A. Kissel,613
+Hartford,Windsor  Part,State Senate,2,Dem,Eric D. Coleman,8454
+Hartford,Windsor  Part,State Senate,7,Dem,George  Colli,725
+Hartford,Windsor  Part,State Senate,2,WF,Eric D. Coleman,1034
+Hartford,Windsor  Part,State Senate,7,WF,John A. Kissel,84
+Hartford,Windsor  Part,State House,15,Rep,Aaron  Jubrey,1442
+Hartford,Windsor  Part,State House,15,Dem,Faith  McMahon,3919
+Hartford,Windsor  Part,State House,60,Rep,Michael  Royston,954
+Hartford,Windsor  Part,State House,60,Dem,Peggy  Sayers,3299
+Hartford,Windsor  Part,State House,60,PC,Manmohan C. Sachdev,731
+Hartford,Windsor  Part,State House,61,Dem,"Matthew J. Conway, Jr.",2336
+Hartford,Windsor  Part,State House,61,Rep,Lauren K. Life,1849
+Hartford,Windsor  Part,State House,61,WF,"Matthew J. Conway, Jr.",236
+Hartford,Windsor Locks,State Senate,7,Rep,John A. Kissel,2554
+Hartford,Windsor Locks,State Senate,7,Dem,George  Colli,2966
+Hartford,Windsor Locks,State Senate,7,WF,John A. Kissel,314
+Hartford,Windsor Locks,State House,60,Rep,Michael  Royston,2035
+Hartford,Windsor Locks,State House,60,Dem,Peggy  Sayers,3085
+Hartford,Windsor Locks,State House,60,PC,Manmohan C. Sachdev,703
+New Haven,Wolcott,President,,Rep,John McCain,4930
+New Haven,Wolcott,President,,Dem,Barack Obama,3545
+New Haven,Wolcott,President,,Ind,Ralph Nader,130
+New Haven,Wolcott,President,,write-in,Chuck Baldwin,4
+New Haven,Wolcott,President,,write-in,Roger Calero,1
+New Haven,Wolcott,President,,write-in,Cynthia McKinney,0
+New Haven,Wolcott,President,,write-in,Stewart Moore,0
+New Haven,Wolcott,US House,5,Rep,David  J.  Cappiello,3663
+New Haven,Wolcott,US House,5,Dem,Chris Murphy,3470
+New Haven,Wolcott,US House,5,Ind,Thomas  L.  Winn,106
+New Haven,Wolcott,US House,5,Green,Harold  H.  Burbank  II,44
+New Haven,Wolcott,US House,5,WF,Chris  Murphy,834
+New Haven,Wolcott,US House,5,write-in,Walter  Gengarelly,0
+New Haven,Wolcott,State Senate,16,Rep,Sam S.F. Caligiuri,5510
+New Haven,Wolcott,State Senate,16,Ind,Mark A. Orsini,1252
+New Haven,Wolcott,State House,80,Dem,Corky  Mazurek,5510
+New Haven,Wolcott,State House,80,CC,James F. Farrell,540
+New Haven,Wolcott,State House,80,PC,Samuel  Zotto,837
+New Haven,Woodbridge,President,,Rep,John McCain,2053
+New Haven,Woodbridge,President,,Dem,Barack Obama,3315
+New Haven,Woodbridge,President,,Ind,Ralph Nader,45
+New Haven,Woodbridge,President,,write-in,Chuck Baldwin,0
+New Haven,Woodbridge,President,,write-in,Roger Calero,0
+New Haven,Woodbridge,President,,write-in,Cynthia McKinney,0
+New Haven,Woodbridge,President,,write-in,Stewart Moore,0
+New Haven,Woodbridge,US House,3,Rep,Bo Itshaky,1207
+New Haven,Woodbridge,US House,3,Dem,Rosa DeLauro,3571
+New Haven,Woodbridge,US House,3,Green,Ralph Ferrucci,125
+New Haven,Woodbridge,US House,3,WF,Rosa DeLauro,147
+New Haven,Woodbridge,State Senate,17,Rep,Tamath K.  Rossi,1489
+New Haven,Woodbridge,State Senate,17,Dem,Joe  Crisco,3419
+New Haven,Woodbridge,State Senate,17,WF,Joe  Crisco,99
+New Haven,Woodbridge,State House,114,Rep,Themis  Klarides,2689
+New Haven,Woodbridge,State House,114,Dem,Marc J. Garofalo,2433
+Litchfield,Woodbury,President,,Rep,John McCain,3116
+Litchfield,Woodbury,President,,Dem,Barack Obama,2926
+Litchfield,Woodbury,President,,Ind,Ralph Nader,54
+Litchfield,Woodbury,President,,write-in,Chuck Baldwin,0
+Litchfield,Woodbury,President,,write-in,Roger Calero,0
+Litchfield,Woodbury,President,,write-in,Cynthia McKinney,0
+Litchfield,Woodbury,President,,write-in,Stewart Moore,0
+Litchfield,Woodbury,US House,5,Rep,David  J.  Cappiello,2687
+Litchfield,Woodbury,US House,5,Dem,Chris Murphy,2675
+Litchfield,Woodbury,US House,5,Ind,Thomas  L.  Winn,72
+Litchfield,Woodbury,US House,5,Green,Harold  H.  Burbank  II,55
+Litchfield,Woodbury,US House,5,WF,Chris  Murphy,204
+Litchfield,Woodbury,US House,5,write-in,Walter  Gengarelly,0
+Litchfield,Woodbury,State Senate,32,Rep,Robert J. Kane,3051
+Litchfield,Woodbury,State Senate,32,Dem,John  McCarthy,2332
+Litchfield,Woodbury,State Senate,32,WF,John  McCarthy,180
+Litchfield,Woodbury  Part,State House,66,Rep,Craig A. Miner,2908
+Litchfield,Woodbury  Part,State House,66,Dem,Nick  Creed,1907
+Litchfield,Woodbury  Part,State House,66,CC,Richard S. Schuley,30
+Litchfield,Woodbury  Part,State House,66,WF,Nick  Creed,125
+Litchfield,Woodbury  Part,State House,68,Rep,Sean  Williams,339
+Windham,Woodstock,President,,Rep,John McCain,2123
+Windham,Woodstock,President,,Dem,Barack Obama,2167
+Windham,Woodstock,President,,Ind,Ralph Nader,77
+Windham,Woodstock,President,,write-in,Chuck Baldwin,2
+Windham,Woodstock,President,,write-in,Roger Calero,0
+Windham,Woodstock,President,,write-in,Cynthia McKinney,0
+Windham,Woodstock,President,,write-in,Stewart Moore,0
+Windham,Woodstock,US House,2,Rep,Sean Sullivan,1672
+Windham,Woodstock,US House,2,Dem,Joe  Courtney,2171
+Windham,Woodstock,US House,2,Green,Scott Deshefy,67
+Windham,Woodstock,US House,2,WF,Joe Courtney,188
+Windham,Woodstock,US House,2,write-in,Todd Vachon,0
+Windham,Woodstock,State Senate,35,Rep,Tony  Guglielmo,2890
+Windham,Woodstock,State House,50,Rep,Mike  Alberts,2466
+Windham,Woodstock,State House,50,Dem,Sherri  Vogt,1524
+Windham,Woodstock,State House,50,WF,Sherri  Vogt,162
