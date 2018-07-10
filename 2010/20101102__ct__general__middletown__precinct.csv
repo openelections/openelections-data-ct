@@ -1,0 +1,594 @@
+town,precinct,office,district,party,candidate,votes,machine,absentee
+Middletown,1,Governor,,Rep,Tom Foley,187,179,8
+Middletown,2,Governor,,Rep,Tom Foley,79,73,6
+Middletown,3,Governor,,Rep,Tom Foley,1017,962,55
+Middletown,4,Governor,,Rep,Tom Foley,496,475,21
+Middletown,5,Governor,,Rep,Tom Foley,476,439,37
+Middletown,6,Governor,,Rep,Tom Foley,274,267,7
+Middletown,7,Governor,,Rep,Tom Foley,289,265,24
+Middletown,8,Governor,,Rep,Tom Foley,106,104,2
+Middletown,9,Governor,,Rep,Tom Foley,449,426,23
+Middletown,10,Governor,,Rep,Tom Foley,906,871,35
+Middletown,11,Governor,,Rep,Tom Foley,796,730,66
+Middletown,12,Governor,,Rep,Tom Foley,163,160,3
+Middletown,13,Governor,,Rep,Tom Foley,71,58,13
+Middletown,14,Governor,,Rep,Tom Foley,126,100,26
+Middletown,1,Governor,,Dem,Dan Malloy,429,388,41
+Middletown,2,Governor,,Dem,Dan Malloy,190,186,4
+Middletown,3,Governor,,Dem,Dan Malloy,1403,1357,46
+Middletown,4,Governor,,Dem,Dan Malloy,416,406,10
+Middletown,5,Governor,,Dem,Dan Malloy,441,415,26
+Middletown,6,Governor,,Dem,Dan Malloy,406,385,21
+Middletown,7,Governor,,Dem,Dan Malloy,532,477,55
+Middletown,8,Governor,,Dem,Dan Malloy,226,204,22
+Middletown,9,Governor,,Dem,Dan Malloy,688,651,37
+Middletown,10,Governor,,Dem,Dan Malloy,978,932,46
+Middletown,11,Governor,,Dem,Dan Malloy,1224,1136,88
+Middletown,12,Governor,,Dem,Dan Malloy,251,241,10
+Middletown,13,Governor,,Dem,Dan Malloy,188,140,48
+Middletown,14,Governor,,Dem,Dan Malloy,583,544,39
+Middletown,1,Governor,,WF,Dan Malloy,49,48,1
+Middletown,2,Governor,,WF,Dan Malloy,16,15,1
+Middletown,3,Governor,,WF,Dan Malloy,86,83,3
+Middletown,4,Governor,,WF,Dan Malloy,24,24,0
+Middletown,5,Governor,,WF,Dan Malloy,15,13,2
+Middletown,6,Governor,,WF,Dan Malloy,27,26,1
+Middletown,7,Governor,,WF,Dan Malloy,34,33,1
+Middletown,8,Governor,,WF,Dan Malloy,27,25,2
+Middletown,9,Governor,,WF,Dan Malloy,49,46,3
+Middletown,10,Governor,,WF,Dan Malloy,73,71,2
+Middletown,11,Governor,,WF,Dan Malloy,92,90,2
+Middletown,12,Governor,,WF,Dan Malloy,26,26,0
+Middletown,13,Governor,,WF,Dan Malloy,17,17,0
+Middletown,14,Governor,,WF,Dan Malloy,41,40,1
+Middletown,1,Governor,,Ind,Thomas Marsh,17,16,1
+Middletown,2,Governor,,Ind,Thomas Marsh,7,7,0
+Middletown,3,Governor,,Ind,Thomas Marsh,40,38,2
+Middletown,4,Governor,,Ind,Thomas Marsh,16,16,0
+Middletown,5,Governor,,Ind,Thomas Marsh,16,16,0
+Middletown,6,Governor,,Ind,Thomas Marsh,13,13,0
+Middletown,7,Governor,,Ind,Thomas Marsh,9,9,0
+Middletown,8,Governor,,Ind,Thomas Marsh,3,3,0
+Middletown,9,Governor,,Ind,Thomas Marsh,20,19,1
+Middletown,10,Governor,,Ind,Thomas Marsh,49,47,2
+Middletown,11,Governor,,Ind,Thomas Marsh,50,48,2
+Middletown,12,Governor,,Ind,Thomas Marsh,8,8,0
+Middletown,13,Governor,,Ind,Thomas Marsh,8,7,1
+Middletown,14,Governor,,Ind,Thomas Marsh,16,15,1
+Middletown,1,US Senate,,Rep,Linda McMahon,167,155,12
+Middletown,2,US Senate,,Rep,Linda McMahon,69,64,5
+Middletown,3,US Senate,,Rep,Linda McMahon,917,868,49
+Middletown,4,US Senate,,Rep,Linda McMahon,433,412,21
+Middletown,5,US Senate,,Rep,Linda McMahon,402,373,29
+Middletown,6,US Senate,,Rep,Linda McMahon,250,238,12
+Middletown,7,US Senate,,Rep,Linda McMahon,251,231,20
+Middletown,8,US Senate,,Rep,Linda McMahon,93,90,3
+Middletown,9,US Senate,,Rep,Linda McMahon,391,371,20
+Middletown,10,US Senate,,Rep,Linda McMahon,823,793,30
+Middletown,11,US Senate,,Rep,Linda McMahon,708,655,53
+Middletown,12,US Senate,,Rep,Linda McMahon,143,141,2
+Middletown,13,US Senate,,Rep,Linda McMahon,71,58,13
+Middletown,14,US Senate,,Rep,Linda McMahon,115,91,24
+Middletown,1,US Senate,,Dem ,Richard Blumenthal,457,423,34
+Middletown,2,US Senate,,Dem ,Richard Blumenthal,202,197,5
+Middletown,3,US Senate,,Dem ,Richard Blumenthal,1512,1462,50
+Middletown,4,US Senate,,Dem ,Richard Blumenthal,478,469,9
+Middletown,5,US Senate,,Dem ,Richard Blumenthal,503,472,31
+Middletown,6,US Senate,,Dem ,Richard Blumenthal,433,418,15
+Middletown,7,US Senate,,Dem ,Richard Blumenthal,578,522,56
+Middletown,8,US Senate,,Dem ,Richard Blumenthal,244,223,21
+Middletown,9,US Senate,,Dem ,Richard Blumenthal,744,705,39
+Middletown,10,US Senate,,Dem ,Richard Blumenthal,1071,1022,49
+Middletown,11,US Senate,,Dem ,Richard Blumenthal,1300,1208,92
+Middletown,12,US Senate,,Dem ,Richard Blumenthal,269,258,11
+Middletown,13,US Senate,,Dem ,Richard Blumenthal,189,146,43
+Middletown,14,US Senate,,Dem ,Richard Blumenthal,596,558,38
+Middletown,1,US Senate,,WF,Richard Blumenthal,47,45,2
+Middletown,2,US Senate,,WF,Richard Blumenthal,12,11,1
+Middletown,3,US Senate,,WF,Richard Blumenthal,94,91,3
+Middletown,4,US Senate,,WF,Richard Blumenthal,25,24,1
+Middletown,5,US Senate,,WF,Richard Blumenthal,30,26,4
+Middletown,6,US Senate,,WF,Richard Blumenthal,33,32,1
+Middletown,7,US Senate,,WF,Richard Blumenthal,31,28,3
+Middletown,8,US Senate,,WF,Richard Blumenthal,27,25,2
+Middletown,9,US Senate,,WF,Richard Blumenthal,59,55,4
+Middletown,10,US Senate,,WF,Richard Blumenthal,76,73,3
+Middletown,11,US Senate,,WF,Richard Blumenthal,106,104,2
+Middletown,12,US Senate,,WF,Richard Blumenthal,27,27,0
+Middletown,13,US Senate,,WF,Richard Blumenthal,17,16,1
+Middletown,14,US Senate,,WF,Richard Blumenthal,45,43,2
+Middletown,1,US Senate,,CFL,John Mertens,11,9,2
+Middletown,2,US Senate,,CFL,John Mertens,7,7,0
+Middletown,3,US Senate,,CFL,John Mertens,14,14,0
+Middletown,4,US Senate,,CFL,John Mertens,5,5,0
+Middletown,5,US Senate,,CFL,John Mertens,6,5,1
+Middletown,6,US Senate,,CFL,John Mertens,8,8,0
+Middletown,7,US Senate,,CFL,John Mertens,3,3,0
+Middletown,8,US Senate,,CFL,John Mertens,0,0,0
+Middletown,9,US Senate,,CFL,John Mertens,6,5,1
+Middletown,10,US Senate,,CFL,John Mertens,17,17,0
+Middletown,11,US Senate,,CFL,John Mertens,15,13,2
+Middletown,12,US Senate,,CFL,John Mertens,4,4,0
+Middletown,13,US Senate,,CFL,John Mertens,0,0,0
+Middletown,14,US Senate,,CFL,John Mertens,5,4,1
+Middletown,1,US Senate,,Ind,Warren Mosler,7,6,1
+Middletown,2,US Senate,,Ind,Warren Mosler,3,3,0
+Middletown,3,US Senate,,Ind,Warren Mosler,25,24,1
+Middletown,4,US Senate,,Ind,Warren Mosler,10,10,0
+Middletown,5,US Senate,,Ind,Warren Mosler,7,7,0
+Middletown,6,US Senate,,Ind,Warren Mosler,5,5,0
+Middletown,7,US Senate,,Ind,Warren Mosler,5,5,0
+Middletown,8,US Senate,,Ind,Warren Mosler,0,0,0
+Middletown,9,US Senate,,Ind,Warren Mosler,10,9,1
+Middletown,10,US Senate,,Ind,Warren Mosler,27,26,1
+Middletown,11,US Senate,,Ind,Warren Mosler,27,26,1
+Middletown,12,US Senate,,Ind,Warren Mosler,9,9,0
+Middletown,13,US Senate,,Ind,Warren Mosler,6,5,1
+Middletown,14,US Senate,,Ind,Warren Mosler,11,10,1
+Middletown,1,US Senate,,Ind,write-ins,2,,
+Middletown,2,US Senate,,Ind,write-ins,0,,
+Middletown,3,US Senate,,Ind,write-ins,2,,
+Middletown,4,US Senate,,Ind,write-ins,2,,
+Middletown,5,US Senate,,Ind,write-ins,2,,
+Middletown,6,US Senate,,Ind,write-ins,0,,
+Middletown,7,US Senate,,Ind,write-ins,1,,
+Middletown,8,US Senate,,Ind,write-ins,0,,
+Middletown,9,US Senate,,Ind,write-ins,2,,
+Middletown,10,US Senate,,Ind,write-ins,2,,
+Middletown,11,US Senate,,Ind,write-ins,0,,
+Middletown,12,US Senate,,Ind,write-ins,1,,
+Middletown,13,US Senate,,Ind,write-ins,0,,
+Middletown,14,US Senate,,Ind,write-ins,1,,
+Middletown,2,US House,1,Rep,Ann Brickley,67,63,4
+Middletown,3,US House,1,Rep,Ann Brickley,821,771,50
+Middletown,2,US House,1,Dem ,John Larson,190,182,8
+Middletown,3,US House,1,Dem ,John Larson,1555,1506,49
+Middletown,2,US House,1,Green,Kenneth Kreyeske,3,1,2
+Middletown,3,US House,1,Green,Kenneth Kreyeske,26,25,1
+Middletown,2,US House,1,WF,John Larson,22,21,1
+Middletown,3,US House,1,WF,John Larson,84,81,3
+Middletown,2,US House,1,SA,Christopher Hutchinson,3,3,0
+Middletown,3,US House,1,SA,Christopher Hutchinson,10,10,0
+Middletown,1,US House,3,Rep,Jerry Labriola,118,113,5
+Middletown,4,US House,3,Rep,Jerry Labriola,363,345,18
+Middletown,5,US House,3,Rep,Jerry Labriola,360,335,25
+Middletown,6,US House,3,Rep,Jerry Labriola,207,198,9
+Middletown,7,US House,3,Rep,Jerry Labriola,199,182,17
+Middletown,8,US House,3,Rep,Jerry Labriola,74,71,3
+Middletown,9,US House,3,Rep,Jerry Labriola,330,310,20
+Middletown,10,US House,3,Rep,Jerry Labriola,680,651,29
+Middletown,11,US House,3,Rep,Jerry Labriola,577,527,50
+Middletown,12,US House,3,Rep,Jerry Labriola,124,120,4
+Middletown,13,US House,3,Rep,Jerry Labriola,52,46,6
+Middletown,14,US House,3,Rep,Jerry Labriola,85,64,21
+Middletown,1,US House,3,Dem ,Rosa DeLauro,474,434,40
+Middletown,4,US House,3,Dem ,Rosa DeLauro,522,511,11
+Middletown,5,US House,3,Dem ,Rosa DeLauro,532,495,37
+Middletown,6,US House,3,Dem ,Rosa DeLauro,458,439,19
+Middletown,7,US House,3,Dem ,Rosa DeLauro,592,537,55
+Middletown,8,US House,3,Dem ,Rosa DeLauro,248,228,20
+Middletown,9,US House,3,Dem ,Rosa DeLauro,795,755,40
+Middletown,10,US House,3,Dem ,Rosa DeLauro,1160,1108,52
+Middletown,11,US House,3,Dem ,Rosa DeLauro,1397,1302,95
+Middletown,12,US House,3,Dem ,Rosa DeLauro,278,269,9
+Middletown,13,US House,3,Dem ,Rosa DeLauro,205,158,47
+Middletown,14,US House,3,Dem ,Rosa DeLauro,612,569,43
+Middletown,1,US House,3,Green,Charles Pillsbury,22,21,1
+Middletown,4,US House,3,Green,Charles Pillsbury,20,19,1
+Middletown,5,US House,3,Green,Charles Pillsbury,12,12,0
+Middletown,6,US House,3,Green,Charles Pillsbury,7,7,0
+Middletown,7,US House,3,Green,Charles Pillsbury,16,15,1
+Middletown,8,US House,3,Green,Charles Pillsbury,4,3,1
+Middletown,9,US House,3,Green,Charles Pillsbury,15,15,0
+Middletown,10,US House,3,Green,Charles Pillsbury,32,31,1
+Middletown,11,US House,3,Green,Charles Pillsbury,31,29,2
+Middletown,12,US House,3,Green,Charles Pillsbury,10,10,0
+Middletown,13,US House,3,Green,Charles Pillsbury,2,1,1
+Middletown,14,US House,3,Green,Charles Pillsbury,19,18,1
+Middletown,1,US House,3,WF,Rosa DeLauro,54,53,1
+Middletown,4,US House,3,WF,Rosa DeLauro,35,31,4
+Middletown,5,US House,3,WF,Rosa DeLauro,29,27,2
+Middletown,6,US House,3,WF,Rosa DeLauro,29,28,1
+Middletown,7,US House,3,WF,Rosa DeLauro,39,36,3
+Middletown,8,US House,3,WF,Rosa DeLauro,28,27,1
+Middletown,9,US House,3,WF,Rosa DeLauro,52,48,4
+Middletown,10,US House,3,WF,Rosa DeLauro,90,88,2
+Middletown,11,US House,3,WF,Rosa DeLauro,111,110,1
+Middletown,12,US House,3,WF,Rosa DeLauro,33,33,0
+Middletown,13,US House,3,WF,Rosa DeLauro,17,15,2
+Middletown,14,US House,3,WF,Rosa DeLauro,38,35,3
+Middletown,1,State Senate,9,Rep,Dom Mazzoccoli,137,131,6
+Middletown,2,State Senate,9,Rep,Dom Mazzoccoli,66,61,5
+Middletown,3,State Senate,9,Rep,Dom Mazzoccoli,803,760,43
+Middletown,4,State Senate,9,Rep,Dom Mazzoccoli,394,376,18
+Middletown,5,State Senate,9,Rep,Dom Mazzoccoli,375,350,25
+Middletown,6,State Senate,9,Rep,Dom Mazzoccoli,215,206,9
+Middletown,7,State Senate,9,Rep,Dom Mazzoccoli,202,183,19
+Middletown,13,State Senate,9,Rep,Dom Mazzoccoli,48,41,7
+Middletown,14,State Senate,9,Rep,Dom Mazzoccoli,97,73,24
+Middletown,1,State Senate,9,Dem ,Paul R. Doyle,505,465,40
+Middletown,2,State Senate,9,Dem ,Paul R. Doyle,210,204,6
+Middletown,3,State Senate,9,Dem ,Paul R. Doyle,1667,1611,56
+Middletown,4,State Senate,9,Dem ,Paul R. Doyle,525,512,13
+Middletown,5,State Senate,9,Dem ,Paul R. Doyle,542,503,39
+Middletown,6,State Senate,9,Dem ,Paul R. Doyle,467,448,19
+Middletown,7,State Senate,9,Dem ,Paul R. Doyle,631,576,55
+Middletown,13,State Senate,9,Dem ,Paul R. Doyle,216,168,48
+Middletown,14,State Senate,9,Dem ,Paul R. Doyle,637,599,38
+Middletown,8,State Senate,13,Rep,Len Suzio,80,77,3
+Middletown,9,State Senate,13,Rep,Len Suzio,419,392,27
+Middletown,10,State Senate,13,Rep,Len Suzio,823,793,30
+Middletown,11,State Senate,13,Rep,Len Suzio,721,667,54
+Middletown,12,State Senate,13,Rep,Len Suzio,136,133,3
+Middletown,8,State Senate,13,Dem ,Thomas Gaffey,243,219,24
+Middletown,9,State Senate,13,Dem ,Thomas Gaffey,702,670,32
+Middletown,10,State Senate,13,Dem ,Thomas Gaffey,1015,964,51
+Middletown,11,State Senate,13,Dem ,Thomas Gaffey,1244,1156,88
+Middletown,12,State Senate,13,Dem ,Thomas Gaffey,265,256,9
+Middletown,8,State Senate,13,WF,Thomas Gaffey,29,27,2
+Middletown,9,State Senate,13,WF,Thomas Gaffey,41,38,3
+Middletown,10,State Senate,13,WF,Thomas Gaffey,81,80,1
+Middletown,11,State Senate,13,WF,Thomas Gaffey,102,98,4
+Middletown,12,State Senate,13,WF,Thomas Gaffey,22,22,0
+Middletown,2,State House,32,Rep,Christie Carpino,93,85,8
+Middletown,2,State House,32,Dem ,Jim O'Rourke,170,169,1
+Middletown,2,State House,32,WF,Jim O'Rourke,16,16,0
+Middletown,1,State House,33,Rep,David Bauer,158,149,9
+Middletown,2,State House,33,Rep,David Bauer,0,,0
+Middletown,3,State House,33,Rep,David Bauer,923,872,51
+Middletown,4,State House,33,Rep,David Bauer,0,,0
+Middletown,5,State House,33,Rep,David Bauer,424,396,28
+Middletown,6,State House,33,Rep,David Bauer,253,242,11
+Middletown,7,State House,33,Rep,David Bauer,257,231,26
+Middletown,8,State House,33,Rep,David Bauer,96,90,6
+Middletown,9,State House,33,Rep,David Bauer,0,,0
+Middletown,10,State House,33,Rep,David Bauer,0,,0
+Middletown,11,State House,33,Rep,David Bauer,0,,0
+Middletown,12,State House,33,Rep,David Bauer,0,,0
+Middletown,13,State House,33,Rep,David Bauer,0,,0
+Middletown,14,State House,33,Rep,David Bauer,129,103,26
+Middletown,1,State House,33,Dem ,Joseph C. Serra,499,462,37
+Middletown,3,State House,33,Dem ,Joseph C. Serra,1567,1517,50
+Middletown,5,State House,33,Dem ,Joseph C. Serra,496,461,35
+Middletown,6,State House,33,Dem ,Joseph C. Serra,448,432,16
+Middletown,7,State House,33,Dem ,Joseph C. Serra,577,526,51
+Middletown,8,State House,33,Dem ,Joseph C. Serra,244,226,18
+Middletown,14,State House,33,Dem ,Joseph C. Serra,604,565,39
+Middletown,10,State House,34,Rep,Earl Roberts,849,812,37
+Middletown,12,State House,34,Rep,Earl Roberts,135,131,4
+Middletown,13,State House,34,Rep,Earl Roberts,69,57,12
+Middletown,10,State House,34,Dem ,Gail Hamm,974,928,46
+Middletown,12,State House,34,Dem ,Gail Hamm,260,251,9
+Middletown,13,State House,34,Dem ,Gail Hamm,188,145,43
+Middletown,10,State House,34,CFL,Earl Roberts,58,58,0
+Middletown,12,State House,34,CFL,Earl Roberts,10,10,0
+Middletown,13,State House,34,CFL,Earl Roberts,6,5,1
+Middletown,10,State House,34,WF,Gail Hamm,74,73,1
+Middletown,12,State House,34,WF,Gail Hamm,26,26,0
+Middletown,13,State House,34,WF,Gail Hamm,11,11,0
+Middletown,Middletown 04,State House,100,Rep,John Szewczyk,408,392,16
+Middletown,Middletown 09,State House,100,Rep,John Szewczyk,385,362,23
+Middletown,Middletown 11,State House,100,Rep,John Szewczyk,717,662,55
+Middletown,Middletown 04,State House,100,Dem ,Matt Lesser,483,468,15
+Middletown,Middletown 09,State House,100,Dem ,Matt Lesser,743,705,38
+Middletown,Middletown 11,State House,100,Dem ,Matt Lesser,1250,1163,87
+Middletown,Middletown 04,State House,100,CFL,John Szewczyk,9,9,0
+Middletown,Middletown 09,State House,100,CFL,John Szewczyk,6,6,0
+Middletown,Middletown 11,State House,100,CFL,John Szewczyk,22,22,0
+Middletown,Middletown 04,State House,100,Lbt,John Szewczyk,16,14,2
+Middletown,Middletown 09,State House,100,Lbt,John Szewczyk,7,7,0
+Middletown,Middletown 11,State House,100,Lbt,John Szewczyk,18,16,2
+Middletown,Middletown 04,State House,100,WF,Matt Lesser,24,23,1
+Middletown,Middletown 09,State House,100,WF,Matt Lesser,45,42,3
+Middletown,Middletown 11,State House,100,WF,Matt Lesser,107,104,3
+Middletown,Middletown 04,State House,100,Ind,John Szewczyk,9,9,0
+Middletown,Middletown 09,State House,100,Ind,John Szewczyk,14,14,0
+Middletown,Middletown 11,State House,100,Ind,John Szewczyk,29,28,1
+Middletown,1,Secretary of State,,Rep,Jerry Farrell,154,148,6
+Middletown,2,Secretary of State,,Rep,Jerry Farrell,73,68,5
+Middletown,3,Secretary of State,,Rep,Jerry Farrell,889,839,50
+Middletown,4,Secretary of State,,Rep,Jerry Farrell,409,388,21
+Middletown,5,Secretary of State,,Rep,Jerry Farrell,403,373,30
+Middletown,6,Secretary of State,,Rep,Jerry Farrell,232,223,9
+Middletown,7,Secretary of State,,Rep,Jerry Farrell,232,212,20
+Middletown,8,Secretary of State,,Rep,Jerry Farrell,82,79,3
+Middletown,9,Secretary of State,,Rep,Jerry Farrell,394,374,20
+Middletown,10,Secretary of State,,Rep,Jerry Farrell,784,748,36
+Middletown,11,Secretary of State,,Rep,Jerry Farrell,690,633,57
+Middletown,12,Secretary of State,,Rep,Jerry Farrell,123,119,4
+Middletown,13,Secretary of State,,Rep,Jerry Farrell,59,50,9
+Middletown,14,Secretary of State,,Rep,Jerry Farrell,120,92,28
+Middletown,1,Secretary of State,,Dem ,Denise Merrill,427,390,37
+Middletown,2,Secretary of State,,Dem ,Denise Merrill,185,179,6
+Middletown,3,Secretary of State,,Dem ,Denise Merrill,1458,1413,45
+Middletown,4,Secretary of State,,Dem ,Denise Merrill,455,448,7
+Middletown,5,Secretary of State,,Dem ,Denise Merrill,472,442,30
+Middletown,6,Secretary of State,,Dem ,Denise Merrill,414,396,18
+Middletown,7,Secretary of State,,Dem ,Denise Merrill,551,498,53
+Middletown,8,Secretary of State,,Dem ,Denise Merrill,228,209,19
+Middletown,9,Secretary of State,,Dem ,Denise Merrill,716,681,35
+Middletown,10,Secretary of State,,Dem ,Denise Merrill,1012,970,42
+Middletown,11,Secretary of State,,Dem ,Denise Merrill,1238,1156,82
+Middletown,12,Secretary of State,,Dem ,Denise Merrill,267,258,9
+Middletown,13,Secretary of State,,Dem ,Denise Merrill,190,150,40
+Middletown,14,Secretary of State,,Dem ,Denise Merrill,540,504,36
+Middletown,1,Secretary of State,,Green,Michael DeRosa,23,22,1
+Middletown,2,Secretary of State,,Green,Michael DeRosa,5,5,0
+Middletown,3,Secretary of State,,Green,Michael DeRosa,33,30,3
+Middletown,4,Secretary of State,,Green,Michael DeRosa,17,17,0
+Middletown,5,Secretary of State,,Green,Michael DeRosa,12,11,1
+Middletown,6,Secretary of State,,Green,Michael DeRosa,6,6,0
+Middletown,7,Secretary of State,,Green,Michael DeRosa,20,19,1
+Middletown,8,Secretary of State,,Green,Michael DeRosa,12,11,1
+Middletown,9,Secretary of State,,Green,Michael DeRosa,12,11,1
+Middletown,10,Secretary of State,,Green,Michael DeRosa,30,29,1
+Middletown,11,Secretary of State,,Green,Michael DeRosa,26,24,2
+Middletown,12,Secretary of State,,Green,Michael DeRosa,5,5,0
+Middletown,13,Secretary of State,,Green,Michael DeRosa,5,3,2
+Middletown,14,Secretary of State,,Green,Michael DeRosa,27,26,1
+Middletown,1,Secretary of State,,Lbt,Ken Mosher,5,4,1
+Middletown,2,Secretary of State,,Lbt,Ken Mosher,0,0,0
+Middletown,3,Secretary of State,,Lbt,Ken Mosher,23,22,1
+Middletown,4,Secretary of State,,Lbt,Ken Mosher,11,11,0
+Middletown,5,Secretary of State,,Lbt,Ken Mosher,10,10,0
+Middletown,6,Secretary of State,,Lbt,Ken Mosher,12,12,0
+Middletown,7,Secretary of State,,Lbt,Ken Mosher,4,4,0
+Middletown,8,Secretary of State,,Lbt,Ken Mosher,2,2,0
+Middletown,9,Secretary of State,,Lbt,Ken Mosher,4,4,0
+Middletown,10,Secretary of State,,Lbt,Ken Mosher,14,12,2
+Middletown,11,Secretary of State,,Lbt,Ken Mosher,12,9,3
+Middletown,12,Secretary of State,,Lbt,Ken Mosher,7,7,0
+Middletown,13,Secretary of State,,Lbt,Ken Mosher,3,2,1
+Middletown,14,Secretary of State,,Lbt,Ken Mosher,3,3,0
+Middletown,1,Secretary of State,,WF,Denise Merrill,35,34,1
+Middletown,2,Secretary of State,,WF,Denise Merrill,13,13,0
+Middletown,3,Secretary of State,,WF,Denise Merrill,70,68,2
+Middletown,4,Secretary of State,,WF,Denise Merrill,19,18,1
+Middletown,5,Secretary of State,,WF,Denise Merrill,19,17,2
+Middletown,6,Secretary of State,,WF,Denise Merrill,20,19,1
+Middletown,7,Secretary of State,,WF,Denise Merrill,24,23,1
+Middletown,8,Secretary of State,,WF,Denise Merrill,27,25,2
+Middletown,9,Secretary of State,,WF,Denise Merrill,39,36,3
+Middletown,10,Secretary of State,,WF,Denise Merrill,68,67,1
+Middletown,11,Secretary of State,,WF,Denise Merrill,82,81,1
+Middletown,12,Secretary of State,,WF,Denise Merrill,22,22,0
+Middletown,13,Secretary of State,,WF,Denise Merrill,13,12,1
+Middletown,14,Secretary of State,,WF,Denise Merrill,35,34,1
+Middletown,1,Secretary of State,,Ind,Michael Telesca,10,10,0
+Middletown,2,Secretary of State,,Ind,Michael Telesca,4,4,0
+Middletown,3,Secretary of State,,Ind,Michael Telesca,15,15,0
+Middletown,4,Secretary of State,,Ind,Michael Telesca,13,12,1
+Middletown,5,Secretary of State,,Ind,Michael Telesca,11,10,1
+Middletown,6,Secretary of State,,Ind,Michael Telesca,12,12,0
+Middletown,7,Secretary of State,,Ind,Michael Telesca,9,9,0
+Middletown,8,Secretary of State,,Ind,Michael Telesca,1,1,0
+Middletown,9,Secretary of State,,Ind,Michael Telesca,11,9,2
+Middletown,10,Secretary of State,,Ind,Michael Telesca,24,23,1
+Middletown,11,Secretary of State,,Ind,Michael Telesca,30,30,0
+Middletown,12,Secretary of State,,Ind,Michael Telesca,9,9,0
+Middletown,13,Secretary of State,,Ind,Michael Telesca,4,2,2
+Middletown,14,Secretary of State,,Ind,Michael Telesca,8,8,0
+Middletown,1,Treasurer,,Rep,Jeff Wright,144,136,8
+Middletown,2,Treasurer,,Rep,Jeff Wright,62,57,5
+Middletown,3,Treasurer,,Rep,Jeff Wright,854,804,50
+Middletown,4,Treasurer,,Rep,Jeff Wright,394,375,19
+Middletown,5,Treasurer,,Rep,Jeff Wright,388,362,26
+Middletown,6,Treasurer,,Rep,Jeff Wright,234,226,8
+Middletown,7,Treasurer,,Rep,Jeff Wright,220,203,17
+Middletown,8,Treasurer,,Rep,Jeff Wright,77,75,2
+Middletown,9,Treasurer,,Rep,Jeff Wright,368,348,20
+Middletown,10,Treasurer,,Rep,Jeff Wright,749,719,30
+Middletown,11,Treasurer,,Rep,Jeff Wright,651,605,46
+Middletown,12,Treasurer,,Rep,Jeff Wright,131,131,0
+Middletown,13,Treasurer,,Rep,Jeff Wright,46,39,7
+Middletown,14,Treasurer,,Rep,Jeff Wright,105,81,24
+Middletown,1,Treasurer,,Dem ,Denise Nappier,446,408,38
+Middletown,2,Treasurer,,Dem ,Denise Nappier,196,191,5
+Middletown,3,Treasurer,,Dem ,Denise Nappier,1509,1467,42
+Middletown,4,Treasurer,,Dem ,Denise Nappier,487,478,9
+Middletown,5,Treasurer,,Dem ,Denise Nappier,492,458,34
+Middletown,6,Treasurer,,Dem ,Denise Nappier,435,416,19
+Middletown,7,Treasurer,,Dem ,Denise Nappier,578,521,57
+Middletown,8,Treasurer,,Dem ,Denise Nappier,234,214,20
+Middletown,9,Treasurer,,Dem ,Denise Nappier,746,706,40
+Middletown,10,Treasurer,,Dem ,Denise Nappier,1058,1010,48
+Middletown,11,Treasurer,,Dem ,Denise Nappier,1287,1194,93
+Middletown,12,Treasurer,,Dem ,Denise Nappier,261,249,12
+Middletown,13,Treasurer,,Dem ,Denise Nappier,210,163,47
+Middletown,14,Treasurer,,Dem ,Denise Nappier,558,520,38
+Middletown,1,Treasurer,,Green,David Bue,19,17,2
+Middletown,2,Treasurer,,Green,David Bue,7,7,0
+Middletown,3,Treasurer,,Green,David Bue,21,19,2
+Middletown,4,Treasurer,,Green,David Bue,11,11,0
+Middletown,5,Treasurer,,Green,David Bue,11,11,0
+Middletown,6,Treasurer,,Green,David Bue,4,4,0
+Middletown,7,Treasurer,,Green,David Bue,11,10,1
+Middletown,8,Treasurer,,Green,David Bue,7,6,1
+Middletown,9,Treasurer,,Green,David Bue,8,8,0
+Middletown,10,Treasurer,,Green,David Bue,26,26,0
+Middletown,11,Treasurer,,Green,David Bue,21,18,3
+Middletown,12,Treasurer,,Green,David Bue,7,7,0
+Middletown,13,Treasurer,,Green,David Bue,3,2,1
+Middletown,14,Treasurer,,Green,David Bue,18,17,1
+Middletown,1,Treasurer,,WF,Denise Nappier,39,38,1
+Middletown,2,Treasurer,,WF,Denise Nappier,11,10,1
+Middletown,3,Treasurer,,WF,Denise Nappier,82,78,4
+Middletown,4,Treasurer,,WF,Denise Nappier,21,20,1
+Middletown,5,Treasurer,,WF,Denise Nappier,19,18,1
+Middletown,6,Treasurer,,WF,Denise Nappier,25,24,1
+Middletown,7,Treasurer,,WF,Denise Nappier,26,24,2
+Middletown,8,Treasurer,,WF,Denise Nappier,26,24,2
+Middletown,9,Treasurer,,WF,Denise Nappier,45,43,2
+Middletown,10,Treasurer,,WF,Denise Nappier,69,68,1
+Middletown,11,Treasurer,,WF,Denise Nappier,84,82,2
+Middletown,12,Treasurer,,WF,Denise Nappier,24,23,1
+Middletown,13,Treasurer,,WF,Denise Nappier,13,13,0
+Middletown,14,Treasurer,,WF,Denise Nappier,45,44,1
+Middletown,1,Treasurer,,Ind,Andrew White,6,6,0
+Middletown,2,Treasurer,,Ind,Andrew White,5,5,0
+Middletown,3,Treasurer,,Ind,Andrew White,19,19,0
+Middletown,4,Treasurer,,Ind,Andrew White,12,12,0
+Middletown,5,Treasurer,,Ind,Andrew White,11,10,1
+Middletown,6,Treasurer,,Ind,Andrew White,7,7,0
+Middletown,7,Treasurer,,Ind,Andrew White,11,10,1
+Middletown,8,Treasurer,,Ind,Andrew White,2,2,0
+Middletown,9,Treasurer,,Ind,Andrew White,11,11,0
+Middletown,10,Treasurer,,Ind,Andrew White,30,29,1
+Middletown,11,Treasurer,,Ind,Andrew White,30,30,0
+Middletown,12,Treasurer,,Ind,Andrew White,11,11,0
+Middletown,13,Treasurer,,Ind,Andrew White,4,2,2
+Middletown,14,Treasurer,,Ind,Andrew White,8,8,0
+Middletown,1,Comptroller,,Rep,Jack Orchulli,130,123,7
+Middletown,2,Comptroller,,Rep,Jack Orchulli,63,58,5
+Middletown,3,Comptroller,,Rep,Jack Orchulli,781,736,45
+Middletown,4,Comptroller,,Rep,Jack Orchulli,397,378,19
+Middletown,5,Comptroller,,Rep,Jack Orchulli,388,357,31
+Middletown,6,Comptroller,,Rep,Jack Orchulli,222,212,10
+Middletown,7,Comptroller,,Rep,Jack Orchulli,207,186,21
+Middletown,8,Comptroller,,Rep,Jack Orchulli,80,76,4
+Middletown,9,Comptroller,,Rep,Jack Orchulli,354,331,23
+Middletown,10,Comptroller,,Rep,Jack Orchulli,707,679,28
+Middletown,11,Comptroller,,Rep,Jack Orchulli,608,552,56
+Middletown,12,Comptroller,,Rep,Jack Orchulli,112,109,3
+Middletown,13,Comptroller,,Rep,Jack Orchulli,56,48,8
+Middletown,14,Comptroller,,Rep,Jack Orchulli,99,74,25
+Middletown,1,Comptroller,,Dem ,Kevin Lembo,424,389,35
+Middletown,2,Comptroller,,Dem ,Kevin Lembo,192,187,5
+Middletown,3,Comptroller,,Dem ,Kevin Lembo,1500,1458,42
+Middletown,4,Comptroller,,Dem ,Kevin Lembo,453,445,8
+Middletown,5,Comptroller,,Dem ,Kevin Lembo,470,443,27
+Middletown,6,Comptroller,,Dem ,Kevin Lembo,421,404,17
+Middletown,7,Comptroller,,Dem ,Kevin Lembo,560,507,53
+Middletown,8,Comptroller,,Dem ,Kevin Lembo,218,201,17
+Middletown,9,Comptroller,,Dem ,Kevin Lembo,720,688,32
+Middletown,10,Comptroller,,Dem ,Kevin Lembo,1023,978,45
+Middletown,11,Comptroller,,Dem ,Kevin Lembo,1266,1189,77
+Middletown,12,Comptroller,,Dem ,Kevin Lembo,267,258,9
+Middletown,13,Comptroller,,Dem ,Kevin Lembo,181,140,41
+Middletown,14,Comptroller,,Dem ,Kevin Lembo,548,515,33
+Middletown,1,Comptroller,,Green,Colin Bennett,21,18,3
+Middletown,2,Comptroller,,Green,Colin Bennett,3,3,0
+Middletown,3,Comptroller,,Green,Colin Bennett,30,28,2
+Middletown,4,Comptroller,,Green,Colin Bennett,12,12,0
+Middletown,5,Comptroller,,Green,Colin Bennett,11,10,1
+Middletown,6,Comptroller,,Green,Colin Bennett,11,11,0
+Middletown,7,Comptroller,,Green,Colin Bennett,18,17,1
+Middletown,8,Comptroller,,Green,Colin Bennett,6,5,1
+Middletown,9,Comptroller,,Green,Colin Bennett,8,7,1
+Middletown,10,Comptroller,,Green,Colin Bennett,32,32,0
+Middletown,11,Comptroller,,Green,Colin Bennett,26,23,3
+Middletown,12,Comptroller,,Green,Colin Bennett,4,4,0
+Middletown,13,Comptroller,,Green,Colin Bennett,2,1,1
+Middletown,14,Comptroller,,Green,Colin Bennett,23,22,1
+Middletown,1,Comptroller,,Lbt,Joshua Katz,9,8,1
+Middletown,2,Comptroller,,Lbt,Joshua Katz,2,2,0
+Middletown,3,Comptroller,,Lbt,Joshua Katz,28,27,1
+Middletown,4,Comptroller,,Lbt,Joshua Katz,11,11,0
+Middletown,5,Comptroller,,Lbt,Joshua Katz,11,10,1
+Middletown,6,Comptroller,,Lbt,Joshua Katz,8,8,0
+Middletown,7,Comptroller,,Lbt,Joshua Katz,7,7,0
+Middletown,8,Comptroller,,Lbt,Joshua Katz,9,9,0
+Middletown,9,Comptroller,,Lbt,Joshua Katz,4,4,0
+Middletown,10,Comptroller,,Lbt,Joshua Katz,18,16,2
+Middletown,11,Comptroller,,Lbt,Joshua Katz,11,10,1
+Middletown,12,Comptroller,,Lbt,Joshua Katz,7,7,0
+Middletown,13,Comptroller,,Lbt,Joshua Katz,5,2,3
+Middletown,14,Comptroller,,Lbt,Joshua Katz,2,2,0
+Middletown,1,Comptroller,,WF,Kevin Lembo,37,36,1
+Middletown,2,Comptroller,,WF,Kevin Lembo,8,8,0
+Middletown,3,Comptroller,,WF,Kevin Lembo,69,68,1
+Middletown,4,Comptroller,,WF,Kevin Lembo,15,15,0
+Middletown,5,Comptroller,,WF,Kevin Lembo,16,15,1
+Middletown,6,Comptroller,,WF,Kevin Lembo,18,18,0
+Middletown,7,Comptroller,,WF,Kevin Lembo,22,22,0
+Middletown,8,Comptroller,,WF,Kevin Lembo,23,23,0
+Middletown,9,Comptroller,,WF,Kevin Lembo,37,37,0
+Middletown,10,Comptroller,,WF,Kevin Lembo,70,68,2
+Middletown,11,Comptroller,,WF,Kevin Lembo,77,76,1
+Middletown,12,Comptroller,,WF,Kevin Lembo,26,26,0
+Middletown,13,Comptroller,,WF,Kevin Lembo,17,14,3
+Middletown,14,Comptroller,,WF,Kevin Lembo,36,36,0
+Middletown,1,Comptroller,,Ind,Hugh Dolan,9,9,0
+Middletown,2,Comptroller,,Ind,Hugh Dolan,4,4,0
+Middletown,3,Comptroller,,Ind,Hugh Dolan,22,21,1
+Middletown,4,Comptroller,,Ind,Hugh Dolan,15,14,1
+Middletown,5,Comptroller,,Ind,Hugh Dolan,12,11,1
+Middletown,6,Comptroller,,Ind,Hugh Dolan,7,7,0
+Middletown,7,Comptroller,,Ind,Hugh Dolan,13,13,0
+Middletown,8,Comptroller,,Ind,Hugh Dolan,4,4,0
+Middletown,9,Comptroller,,Ind,Hugh Dolan,13,11,2
+Middletown,10,Comptroller,,Ind,Hugh Dolan,31,30,1
+Middletown,11,Comptroller,,Ind,Hugh Dolan,33,31,2
+Middletown,12,Comptroller,,Ind,Hugh Dolan,11,11,0
+Middletown,13,Comptroller,,Ind,Hugh Dolan,6,4,2
+Middletown,14,Comptroller,,Ind,Hugh Dolan,11,10,1
+Middletown,1,Attorney General,,Rep,Martha Dean,151,139,12
+Middletown,2,Attorney General,,Rep,Martha Dean,64,59,5
+Middletown,3,Attorney General,,Rep,Martha Dean,854,806,48
+Middletown,4,Attorney General,,Rep,Martha Dean,406,388,18
+Middletown,5,Attorney General,,Rep,Martha Dean,398,365,33
+Middletown,6,Attorney General,,Rep,Martha Dean,226,216,10
+Middletown,7,Attorney General,,Rep,Martha Dean,233,212,21
+Middletown,8,Attorney General,,Rep,Martha Dean,88,86,2
+Middletown,9,Attorney General,,Rep,Martha Dean,354,332,22
+Middletown,10,Attorney General,,Rep,Martha Dean,767,735,32
+Middletown,11,Attorney General,,Rep,Martha Dean,666,612,54
+Middletown,12,Attorney General,,Rep,Martha Dean,134,131,3
+Middletown,13,Attorney General,,Rep,Martha Dean,59,46,13
+Middletown,14,Attorney General,,Rep,Martha Dean,106,81,25
+Middletown,1,Attorney General,,Dem ,George Jepsen,438,404,34
+Middletown,2,Attorney General,,Dem ,George Jepsen,199,193,6
+Middletown,3,Attorney General,,Dem ,George Jepsen,1507,1458,49
+Middletown,4,Attorney General,,Dem ,George Jepsen,474,462,12
+Middletown,5,Attorney General,,Dem ,George Jepsen,478,451,27
+Middletown,6,Attorney General,,Dem ,George Jepsen,423,407,16
+Middletown,7,Attorney General,,Dem ,George Jepsen,549,496,53
+Middletown,8,Attorney General,,Dem ,George Jepsen,226,206,20
+Middletown,9,Attorney General,,Dem ,George Jepsen,746,710,36
+Middletown,10,Attorney General,,Dem ,George Jepsen,1028,985,43
+Middletown,11,Attorney General,,Dem ,George Jepsen,1260,1171,89
+Middletown,12,Attorney General,,Dem ,George Jepsen,257,248,9
+Middletown,13,Attorney General,,Dem ,George Jepsen,185,149,36
+Middletown,14,Attorney General,,Dem ,George Jepsen,550,515,35
+Middletown,1,Attorney General,,Green,Stephen Fournier,19,18,1
+Middletown,2,Attorney General,,Green,Stephen Fournier,5,5,0
+Middletown,3,Attorney General,,Green,Stephen Fournier,28,26,2
+Middletown,4,Attorney General,,Green,Stephen Fournier,15,15,0
+Middletown,5,Attorney General,,Green,Stephen Fournier,14,14,0
+Middletown,6,Attorney General,,Green,Stephen Fournier,14,14,0
+Middletown,7,Attorney General,,Green,Stephen Fournier,23,22,1
+Middletown,8,Attorney General,,Green,Stephen Fournier,11,10,1
+Middletown,9,Attorney General,,Green,Stephen Fournier,11,10,1
+Middletown,10,Attorney General,,Green,Stephen Fournier,33,33,0
+Middletown,11,Attorney General,,Green,Stephen Fournier,31,29,2
+Middletown,12,Attorney General,,Green,Stephen Fournier,11,11,0
+Middletown,13,Attorney General,,Green,Stephen Fournier,4,2,2
+Middletown,14,Attorney General,,Green,Stephen Fournier,26,25,1
+Middletown,1,Attorney General,,WF,George Jepsen,34,34,0
+Middletown,2,Attorney General,,WF,George Jepsen,8,8,0
+Middletown,3,Attorney General,,WF,George Jepsen,71,69,2
+Middletown,4,Attorney General,,WF,George Jepsen,18,17,1
+Middletown,5,Attorney General,,WF,George Jepsen,22,20,2
+Middletown,6,Attorney General,,WF,George Jepsen,19,18,1
+Middletown,7,Attorney General,,WF,George Jepsen,26,24,2
+Middletown,8,Attorney General,,WF,George Jepsen,23,21,2
+Middletown,9,Attorney General,,WF,George Jepsen,42,39,3
+Middletown,10,Attorney General,,WF,George Jepsen,65,64,1
+Middletown,11,Attorney General,,WF,George Jepsen,78,77,1
+Middletown,12,Attorney General,,WF,George Jepsen,25,25,0
+Middletown,13,Attorney General,,WF,George Jepsen,13,12,1
+Middletown,14,Attorney General,,WF,George Jepsen,38,38,0
+Middletown,1,Attorney General,,Ind,Stephen Fournier,10,10,0
+Middletown,2,Attorney General,,Ind,Stephen Fournier,4,4,0
+Middletown,3,Attorney General,,Ind,Stephen Fournier,13,13,0
+Middletown,4,Attorney General,,Ind,Stephen Fournier,10,10,0
+Middletown,5,Attorney General,,Ind,Stephen Fournier,10,10,0
+Middletown,6,Attorney General,,Ind,Stephen Fournier,10,10,0
+Middletown,7,Attorney General,,Ind,Stephen Fournier,13,13,0
+Middletown,8,Attorney General,,Ind,Stephen Fournier,1,1,0
+Middletown,9,Attorney General,,Ind,Stephen Fournier,7,6,1
+Middletown,10,Attorney General,,Ind,Stephen Fournier,33,32,1
+Middletown,11,Attorney General,,Ind,Stephen Fournier,28,27,1
+Middletown,12,Attorney General,,Ind,Stephen Fournier,7,7,0
+Middletown,13,Attorney General,,Ind,Stephen Fournier,7,5,2
+Middletown,14,Attorney General,,Ind,Stephen Fournier,9,8,1

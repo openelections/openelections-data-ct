@@ -1,0 +1,421 @@
+town,precinct,office,district,party,candidate,votes
+Milford,Milford 117 Live Oaks,Governor,,Rep,Tom Foley,396
+Milford,Milford 119 Live Oaks,Governor,,Rep,Tom Foley,364
+Milford,Milford 127 Orange,Governor,,Rep,Tom Foley,1506
+Milford,Milford 128 JFK,Governor,,Rep,Tom Foley,1118
+Milford,Milford 238 Meadowside,Governor,,Rep,Tom Foley,853
+Milford,Milford 248 Island View,Governor,,Rep,Tom Foley,178
+Milford,Milford 318 West Shore,Governor,,Rep,Tom Foley,982
+Milford,Milford 328 Egan,Governor,,Rep,Tom Foley,689
+Milford,Milford 419 Foran,Governor,,Rep,Tom Foley,1874
+Milford,Milford 529 Harborside,Governor,,Rep,Tom Foley,2126
+Milford,Milford 117 Live Oaks,Governor,,Dem,Dan Malloy,289
+Milford,Milford 119 Live Oaks,Governor,,Dem,Dan Malloy,293
+Milford,Milford 127 Orange,Governor,,Dem,Dan Malloy,904
+Milford,Milford 128 JFK,Governor,,Dem,Dan Malloy,857
+Milford,Milford 238 Meadowside,Governor,,Dem,Dan Malloy,837
+Milford,Milford 248 Island View,Governor,,Dem,Dan Malloy,154
+Milford,Milford 318 West Shore,Governor,,Dem,Dan Malloy,924
+Milford,Milford 328 Egan,Governor,,Dem,Dan Malloy,648
+Milford,Milford 419 Foran,Governor,,Dem,Dan Malloy,1638
+Milford,Milford 529 Harborside,Governor,,Dem,Dan Malloy,1842
+Milford,Milford 117 Live Oaks,Governor,,WF,Dan Malloy,16
+Milford,Milford 119 Live Oaks,Governor,,WF,Dan Malloy,11
+Milford,Milford 127 Orange,Governor,,WF,Dan Malloy,33
+Milford,Milford 128 JFK,Governor,,WF,Dan Malloy,37
+Milford,Milford 238 Meadowside,Governor,,WF,Dan Malloy,39
+Milford,Milford 248 Island View,Governor,,WF,Dan Malloy,11
+Milford,Milford 318 West Shore,Governor,,WF,Dan Malloy,42
+Milford,Milford 328 Egan,Governor,,WF,Dan Malloy,38
+Milford,Milford 419 Foran,Governor,,WF,Dan Malloy,80
+Milford,Milford 529 Harborside,Governor,,WF,Dan Malloy,80
+Milford,Milford 117 Live Oaks,Governor,,Ind,Thomas Marsh,10
+Milford,Milford 119 Live Oaks,Governor,,Ind,Thomas Marsh,11
+Milford,Milford 127 Orange,Governor,,Ind,Thomas Marsh,37
+Milford,Milford 128 JFK,Governor,,Ind,Thomas Marsh,30
+Milford,Milford 238 Meadowside,Governor,,Ind,Thomas Marsh,45
+Milford,Milford 248 Island View,Governor,,Ind,Thomas Marsh,7
+Milford,Milford 318 West Shore,Governor,,Ind,Thomas Marsh,42
+Milford,Milford 328 Egan,Governor,,Ind,Thomas Marsh,19
+Milford,Milford 419 Foran,Governor,,Ind,Thomas Marsh,61
+Milford,Milford 529 Harborside,Governor,,Ind,Thomas Marsh,72
+Milford,Milford 117 Live Oaks,US Senate,,Rep,Linda McMahon,342
+Milford,Milford 119 Live Oaks,US Senate,,Rep,Linda McMahon,274
+Milford,Milford 127 Orange,US Senate,,Rep,Linda McMahon,1255
+Milford,Milford 128 JFK,US Senate,,Rep,Linda McMahon,934
+Milford,Milford 238 Meadowside,US Senate,,Rep,Linda McMahon,700
+Milford,Milford 248 Island View,US Senate,,Rep,Linda McMahon,147
+Milford,Milford 318 West Shore,US Senate,,Rep,Linda McMahon,807
+Milford,Milford 328 Egan,US Senate,,Rep,Linda McMahon,567
+Milford,Milford 419 Foran,US Senate,,Rep,Linda McMahon,1622
+Milford,Milford 529 Harborside,US Senate,,Rep,Linda McMahon,1778
+Milford,Milford 117 Live Oaks,US Senate,,Dem ,Richard Blumenthal,348
+Milford,Milford 119 Live Oaks,US Senate,,Dem ,Richard Blumenthal,381
+Milford,Milford 127 Orange,US Senate,,Dem ,Richard Blumenthal,1159
+Milford,Milford 128 JFK,US Senate,,Dem ,Richard Blumenthal,1030
+Milford,Milford 238 Meadowside,US Senate,,Dem ,Richard Blumenthal,1007
+Milford,Milford 248 Island View,US Senate,,Dem ,Richard Blumenthal,192
+Milford,Milford 318 West Shore,US Senate,,Dem ,Richard Blumenthal,1108
+Milford,Milford 328 Egan,US Senate,,Dem ,Richard Blumenthal,777
+Milford,Milford 419 Foran,US Senate,,Dem ,Richard Blumenthal,1907
+Milford,Milford 529 Harborside,US Senate,,Dem ,Richard Blumenthal,2215
+Milford,Milford 117 Live Oaks,US Senate,,WF,Richard Blumenthal,24
+Milford,Milford 119 Live Oaks,US Senate,,WF,Richard Blumenthal,18
+Milford,Milford 127 Orange,US Senate,,WF,Richard Blumenthal,51
+Milford,Milford 128 JFK,US Senate,,WF,Richard Blumenthal,58
+Milford,Milford 238 Meadowside,US Senate,,WF,Richard Blumenthal,55
+Milford,Milford 248 Island View,US Senate,,WF,Richard Blumenthal,12
+Milford,Milford 318 West Shore,US Senate,,WF,Richard Blumenthal,63
+Milford,Milford 328 Egan,US Senate,,WF,Richard Blumenthal,48
+Milford,Milford 419 Foran,US Senate,,WF,Richard Blumenthal,94
+Milford,Milford 529 Harborside,US Senate,,WF,Richard Blumenthal,106
+Milford,Milford 117 Live Oaks,US Senate,,CFL,John Mertens,3
+Milford,Milford 119 Live Oaks,US Senate,,CFL,John Mertens,8
+Milford,Milford 127 Orange,US Senate,,CFL,John Mertens,15
+Milford,Milford 128 JFK,US Senate,,CFL,John Mertens,15
+Milford,Milford 238 Meadowside,US Senate,,CFL,John Mertens,13
+Milford,Milford 248 Island View,US Senate,,CFL,John Mertens,1
+Milford,Milford 318 West Shore,US Senate,,CFL,John Mertens,14
+Milford,Milford 328 Egan,US Senate,,CFL,John Mertens,7
+Milford,Milford 419 Foran,US Senate,,CFL,John Mertens,22
+Milford,Milford 529 Harborside,US Senate,,CFL,John Mertens,16
+Milford,Milford 117 Live Oaks,US Senate,,Ind,Warren Mosler,5
+Milford,Milford 119 Live Oaks,US Senate,,Ind,Warren Mosler,11
+Milford,Milford 127 Orange,US Senate,,Ind,Warren Mosler,18
+Milford,Milford 128 JFK,US Senate,,Ind,Warren Mosler,26
+Milford,Milford 238 Meadowside,US Senate,,Ind,Warren Mosler,25
+Milford,Milford 248 Island View,US Senate,,Ind,Warren Mosler,4
+Milford,Milford 318 West Shore,US Senate,,Ind,Warren Mosler,23
+Milford,Milford 328 Egan,US Senate,,Ind,Warren Mosler,16
+Milford,Milford 419 Foran,US Senate,,Ind,Warren Mosler,36
+Milford,Milford 529 Harborside,US Senate,,Ind,Warren Mosler,42
+Milford,Milford 117 Live Oaks,US Senate,,Ind,write-ins,0
+Milford,Milford 119 Live Oaks,US Senate,,Ind,write-ins,0
+Milford,Milford 127 Orange,US Senate,,Ind,write-ins,0
+Milford,Milford 128 JFK,US Senate,,Ind,write-ins,0
+Milford,Milford 238 Meadowside,US Senate,,Ind,write-ins,0
+Milford,Milford 248 Island View,US Senate,,Ind,write-ins,0
+Milford,Milford 318 West Shore,US Senate,,Ind,write-ins,0
+Milford,Milford 328 Egan,US Senate,,Ind,write-ins,0
+Milford,Milford 419 Foran,US Senate,,Ind,Bryan Hill write-ins,3
+Milford,Milford 529 Harborside,US Senate,,Ind,Bryan Hill write-ins,1
+Milford,Milford 117 Live Oaks,US House,3,Rep,Jerry Labriola,299
+Milford,Milford 119 Live Oaks,US House,3,Rep,Jerry Labriola,265
+Milford,Milford 127 Orange,US House,3,Rep,Jerry Labriola,1132
+Milford,Milford 128 JFK,US House,3,Rep,Jerry Labriola,824
+Milford,Milford 238 Meadowside,US House,3,Rep,Jerry Labriola,635
+Milford,Milford 248 Island View,US House,3,Rep,Jerry Labriola,135
+Milford,Milford 318 West Shore,US House,3,Rep,Jerry Labriola,721
+Milford,Milford 328 Egan,US House,3,Rep,Jerry Labriola,484
+Milford,Milford 419 Foran,US House,3,Rep,Jerry Labriola,1431
+Milford,Milford 529 Harborside,US House,3,Rep,Jerry Labriola,1639
+Milford,Milford 117 Live Oaks,US House,3,Dem ,Rosa DeLauro,373
+Milford,Milford 119 Live Oaks,US House,3,Dem ,Rosa DeLauro,387
+Milford,Milford 127 Orange,US House,3,Dem ,Rosa DeLauro,1244
+Milford,Milford 128 JFK,US House,3,Dem ,Rosa DeLauro,1116
+Milford,Milford 238 Meadowside,US House,3,Dem ,Rosa DeLauro,1049
+Milford,Milford 248 Island View,US House,3,Dem ,Rosa DeLauro,195
+Milford,Milford 318 West Shore,US House,3,Dem ,Rosa DeLauro,1164
+Milford,Milford 328 Egan,US House,3,Dem ,Rosa DeLauro,842
+Milford,Milford 419 Foran,US House,3,Dem ,Rosa DeLauro,2050
+Milford,Milford 529 Harborside,US House,3,Dem ,Rosa DeLauro,2310
+Milford,Milford 117 Live Oaks,US House,3,Green,Charles Pillsbury,5
+Milford,Milford 119 Live Oaks,US House,3,Green,Charles Pillsbury,3
+Milford,Milford 127 Orange,US House,3,Green,Charles Pillsbury,11
+Milford,Milford 128 JFK,US House,3,Green,Charles Pillsbury,17
+Milford,Milford 238 Meadowside,US House,3,Green,Charles Pillsbury,31
+Milford,Milford 248 Island View,US House,3,Green,Charles Pillsbury,4
+Milford,Milford 318 West Shore,US House,3,Green,Charles Pillsbury,20
+Milford,Milford 328 Egan,US House,3,Green,Charles Pillsbury,8
+Milford,Milford 419 Foran,US House,3,Green,Charles Pillsbury,40
+Milford,Milford 529 Harborside,US House,3,Green,Charles Pillsbury,56
+Milford,Milford 117 Live Oaks,US House,3,WF,Rosa DeLauro,33
+Milford,Milford 119 Live Oaks,US House,3,WF,Rosa DeLauro,16
+Milford,Milford 127 Orange,US House,3,WF,Rosa DeLauro,63
+Milford,Milford 128 JFK,US House,3,WF,Rosa DeLauro,72
+Milford,Milford 238 Meadowside,US House,3,WF,Rosa DeLauro,61
+Milford,Milford 248 Island View,US House,3,WF,Rosa DeLauro,12
+Milford,Milford 318 West Shore,US House,3,WF,Rosa DeLauro,72
+Milford,Milford 328 Egan,US House,3,WF,Rosa DeLauro,62
+Milford,Milford 419 Foran,US House,3,WF,Rosa DeLauro,111
+Milford,Milford 529 Harborside,US House,3,WF,Rosa DeLauro,109
+Milford,Milford 117 Live Oaks,State Senate,,Rep,Vincent Marino,305
+Milford,Milford 119 Live Oaks,State Senate,,Rep,Vincent Marino,283
+Milford,Milford 127 Orange,State Senate,,Rep,Vincent Marino,1167
+Milford,Milford 128 JFK,State Senate,,Rep,Vincent Marino,882
+Milford,Milford 238 Meadowside,State Senate,,Rep,Vincent Marino,694
+Milford,Milford 248 Island View,State Senate,,Rep,Vincent Marino,151
+Milford,Milford 318 West Shore,State Senate,,Rep,Vincent Marino,809
+Milford,Milford 328 Egan,State Senate,,Rep,Vincent Marino,517
+Milford,Milford 419 Foran,State Senate,,Rep,Vincent Marino,1511
+Milford,Milford 529 Harborside,State Senate,,Rep,Vincent Marino,1721
+Milford,Milford 117 Live Oaks,State Senate,,Dem ,Gayle Slossberg,383
+Milford,Milford 119 Live Oaks,State Senate,,Dem ,Gayle Slossberg,378
+Milford,Milford 127 Orange,State Senate,,Dem ,Gayle Slossberg,1264
+Milford,Milford 128 JFK,State Senate,,Dem ,Gayle Slossberg,1101
+Milford,Milford 238 Meadowside,State Senate,,Dem ,Gayle Slossberg,1036
+Milford,Milford 248 Island View,State Senate,,Dem ,Gayle Slossberg,183
+Milford,Milford 318 West Shore,State Senate,,Dem ,Gayle Slossberg,1125
+Milford,Milford 328 Egan,State Senate,,Dem ,Gayle Slossberg,830
+Milford,Milford 419 Foran,State Senate,,Dem ,Gayle Slossberg,2062
+Milford,Milford 529 Harborside,State Senate,,Dem ,Gayle Slossberg,2308
+Milford,Milford 117 Live Oaks,State Senate,,WF,Gayle Slossberg,18
+Milford,Milford 119 Live Oaks,State Senate,,WF,Gayle Slossberg,16
+Milford,Milford 127 Orange,State Senate,,WF,Gayle Slossberg,40
+Milford,Milford 128 JFK,State Senate,,WF,Gayle Slossberg,59
+Milford,Milford 238 Meadowside,State Senate,,WF,Gayle Slossberg,48
+Milford,Milford 248 Island View,State Senate,,WF,Gayle Slossberg,12
+Milford,Milford 318 West Shore,State Senate,,WF,Gayle Slossberg,48
+Milford,Milford 328 Egan,State Senate,,WF,Gayle Slossberg,38
+Milford,Milford 419 Foran,State Senate,,WF,Gayle Slossberg,79
+Milford,Milford 529 Harborside,State Senate,,WF,Gayle Slossberg,94
+Milford,Milford 117 Live Oaks,State House,117,Rep,Peggy Rogers,352
+Milford,Milford 119 Live Oaks,State House,119,Rep,Daniel German,282
+Milford,Milford 127 Orange,State House,117,Rep,Peggy Rogers,1385
+Milford,Milford 128 JFK,State House,118,Rep,Gregory Smith,1052
+Milford,Milford 238 Meadowside,State House,118,Rep,Gregory Smith,820
+Milford,Milford 248 Island View,State House,118,Rep,Gregory Smith,171
+Milford,Milford 318 West Shore,State House,118,Rep,Gregory Smith,858
+Milford,Milford 328 Egan,State House,118,Rep,Gregory Smith,606
+Milford,Milford 419 Foran,State House,119,Rep,Daniel German,1635
+Milford,Milford 529 Harborside,State House,119,Rep,Daniel German,1949
+Milford,Milford 117 Live Oaks,State House,117,Dem ,Paul Davis,336
+Milford,Milford 119 Live Oaks,State House,119,Dem ,Richard Roy,396
+Milford,Milford 127 Orange,State House,117,Dem ,Paul Davis,1015
+Milford,Milford 128 JFK,State House,118,Dem ,Kim Rose,863
+Milford,Milford 238 Meadowside,State House,118,Dem ,Kim Rose,842
+Milford,Milford 248 Island View,State House,118,Dem ,Kim Rose,149
+Milford,Milford 318 West Shore,State House,118,Dem ,Kim Rose,1010
+Milford,Milford 328 Egan,State House,118,Dem ,Kim Rose,682
+Milford,Milford 128 JFK,State House,118,WF,Kim Rose,45
+Milford,Milford 238 Meadowside,State House,118,WF,Kim Rose,42
+Milford,Milford 248 Island View,State House,118,WF,Kim Rose,8
+Milford,Milford 318 West Shore,State House,118,WF,Kim Rose,56
+Milford,Milford 328 Egan,State House,118,WF,Kim Rose,50
+Milford,Milford 128 JFK,State House,118,Ind,Rocco Frank,53
+Milford,Milford 238 Meadowside,State House,118,Ind,Rocco Frank,55
+Milford,Milford 248 Island View,State House,118,Ind,Rocco Frank,13
+Milford,Milford 318 West Shore,State House,118,Ind,Rocco Frank,53
+Milford,Milford 328 Egan,State House,118,Ind,Rocco Frank,39
+Milford,Milford 419 Foran,State House,119,Dem ,Richard Roy,1995
+Milford,Milford 529 Harborside,State House,119,Dem ,Richard Roy,2157
+Milford,Milford 117 Live Oaks,Secretary of State,,Rep,Jerry Farrell,354
+Milford,Milford 119 Live Oaks,Secretary of State,,Rep,Jerry Farrell,320
+Milford,Milford 127 Orange,Secretary of State,,Rep,Jerry Farrell,1341
+Milford,Milford 128 JFK,Secretary of State,,Rep,Jerry Farrell,977
+Milford,Milford 238 Meadowside,Secretary of State,,Rep,Jerry Farrell,740
+Milford,Milford 248 Island View,Secretary of State,,Rep,Jerry Farrell,153
+Milford,Milford 318 West Shore,Secretary of State,,Rep,Jerry Farrell,841
+Milford,Milford 328 Egan,Secretary of State,,Rep,Jerry Farrell,573
+Milford,Milford 419 Foran,Secretary of State,,Rep,Jerry Farrell,1657
+Milford,Milford 529 Harborside,Secretary of State,,Rep,Jerry Farrell,1880
+Milford,Milford 117 Live Oaks,Secretary of State,,Dem ,Denise Merrill,292
+Milford,Milford 119 Live Oaks,Secretary of State,,Dem ,Denise Merrill,303
+Milford,Milford 127 Orange,Secretary of State,,Dem ,Denise Merrill,948
+Milford,Milford 128 JFK,Secretary of State,,Dem ,Denise Merrill,897
+Milford,Milford 238 Meadowside,Secretary of State,,Dem ,Denise Merrill,873
+Milford,Milford 248 Island View,Secretary of State,,Dem ,Denise Merrill,167
+Milford,Milford 318 West Shore,Secretary of State,,Dem ,Denise Merrill,967
+Milford,Milford 328 Egan,Secretary of State,,Dem ,Denise Merrill,688
+Milford,Milford 419 Foran,Secretary of State,,Dem ,Denise Merrill,1731
+Milford,Milford 529 Harborside,Secretary of State,,Dem ,Denise Merrill,1928
+Milford,Milford 117 Live Oaks,Secretary of State,,Green,Michael DeRosa,4
+Milford,Milford 119 Live Oaks,Secretary of State,,Green,Michael DeRosa,7
+Milford,Milford 127 Orange,Secretary of State,,Green,Michael DeRosa,32
+Milford,Milford 128 JFK,Secretary of State,,Green,Michael DeRosa,21
+Milford,Milford 238 Meadowside,Secretary of State,,Green,Michael DeRosa,35
+Milford,Milford 248 Island View,Secretary of State,,Green,Michael DeRosa,5
+Milford,Milford 318 West Shore,Secretary of State,,Green,Michael DeRosa,26
+Milford,Milford 328 Egan,Secretary of State,,Green,Michael DeRosa,16
+Milford,Milford 419 Foran,Secretary of State,,Green,Michael DeRosa,43
+Milford,Milford 529 Harborside,Secretary of State,,Green,Michael DeRosa,57
+Milford,Milford 117 Live Oaks,Secretary of State,,Lbt,Ken Mosher,3
+Milford,Milford 119 Live Oaks,Secretary of State,,Lbt,Ken Mosher,3
+Milford,Milford 127 Orange,Secretary of State,,Lbt,Ken Mosher,14
+Milford,Milford 128 JFK,Secretary of State,,Lbt,Ken Mosher,11
+Milford,Milford 238 Meadowside,Secretary of State,,Lbt,Ken Mosher,18
+Milford,Milford 248 Island View,Secretary of State,,Lbt,Ken Mosher,1
+Milford,Milford 318 West Shore,Secretary of State,,Lbt,Ken Mosher,9
+Milford,Milford 328 Egan,Secretary of State,,Lbt,Ken Mosher,5
+Milford,Milford 419 Foran,Secretary of State,,Lbt,Ken Mosher,23
+Milford,Milford 529 Harborside,Secretary of State,,Lbt,Ken Mosher,38
+Milford,Milford 117 Live Oaks,Secretary of State,,WF,Denise Merrill,17
+Milford,Milford 119 Live Oaks,Secretary of State,,WF,Denise Merrill,13
+Milford,Milford 127 Orange,Secretary of State,,WF,Denise Merrill,36
+Milford,Milford 128 JFK,Secretary of State,,WF,Denise Merrill,43
+Milford,Milford 238 Meadowside,Secretary of State,,WF,Denise Merrill,42
+Milford,Milford 248 Island View,Secretary of State,,WF,Denise Merrill,8
+Milford,Milford 318 West Shore,Secretary of State,,WF,Denise Merrill,40
+Milford,Milford 328 Egan,Secretary of State,,WF,Denise Merrill,45
+Milford,Milford 419 Foran,Secretary of State,,WF,Denise Merrill,60
+Milford,Milford 529 Harborside,Secretary of State,,WF,Denise Merrill,70
+Milford,Milford 117 Live Oaks,Secretary of State,,Ind,Michael Telesca,8
+Milford,Milford 119 Live Oaks,Secretary of State,,Ind,Michael Telesca,7
+Milford,Milford 127 Orange,Secretary of State,,Ind,Michael Telesca,28
+Milford,Milford 128 JFK,Secretary of State,,Ind,Michael Telesca,26
+Milford,Milford 238 Meadowside,Secretary of State,,Ind,Michael Telesca,30
+Milford,Milford 248 Island View,Secretary of State,,Ind,Michael Telesca,5
+Milford,Milford 318 West Shore,Secretary of State,,Ind,Michael Telesca,41
+Milford,Milford 328 Egan,Secretary of State,,Ind,Michael Telesca,22
+Milford,Milford 419 Foran,Secretary of State,,Ind,Michael Telesca,43
+Milford,Milford 529 Harborside,Secretary of State,,Ind,Michael Telesca,53
+Milford,Milford 117 Live Oaks,Treasurer,,Rep,Jeff Wright,343
+Milford,Milford 119 Live Oaks,Treasurer,,Rep,Jeff Wright,307
+Milford,Milford 127 Orange,Treasurer,,Rep,Jeff Wright,1347
+Milford,Milford 128 JFK,Treasurer,,Rep,Jeff Wright,959
+Milford,Milford 238 Meadowside,Treasurer,,Rep,Jeff Wright,750
+Milford,Milford 248 Island View,Treasurer,,Rep,Jeff Wright,150
+Milford,Milford 318 West Shore,Treasurer,,Rep,Jeff Wright,842
+Milford,Milford 328 Egan,Treasurer,,Rep,Jeff Wright,596
+Milford,Milford 419 Foran,Treasurer,,Rep,Jeff Wright,1661
+Milford,Milford 529 Harborside,Treasurer,,Rep,Jeff Wright,1907
+Milford,Milford 117 Live Oaks,Treasurer,,Dem ,Denise Nappier,309
+Milford,Milford 119 Live Oaks,Treasurer,,Dem ,Denise Nappier,316
+Milford,Milford 127 Orange,Treasurer,,Dem ,Denise Nappier,964
+Milford,Milford 128 JFK,Treasurer,,Dem ,Denise Nappier,917
+Milford,Milford 238 Meadowside,Treasurer,,Dem ,Denise Nappier,869
+Milford,Milford 248 Island View,Treasurer,,Dem ,Denise Nappier,170
+Milford,Milford 318 West Shore,Treasurer,,Dem ,Denise Nappier,988
+Milford,Milford 328 Egan,Treasurer,,Dem ,Denise Nappier,688
+Milford,Milford 419 Foran,Treasurer,,Dem ,Denise Nappier,1745
+Milford,Milford 529 Harborside,Treasurer,,Dem ,Denise Nappier,1929
+Milford,Milford 117 Live Oaks,Treasurer,,Green,David Bue,8
+Milford,Milford 119 Live Oaks,Treasurer,,Green,David Bue,3
+Milford,Milford 127 Orange,Treasurer,,Green,David Bue,16
+Milford,Milford 128 JFK,Treasurer,,Green,David Bue,20
+Milford,Milford 238 Meadowside,Treasurer,,Green,David Bue,26
+Milford,Milford 248 Island View,Treasurer,,Green,David Bue,4
+Milford,Milford 318 West Shore,Treasurer,,Green,David Bue,14
+Milford,Milford 328 Egan,Treasurer,,Green,David Bue,10
+Milford,Milford 419 Foran,Treasurer,,Green,David Bue,27
+Milford,Milford 529 Harborside,Treasurer,,Green,David Bue,41
+Milford,Milford 117 Live Oaks,Treasurer,,WF,Denise Nappier,14
+Milford,Milford 119 Live Oaks,Treasurer,,WF,Denise Nappier,12
+Milford,Milford 127 Orange,Treasurer,,WF,Denise Nappier,39
+Milford,Milford 128 JFK,Treasurer,,WF,Denise Nappier,42
+Milford,Milford 238 Meadowside,Treasurer,,WF,Denise Nappier,37
+Milford,Milford 248 Island View,Treasurer,,WF,Denise Nappier,8
+Milford,Milford 318 West Shore,Treasurer,,WF,Denise Nappier,47
+Milford,Milford 328 Egan,Treasurer,,WF,Denise Nappier,37
+Milford,Milford 419 Foran,Treasurer,,WF,Denise Nappier,65
+Milford,Milford 529 Harborside,Treasurer,,WF,Denise Nappier,67
+Milford,Milford 117 Live Oaks,Treasurer,,Ind,Andrew White,8
+Milford,Milford 119 Live Oaks,Treasurer,,Ind,Andrew White,10
+Milford,Milford 127 Orange,Treasurer,,Ind,Andrew White,26
+Milford,Milford 128 JFK,Treasurer,,Ind,Andrew White,37
+Milford,Milford 238 Meadowside,Treasurer,,Ind,Andrew White,42
+Milford,Milford 248 Island View,Treasurer,,Ind,Andrew White,6
+Milford,Milford 318 West Shore,Treasurer,,Ind,Andrew White,49
+Milford,Milford 328 Egan,Treasurer,,Ind,Andrew White,20
+Milford,Milford 419 Foran,Treasurer,,Ind,Andrew White,54
+Milford,Milford 529 Harborside,Treasurer,,Ind,Andrew White,69
+Milford,Milford 117 Live Oaks,Treasurer,,Rep,Jack Orchulli,337
+Milford,Milford 119 Live Oaks,Treasurer,,Rep,Jack Orchulli,275
+Milford,Milford 127 Orange,Treasurer,,Rep,Jack Orchulli,1284
+Milford,Milford 128 JFK,Treasurer,,Rep,Jack Orchulli,943
+Milford,Milford 238 Meadowside,Comptroller,,Rep,Jack Orchulli,677
+Milford,Milford 248 Island View,Comptroller,,Rep,Jack Orchulli,142
+Milford,Milford 318 West Shore,Comptroller,,Rep,Jack Orchulli,813
+Milford,Milford 328 Egan,Comptroller,,Rep,Jack Orchulli,558
+Milford,Milford 419 Foran,Comptroller,,Rep,Jack Orchulli,1564
+Milford,Milford 529 Harborside,Comptroller,,Rep,Jack Orchulli,1781
+Milford,Milford 117 Live Oaks,Comptroller,,Dem ,Kevin Lembo,301
+Milford,Milford 119 Live Oaks,Comptroller,,Dem ,Kevin Lembo,324
+Milford,Milford 127 Orange,Comptroller,,Dem ,Kevin Lembo,939
+Milford,Milford 128 JFK,Comptroller,,Dem ,Kevin Lembo,894
+Milford,Milford 238 Meadowside,Comptroller,,Dem ,Kevin Lembo,882
+Milford,Milford 248 Island View,Comptroller,,Dem ,Kevin Lembo,164
+Milford,Milford 318 West Shore,Comptroller,,Dem ,Kevin Lembo,955
+Milford,Milford 328 Egan,Comptroller,,Dem ,Kevin Lembo,664
+Milford,Milford 419 Foran,Comptroller,,Dem ,Kevin Lembo,1726
+Milford,Milford 529 Harborside,Comptroller,,Dem ,Kevin Lembo,1922
+Milford,Milford 117 Live Oaks,Comptroller,,Green,Colin Bennett,3
+Milford,Milford 119 Live Oaks,Comptroller,,Green,Colin Bennett,3
+Milford,Milford 127 Orange,Comptroller,,Green,Colin Bennett,24
+Milford,Milford 128 JFK,Comptroller,,Green,Colin Bennett,26
+Milford,Milford 238 Meadowside,Comptroller,,Green,Colin Bennett,23
+Milford,Milford 248 Island View,Comptroller,,Green,Colin Bennett,5
+Milford,Milford 318 West Shore,Comptroller,,Green,Colin Bennett,20
+Milford,Milford 328 Egan,Comptroller,,Green,Colin Bennett,21
+Milford,Milford 419 Foran,Comptroller,,Green,Colin Bennett,46
+Milford,Milford 529 Harborside,Comptroller,,Green,Colin Bennett,48
+Milford,Milford 117 Live Oaks,Comptroller,,Lbt,Joshua Katz,5
+Milford,Milford 119 Live Oaks,Comptroller,,Lbt,Joshua Katz,4
+Milford,Milford 127 Orange,Comptroller,,Lbt,Joshua Katz,15
+Milford,Milford 128 JFK,Comptroller,,Lbt,Joshua Katz,11
+Milford,Milford 238 Meadowside,Comptroller,,Lbt,Joshua Katz,26
+Milford,Milford 248 Island View,Comptroller,,Lbt,Joshua Katz,5
+Milford,Milford 318 West Shore,Comptroller,,Lbt,Joshua Katz,17
+Milford,Milford 328 Egan,Comptroller,,Lbt,Joshua Katz,9
+Milford,Milford 419 Foran,Comptroller,,Lbt,Joshua Katz,30
+Milford,Milford 529 Harborside,Comptroller,,Lbt,Joshua Katz,39
+Milford,Milford 117 Live Oaks,Comptroller,,WF,Kevin Lembo,14
+Milford,Milford 119 Live Oaks,Comptroller,,WF,Kevin Lembo,11
+Milford,Milford 127 Orange,Comptroller,,WF,Kevin Lembo,35
+Milford,Milford 128 JFK,Comptroller,,WF,Kevin Lembo,36
+Milford,Milford 238 Meadowside,Comptroller,,WF,Kevin Lembo,35
+Milford,Milford 248 Island View,Comptroller,,WF,Kevin Lembo,9
+Milford,Milford 318 West Shore,Comptroller,,WF,Kevin Lembo,41
+Milford,Milford 328 Egan,Comptroller,,WF,Kevin Lembo,35
+Milford,Milford 419 Foran,Comptroller,,WF,Kevin Lembo,54
+Milford,Milford 529 Harborside,Comptroller,,WF,Kevin Lembo,69
+Milford,Milford 117 Live Oaks,Comptroller,,Ind,Hugh Dolan,7
+Milford,Milford 119 Live Oaks,Comptroller,,Ind,Hugh Dolan,14
+Milford,Milford 127 Orange,Comptroller,,Ind,Hugh Dolan,44
+Milford,Milford 128 JFK,Comptroller,,Ind,Hugh Dolan,32
+Milford,Milford 238 Meadowside,Comptroller,,Ind,Hugh Dolan,50
+Milford,Milford 248 Island View,Comptroller,,Ind,Hugh Dolan,8
+Milford,Milford 318 West Shore,Comptroller,,Ind,Hugh Dolan,62
+Milford,Milford 328 Egan,Comptroller,,Ind,Hugh Dolan,27
+Milford,Milford 419 Foran,Comptroller,,Ind,Hugh Dolan,73
+Milford,Milford 529 Harborside,Comptroller,,Ind,Hugh Dolan,89
+Milford,Milford 117 Live Oaks,Comptroller,,Rep,Martha Dean,311
+Milford,Milford 119 Live Oaks,Comptroller,,Rep,Martha Dean,271
+Milford,Milford 127 Orange,Comptroller,,Rep,Martha Dean,1222
+Milford,Milford 128 JFK,Comptroller,,Rep,Martha Dean,907
+Milford,Milford 238 Meadowside,Attorney General,,Rep,Martha Dean,706
+Milford,Milford 248 Island View,Attorney General,,Rep,Martha Dean,146
+Milford,Milford 318 West Shore,Attorney General,,Rep,Martha Dean,784
+Milford,Milford 328 Egan,Attorney General,,Rep,Martha Dean,520
+Milford,Milford 419 Foran,Attorney General,,Rep,Martha Dean,1493
+Milford,Milford 529 Harborside,Attorney General,,Rep,Martha Dean,1738
+Milford,Milford 117 Live Oaks,Attorney General,,Dem ,George Jepsen,349
+Milford,Milford 119 Live Oaks,Attorney General,,Dem ,George Jepsen,359
+Milford,Milford 127 Orange,Attorney General,,Dem ,George Jepsen,1100
+Milford,Milford 128 JFK,Attorney General,,Dem ,George Jepsen,991
+Milford,Milford 238 Meadowside,Attorney General,,Dem ,George Jepsen,935
+Milford,Milford 248 Island View,Attorney General,,Dem ,George Jepsen,173
+Milford,Milford 318 West Shore,Attorney General,,Dem ,George Jepsen,1073
+Milford,Milford 328 Egan,Attorney General,,Dem ,George Jepsen,758
+Milford,Milford 419 Foran,Attorney General,,Dem ,George Jepsen,1917
+Milford,Milford 529 Harborside,Attorney General,,Dem ,George Jepsen,2126
+Milford,Milford 117 Live Oaks,Attorney General,,Green,Stephen Fournier,6
+Milford,Milford 119 Live Oaks,Attorney General,,Green,Stephen Fournier,4
+Milford,Milford 127 Orange,Attorney General,,Green,Stephen Fournier,26
+Milford,Milford 128 JFK,Attorney General,,Green,Stephen Fournier,24
+Milford,Milford 238 Meadowside,Attorney General,,Green,Stephen Fournier,25
+Milford,Milford 248 Island View,Attorney General,,Green,Stephen Fournier,5
+Milford,Milford 318 West Shore,Attorney General,,Green,Stephen Fournier,15
+Milford,Milford 328 Egan,Attorney General,,Green,Stephen Fournier,19
+Milford,Milford 419 Foran,Attorney General,,Green,Stephen Fournier,35
+Milford,Milford 529 Harborside,Attorney General,,Green,Stephen Fournier,49
+Milford,Milford 117 Live Oaks,Attorney General,,WF,George Jepsen,16
+Milford,Milford 119 Live Oaks,Attorney General,,WF,George Jepsen,11
+Milford,Milford 127 Orange,Attorney General,,WF,George Jepsen,37
+Milford,Milford 128 JFK,Attorney General,,WF,George Jepsen,42
+Milford,Milford 238 Meadowside,Attorney General,,WF,George Jepsen,46
+Milford,Milford 248 Island View,Attorney General,,WF,George Jepsen,10
+Milford,Milford 318 West Shore,Attorney General,,WF,George Jepsen,46
+Milford,Milford 328 Egan,Attorney General,,WF,George Jepsen,42
+Milford,Milford 419 Foran,Attorney General,,WF,George Jepsen,60
+Milford,Milford 529 Harborside,Attorney General,,WF,George Jepsen,78
+Milford,Milford 117 Live Oaks,Attorney General,,Ind,Stephen Fournier,6
+Milford,Milford 119 Live Oaks,Attorney General,,Ind,Stephen Fournier,11
+Milford,Milford 127 Orange,Attorney General,,Ind,Stephen Fournier,19
+Milford,Milford 128 JFK,Attorney General,,Ind,Stephen Fournier,30
+Milford,Milford 238 Meadowside,Attorney General,,Ind,Stephen Fournier,29
+Milford,Milford 248 Island View,Attorney General,,Ind,Stephen Fournier,4
+Milford,Milford 318 West Shore,Attorney General,,Ind,Stephen Fournier,31
+Milford,Milford 328 Egan,Attorney General,,Ind,Stephen Fournier,27
+Milford,Milford 419 Foran,Attorney General,,Ind,Stephen Fournier,48
+Milford,Milford 529 Harborside,Attorney General,,Ind,Stephen Fournier,49
