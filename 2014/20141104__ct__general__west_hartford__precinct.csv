@@ -1,0 +1,327 @@
+town,precinct,office,district,candidate,party,votes,polls,absentee
+Hartford,W Hartford 1,Governor,,Thomas Foley,Rep,775,711,64
+Hartford,W Hartford 2,Governor,,Thomas Foley,Rep,1033,945,88
+Hartford,W Hartford 3,Governor,,Thomas Foley,Rep,793,714,79
+Hartford,W Hartford 4,Governor,,Thomas Foley,Rep,634,609,25
+Hartford,W Hartford 5,Governor,,Thomas Foley,Rep,756,723,33
+Hartford,W Hartford 6,Governor,,Thomas Foley,Rep,1100,1032,68
+Hartford,W Hartford 7,Governor,,Thomas Foley,Rep,1096,1042,54
+Hartford,W Hartford 8,Governor,,Thomas Foley,Rep,1465,1364,101
+Hartford,W Hartford 9,Governor,,Thomas Foley,Rep,816,773,43
+Hartford,W Hartford Total,Governor,,Thomas Foley,Rep,8468,7913,555
+Hartford,W Hartford 1,Governor,,Dannel Malloy,Dem,1483,1287,196
+Hartford,W Hartford 2,Governor,,Dannel Malloy,Dem,1930,1739,191
+Hartford,W Hartford 3,Governor,,Dannel Malloy,Dem,1998,1815,183
+Hartford,W Hartford 4,Governor,,Dannel Malloy,Dem,1549,1475,74
+Hartford,W Hartford 5,Governor,,Dannel Malloy,Dem,1361,1273,88
+Hartford,W Hartford 6,Governor,,Dannel Malloy,Dem,1454,1369,85
+Hartford,W Hartford 7,Governor,,Dannel Malloy,Dem,1406,1307,99
+Hartford,W Hartford 8,Governor,,Dannel Malloy,Dem,1781,1668,113
+Hartford,W Hartford 9,Governor,,Dannel Malloy,Dem,1276,1187,89
+Hartford,W Hartford Total,Governor,,Dannel Malloy,Dem,14238,13120,1118
+Hartford,W Hartford 1,Governor,,Dannel Malloy,WF,39,33,6
+Hartford,W Hartford 2,Governor,,Dannel Malloy,WF,78,75,3
+Hartford,W Hartford 3,Governor,,Dannel Malloy,WF,106,100,6
+Hartford,W Hartford 4,Governor,,Dannel Malloy,WF,103,98,5
+Hartford,W Hartford 5,Governor,,Dannel Malloy,WF,59,57,2
+Hartford,W Hartford 6,Governor,,Dannel Malloy,WF,51,50,1
+Hartford,W Hartford 7,Governor,,Dannel Malloy,WF,51,49,2
+Hartford,W Hartford 8,Governor,,Dannel Malloy,WF,63,59,4
+Hartford,W Hartford 9,Governor,,Dannel Malloy,WF,29,28,1
+Hartford,W Hartford Total,Governor,,Dannel Malloy,WF,579,549,30
+Hartford,W Hartford 1,Governor,,Thomas Foley,Ind,22,22,0
+Hartford,W Hartford 2,Governor,,Thomas Foley,Ind,36,31,5
+Hartford,W Hartford 3,Governor,,Thomas Foley,Ind,51,47,4
+Hartford,W Hartford 4,Governor,,Thomas Foley,Ind,29,29,0
+Hartford,W Hartford 5,Governor,,Thomas Foley,Ind,40,35,5
+Hartford,W Hartford 6,Governor,,Thomas Foley,Ind,37,37,0
+Hartford,W Hartford 7,Governor,,Thomas Foley,Ind,42,41,1
+Hartford,W Hartford 8,Governor,,Thomas Foley,Ind,44,42,2
+Hartford,W Hartford 9,Governor,,Thomas Foley,Ind,24,20,4
+Hartford,W Hartford Total,Governor,,Thomas Foley,Ind,325,304,21
+Hartford,W Hartford 1,Governor,,Joe Visconti,Pet,19,19,0
+Hartford,W Hartford 2,Governor,,Joe Visconti,Pet,11,8,3
+Hartford,W Hartford 3,Governor,,Joe Visconti,Pet,25,19,6
+Hartford,W Hartford 4,Governor,,Joe Visconti,Pet,27,24,3
+Hartford,W Hartford 5,Governor,,Joe Visconti,Pet,21,20,1
+Hartford,W Hartford 6,Governor,,Joe Visconti,Pet,22,21,1
+Hartford,W Hartford 7,Governor,,Joe Visconti,Pet,24,19,5
+Hartford,W Hartford 8,Governor,,Joe Visconti,Pet,16,16,0
+Hartford,W Hartford 9,Governor,,Joe Visconti,Pet,11,8,3
+Hartford,W Hartford Total,Governor,,Joe Visconti,Pet,176,154,22
+Hartford,W Hartford 1,Governor,,Jonathan Pelto,write-in,0,0,0
+Hartford,W Hartford 2,Governor,,Jonathan Pelto,write-in,3,3,0
+Hartford,W Hartford 3,Governor,,Jonathan Pelto,write-in,6,6,0
+Hartford,W Hartford 4,Governor,,Jonathan Pelto,write-in,6,6,0
+Hartford,W Hartford 5,Governor,,Jonathan Pelto,write-in,5,5,0
+Hartford,W Hartford 6,Governor,,Jonathan Pelto,write-in,0,0,0
+Hartford,W Hartford 7,Governor,,Jonathan Pelto,write-in,3,3,0
+Hartford,W Hartford 8,Governor,,Jonathan Pelto,write-in,0,0,0
+Hartford,W Hartford 9,Governor,,Jonathan Pelto,write-in,0,0,0
+Hartford,W Hartford Total,Governor,,Jonathan Pelto,write-in,23,23,0
+Hartford,W Hartford 1,US House,1,Matthew Corey,Rep,623,573,50
+Hartford,W Hartford 2,US House,1,Matthew Corey,Rep,831,746,85
+Hartford,W Hartford 3,US House,1,Matthew Corey,Rep,677,608,69
+Hartford,W Hartford 4,US House,1,Matthew Corey,Rep,485,467,18
+Hartford,W Hartford 5,US House,1,Matthew Corey,Rep,649,610,39
+Hartford,W Hartford 6,US House,1,Matthew Corey,Rep,958,898,60
+Hartford,W Hartford 7,US House,1,Matthew Corey,Rep,936,883,53
+Hartford,W Hartford 8,US House,1,Matthew Corey,Rep,1220,1136,84
+Hartford,W Hartford 9,US House,1,Matthew Corey,Rep,634,595,39
+Hartford,W Hartford Total,US House,1,Matthew Corey,Rep,7013,6516,497
+Hartford,W Hartford 1,US House,1,John Larson,Dem,1594,1394,200
+Hartford,W Hartford 2,US House,1,John Larson,Dem,2056,1870,186
+Hartford,W Hartford 3,US House,1,John Larson,Dem,2060,1867,193
+Hartford,W Hartford 4,US House,1,John Larson,Dem,1604,1524,80
+Hartford,W Hartford 5,US House,1,John Larson,Dem,1387,1300,87
+Hartford,W Hartford 6,US House,1,John Larson,Dem,1548,1454,94
+Hartford,W Hartford 7,US House,1,John Larson,Dem,1542,1441,101
+Hartford,W Hartford 8,US House,1,John Larson,Dem,1977,1852,125
+Hartford,W Hartford 9,US House,1,John Larson,Dem,1430,1335,95
+Hartford,W Hartford Total,US House,1,John Larson,Dem,15198,14037,1161
+Hartford,W Hartford 1,US House,1,John Larson,WF,49,44,5
+Hartford,W Hartford 2,US House,1,John Larson,WF,90,87,3
+Hartford,W Hartford 3,US House,1,John Larson,WF,136,131,5
+Hartford,W Hartford 4,US House,1,John Larson,WF,132,125,7
+Hartford,W Hartford 5,US House,1,John Larson,WF,88,84,4
+Hartford,W Hartford 6,US House,1,John Larson,WF,71,69,2
+Hartford,W Hartford 7,US House,1,John Larson,WF,64,62,2
+Hartford,W Hartford 8,US House,1,John Larson,WF,81,76,5
+Hartford,W Hartford 9,US House,1,John Larson,WF,37,34,3
+Hartford,W Hartford Total,US House,1,John Larson,WF,748,712,36
+Hartford,W Hartford 1,US House,1,Jeffery Russell,Green,27,27,0
+Hartford,W Hartford 2,US House,1,Jeffery Russell,Green,50,46,4
+Hartford,W Hartford 3,US House,1,Jeffery Russell,Green,57,50,7
+Hartford,W Hartford 4,US House,1,Jeffery Russell,Green,50,49,1
+Hartford,W Hartford 5,US House,1,Jeffery Russell,Green,52,52,0
+Hartford,W Hartford 6,US House,1,Jeffery Russell,Green,41,41,0
+Hartford,W Hartford 7,US House,1,Jeffery Russell,Green,36,34,2
+Hartford,W Hartford 8,US House,1,Jeffery Russell,Green,31,28,3
+Hartford,W Hartford 9,US House,1,Jeffery Russell,Green,22,22,0
+Hartford,W Hartford Total,US House,1,Jeffery Russell,Green,366,349,17
+Hartford,W Hartford 1,State Senate,5,Bill Wadsworth,Rep,639,588,51
+Hartford,W Hartford 2,State Senate,5,Bill Wadsworth,Rep,840,756,84
+Hartford,W Hartford 3,State Senate,5,Bill Wadsworth,Rep,673,602,71
+Hartford,W Hartford 4,State Senate,5,Bill Wadsworth,Rep,505,482,23
+Hartford,W Hartford 5,State Senate,5,Bill Wadsworth,Rep,686,652,34
+Hartford,W Hartford 6,State Senate,5,Bill Wadsworth,Rep,967,902,65
+Hartford,W Hartford 7,State Senate,5,Bill Wadsworth,Rep,969,913,56
+Hartford,W Hartford 8,State Senate,5,Bill Wadsworth,Rep,1212,1130,82
+Hartford,W Hartford 9,State Senate,5,Bill Wadsworth,Rep,659,616,43
+Hartford,W Hartford Total,State Senate,5,Bill Wadsworth,Rep,7150,6641,509
+Hartford,W Hartford 1,State Senate,5,Beth Bye,Dem,1621,1416,205
+Hartford,W Hartford 2,State Senate,5,Beth Bye,Dem,2171,1982,189
+Hartford,W Hartford 3,State Senate,5,Beth Bye,Dem,2205,2002,203
+Hartford,W Hartford 4,State Senate,5,Beth Bye,Dem,1677,1596,81
+Hartford,W Hartford 5,State Senate,5,Beth Bye,Dem,1431,1340,91
+Hartford,W Hartford 6,State Senate,5,Beth Bye,Dem,1601,1513,88
+Hartford,W Hartford 7,State Senate,5,Beth Bye,Dem,1590,1488,102
+Hartford,W Hartford 8,State Senate,5,Beth Bye,Dem,2079,1943,136
+Hartford,W Hartford 9,State Senate,5,Beth Bye,Dem,1446,1355,91
+Hartford,W Hartford Total,State Senate,5,Beth Bye,Dem,15821,14635,1186
+Hartford,W Hartford 1,State House,18,Andrew Fleischmann,Dem,1788,1577,211
+Hartford,W Hartford 2,State House,18,Andrew Fleischmann,Dem,2305,2096,209
+Hartford,W Hartford 3,State House,18,Andrew Fleischmann,Dem,2326,2110,216
+Hartford,W Hartford Total,State House,18,Andrew Fleischmann,Dem,6419,5783,636
+Hartford,W Hartford 7,State House,19,Mark Zydanowicz,Rep,1061,1002,59
+Hartford,W Hartford 8,State House,19,Mark Zydanowicz,Rep,1333,1246,87
+Hartford,W Hartford 9,State House,19,Mark Zydanowicz,Rep,757,716,41
+Hartford,W Hartford Total,State House,19,Mark Zydanowicz,Rep,3151,4470,1186
+Hartford,W Hartford 7,State House,19,Brian Becker,Dem,1487,1389,98
+Hartford,W Hartford 8,State House,19,Brian Becker,Dem,1935,1810,125
+Hartford,W Hartford 9,State House,19,Brian Becker,Dem,1359,1271,88
+Hartford,W Hartford Total,State House,19,Brian Becker,Dem,4781,4470,311
+Hartford,W Hartford 4,State Senate,20,Joe Verrengia,Dem,1787,1702,85
+Hartford,W Hartford 5,State Senate,20,Joe Verrengia,Dem,1673,1575,98
+Hartford,W Hartford 6,State Senate,20,Joe Verrengia,Dem,1811,1716,95
+Hartford,W Hartford Total,State House,20,Joe Verrengia,Dem,5271,4993,278
+Hartford,W Hartford 1,Secretary of State,,Peter Lumaj,Rep,686,636,50
+Hartford,W Hartford 2,Secretary of State,,Peter Lumaj,Rep,922,837,85
+Hartford,W Hartford 3,Secretary of State,,Peter Lumaj,Rep,737,667,70
+Hartford,W Hartford 4,Secretary of State,,Peter Lumaj,Rep,549,530,19
+Hartford,W Hartford 5,Secretary of State,,Peter Lumaj,Rep,714,678,36
+Hartford,W Hartford 6,Secretary of State,,Peter Lumaj,Rep,1082,1015,67
+Hartford,W Hartford 7,Secretary of State,,Peter Lumaj,Rep,1042,987,55
+Hartford,W Hartford 8,Secretary of State,,Peter Lumaj,Rep,1363,1269,94
+Hartford,W Hartford 9,Secretary of State,,Peter Lumaj,Rep,708,662,46
+Hartford,W Hartford Total,Secretary of State,,Peter Lumaj,Rep,7803,7281,522
+Hartford,W Hartford 1,Secretary of State,,Denise Merrill,Dem,1434,1252,182
+Hartford,W Hartford 2,Secretary of State,,Denise Merrill,Dem,1884,1706,178
+Hartford,W Hartford 3,Secretary of State,,Denise Merrill,Dem,1885,1701,184
+Hartford,W Hartford 4,Secretary of State,,Denise Merrill,Dem,1443,1370,73
+Hartford,W Hartford 5,Secretary of State,,Denise Merrill,Dem,1260,1178,82
+Hartford,W Hartford 6,Secretary of State,,Denise Merrill,Dem,1356,1276,80
+Hartford,W Hartford 7,Secretary of State,,Denise Merrill,Dem,1378,1282,96
+Hartford,W Hartford 8,Secretary of State,,Denise Merrill,Dem,1769,1659,110
+Hartford,W Hartford 9,Secretary of State,,Denise Merrill,Dem,1287,1202,85
+Hartford,W Hartford Total,Secretary of State,,Denise Merrill,Dem,13696,12626,1070
+Hartford,W Hartford 1,Secretary of State,,Denise Merrill,WF,39,35,4
+Hartford,W Hartford 2,Secretary of State,,Denise Merrill,WF,79,75,4
+Hartford,W Hartford 3,Secretary of State,,Denise Merrill,WF,97,91,6
+Hartford,W Hartford 4,Secretary of State,,Denise Merrill,WF,105,99,5
+Hartford,W Hartford 5,Secretary of State,,Denise Merrill,WF,58,56,4
+Hartford,W Hartford 6,Secretary of State,,Denise Merrill,WF,52,50,0
+Hartford,W Hartford 7,Secretary of State,,Denise Merrill,WF,42,41,1
+Hartford,W Hartford 8,Secretary of State,,Denise Merrill,WF,59,54,5
+Hartford,W Hartford 9,Secretary of State,,Denise Merrill,WF,27,25,2
+Hartford,W Hartford Total,Secretary of State,,Denise Merrill,WF,558,526,32
+Hartford,W Hartford 1,Secretary of State,,Peter Lumaj,Ind,41,35,6
+Hartford,W Hartford 2,Secretary of State,,Peter Lumaj,Ind,48,43,5
+Hartford,W Hartford 3,Secretary of State,,Peter Lumaj,Ind,76,72,4
+Hartford,W Hartford 4,Secretary of State,,Peter Lumaj,Ind,59,59,0
+Hartford,W Hartford 5,Secretary of State,,Peter Lumaj,Ind,46,44,2
+Hartford,W Hartford 6,Secretary of State,,Peter Lumaj,Ind,57,57,0
+Hartford,W Hartford 7,Secretary of State,,Peter Lumaj,Ind,39,36,3
+Hartford,W Hartford 8,Secretary of State,,Peter Lumaj,Ind,44,41,3
+Hartford,W Hartford 9,Secretary of State,,Peter Lumaj,Ind,32,30,2
+Hartford,W Hartford Total,Secretary of State,,Peter Lumaj,Ind,442,417,25
+Hartford,W Hartford 1,Secretary of State,,Michael DeRosa,Green,45,41,4
+Hartford,W Hartford 2,Secretary of State,,Michael DeRosa,Green,56,51,5
+Hartford,W Hartford 3,Secretary of State,,Michael DeRosa,Green,102,92,10
+Hartford,W Hartford 4,Secretary of State,,Michael DeRosa,Green,71,66,5
+Hartford,W Hartford 5,Secretary of State,,Michael DeRosa,Green,63,60,3
+Hartford,W Hartford 6,Secretary of State,,Michael DeRosa,Green,47,46,1
+Hartford,W Hartford 7,Secretary of State,,Michael DeRosa,Green,48,46,2
+Hartford,W Hartford 8,Secretary of State,,Michael DeRosa,Green,50,49,1
+Hartford,W Hartford 9,Secretary of State,,Michael DeRosa,Green,45,44,1
+Hartford,W Hartford Total,Secretary of State,,Michael DeRosa,Green,527,495,32
+Hartford,W Hartford 1,State Treasurer,,Tim Herbst,Rep,881,815,66
+Hartford,W Hartford 2,State Treasurer,,Tim Herbst,Rep,1208,1104,104
+Hartford,W Hartford 3,State Treasurer,,Tim Herbst,Rep,937,845,92
+Hartford,W Hartford 4,State Treasurer,,Tim Herbst,Rep,596,576,20
+Hartford,W Hartford 5,State Treasurer,,Tim Herbst,Rep,807,767,40
+Hartford,W Hartford 6,State Treasurer,,Tim Herbst,Rep,1327,1249,78
+Hartford,W Hartford 7,State Treasurer,,Tim Herbst,Rep,1317,1249,68
+Hartford,W Hartford 8,State Treasurer,,Tim Herbst,Rep,1700,1588,112
+Hartford,W Hartford 9,State Treasurer,,Tim Herbst,Rep,942,888,54
+Hartford,W Hartford Total,State Treasurer,,Tim Herbst,Rep,9715,9081,634
+Hartford,W Hartford 1,State Treasurer,,Denise Nappier,Dem,1252,1086,166
+Hartford,W Hartford 2,State Treasurer,,Denise Nappier,Dem,1558,1403,155
+Hartford,W Hartford 3,State Treasurer,,Denise Nappier,Dem,1682,1524,158
+Hartford,W Hartford 4,State Treasurer,,Denise Nappier,Dem,1429,1353,76
+Hartford,W Hartford 5,State Treasurer,,Denise Nappier,Dem,1170,1092,78
+Hartford,W Hartford 6,State Treasurer,,Denise Nappier,Dem,1125,1054,71
+Hartford,W Hartford 7,State Treasurer,,Denise Nappier,Dem,1094,1011,83
+Hartford,W Hartford 8,State Treasurer,,Denise Nappier,Dem,1397,1310,87
+Hartford,W Hartford 9,State Treasurer,,Denise Nappier,Dem,1055,980,75
+Hartford,W Hartford Total,State Treasurer,,Denise Nappier,Dem,11762,10813,949
+Hartford,W Hartford 1,State Treasurer,,Denise Nappier,WF,42,38,4
+Hartford,W Hartford 2,State Treasurer,,Denise Nappier,WF,84,78,6
+Hartford,W Hartford 3,State Treasurer,,Denise Nappier,WF,110,103,7
+Hartford,W Hartford 4,State Treasurer,,Denise Nappier,WF,112,107,5
+Hartford,W Hartford 5,State Treasurer,,Denise Nappier,WF,70,68,2
+Hartford,W Hartford 6,State Treasurer,,Denise Nappier,WF,58,56,2
+Hartford,W Hartford 7,State Treasurer,,Denise Nappier,WF,48,47,1
+Hartford,W Hartford 8,State Treasurer,,Denise Nappier,WF,55,51,4
+Hartford,W Hartford 9,State Treasurer,,Denise Nappier,WF,33,32,1
+Hartford,W Hartford Total,State Treasurer,,Denise Nappier,WF,612,580,32
+Hartford,W Hartford 1,State Treasurer,,Tim Herbst,Ind,64,59,5
+Hartford,W Hartford 2,State Treasurer,,Tim Herbst,Ind,109,100,9
+Hartford,W Hartford 3,State Treasurer,,Tim Herbst,Ind,128,118,10
+Hartford,W Hartford 4,State Treasurer,,Tim Herbst,Ind,96,94,2
+Hartford,W Hartford 5,State Treasurer,,Tim Herbst,Ind,84,76,8
+Hartford,W Hartford 6,State Treasurer,,Tim Herbst,Ind,88,88,0
+Hartford,W Hartford 7,State Treasurer,,Tim Herbst,Ind,83,79,4
+Hartford,W Hartford 8,State Treasurer,,Tim Herbst,Ind,94,89,5
+Hartford,W Hartford 9,State Treasurer,,Tim Herbst,Ind,65,60,5
+Hartford,W Hartford Total,State Treasurer,,Tim Herbst,Ind,811,763,48
+Hartford,W Hartford 1,Comptroller,,Sharon McLaughlin,Rep,673,618,88
+Hartford,W Hartford 2,Comptroller,,Sharon McLaughlin,Rep,861,772,89
+Hartford,W Hartford 3,Comptroller,,Sharon McLaughlin,Rep,695,622,73
+Hartford,W Hartford 4,Comptroller,,Sharon McLaughlin,Rep,486,464,22
+Hartford,W Hartford 5,Comptroller,,Sharon McLaughlin,Rep,639,599,40
+Hartford,W Hartford 6,Comptroller,,Sharon McLaughlin,Rep,966,899,67
+Hartford,W Hartford 7,Comptroller,,Sharon McLaughlin,Rep,969,914,55
+Hartford,W Hartford 8,Comptroller,,Sharon McLaughlin,Rep,1284,1196,88
+Hartford,W Hartford 9,Comptroller,,Sharon McLaughlin,Rep,691,646,45
+Hartford,W Hartford Total,Comptroller,,Sharon McLaughlin,Rep,7264,6730,534
+Hartford,W Hartford 1,Secretary of State,,Denise Merrill,Dem,1448,1263,185
+Hartford,W Hartford 2,Secretary of State,,Denise Merrill,Dem,1904,1735,169
+Hartford,W Hartford 3,Secretary of State,,Denise Merrill,Dem,1896,1713,183
+Hartford,W Hartford 4,Secretary of State,,Denise Merrill,Dem,1492,1419,73
+Hartford,W Hartford 5,Secretary of State,,Denise Merrill,Dem,1314,1231,83
+Hartford,W Hartford 6,Secretary of State,,Denise Merrill,Dem,1447,1365,82
+Hartford,W Hartford 7,Secretary of State,,Denise Merrill,Dem,1419,1324,95
+Hartford,W Hartford 8,Secretary of State,,Denise Merrill,Dem,1770,1660,110
+Hartford,W Hartford 9,Secretary of State,,Denise Merrill,Dem,1293,1213,80
+Hartford,W Hartford Total,Secretary of State,,Denise Merrill,Dem,13983,12923,1060
+Hartford,W Hartford 1,Secretary of State,,Denise Merrill,WF,43,40,3
+Hartford,W Hartford 2,Secretary of State,,Denise Merrill,WF,79,75,4
+Hartford,W Hartford 3,Secretary of State,,Denise Merrill,WF,119,110,9
+Hartford,W Hartford 4,Secretary of State,,Denise Merrill,WF,94,89,5
+Hartford,W Hartford 5,Secretary of State,,Denise Merrill,WF,66,65,1
+Hartford,W Hartford 6,Secretary of State,,Denise Merrill,WF,57,55,2
+Hartford,W Hartford 7,Secretary of State,,Denise Merrill,WF,52,50,2
+Hartford,W Hartford 8,Secretary of State,,Denise Merrill,WF,68,61,7
+Hartford,W Hartford 9,Secretary of State,,Denise Merrill,WF,36,33,3
+Hartford,W Hartford Total,Secretary of State,,Denise Merrill,WF,614,578,36
+Hartford,W Hartford 1,Secretary of State,,Peter Lumaj,Ind,28,27,1
+Hartford,W Hartford 2,Secretary of State,,Peter Lumaj,Ind,49,43,6
+Hartford,W Hartford 3,Secretary of State,,Peter Lumaj,Ind,56,51,5
+Hartford,W Hartford 4,Secretary of State,,Peter Lumaj,Ind,62,61,1
+Hartford,W Hartford 5,Secretary of State,,Peter Lumaj,Ind,45,42,3
+Hartford,W Hartford 6,Secretary of State,,Peter Lumaj,Ind,52,52,0
+Hartford,W Hartford 7,Secretary of State,,Peter Lumaj,Ind,39,35,4
+Hartford,W Hartford 8,Secretary of State,,Peter Lumaj,Ind,47,45,2
+Hartford,W Hartford 9,Secretary of State,,Peter Lumaj,Ind,35,30,5
+Hartford,W Hartford Total,Secretary of State,,Peter Lumaj,Ind,413,286,27
+Hartford,W Hartford 1,Secretary of State,,Michael DeRosa,Green,27,27,0
+Hartford,W Hartford 2,Secretary of State,,Michael DeRosa,Green,46,42,4
+Hartford,W Hartford 3,Secretary of State,,Michael DeRosa,Green,80,77,3
+Hartford,W Hartford 4,Secretary of State,,Michael DeRosa,Green,56,54,2
+Hartford,W Hartford 5,Secretary of State,,Michael DeRosa,Green,35,35,0
+Hartford,W Hartford 6,Secretary of State,,Michael DeRosa,Green,37,37,0
+Hartford,W Hartford 7,Secretary of State,,Michael DeRosa,Green,36,34,2
+Hartford,W Hartford 8,Secretary of State,,Michael DeRosa,Green,39,38,1
+Hartford,W Hartford 9,Secretary of State,,Michael DeRosa,Green,25,24,1
+Hartford,W Hartford Total,Secretary of State,,Michael DeRosa,Green,381,368,13
+Hartford,W Hartford 1,Attorney General,,Kie Westby,Rep,580,537,43
+Hartford,W Hartford 2,Attorney General,,Kie Westby,Rep,759,677,82
+Hartford,W Hartford 3,Attorney General,,Kie Westby,Rep,617,552,65
+Hartford,W Hartford 4,Attorney General,,Kie Westby,Rep,433,418,15
+Hartford,W Hartford 5,Attorney General,,Kie Westby,Rep,614,581,33
+Hartford,W Hartford 6,Attorney General,,Kie Westby,Rep,864,811,53
+Hartford,W Hartford 7,Attorney General,,Kie Westby,Rep,848,798,50
+Hartford,W Hartford 8,Attorney General,,Kie Westby,Rep,1075,994,81
+Hartford,W Hartford 9,Attorney General,,Kie Westby,Rep,591,556,35
+Hartford,W Hartford Total,Attorney General,,Kie Westby,Rep,6381,5924,457
+Hartford,W Hartford 1,Attorney General,,George Jepsen,Dem,1563,1364,199
+Hartford,W Hartford 2,Attorney General,,George Jepsen,Dem,2062,1875,187
+Hartford,W Hartford 3,Attorney General,,George Jepsen,Dem,2012,1821,191
+Hartford,W Hartford 4,Attorney General,,George Jepsen,Dem,1557,1480,77
+Hartford,W Hartford 5,Attorney General,,George Jepsen,Dem,1360,1273,87
+Hartford,W Hartford 6,Attorney General,,George Jepsen,Dem,1583,1484,99
+Hartford,W Hartford 7,Attorney General,,George Jepsen,Dem,1570,1469,101
+Hartford,W Hartford 8,Attorney General,,George Jepsen,Dem,2057,1933,124
+Hartford,W Hartford 9,Attorney General,,George Jepsen,Dem,1419,1324,95
+Hartford,W Hartford Total,Attorney General,,George Jepsen,Dem,15183,14023,1160
+Hartford,W Hartford 1,Attorney General,,George Jepsen,WF,43,39,4
+Hartford,W Hartford 2,Attorney General,,George Jepsen,WF,89,84,5
+Hartford,W Hartford 3,Attorney General,,George Jepsen,WF,119,111,8
+Hartford,W Hartford 4,Attorney General,,George Jepsen,WF,113,107,6
+Hartford,W Hartford 5,Attorney General,,George Jepsen,WF,70,68,2
+Hartford,W Hartford 6,Attorney General,,George Jepsen,WF,63,61,2
+Hartford,W Hartford 7,Attorney General,,George Jepsen,WF,49,48,1
+Hartford,W Hartford 8,Attorney General,,George Jepsen,WF,73,67,6
+Hartford,W Hartford 9,Attorney General,,George Jepsen,WF,40,39,1
+Hartford,W Hartford Total,Attorney General,,George Jepsen,WF,659,624,35
+Hartford,W Hartford 1,Attorney General,,Kie Westby,Ind,20,19,1
+Hartford,W Hartford 2,Attorney General,,Kie Westby,Ind,31,28,3
+Hartford,W Hartford 3,Attorney General,,Kie Westby,Ind,52,50,2
+Hartford,W Hartford 4,Attorney General,,Kie Westby,Ind,42,42,0
+Hartford,W Hartford 5,Attorney General,,Kie Westby,Ind,36,34,2
+Hartford,W Hartford 6,Attorney General,,Kie Westby,Ind,37,37,0
+Hartford,W Hartford 7,Attorney General,,Kie Westby,Ind,25,22,3
+Hartford,W Hartford 8,Attorney General,,Kie Westby,Ind,27,26,1
+Hartford,W Hartford 9,Attorney General,,Kie Westby,Ind,28,25,3
+Hartford,W Hartford Total,Attorney General,,Kie Westby,Ind,298,283,15
+Hartford,W Hartford 1,Attorney General,,Stephen Fournier,Green,36,35,1
+Hartford,W Hartford 2,Attorney General,,Stephen Fournier,Green,53,49,4
+Hartford,W Hartford 3,Attorney General,,Stephen Fournier,Green,88,80,8
+Hartford,W Hartford 4,Attorney General,,Stephen Fournier,Green,65,60,5
+Hartford,W Hartford 5,Attorney General,,Stephen Fournier,Green,51,50,1
+Hartford,W Hartford 6,Attorney General,,Stephen Fournier,Green,38,38,0
+Hartford,W Hartford 7,Attorney General,,Stephen Fournier,Green,50,47,3
+Hartford,W Hartford 8,Attorney General,,Stephen Fournier,Green,45,44,1
+Hartford,W Hartford 9,Attorney General,,Stephen Fournier,Green,31,29,2
+Hartford,W Hartford Total,Attorney General,,Stephen Fournier,Green,457,432,25
