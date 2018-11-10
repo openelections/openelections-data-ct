@@ -1,0 +1,378 @@
+county,town,precinct,office,district,candidate,party,votes
+Hartford,Bristol,Bristol 77-01,Governor,,Thomas Foley,Rep,1089
+Hartford,Bristol,Bristol 77-01,Governor,,Thomas Foley,Ind,63
+Hartford,Bristol,Bristol 77-02,Governor,,Thomas Foley,Rep,1217
+Hartford,Bristol,Bristol 77-02,Governor,,Thomas Foley,Ind,39
+Hartford,Bristol,Bristol 77-03,Governor,,Thomas Foley,Rep,965
+Hartford,Bristol,Bristol 77-03,Governor,,Thomas Foley,Ind,33
+Hartford,Bristol,Bristol 77-04,Governor,,Thomas Foley,Rep,555
+Hartford,Bristol,Bristol 77-04,Governor,,Thomas Foley,Ind,26
+Hartford,Bristol,Bristol 78-01,Governor,,Thomas Foley,Rep,1254
+Hartford,Bristol,Bristol 78-01,Governor,,Thomas Foley,Ind,45
+Hartford,Bristol,Bristol 78-02,Governor,,Thomas Foley,Rep,944
+Hartford,Bristol,Bristol 78-02,Governor,,Thomas Foley,Ind,39
+Hartford,Bristol,Bristol 79-01,Governor,,Thomas Foley,Rep,892
+Hartford,Bristol,Bristol 79-01,Governor,,Thomas Foley,Ind,64
+Hartford,Bristol,Bristol 79-02,Governor,,Thomas Foley,Rep,668
+Hartford,Bristol,Bristol 79-02,Governor,,Thomas Foley,Ind,27
+Hartford,Bristol,Bristol 79-03,Governor,,Thomas Foley,Rep,1144
+Hartford,Bristol,Bristol 79-03,Governor,,Thomas Foley,Ind,60
+Hartford,Bristol,Bristol Total,Governor,,Thomas Foley,Rep,8728
+Hartford,Bristol,Bristol Total,Governor,,Thomas Foley,Ind,396
+Hartford,Bristol,Bristol 77-01,Governor,,Dannel Malloy,Dem,955
+Hartford,Bristol,Bristol 77-01,Governor,,Dannel Malloy,WF,39
+Hartford,Bristol,Bristol 77-02,Governor,,Dannel Malloy,Dem,1173
+Hartford,Bristol,Bristol 77-02,Governor,,Dannel Malloy,WF,47
+Hartford,Bristol,Bristol 77-03,Governor,,Dannel Malloy,Dem,1024
+Hartford,Bristol,Bristol 77-03,Governor,,Dannel Malloy,WF,41
+Hartford,Bristol,Bristol 77-04,Governor,,Dannel Malloy,Dem,548
+Hartford,Bristol,Bristol 77-04,Governor,,Dannel Malloy,WF,23
+Hartford,Bristol,Bristol 78-01,Governor,,Dannel Malloy,Dem,805
+Hartford,Bristol,Bristol 78-01,Governor,,Dannel Malloy,WF,27
+Hartford,Bristol,Bristol 78-02,Governor,,Dannel Malloy,Dem,693
+Hartford,Bristol,Bristol 78-02,Governor,,Dannel Malloy,WF,38
+Hartford,Bristol,Bristol 79-01,Governor,,Dannel Malloy,Dem,935
+Hartford,Bristol,Bristol 79-01,Governor,,Dannel Malloy,WF,54
+Hartford,Bristol,Bristol 79-02,Governor,,Dannel Malloy,Dem,780
+Hartford,Bristol,Bristol 79-02,Governor,,Dannel Malloy,WF,40
+Hartford,Bristol,Bristol 79-03,Governor,,Dannel Malloy,Dem,1015
+Hartford,Bristol,Bristol 79-03,Governor,,Dannel Malloy,WF,45
+Hartford,Bristol,Bristol Total,Governor,,Dannel Malloy,Dem,7928
+Hartford,Bristol,Bristol Total,Governor,,Dannel Malloy,WF,354
+Hartford,Bristol,Bristol 77-01,Governor,,Joe Visconti,Pet,30
+Hartford,Bristol,Bristol 77-02,Governor,,Joe Visconti,Pet,28
+Hartford,Bristol,Bristol 77-03,Governor,,Joe Visconti,Pet,36
+Hartford,Bristol,Bristol 77-04,Governor,,Joe Visconti,Pet,22
+Hartford,Bristol,Bristol 78-01,Governor,,Joe Visconti,Pet,23
+Hartford,Bristol,Bristol 78-02,Governor,,Joe Visconti,Pet,26
+Hartford,Bristol,Bristol 79-01,Governor,,Joe Visconti,Pet,43
+Hartford,Bristol,Bristol 79-02,Governor,,Joe Visconti,Pet,22
+Hartford,Bristol,Bristol 79-03,Governor,,Joe Visconti,Pet,36
+Hartford,Bristol,Bristol Total,Governor,,Joe Visconti,Pet,266
+Hartford,Bristol,Bristol 77-01,Governor,,Jonathan Pelto,write-in,1
+Hartford,Bristol,Bristol 77-03,Governor,,Gaita,write-in,1
+Hartford,Bristol,Bristol 77-03,Governor,,Jonathan Pelto,write-in,3
+Hartford,Bristol,Bristol 78-01,Governor,,Gaita,write-in,1
+Hartford,Bristol,Bristol 79-01,Governor,,Jonathan Pelto,write-in,3
+Hartford,Bristol,Bristol 79-02,Governor,,Jonathan Pelto,write-in,3
+Hartford,Bristol,Bristol Total,Governor,,Gaita,write-in,2
+Hartford,Bristol,Bristol Total,Governor,,Jonathan Pelto,write-in,10
+Hartford,Bristol,Bristol 77-01,US House,1,Matthew Corey,Rep,840
+Hartford,Bristol,Bristol 77-02,US House,1,Matthew Corey,Rep,965
+Hartford,Bristol,Bristol 77-03,US House,1,Matthew Corey,Rep,746
+Hartford,Bristol,Bristol 77-04,US House,1,Matthew Corey,Rep,409
+Hartford,Bristol,Bristol 78-01,US House,1,Matthew Corey,Rep,978
+Hartford,Bristol,Bristol 78-02,US House,1,Matthew Corey,Rep,794
+Hartford,Bristol,Bristol 79-01,US House,1,Matthew Corey,Rep,710
+Hartford,Bristol,Bristol 79-02,US House,1,Matthew Corey,Rep,519
+Hartford,Bristol,Bristol 79-03,US House,1,Matthew Corey,Rep,916
+Hartford,Bristol,Bristol Total,US House,1,Matthew Corey,Rep,6877
+Hartford,Bristol,Bristol 77-01,US House,1,John Larson,Dem,1113
+Hartford,Bristol,Bristol 77-01,US House,1,John Larson,WF,93
+Hartford,Bristol,Bristol 77-02,US House,1,John Larson,Dem,1325
+Hartford,Bristol,Bristol 77-02,US House,1,John Larson,WF,98
+Hartford,Bristol,Bristol 77-03,US House,1,John Larson,Dem,1151
+Hartford,Bristol,Bristol 77-03,US House,1,John Larson,WF,92
+Hartford,Bristol,Bristol 77-04,US House,1,John Larson,Dem,642
+Hartford,Bristol,Bristol 77-04,US House,1,John Larson,WF,49
+Hartford,Bristol,Bristol 78-01,US House,1,John Larson,Dem,1014
+Hartford,Bristol,Bristol 78-01,US House,1,John Larson,WF,66
+Hartford,Bristol,Bristol 78-02,US House,1,John Larson,Dem,781
+Hartford,Bristol,Bristol 78-02,US House,1,John Larson,WF,64
+Hartford,Bristol,Bristol 79-01,US House,1,John Larson,Dem,1070
+Hartford,Bristol,Bristol 79-01,US House,1,John Larson,WF,124
+Hartford,Bristol,Bristol 79-02,US House,1,John Larson,Dem,859
+Hartford,Bristol,Bristol 79-02,US House,1,John Larson,WF,54
+Hartford,Bristol,Bristol 79-03,US House,1,John Larson,Dem,1181
+Hartford,Bristol,Bristol 79-03,US House,1,John Larson,WF,92
+Hartford,Bristol,Bristol Total,US House,1,John Larson,Dem,9136
+Hartford,Bristol,Bristol Total,US House,1,John Larson,WF,732
+Hartford,Bristol,Bristol 77-01,US House,1,Jeffery Russell,Green,38
+Hartford,Bristol,Bristol 77-02,US House,1,Jeffery Russell,Green,27
+Hartford,Bristol,Bristol 77-03,US House,1,Jeffery Russell,Green,43
+Hartford,Bristol,Bristol 77-04,US House,1,Jeffery Russell,Green,23
+Hartford,Bristol,Bristol 78-01,US House,1,Jeffery Russell,Green,20
+Hartford,Bristol,Bristol 78-02,US House,1,Jeffery Russell,Green,32
+Hartford,Bristol,Bristol 79-01,US House,1,Jeffery Russell,Green,51
+Hartford,Bristol,Bristol 79-02,US House,1,Jeffery Russell,Green,36
+Hartford,Bristol,Bristol 79-03,US House,1,Jeffery Russell,Green,45
+Hartford,Bristol,Bristol Total,US House,1,Jeffery Russell,Green,315
+Hartford,Bristol,Bristol 77-01,State Senate,31,Henri Martin,Rep,999
+Hartford,Bristol,Bristol 77-01,State Senate,31,Henri Martin,Ind,86
+Hartford,Bristol,Bristol 77-02,State Senate,31,Henri Martin,Rep,1081
+Hartford,Bristol,Bristol 77-02,State Senate,31,Henri Martin,Ind,64
+Hartford,Bristol,Bristol 77-03,State Senate,31,Henri Martin,Rep,870
+Hartford,Bristol,Bristol 77-03,State Senate,31,Henri Martin,Ind,51
+Hartford,Bristol,Bristol 77-04,State Senate,31,Henri Martin,Rep,520
+Hartford,Bristol,Bristol 77-04,State Senate,31,Henri Martin,Ind,45
+Hartford,Bristol,Bristol 78-01,State Senate,31,Henri Martin,Rep,1216
+Hartford,Bristol,Bristol 78-01,State Senate,31,Henri Martin,Ind,76
+Hartford,Bristol,Bristol 78-02,State Senate,31,Henri Martin,Rep,920
+Hartford,Bristol,Bristol 78-02,State Senate,31,Henri Martin,Ind,75
+Hartford,Bristol,Bristol 79-01,State Senate,31,Henri Martin,Rep,880
+Hartford,Bristol,Bristol 79-01,State Senate,31,Henri Martin,Ind,89
+Hartford,Bristol,Bristol 79-02,State Senate,31,Henri Martin,Rep,606
+Hartford,Bristol,Bristol 79-02,State Senate,31,Henri Martin,Ind,41
+Hartford,Bristol,Bristol 79-03,State Senate,31,Henri Martin,Rep,1036
+Hartford,Bristol,Bristol 79-03,State Senate,31,Henri Martin,Ind,86
+Hartford,Bristol,Bristol Total,State Senate,31,Henri Martin,Rep,8128
+Hartford,Bristol,Bristol Total,State Senate,31,Henri Martin,Ind,613
+Hartford,Bristol,Bristol 77-01,State Senate,31,Robert Michalik,Dem,963
+Hartford,Bristol,Bristol 77-01,State Senate,31,Robert Michalik,WF,76
+Hartford,Bristol,Bristol 77-02,State Senate,31,Robert Michalik,Dem,1195
+Hartford,Bristol,Bristol 77-02,State Senate,31,Robert Michalik,WF,76
+Hartford,Bristol,Bristol 77-03,State Senate,31,Robert Michalik,Dem,1048
+Hartford,Bristol,Bristol 77-03,State Senate,31,Robert Michalik,WF,66
+Hartford,Bristol,Bristol 77-04,State Senate,31,Robert Michalik,Dem,539
+Hartford,Bristol,Bristol 77-04,State Senate,31,Robert Michalik,WF,39
+Hartford,Bristol,Bristol 78-01,State Senate,31,Robert Michalik,Dem,767
+Hartford,Bristol,Bristol 78-01,State Senate,31,Robert Michalik,WF,50
+Hartford,Bristol,Bristol 78-02,State Senate,31,Robert Michalik,Dem,658
+Hartford,Bristol,Bristol 78-02,State Senate,31,Robert Michalik,WF,47
+Hartford,Bristol,Bristol 79-01,State Senate,31,Robert Michalik,Dem,880
+Hartford,Bristol,Bristol 79-01,State Senate,31,Robert Michalik,WF,105
+Hartford,Bristol,Bristol 79-02,State Senate,31,Robert Michalik,Dem,782
+Hartford,Bristol,Bristol 79-02,State Senate,31,Robert Michalik,WF,44
+Hartford,Bristol,Bristol 79-03,State Senate,31,Robert Michalik,Dem,1052
+Hartford,Bristol,Bristol 79-03,State Senate,31,Robert Michalik,WF,85
+Hartford,Bristol,Bristol Total,State Senate,31,Robert Michalik,Dem,7884
+Hartford,Bristol,Bristol Total,State Senate,31,Robert Michalik,WF,588
+Hartford,Bristol,Bristol 77-01,State House,77,Cara Havalock,Rep,1088
+Hartford,Bristol,Bristol 77-01,State House,77,Cara Havalock,Ind,104
+Hartford,Bristol,Bristol 77-02,State House,77,Cara Havalock,Rep,1234
+Hartford,Bristol,Bristol 77-02,State House,77,Cara Havalock,Ind,75
+Hartford,Bristol,Bristol 77-03,State House,77,Cara Havalock,Rep,923
+Hartford,Bristol,Bristol 77-03,State House,77,Cara Havalock,Ind,86
+Hartford,Bristol,Bristol 77-04,State House,77,Cara Havalock,Rep,533
+Hartford,Bristol,Bristol 77-04,State House,77,Cara Havalock,Ind,40
+Hartford,Bristol,Bristol 77-01,State House,77,Christopher Wright,Dem,956
+Hartford,Bristol,Bristol 77-02,State House,77,Christopher Wright,Dem,1151
+Hartford,Bristol,Bristol 77-03,State House,77,Christopher Wright,Dem,1069
+Hartford,Bristol,Bristol 77-04,State House,77,Christopher Wright,Dem,571
+Hartford,Bristol,Bristol Total,State House,77,Cara Havalock,Rep,3778
+Hartford,Bristol,Bristol Total,State House,77,Cara Havalock,Ind,305
+Hartford,Bristol,Bristol Total,State House,77,Christopher Wright,Dem,3747
+Hartford,Bristol,Bristol 78-01,State House,78,Whit Betts,Rep,1377
+Hartford,Bristol,Bristol 78-01,State House,78,Whit Betts,Ind,78
+Hartford,Bristol,Bristol 78-02,State House,78,Whit Betts,Rep,973
+Hartford,Bristol,Bristol 78-02,State House,78,Whit Betts,Ind,73
+Hartford,Bristol,Bristol 78-01,State House,78,Daniel Santorso,Dem,617
+Hartford,Bristol,Bristol 78-01,State House,78,Daniel Santorso,WF,39
+Hartford,Bristol,Bristol 78-02,State House,78,Daniel Santorso,Dem,589
+Hartford,Bristol,Bristol 78-02,State House,78,Daniel Santorso,WF,50
+Hartford,Bristol,Bristol Total,State House,78,Whit Betts,Rep,2350
+Hartford,Bristol,Bristol Total,State House,78,Whit Betts,Ind,151
+Hartford,Bristol,Bristol Total,State House,78,Daniel Santorso,Dem,1206
+Hartford,Bristol,Bristol Total,State House,78,Daniel Santorso,WF,89
+Hartford,Bristol,Bristol 79-01,State House,79,Joshua Levesque,Rep,740
+Hartford,Bristol,Bristol 79-01,State House,79,Joshua Levesque,Ind,88
+Hartford,Bristol,Bristol 79-02,State House,79,Joshua Levesque,Rep,484
+Hartford,Bristol,Bristol 79-02,State House,79,Joshua Levesque,Ind,39
+Hartford,Bristol,Bristol 79-03,State House,79,Joshua Levesque,Rep,945
+Hartford,Bristol,Bristol 79-03,State House,79,Joshua Levesque,Ind,92
+Hartford,Bristol,Bristol Total,State House,79,Joshua Levesque,Rep,2169
+Hartford,Bristol,Bristol Total,State House,79,Joshua Levesque,Ind,219
+Hartford,Bristol,Bristol 79-01,State Senate,31,Robert Michalik,Dem,1134
+Hartford,Bristol,Bristol 79-02,State Senate,31,Robert Michalik,Dem,965
+Hartford,Bristol,Bristol 79-03,State Senate,31,Robert Michalik,Dem,1225
+Hartford,Bristol,Bristol Total,State Senate,31,Robert Michalik,Dem,3324
+Hartford,Bristol,Bristol 77-01,Secretary of State,,Peter Lumaj,Rep,1013
+Hartford,Bristol,Bristol 77-01,Secretary of State,,Peter Lumaj,Ind,74
+Hartford,Bristol,Bristol 77-02,Secretary of State,,Peter Lumaj,Rep,1095
+Hartford,Bristol,Bristol 77-02,Secretary of State,,Peter Lumaj,Ind,58
+Hartford,Bristol,Bristol 77-03,Secretary of State,,Peter Lumaj,Rep,900
+Hartford,Bristol,Bristol 77-03,Secretary of State,,Peter Lumaj,Ind,56
+Hartford,Bristol,Bristol 77-04,Secretary of State,,Peter Lumaj,Rep,491
+Hartford,Bristol,Bristol 77-04,Secretary of State,,Peter Lumaj,Ind,43
+Hartford,Bristol,Bristol 78-01,Secretary of State,,Peter Lumaj,Rep,1182
+Hartford,Bristol,Bristol 78-01,Secretary of State,,Peter Lumaj,Ind,53
+Hartford,Bristol,Bristol 78-02,Secretary of State,,Peter Lumaj,Rep,857
+Hartford,Bristol,Bristol 78-02,Secretary of State,,Peter Lumaj,Ind,65
+Hartford,Bristol,Bristol 79-01,Secretary of State,,Peter Lumaj,Rep,783
+Hartford,Bristol,Bristol 79-01,Secretary of State,,Peter Lumaj,Ind,76
+Hartford,Bristol,Bristol 79-02,Secretary of State,,Peter Lumaj,Rep,576
+Hartford,Bristol,Bristol 79-02,Secretary of State,,Peter Lumaj,Ind,38
+Hartford,Bristol,Bristol 79-03,Secretary of State,,Peter Lumaj,Rep,1050
+Hartford,Bristol,Bristol 79-03,Secretary of State,,Peter Lumaj,Ind,74
+Hartford,Bristol,Bristol Total,Secretary of State,,Peter Lumaj,Rep,7947
+Hartford,Bristol,Bristol Total,Secretary of State,,Peter Lumaj,Ind,537
+Hartford,Bristol,Bristol 77-01,Secretary of State,,Denise Merrill,Dem,905
+Hartford,Bristol,Bristol 77-01,Secretary of State,,Denise Merrill,WF,58
+Hartford,Bristol,Bristol 77-02,Secretary of State,,Denise Merrill,Dem,1132
+Hartford,Bristol,Bristol 77-02,Secretary of State,,Denise Merrill,WF,64
+Hartford,Bristol,Bristol 77-03,Secretary of State,,Denise Merrill,Dem,984
+Hartford,Bristol,Bristol 77-03,Secretary of State,,Denise Merrill,WF,49
+Hartford,Bristol,Bristol 77-04,Secretary of State,,Denise Merrill,Dem,543
+Hartford,Bristol,Bristol 77-04,Secretary of State,,Denise Merrill,WF,34
+Hartford,Bristol,Bristol 78-01,Secretary of State,,Denise Merrill,Dem,774
+Hartford,Bristol,Bristol 78-01,Secretary of State,,Denise Merrill,WF,47
+Hartford,Bristol,Bristol 78-02,Secretary of State,,Denise Merrill,Dem,674
+Hartford,Bristol,Bristol 78-02,Secretary of State,,Denise Merrill,WF,49
+Hartford,Bristol,Bristol 79-01,Secretary of State,,Denise Merrill,Dem,922
+Hartford,Bristol,Bristol 79-01,Secretary of State,,Denise Merrill,WF,79
+Hartford,Bristol,Bristol 79-02,Secretary of State,,Denise Merrill,Dem,773
+Hartford,Bristol,Bristol 79-02,Secretary of State,,Denise Merrill,WF,37
+Hartford,Bristol,Bristol 79-03,Secretary of State,,Denise Merrill,Dem,998
+Hartford,Bristol,Bristol 79-03,Secretary of State,,Denise Merrill,WF,58
+Hartford,Bristol,Bristol Total,Secretary of State,,Denise Merrill,Dem,7705
+Hartford,Bristol,Bristol Total,Secretary of State,,Denise Merrill,WF,475
+Hartford,Bristol,Bristol 77-01,Secretary of State,,Michael DeRosa,Green,54
+Hartford,Bristol,Bristol 77-02,Secretary of State,,Michael DeRosa,Green,51
+Hartford,Bristol,Bristol 77-03,Secretary of State,,Michael DeRosa,Green,42
+Hartford,Bristol,Bristol 77-04,Secretary of State,,Michael DeRosa,Green,27
+Hartford,Bristol,Bristol 78-01,Secretary of State,,Michael DeRosa,Green,31
+Hartford,Bristol,Bristol 78-02,Secretary of State,,Michael DeRosa,Green,40
+Hartford,Bristol,Bristol 79-01,Secretary of State,,Michael DeRosa,Green,72
+Hartford,Bristol,Bristol 79-02,Secretary of State,,Michael DeRosa,Green,38
+Hartford,Bristol,Bristol 79-03,Secretary of State,,Michael DeRosa,Green,47
+Hartford,Bristol,Bristol Total,Secretary of State,,Michael DeRosa,Green,402
+Hartford,Bristol,Bristol 77-01,Treasurer,,Timothy Herbst,Rep,1027
+Hartford,Bristol,Bristol 77-01,Treasurer,,Timothy Herbst,Ind,76
+Hartford,Bristol,Bristol 77-02,Treasurer,,Timothy Herbst,Rep,1167
+Hartford,Bristol,Bristol 77-02,Treasurer,,Timothy Herbst,Ind,65
+Hartford,Bristol,Bristol 77-03,Treasurer,,Timothy Herbst,Rep,903
+Hartford,Bristol,Bristol 77-03,Treasurer,,Timothy Herbst,Ind,61
+Hartford,Bristol,Bristol 77-04,Treasurer,,Timothy Herbst,Rep,519
+Hartford,Bristol,Bristol 77-04,Treasurer,,Timothy Herbst,Ind,41
+Hartford,Bristol,Bristol 78-01,Treasurer,,Timothy Herbst,Rep,1203
+Hartford,Bristol,Bristol 78-01,Treasurer,,Timothy Herbst,Ind,57
+Hartford,Bristol,Bristol 78-02,Treasurer,,Timothy Herbst,Rep,882
+Hartford,Bristol,Bristol 78-02,Treasurer,,Timothy Herbst,Ind,67
+Hartford,Bristol,Bristol 79-01,Treasurer,,Timothy Herbst,Rep,836
+Hartford,Bristol,Bristol 79-01,Treasurer,,Timothy Herbst,Ind,85
+Hartford,Bristol,Bristol 79-02,Treasurer,,Timothy Herbst,Rep,619
+Hartford,Bristol,Bristol 79-02,Treasurer,,Timothy Herbst,Ind,36
+Hartford,Bristol,Bristol 79-03,Treasurer,,Timothy Herbst,Rep,1061
+Hartford,Bristol,Bristol 79-03,Treasurer,,Timothy Herbst,Ind,76
+Hartford,Bristol,Bristol Total,Treasurer,,Timothy Herbst,Rep,8217
+Hartford,Bristol,Bristol Total,Treasurer,,Timothy Herbst,Ind,564
+Hartford,Bristol,Bristol 77-01,Treasurer,,Denise Nappier,Dem,926
+Hartford,Bristol,Bristol 77-01,Treasurer,,Denise Nappier,WF,72
+Hartford,Bristol,Bristol 77-02,Treasurer,,Denise Nappier,Dem,1106
+Hartford,Bristol,Bristol 77-02,Treasurer,,Denise Nappier,WF,71
+Hartford,Bristol,Bristol 77-03,Treasurer,,Denise Nappier,Dem,1002
+Hartford,Bristol,Bristol 77-03,Treasurer,,Denise Nappier,WF,50
+Hartford,Bristol,Bristol 77-04,Treasurer,,Denise Nappier,Dem,525
+Hartford,Bristol,Bristol 77-04,Treasurer,,Denise Nappier,WF,45
+Hartford,Bristol,Bristol 78-01,Treasurer,,Denise Nappier,Dem,792
+Hartford,Bristol,Bristol 78-01,Treasurer,,Denise Nappier,WF,43
+Hartford,Bristol,Bristol 78-02,Treasurer,,Denise Nappier,Dem,674
+Hartford,Bristol,Bristol 78-02,Treasurer,,Denise Nappier,WF,58
+Hartford,Bristol,Bristol 79-01,Treasurer,,Denise Nappier,Dem,940
+Hartford,Bristol,Bristol 79-01,Treasurer,,Denise Nappier,WF,80
+Hartford,Bristol,Bristol 79-02,Treasurer,,Denise Nappier,Dem,763
+Hartford,Bristol,Bristol 79-02,Treasurer,,Denise Nappier,WF,52
+Hartford,Bristol,Bristol 79-03,Treasurer,,Denise Nappier,Dem,1019
+Hartford,Bristol,Bristol 79-03,Treasurer,,Denise Nappier,WF,74
+Hartford,Bristol,Bristol Total,Treasurer,,Denise Nappier,Dem,7747
+Hartford,Bristol,Bristol Total,Treasurer,,Denise Nappier,WF,45
+Hartford,Bristol,Bristol 77-01,Treasurer,,Rolf Maurer,write-in,0
+Hartford,Bristol,Bristol 77-02,Treasurer,,Rolf Maurer,write-in,1
+Hartford,Bristol,Bristol 77-03,Treasurer,,Rolf Maurer,write-in,1
+Hartford,Bristol,Bristol 77-04,Treasurer,,Rolf Maurer,write-in,0
+Hartford,Bristol,Bristol 78-01,Treasurer,,Rolf Maurer,write-in,0
+Hartford,Bristol,Bristol 78-02,Treasurer,,Rolf Maurer,write-in,0
+Hartford,Bristol,Bristol 79-01,Treasurer,,Rolf Maurer,write-in,2
+Hartford,Bristol,Bristol 79-02,Treasurer,,Rolf Maurer,write-in,1
+Hartford,Bristol,Bristol 79-03,Treasurer,,Rolf Maurer,write-in,0
+Hartford,Bristol,Bristol Total,Treasurer,,Rolf Maurer,write-in,5
+Hartford,Bristol,Bristol 77-01,Comptroller,,Sharon McLaughlin,Rep,929
+Hartford,Bristol,Bristol 77-01,Comptroller,,Sharon McLaughlin,Ind,71
+Hartford,Bristol,Bristol 77-02,Comptroller,,Sharon McLaughlin,Rep,1042
+Hartford,Bristol,Bristol 77-02,Comptroller,,Sharon McLaughlin,Ind,58
+Hartford,Bristol,Bristol 77-03,Comptroller,,Sharon McLaughlin,Rep,817
+Hartford,Bristol,Bristol 77-03,Comptroller,,Sharon McLaughlin,Ind,59
+Hartford,Bristol,Bristol 77-04,Comptroller,,Sharon McLaughlin,Rep,470
+Hartford,Bristol,Bristol 77-04,Comptroller,,Sharon McLaughlin,Ind,27
+Hartford,Bristol,Bristol 78-01,Comptroller,,Sharon McLaughlin,Rep,1063
+Hartford,Bristol,Bristol 78-01,Comptroller,,Sharon McLaughlin,Ind,50
+Hartford,Bristol,Bristol 78-02,Comptroller,,Sharon McLaughlin,Rep,801
+Hartford,Bristol,Bristol 78-02,Comptroller,,Sharon McLaughlin,Ind,63
+Hartford,Bristol,Bristol 79-01,Comptroller,,Sharon McLaughlin,Rep,765
+Hartford,Bristol,Bristol 79-01,Comptroller,,Sharon McLaughlin,Ind,72
+Hartford,Bristol,Bristol 79-02,Comptroller,,Sharon McLaughlin,Rep,544
+Hartford,Bristol,Bristol 79-02,Comptroller,,Sharon McLaughlin,Ind,35
+Hartford,Bristol,Bristol 79-03,Comptroller,,Sharon McLaughlin,Rep,963
+Hartford,Bristol,Bristol 79-03,Comptroller,,Sharon McLaughlin,Ind,74
+Hartford,Bristol,Bristol Total,Comptroller,,Sharon McLaughlin,Rep,7394
+Hartford,Bristol,Bristol Total,Comptroller,,Sharon McLaughlin,Ind,509
+Hartford,Bristol,Bristol 77-01,Comptroller,,Denise Nappier,Dem,972
+Hartford,Bristol,Bristol 77-01,Comptroller,,Denise Nappier,WF,51
+Hartford,Bristol,Bristol 77-02,Comptroller,,Denise Nappier,Dem,1171
+Hartford,Bristol,Bristol 77-02,Comptroller,,Denise Nappier,WF,53
+Hartford,Bristol,Bristol 77-03,Comptroller,,Denise Nappier,Dem,1031
+Hartford,Bristol,Bristol 77-03,Comptroller,,Denise Nappier,WF,61
+Hartford,Bristol,Bristol 77-04,Comptroller,,Denise Nappier,Dem,558
+Hartford,Bristol,Bristol 77-04,Comptroller,,Denise Nappier,WF,34
+Hartford,Bristol,Bristol 78-01,Comptroller,,Denise Nappier,Dem,877
+Hartford,Bristol,Bristol 78-01,Comptroller,,Denise Nappier,WF,42
+Hartford,Bristol,Bristol 78-02,Comptroller,,Denise Nappier,Dem,701
+Hartford,Bristol,Bristol 78-02,Comptroller,,Denise Nappier,WF,50
+Hartford,Bristol,Bristol 79-01,Comptroller,,Denise Nappier,Dem,933
+Hartford,Bristol,Bristol 79-01,Comptroller,,Denise Nappier,WF,88
+Hartford,Bristol,Bristol 79-02,Comptroller,,Denise Nappier,Dem,792
+Hartford,Bristol,Bristol 79-02,Comptroller,,Denise Nappier,WF,41
+Hartford,Bristol,Bristol 79-03,Comptroller,,Denise Nappier,Dem,1057
+Hartford,Bristol,Bristol 79-03,Comptroller,,Denise Nappier,WF,55
+Hartford,Bristol,Bristol Total,Comptroller,,Denise Nappier,Dem,8092
+Hartford,Bristol,Bristol Total,Comptroller,,Denise Nappier,WF,475
+Hartford,Bristol,Bristol 77-01,Comptroller,,Rolf Maurer,write-in,38
+Hartford,Bristol,Bristol 77-02,Comptroller,,Rolf Maurer,write-in,41
+Hartford,Bristol,Bristol 77-03,Comptroller,,Rolf Maurer,write-in,29
+Hartford,Bristol,Bristol 77-04,Comptroller,,Rolf Maurer,write-in,23
+Hartford,Bristol,Bristol 78-01,Comptroller,,Rolf Maurer,write-in,18
+Hartford,Bristol,Bristol 78-02,Comptroller,,Rolf Maurer,write-in,31
+Hartford,Bristol,Bristol 79-01,Comptroller,,Rolf Maurer,write-in,53
+Hartford,Bristol,Bristol 79-02,Comptroller,,Rolf Maurer,write-in,30
+Hartford,Bristol,Bristol 79-03,Comptroller,,Rolf Maurer,write-in,46
+Hartford,Bristol,Bristol Total,Comptroller,,Rolf Maurer,write-in,309
+Hartford,Bristol,Bristol 77-01,Attorney General,,Kie Westby,Rep,824
+Hartford,Bristol,Bristol 77-01,Attorney General,,Kie Westby,Ind,50
+Hartford,Bristol,Bristol 77-02,Attorney General,,Kie Westby,Rep,881
+Hartford,Bristol,Bristol 77-02,Attorney General,,Kie Westby,Ind,35
+Hartford,Bristol,Bristol 77-03,Attorney General,,Kie Westby,Rep,705
+Hartford,Bristol,Bristol 77-03,Attorney General,,Kie Westby,Ind,36
+Hartford,Bristol,Bristol 77-04,Attorney General,,Kie Westby,Rep,383
+Hartford,Bristol,Bristol 77-04,Attorney General,,Kie Westby,Ind,30
+Hartford,Bristol,Bristol 78-01,Attorney General,,Kie Westby,Rep,916
+Hartford,Bristol,Bristol 78-01,Attorney General,,Kie Westby,Ind,36
+Hartford,Bristol,Bristol 78-02,Attorney General,,Kie Westby,Rep,738
+Hartford,Bristol,Bristol 78-02,Attorney General,,Kie Westby,Ind,44
+Hartford,Bristol,Bristol 79-01,Attorney General,,Kie Westby,Rep,642
+Hartford,Bristol,Bristol 79-01,Attorney General,,Kie Westby,Ind,55
+Hartford,Bristol,Bristol 79-02,Attorney General,,Kie Westby,Rep,478
+Hartford,Bristol,Bristol 79-02,Attorney General,,Kie Westby,Ind,25
+Hartford,Bristol,Bristol 79-03,Attorney General,,Kie Westby,Rep,845
+Hartford,Bristol,Bristol 79-03,Attorney General,,Kie Westby,Ind,51
+Hartford,Bristol,Bristol Total,Attorney General,,Kie Westby,Rep,6412
+Hartford,Bristol,Bristol Total,Attorney General,,Kie Westby,Ind,362
+Hartford,Bristol,Bristol 77-01,Attorney General,,George Jepsen,Dem,1100
+Hartford,Bristol,Bristol 77-01,Attorney General,,George Jepsen,WF,62
+Hartford,Bristol,Bristol 77-02,Attorney General,,George Jepsen,Dem,1341
+Hartford,Bristol,Bristol 77-02,Attorney General,,George Jepsen,WF,63
+Hartford,Bristol,Bristol 77-03,Attorney General,,George Jepsen,Dem,1146
+Hartford,Bristol,Bristol 77-03,Attorney General,,George Jepsen,WF,64
+Hartford,Bristol,Bristol 77-04,Attorney General,,George Jepsen,Dem,653
+Hartford,Bristol,Bristol 77-04,Attorney General,,George Jepsen,WF,39
+Hartford,Bristol,Bristol 78-01,Attorney General,,George Jepsen,Dem,1025
+Hartford,Bristol,Bristol 78-01,Attorney General,,George Jepsen,WF,49
+Hartford,Bristol,Bristol 78-02,Attorney General,,George Jepsen,Dem,769
+Hartford,Bristol,Bristol 78-02,Attorney General,,George Jepsen,WF,53
+Hartford,Bristol,Bristol 79-01,Attorney General,,George Jepsen,Dem,1074
+Hartford,Bristol,Bristol 79-01,Attorney General,,George Jepsen,WF,86
+Hartford,Bristol,Bristol 79-02,Attorney General,,George Jepsen,Dem,859
+Hartford,Bristol,Bristol 79-02,Attorney General,,George Jepsen,WF,40
+Hartford,Bristol,Bristol 79-03,Attorney General,,George Jepsen,Dem,1190
+Hartford,Bristol,Bristol 79-03,Attorney General,,George Jepsen,WF,72
+Hartford,Bristol,Bristol Total,Attorney General,,George Jepsen,Dem,9159
+Hartford,Bristol,Bristol Total,Attorney General,,George Jepsen,WF,528
+Hartford,Bristol,Bristol 77-01,Attorney General,,Stephen Fournier,Green,44
+Hartford,Bristol,Bristol 77-02,Attorney General,,Stephen Fournier,Green,64
+Hartford,Bristol,Bristol 77-03,Attorney General,,Stephen Fournier,Green,60
+Hartford,Bristol,Bristol 77-04,Attorney General,,Stephen Fournier,Green,27
+Hartford,Bristol,Bristol 78-01,Attorney General,,Stephen Fournier,Green,45
+Hartford,Bristol,Bristol 78-02,Attorney General,,Stephen Fournier,Green,54
+Hartford,Bristol,Bristol 79-01,Attorney General,,Stephen Fournier,Green,67
+Hartford,Bristol,Bristol 79-02,Attorney General,,Stephen Fournier,Green,48
+Hartford,Bristol,Bristol 79-03,Attorney General,,Stephen Fournier,Green,61
+Hartford,Bristol,Bristol Total,Attorney General,,Stephen Fournier,Green,470

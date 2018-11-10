@@ -1,4 +1,4 @@
-town,precinct,office,district,candidate,party,votes,polls,absentee
+county,precinct,office,dist,candidate,party,total,polls,abs
 Hartford,W Hartford 1,Governor,,Thomas Foley,Rep,775,711,64
 Hartford,W Hartford 2,Governor,,Thomas Foley,Rep,1033,945,88
 Hartford,W Hartford 3,Governor,,Thomas Foley,Rep,793,714,79
@@ -235,46 +235,46 @@ Hartford,W Hartford 7,Comptroller,,Sharon McLaughlin,Rep,969,914,55
 Hartford,W Hartford 8,Comptroller,,Sharon McLaughlin,Rep,1284,1196,88
 Hartford,W Hartford 9,Comptroller,,Sharon McLaughlin,Rep,691,646,45
 Hartford,W Hartford Total,Comptroller,,Sharon McLaughlin,Rep,7264,6730,534
-Hartford,W Hartford 1,Secretary of State,,Denise Merrill,Dem,1448,1263,185
-Hartford,W Hartford 2,Secretary of State,,Denise Merrill,Dem,1904,1735,169
-Hartford,W Hartford 3,Secretary of State,,Denise Merrill,Dem,1896,1713,183
-Hartford,W Hartford 4,Secretary of State,,Denise Merrill,Dem,1492,1419,73
-Hartford,W Hartford 5,Secretary of State,,Denise Merrill,Dem,1314,1231,83
-Hartford,W Hartford 6,Secretary of State,,Denise Merrill,Dem,1447,1365,82
-Hartford,W Hartford 7,Secretary of State,,Denise Merrill,Dem,1419,1324,95
-Hartford,W Hartford 8,Secretary of State,,Denise Merrill,Dem,1770,1660,110
-Hartford,W Hartford 9,Secretary of State,,Denise Merrill,Dem,1293,1213,80
-Hartford,W Hartford Total,Secretary of State,,Denise Merrill,Dem,13983,12923,1060
-Hartford,W Hartford 1,Secretary of State,,Denise Merrill,WF,43,40,3
-Hartford,W Hartford 2,Secretary of State,,Denise Merrill,WF,79,75,4
-Hartford,W Hartford 3,Secretary of State,,Denise Merrill,WF,119,110,9
-Hartford,W Hartford 4,Secretary of State,,Denise Merrill,WF,94,89,5
-Hartford,W Hartford 5,Secretary of State,,Denise Merrill,WF,66,65,1
-Hartford,W Hartford 6,Secretary of State,,Denise Merrill,WF,57,55,2
-Hartford,W Hartford 7,Secretary of State,,Denise Merrill,WF,52,50,2
-Hartford,W Hartford 8,Secretary of State,,Denise Merrill,WF,68,61,7
-Hartford,W Hartford 9,Secretary of State,,Denise Merrill,WF,36,33,3
-Hartford,W Hartford Total,Secretary of State,,Denise Merrill,WF,614,578,36
-Hartford,W Hartford 1,Secretary of State,,Peter Lumaj,Ind,28,27,1
-Hartford,W Hartford 2,Secretary of State,,Peter Lumaj,Ind,49,43,6
-Hartford,W Hartford 3,Secretary of State,,Peter Lumaj,Ind,56,51,5
-Hartford,W Hartford 4,Secretary of State,,Peter Lumaj,Ind,62,61,1
-Hartford,W Hartford 5,Secretary of State,,Peter Lumaj,Ind,45,42,3
-Hartford,W Hartford 6,Secretary of State,,Peter Lumaj,Ind,52,52,0
-Hartford,W Hartford 7,Secretary of State,,Peter Lumaj,Ind,39,35,4
-Hartford,W Hartford 8,Secretary of State,,Peter Lumaj,Ind,47,45,2
-Hartford,W Hartford 9,Secretary of State,,Peter Lumaj,Ind,35,30,5
-Hartford,W Hartford Total,Secretary of State,,Peter Lumaj,Ind,413,286,27
-Hartford,W Hartford 1,Secretary of State,,Michael DeRosa,Green,27,27,0
-Hartford,W Hartford 2,Secretary of State,,Michael DeRosa,Green,46,42,4
-Hartford,W Hartford 3,Secretary of State,,Michael DeRosa,Green,80,77,3
-Hartford,W Hartford 4,Secretary of State,,Michael DeRosa,Green,56,54,2
-Hartford,W Hartford 5,Secretary of State,,Michael DeRosa,Green,35,35,0
-Hartford,W Hartford 6,Secretary of State,,Michael DeRosa,Green,37,37,0
-Hartford,W Hartford 7,Secretary of State,,Michael DeRosa,Green,36,34,2
-Hartford,W Hartford 8,Secretary of State,,Michael DeRosa,Green,39,38,1
-Hartford,W Hartford 9,Secretary of State,,Michael DeRosa,Green,25,24,1
-Hartford,W Hartford Total,Secretary of State,,Michael DeRosa,Green,381,368,13
+Hartford,W Hartford 1,Comptroller,,Kevin Lembo,Dem,1448,1263,185
+Hartford,W Hartford 2,Comptroller,,Kevin Lembo,Dem,1904,1735,169
+Hartford,W Hartford 3,Comptroller,,Kevin Lembo,Dem,1896,1713,183
+Hartford,W Hartford 4,Comptroller,,Kevin Lembo,Dem,1492,1419,73
+Hartford,W Hartford 5,Comptroller,,Kevin Lembo,Dem,1314,1231,83
+Hartford,W Hartford 6,Comptroller,,Kevin Lembo,Dem,1447,1365,82
+Hartford,W Hartford 7,Comptroller,,Kevin Lembo,Dem,1419,1324,95
+Hartford,W Hartford 8,Comptroller,,Kevin Lembo,Dem,1770,1660,110
+Hartford,W Hartford 9,Comptroller,,Kevin Lembo,Dem,1293,1213,80
+Hartford,W Hartford Total,Comptroller,,Kevin Lembo,Dem,13983,12923,1060
+Hartford,W Hartford 1,Comptroller,,Kevin Lembo,WF,43,40,3
+Hartford,W Hartford 2,Comptroller,,Kevin Lembo,WF,79,75,4
+Hartford,W Hartford 3,Comptroller,,Kevin Lembo,WF,119,110,9
+Hartford,W Hartford 4,Comptroller,,Kevin Lembo,WF,94,89,5
+Hartford,W Hartford 5,Comptroller,,Kevin Lembo,WF,66,65,1
+Hartford,W Hartford 6,Comptroller,,Kevin Lembo,WF,57,55,2
+Hartford,W Hartford 7,Comptroller,,Kevin Lembo,WF,52,50,2
+Hartford,W Hartford 8,Comptroller,,Kevin Lembo,WF,68,61,7
+Hartford,W Hartford 9,Comptroller,,Kevin Lembo,WF,36,33,3
+Hartford,W Hartford Total,Comptroller,,Kevin Lembo,WF,614,578,36
+Hartford,W Hartford 1,Comptroller,,Sharon McLaughlin,Ind,28,27,1
+Hartford,W Hartford 2,Comptroller,,Sharon McLaughlin,Ind,49,43,6
+Hartford,W Hartford 3,Comptroller,,Sharon McLaughlin,Ind,56,51,5
+Hartford,W Hartford 4,Comptroller,,Sharon McLaughlin,Ind,62,61,1
+Hartford,W Hartford 5,Comptroller,,Sharon McLaughlin,Ind,45,42,3
+Hartford,W Hartford 6,Comptroller,,Sharon McLaughlin,Ind,52,52,0
+Hartford,W Hartford 7,Comptroller,,Sharon McLaughlin,Ind,39,35,4
+Hartford,W Hartford 8,Comptroller,,Sharon McLaughlin,Ind,47,45,2
+Hartford,W Hartford 9,Comptroller,,Sharon McLaughlin,Ind,35,30,5
+Hartford,W Hartford Total,Comptroller,,Sharon McLaughlin,Ind,413,286,27
+Hartford,W Hartford 1,Comptroller,,Rolf Maurer,Green,27,27,0
+Hartford,W Hartford 2,Comptroller,,Rolf Maurer,Green,46,42,4
+Hartford,W Hartford 3,Comptroller,,Rolf Maurer,Green,80,77,3
+Hartford,W Hartford 4,Comptroller,,Rolf Maurer,Green,56,54,2
+Hartford,W Hartford 5,Comptroller,,Rolf Maurer,Green,35,35,0
+Hartford,W Hartford 6,Comptroller,,Rolf Maurer,Green,37,37,0
+Hartford,W Hartford 7,Comptroller,,Rolf Maurer,Green,36,34,2
+Hartford,W Hartford 8,Comptroller,,Rolf Maurer,Green,39,38,1
+Hartford,W Hartford 9,Comptroller,,Rolf Maurer,Green,25,24,1
+Hartford,W Hartford Total,Comptroller,,Rolf Maurer,Green,381,368,13
 Hartford,W Hartford 1,Attorney General,,Kie Westby,Rep,580,537,43
 Hartford,W Hartford 2,Attorney General,,Kie Westby,Rep,759,677,82
 Hartford,W Hartford 3,Attorney General,,Kie Westby,Rep,617,552,65
