@@ -1,0 +1,293 @@
+county,town,precinct,office,district,candidate,party,votes,poll,abs,edr
+New Haven,Branford,Branford 102-1,Governor,,Thomas Foley,Rep,870,816,43,11
+New Haven,Branford,Branford 102-3,Governor,,Thomas Foley,Rep,410,371,35,4
+New Haven,Branford,Branford 102-4,Governor,,Thomas Foley,Rep,717,664,40,13
+New Haven,Branford,Branford 102-5,Governor,,Thomas Foley,Rep,800,758,39,3
+New Haven,Branford,Branford 102-6,Governor,,Thomas Foley,Rep,654,628,20,6
+New Haven,Branford,Branford 98-2,Governor,,Thomas Foley,Rep,485,465,16,4
+New Haven,Branford,Branford 98-7,Governor,,Thomas Foley,Rep,624,587,33,4
+New Haven,Branford,Branford Total,Governor,,Thomas Foley,Rep,4560,4289,226,45
+New Haven,Branford,Branford 102-1,Governor,,Thomas Foley,Ind,40,34,5,1
+New Haven,Branford,Branford 102-3,Governor,,Thomas Foley,Ind,15,12,3,0
+New Haven,Branford,Branford 102-4,Governor,,Thomas Foley,Ind,33,27,3,3
+New Haven,Branford,Branford 102-5,Governor,,Thomas Foley,Ind,28,26,2,0
+New Haven,Branford,Branford 102-6,Governor,,Thomas Foley,Ind,23,22,0,1
+New Haven,Branford,Branford 98-2,Governor,,Thomas Foley,Ind,13,13,0,0
+New Haven,Branford,Branford 98-7,Governor,,Thomas Foley,Ind,18,17,1,0
+New Haven,Branford,Branford Total,Governor,,Thomas Foley,Ind,170,151,14,5
+New Haven,Branford,Branford 102-1,Governor,,Dannel Malloy,Dem,1000,938,48,14
+New Haven,Branford,Branford 102-3,Governor,,Dannel Malloy,Dem,722,666,55,1
+New Haven,Branford,Branford 102-4,Governor,,Dannel Malloy,Dem,998,936,47,15
+New Haven,Branford,Branford 102-5,Governor,,Dannel Malloy,Dem,1038,947,81,10
+New Haven,Branford,Branford 102-6,Governor,,Dannel Malloy,Dem,763,715,42,6
+New Haven,Branford,Branford 98-2,Governor,,Dannel Malloy,Dem,629,569,53,7
+New Haven,Branford,Branford 98-7,Governor,,Dannel Malloy,Dem,578,541,31,6
+New Haven,Branford,Branford Total,Governor,,Dannel Malloy,Dem,5729,5313,357,59
+New Haven,Branford,Branford 102-1,Governor,,Dannel Malloy,Dem,30,28,1,1
+New Haven,Branford,Branford 102-3,Governor,,Dannel Malloy,WF,23,23,0,0
+New Haven,Branford,Branford 102-4,Governor,,Dannel Malloy,WF,42,38,4,0
+New Haven,Branford,Branford 102-5,Governor,,Dannel Malloy,WF,36,36,0,0
+New Haven,Branford,Branford 102-6,Governor,,Dannel Malloy,WF,35,35,0,0
+New Haven,Branford,Branford 98-2,Governor,,Dannel Malloy,WF,27,27,0,0
+New Haven,Branford,Branford 98-7,Governor,,Dannel Malloy,WF,13,13,0,0
+New Haven,Branford,Branford Total,Governor,,Dannel Malloy,WF,206,200,5,1
+New Haven,Branford,Branford 102-1,Governor,,Joe Visconti,Pet,19,17,2,0
+New Haven,Branford,Branford 102-3,Governor,,Joe Visconti,Pet,9,9,0,0
+New Haven,Branford,Branford 102-4,Governor,,Joe Visconti,Pet,22,20,2,0
+New Haven,Branford,Branford 102-5,Governor,,Joe Visconti,Pet,15,13,2,0
+New Haven,Branford,Branford 102-6,Governor,,Joe Visconti,Pet,15,13,1,1
+New Haven,Branford,Branford 98-2,Governor,,Joe Visconti,Pet,12,11,1,0
+New Haven,Branford,Branford 98-7,Governor,,Joe Visconti,Pet,14,14,0,0
+New Haven,Branford,Branford Total,Governor,,Joe Visconti,Pet,106,97,8,1
+New Haven,Branford,Branford 102-1,Governor,,Jonathan Pelto,write-in,0,0,0,0
+New Haven,Branford,Branford 102-3,Governor,,Jonathan Pelto,write-in,1,1,0,0
+New Haven,Branford,Branford 102-4,Governor,,Jonathan Pelto,write-in,1,1,0,0
+New Haven,Branford,Branford 102-5,Governor,,Jonathan Pelto,write-in,3,3,0,0
+New Haven,Branford,Branford 102-6,Governor,,Jonathan Pelto,write-in,0,0,0,0
+New Haven,Branford,Branford 98-2,Governor,,Jonathan Pelto,write-in,2,2,0,0
+New Haven,Branford,Branford 98-7,Governor,,Jonathan Pelto,write-in,0,0,0,0
+New Haven,Branford,Branford Total,Governor,,Jonathan Pelto,write-in,7,7,0,0
+New Haven,Branford,,,,,,,,,
+New Haven,Branford,Branford 102-1,US House,3,James Brown,Rep,723,672,42,9
+New Haven,Branford,Branford 102-3,US House,3,James Brown,Rep,344,309,32,3
+New Haven,Branford,Branford 102-4,US House,3,James Brown,Rep,604,558,34,12
+New Haven,Branford,Branford 102-5,US House,3,James Brown,Rep,663,627,33,3
+New Haven,Branford,Branford 102-6,US House,3,James Brown,Rep,507,484,16,7
+New Haven,Branford,Branford 98-2,US House,3,James Brown,Rep,364,350,14,0
+New Haven,Branford,Branford 98-7,US House,3,James Brown,Rep,493,461,29,3
+New Haven,Branford,Branford Total,US House,3,James Brown,Rep,3675,3461,200,14
+New Haven,Branford,Branford 102-1,US House,3,Rosa DeLauro,Dem,1114,1058,54,2
+New Haven,Branford,Branford 102-3,US House,3,Rosa DeLauro,Dem,791,714,59,18
+New Haven,Branford,Branford 102-4,US House,3,Rosa DeLauro,Dem,1116,1055,52,9
+New Haven,Branford,Branford 102-5,US House,3,Rosa DeLauro,Dem,1158,1065,88,5
+New Haven,Branford,Branford 102-6,US House,3,Rosa DeLauro,Dem,901,843,46,12
+New Haven,Branford,Branford 98-2,US House,3,Rosa DeLauro,Dem,736,674,55,7
+New Haven,Branford,Branford 98-7,US House,3,Rosa DeLauro,Dem,710,655,36,19
+New Haven,Branford,Branford Total,US House,3,Rosa DeLauro,Dem,6457,6064,390,3
+New Haven,Branford,Branford 102-1,US House,3,Rosa DeLauro,WF,75,74,1,0
+New Haven,Branford,Branford 102-3,US House,3,Rosa DeLauro,WF,46,46,0,0
+New Haven,Branford,Branford 102-4,US House,3,Rosa DeLauro,WF,61,59,1,1
+New Haven,Branford,Branford 102-5,US House,3,Rosa DeLauro,WF,82,78,4,0
+New Haven,Branford,Branford 102-6,US House,3,Rosa DeLauro,WF,79,79,0,0
+New Haven,Branford,Branford 98-2,US House,3,Rosa DeLauro,WF,57,56,1,0
+New Haven,Branford,Branford 98-7,US House,3,Rosa DeLauro,WF,42,42,0,0
+New Haven,Branford,Branford Total,US House,3,Rosa DeLauro,WF,445,434,7,4
+New Haven,Branford,,,,,,,,,
+New Haven,Branford,Branford 102-1,State Senate,,Bruce Wilson,Rep,741,696,36,9
+New Haven,Branford,Branford 102-3,State Senate,,Bruce Wilson,Rep,344,321,20,3
+New Haven,Branford,Branford 102-4,State Senate,,Bruce Wilson,Rep,620,571,40,9
+New Haven,Branford,Branford 102-5,State Senate,,Bruce Wilson,Rep,683,649,31,3
+New Haven,Branford,Branford 102-6,State Senate,,Bruce Wilson,Rep,545,523,16,6
+New Haven,Branford,Branford 98-2,State Senate,,Bruce Wilson,Rep,379,362,16,1
+New Haven,Branford,Branford 98-7,State Senate,,Bruce Wilson,Rep,454,422,29,3
+New Haven,Branford,Branford Total,State Senate,,Bruce Wilson,Rep,3765,3543,188,34
+New Haven,Branford,Branford 102-1,State Senate,,Bruce Wilson,Ind,48,43,4,1
+New Haven,Branford,Branford 102-3,State Senate,,Bruce Wilson,Ind,17,15,2,0
+New Haven,Branford,Branford 102-4,State Senate,,Bruce Wilson,Ind,29,26,2,1
+New Haven,Branford,Branford 102-5,State Senate,,Bruce Wilson,Ind,24,22,2,0
+New Haven,Branford,Branford 102-6,State Senate,,Bruce Wilson,WF,31,29,0,2
+New Haven,Branford,Branford 98-2,State Senate,,Bruce Wilson,Ind,20,20,0,0
+New Haven,Branford,Branford 98-7,State Senate,,Bruce Wilson,Ind,17,16,1,0
+New Haven,Branford,Branford Total,State Senate,,Bruce Wilson,Ind,186,171,11,4
+New Haven,Branford,Branford 102-1,State Senate,,Ted Kennedy,Dem,1086,1014,59,13
+New Haven,Branford,Branford 102-3,State Senate,,Ted Kennedy,Dem,776,704,71,1
+New Haven,Branford,Branford 102-4,State Senate,,Ted Kennedy,Dem,1087,1019,48,20
+New Haven,Branford,Branford 102-5,State Senate,,Ted Kennedy,Dem,1143,1043,91,9
+New Haven,Branford,Branford 102-6,State Senate,,Ted Kennedy,Dem,841,792,44,5
+New Haven,Branford,Branford 98-2,State Senate,,Ted Kennedy,Dem,728,665,53,10
+New Haven,Branford,Branford 98-7,State Senate,,Ted Kennedy,Dem,740,697,36,7
+New Haven,Branford,Branford Total,State Senate,,Ted Kennedy,Dem,6401,5934,402,65
+New Haven,Branford,Branford 102-1,State Senate,,Ted Kennedy,WF,59,56,0,3
+New Haven,Branford,Branford 102-3,State Senate,,Ted Kennedy,WF,45,44,0,1
+New Haven,Branford,Branford 102-4,State Senate,,Ted Kennedy,WF,57,56,1,0
+New Haven,Branford,Branford 102-5,State Senate,,Ted Kennedy,WF,62,59,2,1
+New Haven,Branford,Branford 102-6,State Senate,,Ted Kennedy,WF,57,56,1,0
+New Haven,Branford,Branford 98-2,State Senate,,Ted Kennedy,WF,44,42,1,1
+New Haven,Branford,Branford 98-7,State Senate,,Ted Kennedy,WF,33,33,0,0
+New Haven,Branford,Branford Total,State Senate,,Ted Kennedy,WF,357,346,5,6
+,,,,,,,,,,
+New Haven,,Branford 102-1,State House,102,Paul Cianci,Rep,906,856,40,10
+New Haven,,Branford 102-3,State House,102,Paul Cianci,Rep,413,374,36,3
+New Haven,,Branford 102-4,State House,102,Paul Cianci,Rep,746,691,43,12
+New Haven,,Branford 102-5,State House,102,Paul Cianci,Rep,876,836,35,5
+New Haven,,Branford 102-6,State House,102,Paul Cianci,Rep,683,657,21,5
+New Haven,,Branford Total,State House,102,Paul Cianci,Rep,3624,3414,175,35
+New Haven,,Branford 102-1,State House,102,Paul Cianci,Ind,73,66,5,2
+New Haven,,Branford 102-3,State House,102,Paul Cianci,Ind,24,20,4,0
+New Haven,,Branford 102-4,State House,102,Paul Cianci,Ind,52,46,3,3
+New Haven,,Branford 102-5,State House,102,Paul Cianci,Ind,44,39,5,0
+New Haven,,Branford 102-6,State House,102,Paul Cianci,Ind,47,46,0,1
+New Haven,,Branford Total,State House,102,Paul Cianci,Ind,240,217,17,6
+New Haven,,Branford 102-1,State House,102,Lonnie Reed,Dem,921,855,53,13
+New Haven,,Branford 102-3,State House,102,Lonnie Reed,Dem,718,664,52,2
+New Haven,,Branford 102-4,State House,102,Lonnie Reed,Dem,977,918,44,15
+New Haven,,Branford 102-5,State House,102,Lonnie Reed,Dem,1077,886,185,6
+New Haven,,Branford 102-6,State House,102,Lonnie Reed,Dem,724,677,40,7
+New Haven,,Branford Total,State House,102,Lonnie Reed,Dem,4417,4000,374,43
+New Haven,,Branford 98-2,State House,98,Cindy Cartier,Rep,431,413,18,0
+New Haven,,Branford 98-7,State House,98,Cindy Cartier,Rep,599,564,31,4
+New Haven,,Branford Total,State House,98,Cindy Cartier,Rep,1030,977,49,4
+New Haven,,Branford 98-2,State House,98,Cindy Cartier,Ind,19,18,0,1
+New Haven,,Branford 98-7,State House,98,Cindy Cartier,Ind,27,25,2,0
+New Haven,,Branford Total,State House,98,Cindy Cartier,Ind,46,43,2,1
+New Haven,,Branford 98-2,State House,98,Sean Scanlon,Dem,661,600,50,11
+New Haven,,Branford 98-7,State House,98,Sean Scanlon,Dem,570,533,32,5
+New Haven,,Branford Total,State House,98,Sean Scanlon,Dem,1231,1133,82,16
+New Haven,,Branford 98-2,State House,98,Sean Scanlon,WF,37,35,2,0
+New Haven,,Branford 98-7,State House,98,Sean Scanlon,WF,28,28,0,0
+New Haven,,Branford Total,State House,98,Sean Scanlon,WF,65,63,2,0
+,,,,,,,,,,
+New Haven,,Branford 102-1,Secretary of State,,Peter Lumaj,Rep,832,781,42,9
+New Haven,,Branford 102-3,Secretary of State,,Peter Lumaj,Rep,391,354,34,3
+New Haven,,Branford 102-4,Secretary of State,,Peter Lumaj,Rep,689,637,40,12
+New Haven,,Branford 102-5,Secretary of State,,Peter Lumaj,Rep,795,753,38,4
+New Haven,,Branford 102-6,Secretary of State,,Peter Lumaj,Rep,614,589,20,5
+New Haven,,Branford 98-2,Secretary of State,,Peter Lumaj,Rep,450,429,18,3
+New Haven,,Branford 98-7,Secretary of State,,Peter Lumaj,Rep,559,528,26,5
+New Haven,,Branford Total,Secretary of State,,Peter Lumaj,Rep,4330,4071,218,41
+New Haven,,Branford 102-1,Secretary of State,,Peter Lumaj,Ind,38,34,4,0
+New Haven,,Branford 102-3,Secretary of State,,Peter Lumaj,Ind,19,17,2,0
+New Haven,,Branford 102-4,Secretary of State,,Peter Lumaj,Ind,33,30,1,2
+New Haven,,Branford 102-5,Secretary of State,,Peter Lumaj,Ind,29,24,5,0
+New Haven,,Branford 102-6,Secretary of State,,Peter Lumaj,Ind,34,32,0,2
+New Haven,,Branford 98-2,Secretary of State,,Peter Lumaj,Ind,27,27,0,0
+New Haven,,Branford 98-7,Secretary of State,,Peter Lumaj,Ind,27,25,1,1
+New Haven,,Branford Total,Secretary of State,,Peter Lumaj,Ind,207,189,13,5
+New Haven,,Branford 102-1,Secretary of State,,Denise Merrill,Dem,935,873,49,13
+New Haven,,Branford 102-3,Secretary of State,,Denise Merrill,Dem,681,626,53,2
+New Haven,,Branford 102-4,Secretary of State,,Denise Merrill,Dem,951,891,45,15
+New Haven,,Branford 102-5,Secretary of State,,Denise Merrill,Dem,961,875,80,6
+New Haven,,Branford 102-6,Secretary of State,,Denise Merrill,Dem,731,687,39,5
+New Haven,,Branford 98-2,Secretary of State,,Denise Merrill,Dem,590,534,49,7
+New Haven,,Branford 98-7,Secretary of State,,Denise Merrill,Dem,586,546,36,4
+New Haven,,Branford Total,Secretary of State,,Denise Merrill,Dem,5435,5032,351,52
+New Haven,,Branford 102-1,Secretary of State,,Denise Merrill,WF,42,39,1,2
+New Haven,,Branford 102-3,Secretary of State,,Denise Merrill,WF,35,34,1,0
+New Haven,,Branford 102-4,Secretary of State,,Denise Merrill,WF,42,40,1,1
+New Haven,,Branford 102-5,Secretary of State,,Denise Merrill,WF,45,43,1,1
+New Haven,,Branford 102-6,Secretary of State,,Denise Merrill,WF,40,40,0,0
+New Haven,,Branford 98-2,Secretary of State,,Denise Merrill,WF,35,34,0,1
+New Haven,,Branford 98-7,Secretary of State,,Denise Merrill,WF,23,23,0,0
+New Haven,,Branford Total,Secretary of State,,Denise Merrill,WF,262,253,4,5
+New Haven,,Branford 102-1,Secretary of State,,Michael DeRosa,Green,31,29,2,0
+New Haven,,Branford 102-3,Secretary of State,,Michael DeRosa,Green,27,26,1,0
+New Haven,,Branford 102-4,Secretary of State,,Michael DeRosa,Green,41,40,1,0
+New Haven,,Branford 102-5,Secretary of State,,Michael DeRosa,Green,39,36,3,0
+New Haven,,Branford 102-6,Secretary of State,,Michael DeRosa,Green,28,27,1,0
+New Haven,,Branford 98-2,Secretary of State,,Michael DeRosa,Green,25,24,0,1
+New Haven,,Branford 98-7,Secretary of State,,Michael DeRosa,Green,20,17,2,1
+New Haven,,Branford Total,Secretary of State,,Michael DeRosa,Green,211,199,10,2
+,,,,,,,,,,
+New Haven,,Branford 102-1,State Treasurer,,Tim Herbst,Rep,853,804,39,10
+New Haven,,Branford 102-3,State Treasurer,,Tim Herbst,Rep,388,353,32,3
+New Haven,,Branford 102-4,State Treasurer,,Tim Herbst,Rep,699,645,41,13
+New Haven,,Branford 102-5,State Treasurer,,Tim Herbst,Rep,812,767,42,3
+New Haven,,Branford 102-6,State Treasurer,,Tim Herbst,Rep,632,607,20,5
+New Haven,,Branford 98-2,State Treasurer,,Tim Herbst,Rep,458,436,20,2
+New Haven,,Branford 98-7,State Treasurer,,Tim Herbst,Rep,587,554,28,5
+New Haven,,Branford Total,State Treasurer,,Tim Herbst,Rep,4429,4166,222,41
+New Haven,,Branford 102-1,State Treasurer,,Tim Herbst,Ind,51,44,5,2
+New Haven,,Branford 102-3,State Treasurer,,Tim Herbst,Ind,25,21,4,0
+New Haven,,Branford 102-4,State Treasurer,,Tim Herbst,Ind,39,36,1,2
+New Haven,,Branford 102-5,State Treasurer,,Tim Herbst,Ind,42,36,6,0
+New Haven,,Branford 102-6,State Treasurer,,Tim Herbst,Ind,36,34,1,1
+New Haven,,Branford 98-2,State Treasurer,,Tim Herbst,Ind,28,27,0,1
+New Haven,,Branford 98-7,State Treasurer,,Tim Herbst,Ind,27,26,1,0
+New Haven,,Branford Total,State Treasurer,,Tim Herbst,Ind,248,224,18,6
+New Haven,,Branford 102-1,State Treasurer,,Denise Nappier,Dem,935,872,51,12
+New Haven,,Branford 102-3,State Treasurer,,Denise Nappier,Dem,700,644,54,2
+New Haven,,Branford 102-4,State Treasurer,,Denise Nappier,Dem,972,913,43,16
+New Haven,,Branford 102-5,State Treasurer,,Denise Nappier,Dem,966,881,77,8
+New Haven,,Branford 102-6,State Treasurer,,Denise Nappier,Dem,729,685,39,5
+New Haven,,Branford 98-2,State Treasurer,,Denise Nappier,Dem,603,550,46,7
+New Haven,,Branford 98-7,State Treasurer,,Denise Nappier,Dem,572,531,37,4
+New Haven,,Branford Total,State Treasurer,,Denise Nappier,Dem,5477,5076,347,54
+New Haven,,Branford 102-1,State Treasurer,,Denise Nappier,WF,44,40,2,2
+New Haven,,Branford 102-3,State Treasurer,,Denise Nappier,WF,37,36,1,0
+New Haven,,Branford 102-4,State Treasurer,,Denise Nappier,WF,45,43,2,0
+New Haven,,Branford 102-5,State Treasurer,,Denise Nappier,WF,52,49,2,1
+New Haven,,Branford 102-6,State Treasurer,,Denise Nappier,WF,47,46,0,1
+New Haven,,Branford 98-2,State Treasurer,,Denise Nappier,WF,30,29,0,1
+New Haven,,Branford 98-7,State Treasurer,,Denise Nappier,WF,26,26,0,0
+New Haven,,Branford Total,State Treasurer,,Denise Nappier,WF,281,269,7,5
+,,,,,,,,,,
+New Haven,,Branford 102-1,Comptroller,,Sharon McLaughlin,Rep,790,743,37,10
+New Haven,,Branford 102-3,Comptroller,,Sharon McLaughlin,Rep,362,324,35,3
+New Haven,,Branford 102-4,Comptroller,,Sharon McLaughlin,Rep,651,595,44,12
+New Haven,,Branford 102-5,Comptroller,,Sharon McLaughlin,Rep,722,688,31,3
+New Haven,,Branford 102-6,Comptroller,,Sharon McLaughlin,Rep,575,553,17,5
+New Haven,,Branford 98-2,Comptroller,,Sharon McLaughlin,Rep,436,407,29,0
+New Haven,,Branford 98-7,Comptroller,,Sharon McLaughlin,Rep,526,503,19,4
+New Haven,,Branford Total,Comptroller,,Sharon McLaughlin,Rep,4095,3813,212,70
+New Haven,,Branford 102-1,Comptroller,,Sharon McLaughlin,Ind,52,47,4,1
+New Haven,,Branford 102-3,Comptroller,,Sharon McLaughlin,Ind,20,17,3,0
+New Haven,,Branford 102-4,Comptroller,,Sharon McLaughlin,Ind,38,31,2,5
+New Haven,,Branford 102-5,Comptroller,,Sharon McLaughlin,Ind,34,28,6,0
+New Haven,,Branford 102-6,Comptroller,,Sharon McLaughlin,Ind,27,26,0,1
+New Haven,,Branford 98-2,Comptroller,,Sharon McLaughlin,Ind,21,20,0,1
+New Haven,,Branford 98-7,Comptroller,,Sharon McLaughlin,Ind,29,28,1,0
+New Haven,,Branford Total,Comptroller,,Sharon McLaughlin,Ind,221,197,16,8
+New Haven,,Branford 102-1,Comptroller,,Kevin Lembo,Dem,952,887,52,13
+New Haven,,Branford 102-3,Comptroller,,Kevin Lembo,Dem,698,644,52,2
+New Haven,,Branford 102-4,Comptroller,,Kevin Lembo,Dem,979,926,41,12
+New Haven,,Branford 102-5,Comptroller,,Kevin Lembo,Dem,1008,923,78,7
+New Haven,,Branford 102-6,Comptroller,,Kevin Lembo,Dem,771,726,40,5
+New Haven,,Branford 98-2,Comptroller,,Kevin Lembo,Dem,609,556,45,8
+New Haven,,Branford 98-7,Comptroller,,Kevin Lembo,Dem,607,568,34,5
+New Haven,,Branford Total,Comptroller,,Kevin Lembo,Dem,5624,5230,342,52
+New Haven,,Branford 102-1,Comptroller,,Kevin Lembo,WF,38,35,1,2
+New Haven,,Branford 102-3,Comptroller,,Kevin Lembo,WF,32,32,0,0
+New Haven,,Branford 102-4,Comptroller,,Kevin Lembo,WF,43,41,2,0
+New Haven,,Branford 102-5,Comptroller,,Kevin Lembo,WF,51,48,2,1
+New Haven,,Branford 102-6,Comptroller,,Kevin Lembo,WF,38,38,0,0
+New Haven,,Branford 98-2,Comptroller,,Kevin Lembo,WF,34,32,1,1
+New Haven,,Branford 98-7,Comptroller,,Kevin Lembo,WF,19,19,0,0
+New Haven,,Branford Total,Comptroller,,Kevin Lembo,WF,255,245,6,4
+New Haven,,Branford 102-1,Comptroller,,Rolf Maurer,Green,29,28,1,0
+New Haven,,Branford 102-3,Comptroller,,Rolf Maurer,Green,25,24,1,0
+New Haven,,Branford 102-4,Comptroller,,Rolf Maurer,Green,30,30,0,0
+New Haven,,Branford 102-5,Comptroller,,Rolf Maurer,Green,26,23,3,0
+New Haven,,Branford 102-6,Comptroller,,Rolf Maurer,Green,26,23,2,1
+New Haven,,Branford 98-2,Comptroller,,Rolf Maurer,Green,18,18,0,0
+New Haven,,Branford 98-7,Comptroller,,Rolf Maurer,Green,15,14,0,1
+New Haven,,Branford Total,Comptroller,,Rolf Maurer,Green,167,158,7,2
+New Haven,,Branford 102-1,Attorney General,,Kie Westby,Rep,742,696,38,8
+New Haven,,Branford 102-3,Attorney General,,Kie Westby,Rep,344,312,29,3
+New Haven,,Branford 102-4,Attorney General,,Kie Westby,Rep,609,562,37,10
+New Haven,,Branford 102-5,Attorney General,,Kie Westby,Rep,666,634,30,2
+New Haven,,Branford 102-6,Attorney General,,Kie Westby,Rep,518,498,16,4
+New Haven,,Branford 98-2,Attorney General,,Kie Westby,Rep,393,373,18,2
+New Haven,,Branford 98-7,Attorney General,,Kie Westby,Rep,502,472,27,3
+New Haven,,Branford Total,Attorney General,,Kie Westby,Rep,3774,3547,195,32
+New Haven,,Branford 102-1,Attorney General,,Kie Westby,Ind,33,29,4,0
+New Haven,,Branford 102-3,Attorney General,,Kie Westby,Ind,22,19,3,0
+New Haven,,Branford 102-4,Attorney General,,Kie Westby,Ind,33,29,2,2
+New Haven,,Branford 102-5,Attorney General,,Kie Westby,Ind,20,19,1,0
+New Haven,,Branford 102-6,Attorney General,,Kie Westby,Ind,25,24,0,1
+New Haven,,Branford 98-2,Attorney General,,Kie Westby,Ind,19,18,0,1
+New Haven,,Branford 98-7,Attorney General,,Kie Westby,Ind,12,11,1,0
+New Haven,,Branford Total,Attorney General,,Kie Westby,Ind,164,149,11,4
+New Haven,,Branford 102-1,Attorney General,,George Jepsen,Dem,1011,944,53,14
+New Haven,,Branford 102-3,Attorney General,,George Jepsen,Dem,727,670,56,1
+New Haven,,Branford 102-4,Attorney General,,George Jepsen,Dem,1034,970,46,18
+New Haven,,Branford 102-5,Attorney General,,George Jepsen,Dem,1088,992,88,8
+New Haven,,Branford 102-6,Attorney General,,George Jepsen,Dem,819,770,42,7
+New Haven,,Branford 98-2,Attorney General,,George Jepsen,Dem,652,596,48,8
+New Haven,,Branford 98-7,Attorney General,,George Jepsen,Dem,649,607,35,7
+New Haven,,Branford Total,Attorney General,,George Jepsen,Dem,5980,5549,368,63
+New Haven,,Branford 102-1,Attorney General,,George Jepsen,WF,43,42,0,1
+New Haven,,Branford 102-3,Attorney General,,George Jepsen,WF,35,33,1,1
+New Haven,,Branford 102-4,Attorney General,,George Jepsen,WF,45,43,2,0
+New Haven,,Branford 102-5,Attorney General,,George Jepsen,WF,59,56,2,1
+New Haven,,Branford 102-6,Attorney General,,George Jepsen,WF,43,43,0,0
+New Haven,,Branford 98-2,Attorney General,,George Jepsen,WF,33,32,0,1
+New Haven,,Branford 98-7,Attorney General,,George Jepsen,WF,25,25,0,0
+New Haven,,Branford Total,Attorney General,,George Jepsen,WF,283,274,5,4
+New Haven,,Branford 102-1,Attorney General,,Stephen Fournier,Green,35,33,2,0
+New Haven,,Branford 102-3,Attorney General,,Stephen Fournier,Green,22,20,2,0
+New Haven,,Branford 102-4,Attorney General,,Stephen Fournier,Green,30,29,1,0
+New Haven,,Branford 102-5,Attorney General,,Stephen Fournier,Green,28,25,3,0
+New Haven,,Branford 102-6,Attorney General,,Stephen Fournier,Green,29,28,1,0
+New Haven,,Branford 98-2,Attorney General,,Stephen Fournier,Green,22,21,1,0
+New Haven,,Branford 98-7,Attorney General,,Stephen Fournier,Green,19,17,2,0
+New Haven,,Branford Total,Attorney General,,Stephen Fournier,Green,185,173,12,0
