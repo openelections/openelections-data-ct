@@ -1,0 +1,154 @@
+county,town,precinct,office,district,candidate,party,votes
+New London,Colchester,Colchester 1,Governor,,Thomas Foley,Rep,1288
+New London,Colchester,Colchester 2,Governor,,Thomas Foley,Rep,813
+New London,Colchester,Colchester 3,Governor,,Thomas Foley,Rep,736
+New London,Colchester,Colchester 4,Governor,,Thomas Foley,Rep,263
+New London,Colchester,Colchester 1,Governor,,Dannel Malloy,Dem,1023
+New London,Colchester,Colchester 2,Governor,,Dannel Malloy,Dem,568
+New London,Colchester,Colchester 3,Governor,,Dannel Malloy,Dem,660
+New London,Colchester,Colchester 4,Governor,,Dannel Malloy,Dem,190
+New London,Colchester,Colchester 1,Governor,,Dannel Malloy,WF,78
+New London,Colchester,Colchester 2,Governor,,Dannel Malloy,WF,51
+New London,Colchester,Colchester 3,Governor,,Dannel Malloy,WF,41
+New London,Colchester,Colchester 4,Governor,,Dannel Malloy,WF,15
+New London,Colchester,Colchester 1,Governor,,Thomas Foley,Ind,78
+New London,Colchester,Colchester 2,Governor,,Thomas Foley,Ind,51
+New London,Colchester,Colchester 3,Governor,,Thomas Foley,Ind,30
+New London,Colchester,Colchester 4,Governor,,Thomas Foley,Ind,13
+New London,Colchester,Colchester 1,Governor,,Joe Visconti,Pet,54
+New London,Colchester,Colchester 2,Governor,,Joe Visconti,Pet,36
+New London,Colchester,Colchester 3,Governor,,Joe Visconti,Pet,24
+New London,Colchester,Colchester 4,Governor,,Joe Visconti,Pet,4
+New London,Colchester,Colchester 1,Governor,,Jonathan Pelto,write-in,1
+New London,Colchester,Colchester 2,Governor,,Jonathan Pelto,write-in,1
+New London,Colchester,Colchester 3,Governor,,Jonathan Pelto,write-in,2
+New London,Colchester,Colchester 4,Governor,,Jonathan Pelto,write-in,0
+New London,Colchester,Colchester 4,Governor,,Gaita,write-in,3
+New London,Colchester,Colchester 1,US House,2,Lori Hopkins-Cavanagh,Rep,870
+New London,Colchester,Colchester 2,US House,2,Lori Hopkins-Cavanagh,Rep,558
+New London,Colchester,Colchester 3,US House,2,Lori Hopkins-Cavanagh,Rep,524
+New London,Colchester,Colchester 4,US House,2,Lori Hopkins-Cavanagh,Rep,172
+New London,Colchester,Colchester 1,US House,2,Joe Courtney,Dem,1396
+New London,Colchester,Colchester 2,US House,2,Joe Courtney,Dem,796
+New London,Colchester,Colchester 3,US House,2,Joe Courtney,Dem,855
+New London,Colchester,Colchester 4,US House,2,Joe Courtney,Dem,260
+New London,Colchester,Colchester 1,US House,2,Joe Courtney,WF,151
+New London,Colchester,Colchester 2,US House,2,Joe Courtney,WF,85
+New London,Colchester,Colchester 3,US House,2,Joe Courtney,WF,67
+New London,Colchester,Colchester 4,US House,2,Joe Courtney,WF,27
+New London,Colchester,Colchester 1,US House,2,William Clyde,Green,36
+New London,Colchester,Colchester 2,US House,2,William Clyde,Green,28
+New London,Colchester,Colchester 3,US House,2,William Clyde,Green,9
+New London,Colchester,Colchester 4,US House,2,William Clyde,Green,5
+New London,Colchester,Colchester 1,US House,2,Daniel Reale,Lbt,31
+New London,Colchester,Colchester 2,US House,2,Daniel Reale,Lbt,22
+New London,Colchester,Colchester 3,US House,2,Daniel Reale,Lbt,15
+New London,Colchester,Colchester 4,US House,2,Daniel Reale,Lbt,4
+New London,Colchester,Colchester 1,State Senate,33,Art Linares,Rep,1285
+New London,Colchester,Colchester 2,State Senate,33,Art Linares,Rep,803
+New London,Colchester,Colchester 3,State Senate,33,Art Linares,Rep,747
+New London,Colchester,Colchester 4,State Senate,33,Art Linares,Rep,256
+New London,Colchester,Colchester 1,State Senate,33,Emily Bjournberg,Dem,935
+New London,Colchester,Colchester 2,State Senate,33,Emily Bjournberg,Dem,529
+New London,Colchester,Colchester 3,State Senate,33,Emily Bjournberg,Dem,605
+New London,Colchester,Colchester 4,State Senate,33,Emily Bjournberg,Dem,172
+New London,Colchester,Colchester 1,State Senate,33,Emily Bjournberg,WF,88
+New London,Colchester,Colchester 2,State Senate,33,Emily Bjournberg,WF,48
+New London,Colchester,Colchester 3,State Senate,33,Emily Bjournberg,WF,41
+New London,Colchester,Colchester 4,State Senate,33,Emily Bjournberg,WF,18
+New London,Colchester,Colchester 1,State Senate,33,Art Linares,Ind,96
+New London,Colchester,Colchester 2,State Senate,33,Art Linares,Ind,69
+New London,Colchester,Colchester 3,State Senate,33,Art Linares,Ind,54
+New London,Colchester,Colchester 4,State Senate,33,Art Linares,Ind,20
+New London,Colchester,Colchester 1,State Senate,33,Colin Bennett,Green,45
+New London,Colchester,Colchester 2,State Senate,33,Colin Bennett,Green,29
+New London,Colchester,Colchester 3,State Senate,33,Colin Bennett,Green,19
+New London,Colchester,Colchester 4,State Senate,33,Colin Bennett,Green,3
+New London,Colchester,Colchester 1,State House,48,Evan Evans,Rep,1061
+New London,Colchester,Colchester 2,State House,48,Evan Evans,Rep,658
+New London,Colchester,Colchester 3,State House,48,Evan Evans,Rep,596
+New London,Colchester,Colchester 1,State House,48,Linda Orange,Dem,1270
+New London,Colchester,Colchester 2,State House,48,Linda Orange,Dem,732
+New London,Colchester,Colchester 3,State House,48,Linda Orange,Dem,791
+New London,Colchester,Colchester 1,State House,48,Linda Orange,WF,140
+New London,Colchester,Colchester 2,State House,48,Linda Orange,WF,99
+New London,Colchester,Colchester 3,State House,48,Linda Orange,WF,72
+New London,Colchester,Colchester 4,State House,33,Melissa Ziobron,Rep,283
+New London,Colchester,Colchester 4,State House,33,Mini Perriotti,Dem,140
+New London,Colchester,Colchester 4,State House,33,Melissa Ziobron,Ind,36
+New London,Colchester,Colchester 1,Secretary of State,,Peter Lumaj,Rep,1146
+New London,Colchester,Colchester 2,Secretary of State,,Peter Lumaj,Rep,716
+New London,Colchester,Colchester 3,Secretary of State,,Peter Lumaj,Rep,669
+New London,Colchester,Colchester 4,Secretary of State,,Peter Lumaj,Rep,235
+New London,Colchester,Colchester 1,Secretary of State,,Denise Merrill,Dem,1032
+New London,Colchester,Colchester 2,Secretary of State,,Denise Merrill,Dem,599
+New London,Colchester,Colchester 3,Secretary of State,,Denise Merrill,Dem,660
+New London,Colchester,Colchester 4,Secretary of State,,Denise Merrill,Dem,181
+New London,Colchester,Colchester 1,Secretary of State,,Denise Merrill,WF,108
+New London,Colchester,Colchester 2,Secretary of State,,Denise Merrill,WF,59
+New London,Colchester,Colchester 3,Secretary of State,,Denise Merrill,WF,41
+New London,Colchester,Colchester 4,Secretary of State,,Denise Merrill,WF,17
+New London,Colchester,Colchester 1,Secretary of State,,Peter Lumaj,Ind,84
+New London,Colchester,Colchester 2,Secretary of State,,Peter Lumaj,Ind,54
+New London,Colchester,Colchester 3,Secretary of State,,Peter Lumaj,Ind,42
+New London,Colchester,Colchester 4,Secretary of State,,Peter Lumaj,Ind,27
+New London,Colchester,Colchester 1,Secretary of State,,Michael DeRosa,Green,69
+New London,Colchester,Colchester 2,Secretary of State,,Michael DeRosa,Green,36
+New London,Colchester,Colchester 3,Secretary of State,,Michael DeRosa,Green,36
+New London,Colchester,Colchester 4,Secretary of State,,Michael DeRosa,Green,7
+New London,Colchester,Colchester 1,State Treasurer,,Tim Herbst,Rep,1208
+New London,Colchester,Colchester 2,State Treasurer,,Tim Herbst,Rep,733
+New London,Colchester,Colchester 3,State Treasurer,,Tim Herbst,Rep,735
+New London,Colchester,Colchester 4,State Treasurer,,Tim Herbst,Rep,247
+New London,Colchester,Colchester 1,State Treasurer,,Denise Nappier,Dem,1023
+New London,Colchester,Colchester 2,State Treasurer,,Denise Nappier,Dem,598
+New London,Colchester,Colchester 3,State Treasurer,,Denise Nappier,Dem,608
+New London,Colchester,Colchester 4,State Treasurer,,Denise Nappier,Dem,187
+New London,Colchester,Colchester 1,State Treasurer,,Denise Nappier,WF,97
+New London,Colchester,Colchester 2,State Treasurer,,Denise Nappier,WF,63
+New London,Colchester,Colchester 3,State Treasurer,,Denise Nappier,WF,50
+New London,Colchester,Colchester 4,State Treasurer,,Denise Nappier,WF,16
+New London,Colchester,Colchester 1,State Treasurer,,Tim Herbst,Ind,108
+New London,Colchester,Colchester 2,State Treasurer,,Tim Herbst,Ind,66
+New London,Colchester,Colchester 3,State Treasurer,,Tim Herbst,Ind,57
+New London,Colchester,Colchester 4,State Treasurer,,Tim Herbst,Ind,18
+New London,Colchester,Colchester 1,Comptroller,,Sharon McLaughlin,Rep,1074
+New London,Colchester,Colchester 2,Comptroller,,Sharon McLaughlin,Rep,654
+New London,Colchester,Colchester 3,Comptroller,,Sharon McLaughlin,Rep,631
+New London,Colchester,Colchester 4,Comptroller,,Sharon McLaughlin,Rep,224
+New London,Colchester,Colchester 1,Comptroller,,Kevin Lembo,Dem,1076
+New London,Colchester,Colchester 2,Comptroller,,Kevin Lembo,Dem,639
+New London,Colchester,Colchester 3,Comptroller,,Kevin Lembo,Dem,681
+New London,Colchester,Colchester 4,Comptroller,,Kevin Lembo,Dem,197
+New London,Colchester,Colchester 1,Comptroller,,Kevin Lembo,WF,100
+New London,Colchester,Colchester 2,Comptroller,,Kevin Lembo,WF,55
+New London,Colchester,Colchester 3,Comptroller,,Kevin Lembo,WF,54
+New London,Colchester,Colchester 4,Comptroller,,Kevin Lembo,WF,14
+New London,Colchester,Colchester 1,Comptroller,,Sharon McLaughlin,Ind,97
+New London,Colchester,Colchester 2,Comptroller,,Sharon McLaughlin,Ind,52
+New London,Colchester,Colchester 3,Comptroller,,Sharon McLaughlin,Ind,40
+New London,Colchester,Colchester 4,Comptroller,,Sharon McLaughlin,Ind,15
+New London,Colchester,Colchester 1,Comptroller,,Rolf Maurer,Green,57
+New London,Colchester,Colchester 2,Comptroller,,Rolf Maurer,Green,33
+New London,Colchester,Colchester 3,Comptroller,,Rolf Maurer,Green,23
+New London,Colchester,Colchester 4,Comptroller,,Rolf Maurer,Green,9
+New London,Colchester,Colchester 1,Attorney General,,Kie Westby,Rep,984
+New London,Colchester,Colchester 2,Attorney General,,Kie Westby,Rep,601
+New London,Colchester,Colchester 3,Attorney General,,Kie Westby,Rep,601
+New London,Colchester,Colchester 4,Attorney General,,Kie Westby,Rep,197
+New London,Colchester,Colchester 1,Attorney General,,George Jepsen,Dem,1188
+New London,Colchester,Colchester 2,Attorney General,,George Jepsen,Dem,695
+New London,Colchester,Colchester 3,Attorney General,,George Jepsen,Dem,740
+New London,Colchester,Colchester 4,Attorney General,,George Jepsen,Dem,227
+New London,Colchester,Colchester 1,Attorney General,,George Jepsen,WF,108
+New London,Colchester,Colchester 2,Attorney General,,George Jepsen,WF,58
+New London,Colchester,Colchester 3,Attorney General,,George Jepsen,WF,47
+New London,Colchester,Colchester 4,Attorney General,,George Jepsen,WF,20
+New London,Colchester,Colchester 1,Attorney General,,Kie Westby,Ind,70
+New London,Colchester,Colchester 2,Attorney General,,Kie Westby,Ind,46
+New London,Colchester,Colchester 3,Attorney General,,Kie Westby,Ind,28
+New London,Colchester,Colchester 4,Attorney General,,Kie Westby,Ind,12
+New London,Colchester,Colchester 1,Attorney General,,Stephen Fournier,Green,71
+New London,Colchester,Colchester 2,Attorney General,,Stephen Fournier,Green,47
+New London,Colchester,Colchester 3,Attorney General,,Stephen Fournier,Green,37
+New London,Colchester,Colchester 4,Attorney General,,Stephen Fournier,Green,10

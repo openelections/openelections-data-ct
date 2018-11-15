@@ -1,0 +1,40 @@
+county,precinct,office,district,candidate,party,votes
+Middlesex,Clinton,Governor,,Thomas Foley,Rep,2488
+Middlesex,Clinton,Governor,,Thomas Foley,Ind,150
+Middlesex,Clinton,Governor,,Dannel Malloy,Dem,2248
+Middlesex,Clinton,Governor,,Dannel Malloy,WF,163
+Middlesex,Clinton,Governor,,Joe Visconti,Pet,60
+Middlesex,Clinton,Governor,,Jonathan Pelto,write-in,2
+Middlesex,Clinton,US House,2,Lori Hopkins-Cavanagh,Rep,1959
+Middlesex,Clinton,US House,3,Joe Courtney,Dem,2704
+Middlesex,Clinton,US House,3,Joe Courtney,WF,251
+Middlesex,Clinton,US House,3,William Clyde,Green,36
+Middlesex,Clinton,US House,3,Daniel Reale,Lbt,39
+Middlesex,Clinton,State Senate,33,Art Linares,Rep,2533
+Middlesex,Clinton,State Senate,33,Art Linares,Ind,160
+Middlesex,Clinton,State Senate,33,Emily Bjornberg,Dem,2134
+Middlesex,Clinton,State Senate,33,Emily Bjornberg,WF,197
+Middlesex,Clinton,State Senate,33,Colin Bennett,Green,49
+Middlesex,Clinton,State House,35,Jesse MacLachlan,Rep,2498
+Middlesex,Clinton,State House,35,Jesse MacLachlan,Ind,199
+Middlesex,Clinton,State House,35,Tom Vicino,Dem,2126
+Middlesex,Clinton,State House,35,Tom Vicino,WF,199
+Middlesex,Clinton,Secretary of State,,Peter Lumaj,Rep,2343
+Middlesex,Clinton,Secretary of State,,Peter Lumaj,Ind,139
+Middlesex,Clinton,Secretary of State,,Denise Merrill,Dem,2175
+Middlesex,Clinton,Secretary of State,,Denise Merrill,WF,164
+Middlesex,Clinton,Secretary of State,,Michael DeRosa,Green,103
+Middlesex,Clinton,State Treasurer,,Tim Herbst,Rep,2451
+Middlesex,Clinton,State Treasurer,,Tim Herbst,Ind,162
+Middlesex,Clinton,State Treasurer,,Denise Nappier,Dem,2128
+Middlesex,Clinton,State Treasurer,,Denise Nappier,WF,192
+Middlesex,Clinton,Comptroller,,Sharon McLaughlin,Rep,2337
+Middlesex,Clinton,Comptroller,,Sharon McLaughlin,Ind,129
+Middlesex,Clinton,Comptroller,,Kevin Lembo,Dem,2158
+Middlesex,Clinton,Comptroller,,Kevin Lembo,WF,183
+Middlesex,Clinton,Comptroller,,Rolf Maurer,Green,55
+Middlesex,Clinton,Attorney General,,Kie Westby,Rep,2027
+Middlesex,Clinton,Attorney General,,Kie Westby,Ind,93
+Middlesex,Clinton,Attorney General,,George Jepsen,Dem,2486
+Middlesex,Clinton,Attorney General,,George Jepsen,WF,205
+Middlesex,Clinton,Attorney General,,Stephen Fournier,Green,94

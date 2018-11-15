@@ -1,0 +1,71 @@
+county,town,precinct,office,district,candidate,party,votes
+Tolland,Coventry,Coventry 1,Governor,,Thomas Foley,Rep,1137
+Tolland,Coventry,Coventry 2,Governor,,Thomas Foley,Rep,1251
+Tolland,Coventry,Coventry 1,Governor,,Thomas Foley,Ind,58
+Tolland,Coventry,Coventry 2,Governor,,Thomas Foley,Ind,49
+Tolland,Coventry,Coventry 1,Governor,,Dannel Malloy,Dem,1017
+Tolland,Coventry,Coventry 2,Governor,,Dannel Malloy,Dem,1046
+Tolland,Coventry,Coventry 1,Governor,,Dannel Malloy,WF,72
+Tolland,Coventry,Coventry 2,Governor,,Dannel Malloy,WF,73
+Tolland,Coventry,Coventry 1,Governor,,Joe Visconti,Pet,56
+Tolland,Coventry,Coventry 2,Governor,,Joe Visconti,Pet,22
+Tolland,Coventry,Coventry 1,Governor,,Jonathan Pelto,write-in,8
+Tolland,Coventry,Coventry 2,Governor,,Jonathan Pelto,write-in,4
+Tolland,Coventry,Coventry 1,US House,2,Lori Hopkins-Cavanagh,Rep,841
+Tolland,Coventry,Coventry 2,US House,2,Lori Hopkins-Cavanagh,Rep,921
+Tolland,Coventry,Coventry 1,US House,2,Joe Courtney,Dem,1264
+Tolland,Coventry,Coventry 2,US House,2,Joe Courtney,Dem,1289
+Tolland,Coventry,Coventry 1,US House,2,Joe Courtney,WF,139
+Tolland,Coventry,Coventry 2,US House,2,Joe Courtney,WF,137
+Tolland,Coventry,Coventry 1,US House,2,William Clyde,Green,26
+Tolland,Coventry,Coventry 2,US House,2,William Clyde,Green,22
+Tolland,Coventry,Coventry 1,US House,2,Daniel Reale,Lbt,29
+Tolland,Coventry,Coventry 2,US House,2,Daniel Reale,Lbt,25
+Tolland,Coventry,Coventry 1,State Senate,35,Tony Guglielmo,Rep,1485
+Tolland,Coventry,Coventry 2,State Senate,35,Tony Guglielmo,Rep,1648
+Tolland,Coventry,Coventry 1,State Senate,35,Andrea Penta,WF,413
+Tolland,Coventry,Coventry 2,State Senate,35,Andrea Penta,WF,363
+Tolland,Coventry,Coventry 1,State House,8,Tim Ackert,Rep,1660
+Tolland,Coventry,Coventry 2,State House,8,Tim Ackert,Rep,1715
+Tolland,Coventry,Coventry 1,State House,8,Anthony Ortiz,Dem,594
+Tolland,Coventry,Coventry 2,State House,8,Anthony Ortiz,Dem,632
+Tolland,Coventry,Coventry 1,State House,8,Anthony Ortiz,WF,61
+Tolland,Coventry,Coventry 2,State House,8,Anthony Ortiz,WF,75
+Tolland,Coventry,Coventry 1,Secretary of State,,Peter Lumaj,Rep,1010
+Tolland,Coventry,Coventry 2,Secretary of State,,Peter Lumaj,Rep,1144
+Tolland,Coventry,Coventry 1,Secretary of State,,Peter Lumaj,Ind,77
+Tolland,Coventry,Coventry 2,Secretary of State,,Peter Lumaj,Ind,60
+Tolland,Coventry,Coventry 1,Secretary of State,,Denise Merrill,Dem,989
+Tolland,Coventry,Coventry 2,Secretary of State,,Denise Merrill,Dem,1001
+Tolland,Coventry,Coventry 1,Secretary of State,,Denise Merrill,WF,95
+Tolland,Coventry,Coventry 2,Secretary of State,,Denise Merrill,WF,99
+Tolland,Coventry,Coventry 1,Secretary of State,,Michael DeRosa,Green,80
+Tolland,Coventry,Coventry 2,Secretary of State,,Michael DeRosa,Green,73
+Tolland,Coventry,Coventry 1,State Treasurer,,Tim Herbst,Rep,1087
+Tolland,Coventry,Coventry 2,State Treasurer,,Tim Herbst,Rep,1243
+Tolland,Coventry,Coventry 1,State Treasurer,,Tim Herbst,Ind,93
+Tolland,Coventry,Coventry 2,State Treasurer,,Tim Herbst,Ind,83
+Tolland,Coventry,Coventry 1,State Treasurer,,Denise Nappier,Dem,959
+Tolland,Coventry,Coventry 2,State Treasurer,,Denise Nappier,Dem,949
+Tolland,Coventry,Coventry 1,State Treasurer,,Denise Nappier,WF,107
+Tolland,Coventry,Coventry 2,State Treasurer,,Denise Nappier,WF,113
+Tolland,Coventry,Coventry 1,Comptroller,,Sharon McLaughlin,Rep,973
+Tolland,Coventry,Coventry 2,Comptroller,,Sharon McLaughlin,Rep,1071
+Tolland,Coventry,Coventry 1,Comptroller,,Sharon McLaughlin,Ind,74
+Tolland,Coventry,Coventry 2,Comptroller,,Sharon McLaughlin,Ind,76
+Tolland,Coventry,Coventry 1,Comptroller,,Kevin Lembo,Dem,1011
+Tolland,Coventry,Coventry 2,Comptroller,,Kevin Lembo,Dem,1058
+Tolland,Coventry,Coventry 1,Comptroller,,Kevin Lembo,WF,93
+Tolland,Coventry,Coventry 2,Comptroller,,Kevin Lembo,WF,104
+Tolland,Coventry,Coventry 1,Comptroller,,Rolf Maurer,Green,60
+Tolland,Coventry,Coventry 2,Comptroller,,Rolf Maurer,Green,36
+Tolland,Coventry,Coventry 1,Attorney General,,Kie Westby,Rep,393
+Tolland,Coventry,Coventry 2,Attorney General,,Kie Westby,Rep,502
+Tolland,Coventry,Coventry 1,Attorney General,,Kie Westby,Ind,19
+Tolland,Coventry,Coventry 2,Attorney General,,Kie Westby,Ind,12
+Tolland,Coventry,Coventry 1,Attorney General,,George Jepsen,Dem,652
+Tolland,Coventry,Coventry 2,Attorney General,,George Jepsen,Dem,649
+Tolland,Coventry,Coventry 1,Attorney General,,George Jepsen,WF,33
+Tolland,Coventry,Coventry 2,Attorney General,,George Jepsen,WF,25
+Tolland,Coventry,Coventry 1,Attorney General,,Stephen Fournier,Green,22
+Tolland,Coventry,Coventry 2,Attorney General,,Stephen Fournier,Green,19
