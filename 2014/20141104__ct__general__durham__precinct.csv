@@ -1,0 +1,103 @@
+county,precinct,office,district,party,candidate,votes
+New Haven,Durham 2,Governor,,Rep,Thomas Foley,1153
+New Haven,Durham 3,Governor,,Rep,Thomas Foley,113
+New Haven,Durham 4,Governor,,Rep,Thomas Foley,515
+New Haven,Durham 2,Governor,,Ind,Thomas Foley,53
+New Haven,Durham 3,Governor,,Ind,Thomas Foley,7
+New Haven,Durham 4,Governor,,Ind,Thomas Foley,18
+New Haven,Durham 2,Governor,,Dem,Dannel Malloy,842
+New Haven,Durham 3,Governor,,Dem,Dannel Malloy,80
+New Haven,Durham 4,Governor,,Dem,Dannel Malloy,368
+New Haven,Durham 2,Governor,,WF,Dannel Malloy,50
+New Haven,Durham 3,Governor,,WF,Dannel Malloy,5
+New Haven,Durham 4,Governor,,WF,Dannel Malloy,14
+New Haven,Durham 2,Governor,,PC,Joe Visconti,33
+New Haven,Durham 3,Governor,,PC,Joe Visconti,2
+New Haven,Durham 4,Governor,,CP,Joe Visconti,7
+New Haven,Durham 2,Governor,,write-in,Jonathan Pelto,1
+New Haven,Durham 3,Governor,,write-in,Jonathan Pelto,0
+New Haven,Durham 4,Governor,,write-in,Jonathan Pelto,1
+New Haven,Durham 2,US House,3,Rep,James Brown,988
+New Haven,Durham 3,US House,3,Rep,James Brown,96
+New Haven,Durham 4,US House,3,Rep,James Brown,415
+New Haven,Durham 2,US House,3,Dem,Rosa DeLauro,990
+New Haven,Durham 3,US House,3,Dem,Rosa DeLauro,92
+New Haven,Durham 4,US House,3,Dem,Rosa DeLauro,457
+New Haven,Durham 2,US House,3,Dem,Rosa DeLauro,104
+New Haven,Durham 3,US House,3,Dem,Rosa DeLauro,13
+New Haven,Durham 4,US House,3,Dem,Rosa DeLauro,32
+New Haven,Durham 2,State Senate,12,Rep,Bruce Wilson,1012
+New Haven,Durham 3,State Senate,12,Rep,Bruce Wilson,101
+New Haven,Durham 4,State Senate,34,Rep,Len Fasano,560
+New Haven,Durham 2,State Senate,12,Ind,Bruce Wilson,61
+New Haven,Durham 3,State Senate,12,Ind,Bruce Wilson,8
+New Haven,Durham 4,State Senate,34,Ind,Len Fasano,87
+New Haven,Durham 2,State Senate,12,Dem,Ted Kennedy Jr,935
+New Haven,Durham 3,State Senate,12,Dem,Ted Kennedy Jr,85
+New Haven,Durham 2,State Senate,12,WF,Ted Kennedy Jr,82
+New Haven,Durham 3,State Senate,12,WF,Ted Kennedy Jr,8
+New Haven,Durham 4,State Senate,34,write-in,David Deblasi,1
+New Haven,Durham 2,State House,101,Rep,Noreen Kokoruda,1053
+New Haven,Durham 3,State House,86,Rep,Vincent Candelora,115
+New Haven,Durham 4,State House,86,Rep,Vincent Candelora,561
+New Haven,Durham 3,State House,101,Dem,Alex Taubes,925
+New Haven,Durham 2,State House,104,Ind,Noreen Kokoruda,72
+New Haven,Durham 3,State House,105,Ind,Vincent Candelora,21
+New Haven,Durham 4,State House,114,Ind,Vincent Candelora,78
+New Haven,Durham 104,Secretary of State,,Rep,Peter Lumaj,1049
+New Haven,Durham 105,Secretary of State,,Rep,Peter Lumaj,106
+New Haven,Durham 114,Secretary of State,,Rep,Peter Lumaj,481
+New Haven,Durham 104,Secretary of State,,Ind,Peter Lumaj,70
+New Haven,Durham 105,Secretary of State,,Ind,Peter Lumaj,11
+New Haven,Durham 114,Secretary of State,,Ind,Peter Lumaj,18
+New Haven,Durham 104,Secretary of State,,Dem,Denise Merrill,839
+New Haven,Durham 105,Secretary of State,,Dem,Denise Merrill,72
+New Haven,Durham 114,Secretary of State,,Dem,Denise Merrill,354
+New Haven,Durham 104,Secretary of State,,WF,Denise Merrill,55
+New Haven,Durham 105,Secretary of State,,WF,Denise Merrill,5
+New Haven,Durham 114,Secretary of State,,WF,Denise Merrill,22
+New Haven,Durham 104,Secretary of State,,Green,Michael DeRosa,47
+New Haven,Durham 105,Secretary of State,,Green,Michael DeRosa,7
+New Haven,Durham 114,Secretary of State,,Green,Michael DeRosa,17
+New Haven,Durham 104,State Treasurer,,Rep,Tim Herbst,1102
+New Haven,Durham 105,State Treasurer,,Rep,Tim Herbst,109
+New Haven,Durham 114,State Treasurer,,Rep,Tim Herbst,496
+New Haven,Durham 104,State Treasurer,,Ind,Tim Herbst,82
+New Haven,Durham 105,State Treasurer,,Ind,Tim Herbst,11
+New Haven,Durham 114,State Treasurer,,Ind,Tim Herbst,34
+New Haven,Durham 104,State Treasurer,,Dem,Denise Nappier,806
+New Haven,Durham 105,State Treasurer,,Dem,Denise Nappier,75
+New Haven,Durham 114,State Treasurer,,Dem,Denise Nappier,326
+New Haven,Durham 104,State Treasurer,,WF,Denise Nappier,69
+New Haven,Durham 105,State Treasurer,,WF,Denise Nappier,3
+New Haven,Durham 114,State Treasurer,,WF,Denise Nappier,27
+New Haven,Durham 104,Comptroller,,Rep,Sharon McLaughlin,1020
+New Haven,Durham 105,Comptroller,,Rep,Sharon McLaughlin,106
+New Haven,Durham 114,Comptroller,,Rep,Sharon McLaughlin,459
+New Haven,Durham 104,Comptroller,,Ind,Sharon McLaughlin,63
+New Haven,Durham 105,Comptroller,,Ind,Sharon McLaughlin,6
+New Haven,Durham 114,Comptroller,,Ind,Sharon McLaughlin,22
+New Haven,Durham 104,Comptroller,,Dem,Kevin Lembo,863
+New Haven,Durham 105,Comptroller,,Dem,Kevin Lembo,73
+New Haven,Durham 114,Comptroller,,Dem,Kevin Lembo,355
+New Haven,Durham 104,Comptroller,,WF,Kevin Lembo,63
+New Haven,Durham 105,Comptroller,,WF,Kevin Lembo,5
+New Haven,Durham 114,Comptroller,,WF,Kevin Lembo,29
+New Haven,Durham 104,Comptroller,,Green,Rolf Maurer,29
+New Haven,Durham 105,Comptroller,,Green,Rolf Maurer,5
+New Haven,Durham 114,Comptroller,,Green,Rolf Maurer,14
+New Haven,Durham 104,Attorney General,,Rep,Kie Westby,929
+New Haven,Durham 105,Attorney General,,Rep,Kie Westby,100
+New Haven,Durham 114,Attorney General,,Rep,Kie Westby,426
+New Haven,Durham 104,Attorney General,,Ind,Kie Westby,49
+New Haven,Durham 105,Attorney General,,Ind,Kie Westby,6
+New Haven,Durham 114,Attorney General,,Ind,Kie Westby,23
+New Haven,Durham 104,Attorney General,,Dem,George Jepsen,968
+New Haven,Durham 105,Attorney General,,Dem,George Jepsen,81
+New Haven,Durham 114,Attorney General,,Dem,George Jepsen,395
+New Haven,Durham 104,Attorney General,,WF,George Jepsen,70
+New Haven,Durham 105,Attorney General,,WF,George Jepsen,7
+New Haven,Durham 114,Attorney General,,WF,George Jepsen,26
+New Haven,Durham 104,Attorney General,,Green,Stephen Fournier,49
+New Haven,Durham 105,Attorney General,,Green,Stephen Fournier,3
+New Haven,Durham 114,Attorney General,,Green,Stephen Fournier,16

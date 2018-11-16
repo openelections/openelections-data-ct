@@ -1,0 +1,104 @@
+county,precinct,office,district,party,candidate,votes
+New Haven,Derby 104,Governor,,Rep,Thomas Foley,342
+New Haven,Derby 105,Governor,,Rep,Thomas Foley,182
+New Haven,Derby 114,Governor,,Rep,Thomas Foley,1013
+New Haven,Derby 104,Governor,,Ind,Thomas Foley,15
+New Haven,Derby 105,Governor,,Ind,Thomas Foley,11
+New Haven,Derby 114,Governor,,Ind,Thomas Foley,37
+New Haven,Derby 104,Governor,,Dem,Dannel Malloy,468
+New Haven,Derby 105,Governor,,Dem,Dannel Malloy,204
+New Haven,Derby 114,Governor,,Dem,Dannel Malloy,889
+New Haven,Derby 104,Governor,,WF,Dannel Malloy,20
+New Haven,Derby 105,Governor,,WF,Dannel Malloy,14
+New Haven,Derby 114,Governor,,WF,Dannel Malloy,46
+New Haven,Derby 104,Governor,,Pet,Joe Visconti,13
+New Haven,Derby 105,Governor,,Pet,Joe Visconti,5
+New Haven,Derby 114,Governor,,Pet,Joe Visconti,38
+New Haven,Derby 104,US House,3,Rep,James Brown,276
+New Haven,Derby 105,US House,3,Rep,James Brown,134
+New Haven,Derby 114,US House,3,Rep,James Brown,766
+New Haven,Derby 104,US House,3,Dem,Rosa DeLauro,525
+New Haven,Derby 105,US House,3,Dem,Rosa DeLauro,251
+New Haven,Derby 114,US House,3,Dem,Rosa DeLauro,1101
+New Haven,Derby 104,US House,3,Dem,Rosa DeLauro,42
+New Haven,Derby 105,US House,3,Dem,Rosa DeLauro,25
+New Haven,Derby 114,US House,3,Dem,Rosa DeLauro,110
+New Haven,Derby 104,State Senate,17,Rep,Philip Tripp,317
+New Haven,Derby 105,State Senate,17,Rep,Philip Tripp,173
+New Haven,Derby 114,State Senate,17,Rep,Philip Tripp,915
+New Haven,Derby 104,State Senate,17,Ind,Philip Tripp,31
+New Haven,Derby 105,State Senate,17,Ind,Philip Tripp,18
+New Haven,Derby 114,State Senate,17,Ind,Philip Tripp,66
+New Haven,Derby 104,State Senate,17,Dem,Joe Crisco,455
+New Haven,Derby 105,State Senate,17,Dem,Joe Crisco,197
+New Haven,Derby 114,State Senate,17,Dem,Joe Crisco,926
+New Haven,Derby 104,State Senate,17,WF,Joe Crisco,36
+New Haven,Derby 105,State Senate,17,WF,Joe Crisco,19
+New Haven,Derby 114,State Senate,17,WF,Joe Crisco,72
+New Haven,Derby 104,State House,104,Rep,Frederick Picroski,271
+New Haven,Derby 105,State House,105,Rep,Robert Willis,132
+New Haven,Derby 114,State House,114,Rep,Themis Klarides,1223
+New Haven,Derby 104,State House,104,Dem,Linda Gentile,513
+New Haven,Derby 105,State House,105,Dem,Theresa Conroy,247
+New Haven,Derby 114,State House,114,Dem,Aldon Hynes,576
+New Haven,Derby 104,State House,104,WF,Linda Gentile,44
+New Haven,Derby 105,State House,105,WF,Theresa Conroy,23
+New Haven,Derby 114,State House,114,WF,Aldon Hynes,50
+New Haven,Derby 114,State House,114,Ind,Themis Klarides,114
+New Haven,Derby 104,Secretary of State,,Rep,Peter Lumaj,311
+New Haven,Derby 105,Secretary of State,,Rep,Peter Lumaj,157
+New Haven,Derby 114,Secretary of State,,Rep,Peter Lumaj,896
+New Haven,Derby 104,Secretary of State,,Ind,Peter Lumaj,22
+New Haven,Derby 105,Secretary of State,,Ind,Peter Lumaj,16
+New Haven,Derby 114,Secretary of State,,Ind,Peter Lumaj,66
+New Haven,Derby 104,Secretary of State,,Dem,Denise Merrill,442
+New Haven,Derby 105,Secretary of State,,Dem,Denise Merrill,201
+New Haven,Derby 114,Secretary of State,,Dem,Denise Merrill,859
+New Haven,Derby 104,Secretary of State,,WF,Denise Merrill,35
+New Haven,Derby 105,Secretary of State,,WF,Denise Merrill,13
+New Haven,Derby 114,Secretary of State,,WF,Denise Merrill,57
+New Haven,Derby 104,Secretary of State,,Green,Michael DeRosa,21
+New Haven,Derby 105,Secretary of State,,Green,Michael DeRosa,16
+New Haven,Derby 114,Secretary of State,,Green,Michael DeRosa,49
+New Haven,Derby 104,State Treasurer,,Rep,Tim Herbst,304
+New Haven,Derby 105,State Treasurer,,Rep,Tim Herbst,161
+New Haven,Derby 114,State Treasurer,,Rep,Tim Herbst,900
+New Haven,Derby 104,State Treasurer,,Ind,Tim Herbst,28
+New Haven,Derby 105,State Treasurer,,Ind,Tim Herbst,12
+New Haven,Derby 114,State Treasurer,,Ind,Tim Herbst,65
+New Haven,Derby 104,State Treasurer,,Dem,Denise Nappier,465
+New Haven,Derby 105,State Treasurer,,Dem,Denise Nappier,212
+New Haven,Derby 114,State Treasurer,,Dem,Denise Nappier,903
+New Haven,Derby 104,State Treasurer,,WF,Denise Nappier,31
+New Haven,Derby 105,State Treasurer,,WF,Denise Nappier,17
+New Haven,Derby 114,State Treasurer,,WF,Denise Nappier,66
+New Haven,Derby 104,Comptroller,,Rep,Sharon McLaughlin,294
+New Haven,Derby 105,Comptroller,,Rep,Sharon McLaughlin,146
+New Haven,Derby 114,Comptroller,,Rep,Sharon McLaughlin,865
+New Haven,Derby 104,Comptroller,,Ind,Sharon McLaughlin,23
+New Haven,Derby 105,Comptroller,,Ind,Sharon McLaughlin,9
+New Haven,Derby 114,Comptroller,,Ind,Sharon McLaughlin,55
+New Haven,Derby 104,Comptroller,,Dem,Kevin Lembo,459
+New Haven,Derby 105,Comptroller,,Dem,Kevin Lembo,212
+New Haven,Derby 114,Comptroller,,Dem,Kevin Lembo,880
+New Haven,Derby 104,Comptroller,,WF,Kevin Lembo,31
+New Haven,Derby 105,Comptroller,,WF,Kevin Lembo,13
+New Haven,Derby 114,Comptroller,,WF,Kevin Lembo,69
+New Haven,Derby 104,Comptroller,,Green,Rolf Maurer,14
+New Haven,Derby 105,Comptroller,,Green,Rolf Maurer,12
+New Haven,Derby 114,Comptroller,,Green,Rolf Maurer,29
+New Haven,Derby 104,Attorney General,,Rep,Kie Westby,274
+New Haven,Derby 105,Attorney General,,Rep,Kie Westby,119
+New Haven,Derby 114,Attorney General,,Rep,Kie Westby,757
+New Haven,Derby 104,Attorney General,,Ind,Kie Westby,24
+New Haven,Derby 105,Attorney General,,Ind,Kie Westby,11
+New Haven,Derby 114,Attorney General,,Ind,Kie Westby,47
+New Haven,Derby 104,Attorney General,,Dem,George Jepsen,479
+New Haven,Derby 105,Attorney General,,Dem,George Jepsen,236
+New Haven,Derby 114,Attorney General,,Dem,George Jepsen,999
+New Haven,Derby 104,Attorney General,,WF,George Jepsen,37
+New Haven,Derby 105,Attorney General,,WF,George Jepsen,19
+New Haven,Derby 114,Attorney General,,WF,George Jepsen,77
+New Haven,Derby 104,Attorney General,,Green,Stephen Fournier,14
+New Haven,Derby 105,Attorney General,,Green,Stephen Fournier,10
+New Haven,Derby 114,Attorney General,,Green,Stephen Fournier,35
