@@ -1,0 +1,308 @@
+county,precinct,office,district,party,candidate,votes
+New Haven,Ansonia 1,Governor,,Rep,Thomas Foley,268
+New Haven,Ansonia 2,Governor,,Rep,Thomas Foley,271
+New Haven,Ansonia 3,Governor,,Rep,Thomas Foley,227
+New Haven,Ansonia 4,Governor,,Rep,Thomas Foley,115
+New Haven,Ansonia 5,Governor,,Rep,Thomas Foley,238
+New Haven,Ansonia 6,Governor,,Rep,Thomas Foley,458
+New Haven,Ansonia 7,Governor,,Rep,Thomas Foley,484
+New Haven,Ansonia edr,Governor,,Rep,Thomas Foley,24
+New Haven,Ansonia abs,Governor,,Rep,Thomas Foley,77
+New Haven,Ansonia 1,Governor,,Dem,Dannel Malloy,312
+New Haven,Ansonia 2,Governor,,Dem,Dannel Malloy,267
+New Haven,Ansonia 3,Governor,,Dem,Dannel Malloy,292
+New Haven,Ansonia 4,Governor,,Dem,Dannel Malloy,177
+New Haven,Ansonia 5,Governor,,Dem,Dannel Malloy,297
+New Haven,Ansonia 6,Governor,,Dem,Dannel Malloy,359
+New Haven,Ansonia 7,Governor,,Dem,Dannel Malloy,453
+New Haven,Ansonia edr,Governor,,Dem,Dannel Malloy,20
+New Haven,Ansonia abs,Governor,,Dem,Dannel Malloy,73
+New Haven,Ansonia 1,Governor,,WF,Dannel Malloy,19
+New Haven,Ansonia 2,Governor,,WF,Dannel Malloy,12
+New Haven,Ansonia 3,Governor,,WF,Dannel Malloy,14
+New Haven,Ansonia 4,Governor,,WF,Dannel Malloy,6
+New Haven,Ansonia 5,Governor,,WF,Dannel Malloy,7
+New Haven,Ansonia 6,Governor,,WF,Dannel Malloy,21
+New Haven,Ansonia 7,Governor,,WF,Dannel Malloy,18
+New Haven,Ansonia edr,Governor,,WF,Dannel Malloy,1
+New Haven,Ansonia abs,Governor,,WF,Dannel Malloy,2
+New Haven,Ansonia 1,Governor,,Ind,Thomas Foley,13
+New Haven,Ansonia 2,Governor,,Ind,Thomas Foley,19
+New Haven,Ansonia 3,Governor,,Ind,Thomas Foley,10
+New Haven,Ansonia 4,Governor,,Ind,Thomas Foley,3
+New Haven,Ansonia 5,Governor,,Ind,Thomas Foley,14
+New Haven,Ansonia 6,Governor,,Ind,Thomas Foley,25
+New Haven,Ansonia 7,Governor,,Ind,Thomas Foley,19
+New Haven,Ansonia edr,Governor,,Ind,Thomas Foley,1
+New Haven,Ansonia abs,Governor,,Ind,Thomas Foley,3
+New Haven,Ansonia 1,Governor,,PC,Joe Visconti,14
+New Haven,Ansonia 2,Governor,,PC,Joe Visconti,6
+New Haven,Ansonia 3,Governor,,PC,Joe Visconti,10
+New Haven,Ansonia 4,Governor,,PC,Joe Visconti,2
+New Haven,Ansonia 5,Governor,,PC,Joe Visconti,6
+New Haven,Ansonia 6,Governor,,PC,Joe Visconti,12
+New Haven,Ansonia 7,Governor,,PC,Joe Visconti,9
+New Haven,Ansonia edr,Governor,,PC,Joe Visconti,1
+New Haven,Ansonia abs,Governor,,PC,Joe Visconti,2
+New Haven,Ansonia 1,US House,3,Rep,James Brown,215
+New Haven,Ansonia 2,US House,3,Rep,James Brown,210
+New Haven,Ansonia 3,US House,3,Rep,James Brown,166
+New Haven,Ansonia 4,US House,3,Rep,James Brown,82
+New Haven,Ansonia 5,US House,3,Rep,James Brown,199
+New Haven,Ansonia 6,US House,3,Rep,James Brown,364
+New Haven,Ansonia 7,US House,3,Rep,James Brown,362
+New Haven,Ansonia edr,US House,3,Rep,James Brown,19
+New Haven,Ansonia abs,US House,3,Rep,James Brown,56
+New Haven,Ansonia 1,US House,3,Dem,Rosa DeLauro,357
+New Haven,Ansonia 2,US House,3,Dem,Rosa DeLauro,321
+New Haven,Ansonia 3,US House,3,Dem,Rosa DeLauro,334
+New Haven,Ansonia 4,US House,3,Dem,Rosa DeLauro,189
+New Haven,Ansonia 5,US House,3,Dem,Rosa DeLauro,327
+New Haven,Ansonia 6,US House,3,Dem,Rosa DeLauro,446
+New Haven,Ansonia 7,US House,3,Dem,Rosa DeLauro,550
+New Haven,Ansonia edr,US House,3,Dem,Rosa DeLauro,23
+New Haven,Ansonia abs,US House,3,Dem,Rosa DeLauro,93
+New Haven,Ansonia 1,US House,3,WF,Rosa DeLauro,38
+New Haven,Ansonia 2,US House,3,WF,Rosa DeLauro,40
+New Haven,Ansonia 3,US House,3,WF,Rosa DeLauro,31
+New Haven,Ansonia 4,US House,3,WF,Rosa DeLauro,23
+New Haven,Ansonia 5,US House,3,WF,Rosa DeLauro,30
+New Haven,Ansonia 6,US House,3,WF,Rosa DeLauro,53
+New Haven,Ansonia 7,US House,3,WF,Rosa DeLauro,58
+New Haven,Ansonia edr,US House,3,WF,Rosa DeLauro,5
+New Haven,Ansonia abs,US House,3,WF,Rosa DeLauro,4
+New Haven,Ansonia 1,State Senate,17,Rep,Philip Tripp,275
+New Haven,Ansonia 2,State Senate,17,Rep,Philip Tripp,316
+New Haven,Ansonia 3,State Senate,17,Rep,Philip Tripp,240
+New Haven,Ansonia 4,State Senate,17,Rep,Philip Tripp,104
+New Haven,Ansonia 5,State Senate,17,Rep,Philip Tripp,255
+New Haven,Ansonia 6,State Senate,17,Rep,Philip Tripp,482
+New Haven,Ansonia 7,State Senate,17,Rep,Philip Tripp,516
+New Haven,Ansonia edr,State Senate,17,Rep,Philip Tripp,19
+New Haven,Ansonia abs,State Senate,17,Rep,Philip Tripp,76
+New Haven,Ansonia 1,State Senate,17,Ind,Philip Tripp,23
+New Haven,Ansonia 2,State Senate,17,Ind,Philip Tripp,36
+New Haven,Ansonia 3,State Senate,17,Ind,Philip Tripp,23
+New Haven,Ansonia 4,State Senate,17,Ind,Philip Tripp,6
+New Haven,Ansonia 5,State Senate,17,Ind,Philip Tripp,19
+New Haven,Ansonia 6,State Senate,17,Ind,Philip Tripp,37
+New Haven,Ansonia 7,State Senate,17,Ind,Philip Tripp,24
+New Haven,Ansonia edr,State Senate,17,Ind,Philip Tripp,4
+New Haven,Ansonia abs,State Senate,17,Ind,Philip Tripp,2
+New Haven,Ansonia 1,State Senate,17,Dem,Joe Crisco,297
+New Haven,Ansonia 2,State Senate,17,Dem,Joe Crisco,216
+New Haven,Ansonia 3,State Senate,17,Dem,Joe Crisco,256
+New Haven,Ansonia 4,State Senate,17,Dem,Joe Crisco,172
+New Haven,Ansonia 5,State Senate,17,Dem,Joe Crisco,262
+New Haven,Ansonia 6,State Senate,17,Dem,Joe Crisco,330
+New Haven,Ansonia 7,State Senate,17,Dem,Joe Crisco,401
+New Haven,Ansonia edr,State Senate,17,Dem,Joe Crisco,23
+New Haven,Ansonia abs,State Senate,17,Dem,Joe Crisco,75
+New Haven,Ansonia 1,State Senate,17,WF,Joe Crisco,24
+New Haven,Ansonia 2,State Senate,17,WF,Joe Crisco,12
+New Haven,Ansonia 3,State Senate,17,WF,Joe Crisco,25
+New Haven,Ansonia 4,State Senate,17,WF,Joe Crisco,18
+New Haven,Ansonia 5,State Senate,17,WF,Joe Crisco,16
+New Haven,Ansonia 6,State Senate,17,WF,Joe Crisco,33
+New Haven,Ansonia 7,State Senate,17,WF,Joe Crisco,28
+New Haven,Ansonia edr,State Senate,17,WF,Joe Crisco,1
+New Haven,Ansonia abs,State Senate,17,WF,Joe Crisco,3
+New Haven,Ansonia 1,State House,104,Rep,Frederick Picroski,202
+New Haven,Ansonia 2,State House,104,Rep,Frederick Picroski,195
+New Haven,Ansonia 3,State House,104,Rep,Frederick Picroski,159
+New Haven,Ansonia 4,State House,104,Rep,Frederick Picroski,85
+New Haven,Ansonia 5,State House,104,Rep,Frederick Picroski,193
+New Haven,Ansonia 6,State House,104,Rep,Frederick Picroski,347
+New Haven,Ansonia 7,State House,104,Rep,Frederick Picroski,334
+New Haven,Ansonia edr,State House,104,Rep,Frederick Picroski,20
+New Haven,Ansonia abs,State House,104,Rep,Frederick Picroski,42
+New Haven,Ansonia 1,State House,104,Dem,Linda Gentile,367
+New Haven,Ansonia 2,State House,104,Dem,Linda Gentile,336
+New Haven,Ansonia 3,State House,104,Dem,Linda Gentile,338
+New Haven,Ansonia 4,State House,104,Dem,Linda Gentile,192
+New Haven,Ansonia 5,State House,104,Dem,Linda Gentile,330
+New Haven,Ansonia 6,State House,104,Dem,Linda Gentile,461
+New Haven,Ansonia 7,State House,104,Dem,Linda Gentile,587
+New Haven,Ansonia edr,State House,104,Dem,Linda Gentile,23
+New Haven,Ansonia abs,State House,104,Dem,Linda Gentile,104
+New Haven,Ansonia 1,State House,104,Ind,Linda Gentile,38
+New Haven,Ansonia 2,State House,104,Ind,Linda Gentile,37
+New Haven,Ansonia 3,State House,104,Ind,Linda Gentile,37
+New Haven,Ansonia 4,State House,104,Ind,Linda Gentile,19
+New Haven,Ansonia 5,State House,104,Ind,Linda Gentile,30
+New Haven,Ansonia 6,State House,104,Ind,Linda Gentile,52
+New Haven,Ansonia 7,State House,104,Ind,Linda Gentile,51
+New Haven,Ansonia edr,State House,104,Ind,Linda Gentile,2
+New Haven,Ansonia abs,State House,104,Ind,Linda Gentile,8
+,,,,,,
+New Haven,Ansonia 1,Secretary of State,,Rep,Peter Lumaj,254
+New Haven,Ansonia 2,Secretary of State,,Rep,Peter Lumaj,238
+New Haven,Ansonia 3,Secretary of State,,Rep,Peter Lumaj,195
+New Haven,Ansonia 4,Secretary of State,,Rep,Peter Lumaj,104
+New Haven,Ansonia 5,Secretary of State,,Rep,Peter Lumaj,228
+New Haven,Ansonia 6,Secretary of State,,Rep,Peter Lumaj,424
+New Haven,Ansonia 7,Secretary of State,,Rep,Peter Lumaj,442
+New Haven,Ansonia edr,Secretary of State,,Rep,Peter Lumaj,16
+New Haven,Ansonia abs,Secretary of State,,Rep,Peter Lumaj,72
+New Haven,Ansonia 1,Secretary of State,,Dem,Denise Merrill,297
+New Haven,Ansonia 2,Secretary of State,,Dem,Denise Merrill,256
+New Haven,Ansonia 3,Secretary of State,,Dem,Denise Merrill,276
+New Haven,Ansonia 4,Secretary of State,,Dem,Denise Merrill,160
+New Haven,Ansonia 5,Secretary of State,,Dem,Denise Merrill,265
+New Haven,Ansonia 6,Secretary of State,,Dem,Denise Merrill,342
+New Haven,Ansonia 7,Secretary of State,,Dem,Denise Merrill,424
+New Haven,Ansonia edr,Secretary of State,,Dem,Denise Merrill,21
+New Haven,Ansonia abs,Secretary of State,,Dem,Denise Merrill,77
+New Haven,Ansonia 1,Secretary of State,,WF,Denise Merrill,29
+New Haven,Ansonia 2,Secretary of State,,WF,Denise Merrill,30
+New Haven,Ansonia 3,Secretary of State,,WF,Denise Merrill,19
+New Haven,Ansonia 4,Secretary of State,,WF,Denise Merrill,6
+New Haven,Ansonia 5,Secretary of State,,WF,Denise Merrill,17
+New Haven,Ansonia 6,Secretary of State,,WF,Denise Merrill,31
+New Haven,Ansonia 7,Secretary of State,,WF,Denise Merrill,36
+New Haven,Ansonia edr,Secretary of State,,WF,Denise Merrill,3
+New Haven,Ansonia abs,Secretary of State,,WF,Denise Merrill,3
+New Haven,Ansonia 1,Secretary of State,,Ind,Peter Lumaj,15
+New Haven,Ansonia 2,Secretary of State,,Ind,Peter Lumaj,21
+New Haven,Ansonia 3,Secretary of State,,Ind,Peter Lumaj,15
+New Haven,Ansonia 4,Secretary of State,,Ind,Peter Lumaj,10
+New Haven,Ansonia 5,Secretary of State,,Ind,Peter Lumaj,21
+New Haven,Ansonia 6,Secretary of State,,Ind,Peter Lumaj,29
+New Haven,Ansonia 7,Secretary of State,,Ind,Peter Lumaj,28
+New Haven,Ansonia edr,Secretary of State,,Ind,Peter Lumaj,2
+New Haven,Ansonia abs,Secretary of State,,Ind,Peter Lumaj,1
+New Haven,Ansonia 1,Secretary of State,,Green,Michael DeRosa,12
+New Haven,Ansonia 2,Secretary of State,,Green,Michael DeRosa,17
+New Haven,Ansonia 3,Secretary of State,,Green,Michael DeRosa,21
+New Haven,Ansonia 4,Secretary of State,,Green,Michael DeRosa,10
+New Haven,Ansonia 5,Secretary of State,,Green,Michael DeRosa,10
+New Haven,Ansonia 6,Secretary of State,,Green,Michael DeRosa,18
+New Haven,Ansonia 7,Secretary of State,,Green,Michael DeRosa,16
+New Haven,Ansonia edr,Secretary of State,,Green,Michael DeRosa,4
+New Haven,Ansonia abs,Secretary of State,,Green,Michael DeRosa,0
+New Haven,Ansonia 1,State Treasurer,,Rep,Tim Herbst,266
+New Haven,Ansonia 2,State Treasurer,,Rep,Tim Herbst,234
+New Haven,Ansonia 3,State Treasurer,,Rep,Tim Herbst,198
+New Haven,Ansonia 4,State Treasurer,,Rep,Tim Herbst,101
+New Haven,Ansonia 5,State Treasurer,,Rep,Tim Herbst,225
+New Haven,Ansonia 6,State Treasurer,,Rep,Tim Herbst,420
+New Haven,Ansonia 7,State Treasurer,,Rep,Tim Herbst,451
+New Haven,Ansonia edr,State Treasurer,,Rep,Tim Herbst,19
+New Haven,Ansonia abs,State Treasurer,,Rep,Tim Herbst,66
+New Haven,Ansonia 1,State Treasurer,,Dem,Denise Nappier,301
+New Haven,Ansonia 2,State Treasurer,,Dem,Denise Nappier,287
+New Haven,Ansonia 3,State Treasurer,,Dem,Denise Nappier,283
+New Haven,Ansonia 4,State Treasurer,,Dem,Denise Nappier,171
+New Haven,Ansonia 5,State Treasurer,,Dem,Denise Nappier,286
+New Haven,Ansonia 6,State Treasurer,,Dem,Denise Nappier,361
+New Haven,Ansonia 7,State Treasurer,,Dem,Denise Nappier,436
+New Haven,Ansonia edr,State Treasurer,,Dem,Denise Nappier,22
+New Haven,Ansonia abs,State Treasurer,,Dem,Denise Nappier,80
+New Haven,Ansonia 1,State Treasurer,,WF,Denise Nappier,26
+New Haven,Ansonia 2,State Treasurer,,WF,Denise Nappier,28
+New Haven,Ansonia 3,State Treasurer,,WF,Denise Nappier,26
+New Haven,Ansonia 4,State Treasurer,,WF,Denise Nappier,13
+New Haven,Ansonia 5,State Treasurer,,WF,Denise Nappier,21
+New Haven,Ansonia 6,State Treasurer,,WF,Denise Nappier,30
+New Haven,Ansonia 7,State Treasurer,,WF,Denise Nappier,37
+New Haven,Ansonia edr,State Treasurer,,WF,Denise Nappier,3
+New Haven,Ansonia abs,State Treasurer,,WF,Denise Nappier,4
+New Haven,Ansonia 1,State Treasurer,,Ind,Tim Herbst,17
+New Haven,Ansonia 2,State Treasurer,,Ind,Tim Herbst,23
+New Haven,Ansonia 3,State Treasurer,,Ind,Tim Herbst,15
+New Haven,Ansonia 4,State Treasurer,,Ind,Tim Herbst,8
+New Haven,Ansonia 5,State Treasurer,,Ind,Tim Herbst,15
+New Haven,Ansonia 6,State Treasurer,,Ind,Tim Herbst,33
+New Haven,Ansonia 7,State Treasurer,,Ind,Tim Herbst,24
+New Haven,Ansonia edr,State Treasurer,,Ind,Tim Herbst,1
+New Haven,Ansonia abs,State Treasurer,,Ind,Tim Herbst,2
+New Haven,Ansonia 1,Comptroller,,Rep,Sharon McLaughlin,228
+New Haven,Ansonia 2,Comptroller,,Rep,Sharon McLaughlin,232
+New Haven,Ansonia 3,Comptroller,,Rep,Sharon McLaughlin,182
+New Haven,Ansonia 4,Comptroller,,Rep,Sharon McLaughlin,91
+New Haven,Ansonia 5,Comptroller,,Rep,Sharon McLaughlin,209
+New Haven,Ansonia 6,Comptroller,,Rep,Sharon McLaughlin,398
+New Haven,Ansonia 7,Comptroller,,Rep,Sharon McLaughlin,404
+New Haven,Ansonia edr,Comptroller,,Rep,Sharon McLaughlin,20
+New Haven,Ansonia abs,Comptroller,,Rep,Sharon McLaughlin,58
+New Haven,Ansonia 1,Comptroller,,Dem,Kevin Lembo,315
+New Haven,Ansonia 2,Comptroller,,Dem,Kevin Lembo,276
+New Haven,Ansonia 3,Comptroller,,Dem,Kevin Lembo,288
+New Haven,Ansonia 4,Comptroller,,Dem,Kevin Lembo,172
+New Haven,Ansonia 5,Comptroller,,Dem,Kevin Lembo,296
+New Haven,Ansonia 6,Comptroller,,Dem,Kevin Lembo,358
+New Haven,Ansonia 7,Comptroller,,Dem,Kevin Lembo,461
+New Haven,Ansonia edr,Comptroller,,Dem,Kevin Lembo,20
+New Haven,Ansonia abs,Comptroller,,Dem,Kevin Lembo,84
+New Haven,Ansonia 1,Comptroller,,WF,Kevin Lembo,33
+New Haven,Ansonia 2,Comptroller,,WF,Kevin Lembo,28
+New Haven,Ansonia 3,Comptroller,,WF,Kevin Lembo,23
+New Haven,Ansonia 4,Comptroller,,WF,Kevin Lembo,6
+New Haven,Ansonia 5,Comptroller,,WF,Kevin Lembo,18
+New Haven,Ansonia 6,Comptroller,,WF,Kevin Lembo,35
+New Haven,Ansonia 7,Comptroller,,WF,Kevin Lembo,29
+New Haven,Ansonia edr,Comptroller,,WF,Kevin Lembo,0
+New Haven,Ansonia abs,Comptroller,,WF,Kevin Lembo,3
+New Haven,Ansonia 1,Comptroller,,Ind,Sharon McLaughlin,15
+New Haven,Ansonia 2,Comptroller,,Ind,Sharon McLaughlin,15
+New Haven,Ansonia 3,Comptroller,,Ind,Sharon McLaughlin,18
+New Haven,Ansonia 4,Comptroller,,Ind,Sharon McLaughlin,11
+New Haven,Ansonia 5,Comptroller,,Ind,Sharon McLaughlin,15
+New Haven,Ansonia 6,Comptroller,,Ind,Sharon McLaughlin,24
+New Haven,Ansonia 7,Comptroller,,Ind,Sharon McLaughlin,25
+New Haven,Ansonia edr,Comptroller,,Ind,Sharon McLaughlin,3
+New Haven,Ansonia abs,Comptroller,,Ind,Sharon McLaughlin,2
+New Haven,Ansonia 1,Comptroller,,Green,Rolf Maurer,12
+New Haven,Ansonia 2,Comptroller,,Green,Rolf Maurer,11
+New Haven,Ansonia 3,Comptroller,,Green,Rolf Maurer,14
+New Haven,Ansonia 4,Comptroller,,Green,Rolf Maurer,7
+New Haven,Ansonia 5,Comptroller,,Green,Rolf Maurer,7
+New Haven,Ansonia 6,Comptroller,,Green,Rolf Maurer,12
+New Haven,Ansonia 7,Comptroller,,Green,Rolf Maurer,17
+New Haven,Ansonia edr,Comptroller,,Green,Rolf Maurer,0
+New Haven,Ansonia abs,Comptroller,,Green,Rolf Maurer,0
+New Haven,Ansonia 1,Attorney General,,Rep,Kie Westby,203
+New Haven,Ansonia 2,Attorney General,,Rep,Kie Westby,213
+New Haven,Ansonia 3,Attorney General,,Rep,Kie Westby,169
+New Haven,Ansonia 4,Attorney General,,Rep,Kie Westby,85
+New Haven,Ansonia 5,Attorney General,,Rep,Kie Westby,191
+New Haven,Ansonia 6,Attorney General,,Rep,Kie Westby,354
+New Haven,Ansonia 7,Attorney General,,Rep,Kie Westby,365
+New Haven,Ansonia edr,Attorney General,,Rep,Kie Westby,16
+New Haven,Ansonia abs,Attorney General,,Rep,Kie Westby,63
+New Haven,Ansonia 1,Attorney General,,Dem,George Jepsen,335
+New Haven,Ansonia 2,Attorney General,,Dem,George Jepsen,290
+New Haven,Ansonia 3,Attorney General,,Dem,George Jepsen,298
+New Haven,Ansonia 4,Attorney General,,Dem,George Jepsen,179
+New Haven,Ansonia 5,Attorney General,,Dem,George Jepsen,309
+New Haven,Ansonia 6,Attorney General,,Dem,George Jepsen,410
+New Haven,Ansonia 7,Attorney General,,Dem,George Jepsen,502
+New Haven,Ansonia edr,Attorney General,,Dem,George Jepsen,23
+New Haven,Ansonia abs,Attorney General,,Dem,George Jepsen,80
+New Haven,Ansonia 1,Attorney General,,WF,George Jepsen,18
+New Haven,Ansonia 2,Attorney General,,WF,George Jepsen,17
+New Haven,Ansonia 3,Attorney General,,WF,George Jepsen,18
+New Haven,Ansonia 4,Attorney General,,WF,George Jepsen,5
+New Haven,Ansonia 5,Attorney General,,WF,George Jepsen,11
+New Haven,Ansonia 6,Attorney General,,WF,George Jepsen,17
+New Haven,Ansonia 7,Attorney General,,WF,George Jepsen,15
+New Haven,Ansonia edr,Attorney General,,WF,George Jepsen,1
+New Haven,Ansonia abs,Attorney General,,WF,George Jepsen,2
+New Haven,Ansonia 1,Attorney General,,Ind,Kie Westby,30
+New Haven,Ansonia 2,Attorney General,,Ind,Kie Westby,26
+New Haven,Ansonia 3,Attorney General,,Ind,Kie Westby,21
+New Haven,Ansonia 4,Attorney General,,Ind,Kie Westby,5
+New Haven,Ansonia 5,Attorney General,,Ind,Kie Westby,16
+New Haven,Ansonia 6,Attorney General,,Ind,Kie Westby,38
+New Haven,Ansonia 7,Attorney General,,Ind,Kie Westby,43
+New Haven,Ansonia edr,Attorney General,,Ind,Kie Westby,4
+New Haven,Ansonia abs,Attorney General,,Ind,Kie Westby,4
+New Haven,Ansonia 1,Attorney General,,Green,Stephen Fournier,18
+New Haven,Ansonia 2,Attorney General,,Green,Stephen Fournier,17
+New Haven,Ansonia 3,Attorney General,,Green,Stephen Fournier,18
+New Haven,Ansonia 4,Attorney General,,Green,Stephen Fournier,12
+New Haven,Ansonia 5,Attorney General,,Green,Stephen Fournier,12
+New Haven,Ansonia 6,Attorney General,,Green,Stephen Fournier,25
+New Haven,Ansonia 7,Attorney General,,Green,Stephen Fournier,20
+New Haven,Ansonia edr,Attorney General,,Green,Stephen Fournier,0
+New Haven,Ansonia abs,Attorney General,,Green,Stephen Fournier,0
