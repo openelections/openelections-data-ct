@@ -1,0 +1,98 @@
+county,precinct,office,district,party,candidate,votes
+Tolland,Ellington 03,Governor,,Rep,Thomas Foley,2471
+Tolland,Ellington 35,Governor,,Rep,Thomas Foley,756
+Tolland,Ellington other,Governor,,Rep,Thomas Foley,58
+Tolland,Ellington 03,Governor,,Ind,Thomas Foley,99
+Tolland,Ellington 35,Governor,,Ind,Thomas Foley,32
+Tolland,Ellington other,Governor,,Ind,Thomas Foley,6
+Tolland,Ellington 03,Governor,,Dem,Dannel Malloy,1582
+Tolland,Ellington 35,Governor,,Dem,Dannel Malloy,450
+Tolland,Ellington other,Governor,,Dem,Dannel Malloy,25
+Tolland,Ellington 03,Governor,,WF,Dannel Malloy,69
+Tolland,Ellington 35,Governor,,WF,Dannel Malloy,31
+Tolland,Ellington other,Governor,,WF,Dannel Malloy,1
+Tolland,Ellington 03,Governor,,PC,Joe Visconti,47
+Tolland,Ellington 35,Governor,,PC,Joe Visconti,18
+Tolland,Ellington other,Governor,,CP,Joe Visconti,0
+Tolland,Ellington 03,US House,2,Rep,Lori Hopkins-Cavanagh,1801
+Tolland,Ellington 35,US House,2,Rep,Lori Hopkins-Cavanagh,542
+Tolland,Ellington other,US House,2,Rep,Lori Hopkins-Cavanagh,56
+Tolland,Ellington 03,US House,2,Dem,Joe Courtney,2168
+Tolland,Ellington 35,US House,2,Dem,Joe Courtney,631
+Tolland,Ellington other,US House,2,Dem,Joe Courtney,0
+Tolland,Ellington 03,US House,2,Dem,Joe Courtney,131
+Tolland,Ellington 35,US House,2,Dem,Joe Courtney,62
+Tolland,Ellington other,US House,2,Dem,Joe Courtney,5
+Tolland,Ellington 03,US House,2,Green,William Clyde,27
+Tolland,Ellington 35,US House,2,Green,William Clyde,13
+Tolland,Ellington other,US House,2,Green,William Clyde,1
+Tolland,Ellington 03,US House,2,Lbt,Daniel Reale,50
+Tolland,Ellington 35,US House,2,Lbt,Daniel Reale,12
+Tolland,Ellington other,US House,2,Lbt,Daniel Reale,3
+Tolland,Ellington 03,State Senate,3,Rep,Sean Kelly,2247
+Tolland,Ellington 35,State Senate,35,Rep,Tony Guglielmo,972
+Tolland,Ellington 03,State Senate,12,Dem,Tim Larson,1934
+Tolland,Ellington 3,State Senate,12,WF,Andrea Penta,150
+Tolland,Ellington 03,State House,57,Rep,Christopher Davis,2639
+Tolland,Ellington 35,State House,57,Rep,Christopher Davis,855
+Tolland,Ellington other,State House,57,Rep,Christopher Davis,57
+Tolland,Ellington 03,State House,57,Dem,Noele Kidney,1577
+Tolland,Ellington 35,State House,57,Dem,Noele Kidney,410
+Tolland,Ellington other,State House,57,Dem,Noele Kidney,28
+Tolland,Ellington 03,Secretary of State,,Rep,Peter Lumaj,2253
+Tolland,Ellington 35,Secretary of State,,Rep,Peter Lumaj,682
+Tolland,Ellington other,Secretary of State,,Rep,Peter Lumaj,48
+Tolland,Ellington 03,Secretary of State,,Ind,Peter Lumaj,97
+Tolland,Ellington 35,Secretary of State,,Ind,Peter Lumaj,28
+Tolland,Ellington other,Secretary of State,,Ind,Peter Lumaj,6
+Tolland,Ellington 03,Secretary of State,,Dem,Denise Merrill,1585
+Tolland,Ellington 35,Secretary of State,,Dem,Denise Merrill,456
+Tolland,Ellington other,Secretary of State,,Dem,Denise Merrill,25
+Tolland,Ellington 03,Secretary of State,,WF,Denise Merrill,70
+Tolland,Ellington 35,Secretary of State,,WF,Denise Merrill,41
+Tolland,Ellington other,Secretary of State,,WF,Denise Merrill,4
+Tolland,Ellington 03,Secretary of State,,Green,Michael DeRosa,90
+Tolland,Ellington 35,Secretary of State,,Green,Michael DeRosa,38
+Tolland,Ellington other,Secretary of State,,Green,Michael DeRosa,3
+Tolland,Ellington 03,State Treasurer,,Rep,Tim Herbst,2426
+Tolland,Ellington 35,State Treasurer,,Rep,Tim Herbst,720
+Tolland,Ellington other,State Treasurer,,Rep,Tim Herbst,45
+Tolland,Ellington 03,State Treasurer,,Ind,Tim Herbst,119
+Tolland,Ellington 35,State Treasurer,,Ind,Tim Herbst,37
+Tolland,Ellington other,State Treasurer,,Ind,Tim Herbst,7
+Tolland,Ellington 03,State Treasurer,,Dem,Denise Nappier,1495
+Tolland,Ellington 35,State Treasurer,,Dem,Denise Nappier,440
+Tolland,Ellington other,State Treasurer,,Dem,Denise Nappier,29
+Tolland,Ellington 03,State Treasurer,,WF,Denise Nappier,84
+Tolland,Ellington 35,State Treasurer,,WF,Denise Nappier,46
+Tolland,Ellington other,State Treasurer,,WF,Denise Nappier,1
+Tolland,Ellington 03,Comptroller,,Rep,Sharon McLaughlin,2224
+Tolland,Ellington 35,Comptroller,,Rep,Sharon McLaughlin,658
+Tolland,Ellington other,Comptroller,,Rep,Sharon McLaughlin,54
+Tolland,Ellington 03,Comptroller,,Ind,Sharon McLaughlin,114
+Tolland,Ellington 35,Comptroller,,Ind,Sharon McLaughlin,42
+Tolland,Ellington other,Comptroller,,Ind,Sharon McLaughlin,7
+Tolland,Ellington 03,Comptroller,,Dem,Kevin Lembo,1578
+Tolland,Ellington 35,Comptroller,,Dem,Kevin Lembo,456
+Tolland,Ellington other,Comptroller,,Dem,Kevin Lembo,19
+Tolland,Ellington 03,Comptroller,,WF,Kevin Lembo,68
+Tolland,Ellington 35,Comptroller,,WF,Kevin Lembo,34
+Tolland,Ellington other,Comptroller,,WF,Kevin Lembo,3
+Tolland,Ellington 03,Comptroller,,Green,Rolf Maurer,51
+Tolland,Ellington 35,Comptroller,,Green,Rolf Maurer,31
+Tolland,Ellington other,Comptroller,,Green,Rolf Maurer,0
+Tolland,Ellington 03,Attorney General,,Rep,Kie Westby,1910
+Tolland,Ellington 35,Attorney General,,Rep,Kie Westby,583
+Tolland,Ellington other,Attorney General,,Rep,Kie Westby,43
+Tolland,Ellington 03,Attorney General,,Ind,Kie Westby,70
+Tolland,Ellington 35,Attorney General,,Ind,Kie Westby,24
+Tolland,Ellington other,Attorney General,,Ind,Kie Westby,7
+Tolland,Ellington 03,Attorney General,,Dem,George Jepsen,1918
+Tolland,Ellington 35,Attorney General,,Dem,George Jepsen,547
+Tolland,Ellington other,Attorney General,,Dem,George Jepsen,27
+Tolland,Ellington 03,Attorney General,,WF,George Jepsen,76
+Tolland,Ellington 35,Attorney General,,WF,George Jepsen,42
+Tolland,Ellington other,Attorney General,,WF,George Jepsen,3
+Tolland,Ellington 03,Attorney General,,Green,Stephen Fournier,87
+Tolland,Ellington 35,Attorney General,,Green,Stephen Fournier,40
+Tolland,Ellington other,Attorney General,,Green,Stephen Fournier,5
