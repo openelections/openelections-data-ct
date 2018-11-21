@@ -1,0 +1,480 @@
+county,precinct,office,district,party,candidate,election_day,absentee,edr,votes
+Fairfield,Norwalk 137A Marvin,Governor,,Rep,Thomas Foley,1093,64,16,1173
+Fairfield,Norwalk 137A Marvin,Governor,,Ind,Thomas Foley,26,2,2,30
+Fairfield,Norwalk 137A Marvin,Governor,,Dem,Dannel Malloy ,1477,75,31,1583
+Fairfield,Norwalk 137A Marvin,Governor,,WF,Dannel Malloy ,68,0,1,69
+Fairfield,Norwalk 137A Marvin,Governor,,PC,Joe Visconti,22,0,1,23
+Fairfield,Norwalk 137A Marvin,Governor,,write-in,write-in,4,0,0,4
+Fairfield,Norwalk 137B St Marys,Governor,,Rep,Thomas Foley,261,5,5,271
+Fairfield,Norwalk 137B St Marys,Governor,,Ind,Thomas Foley,11,0,0,11
+Fairfield,Norwalk 137B St Marys,Governor,,Dem,Dannel Malloy ,622,22,21,665
+Fairfield,Norwalk 137B St Marys,Governor,,WF,Dannel Malloy ,26,1,0,27
+Fairfield,Norwalk 137B St Marys,Governor,,PC,Joe Visconti,3,0,0,3
+Fairfield,Norwalk 137B St Marys,Governor,,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 137C Tracey,Governor,,Rep,Thomas Foley,778,29,13,820
+Fairfield,Norwalk 137C Tracey,Governor,,Ind,Thomas Foley,34,1,0,35
+Fairfield,Norwalk 137C Tracey,Governor,,Dem,Dannel Malloy ,1204,39,14,1257
+Fairfield,Norwalk 137C Tracey,Governor,,WF,Dannel Malloy ,58,2,3,63
+Fairfield,Norwalk 137C Tracey,Governor,,PC,Joe Visconti,10,0,0,10
+Fairfield,Norwalk 137C Tracey,Governor,,write-in,write-in,5,0,1,6
+Fairfield,Norwalk 140A Kendall,Governor,,Rep,Thomas Foley,413,16,4,433
+Fairfield,Norwalk 140A Kendall,Governor,,Ind,Thomas Foley,22,1,0,23
+Fairfield,Norwalk 140A Kendall,Governor,,Dem,Dannel Malloy ,863,15,11,889
+Fairfield,Norwalk 140A Kendall,Governor,,WF,Dannel Malloy ,36,0,0,36
+Fairfield,Norwalk 140A Kendall,Governor,,PC,Joe Visconti,5,0,0,5
+Fairfield,Norwalk 140A Kendall,Governor,,write-in,write-in,4,0,0,4
+Fairfield,Norwalk 140B Columbus,Governor,,Rep,Thomas Foley,253,10,5,268
+Fairfield,Norwalk 140B Columbus,Governor,,Ind,Thomas Foley,22,1,0,23
+Fairfield,Norwalk 140B Columbus,Governor,,Dem,Dannel Malloy ,1177,46,18,1241
+Fairfield,Norwalk 140B Columbus,Governor,,WF,Dannel Malloy ,44,7,1,52
+Fairfield,Norwalk 140B Columbus,Governor,,PC,Joe Visconti,9,0,0,9
+Fairfield,Norwalk 140B Columbus,Governor,,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 140C Nathaniel Ely,Governor,,Rep,Thomas Foley,149,10,2,161
+Fairfield,Norwalk 140C Nathaniel Ely,Governor,,Ind,Thomas Foley,8,0,0,8
+Fairfield,Norwalk 140C Nathaniel Ely,Governor,,Dem,Dannel Malloy ,490,14,7,511
+Fairfield,Norwalk 140C Nathaniel Ely,Governor,,WF,Dannel Malloy ,21,1,0,22
+Fairfield,Norwalk 140C Nathaniel Ely,Governor,,PC,Joe Visconti,5,2,0,7
+Fairfield,Norwalk 140C Nathaniel Ely,Governor,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 142A Fox Run,Governor,,Rep,Thomas Foley,1135,60,11,1206
+Fairfield,Norwalk 142A Fox Run,Governor,,Ind,Thomas Foley,43,2,0,45
+Fairfield,Norwalk 142A Fox Run,Governor,,Dem,Dannel Malloy ,1110,57,18,1185
+Fairfield,Norwalk 142A Fox Run,Governor,,WF,Dannel Malloy ,41,2,3,46
+Fairfield,Norwalk 142A Fox Run,Governor,,PC,Joe Visconti,9,0,0,9
+Fairfield,Norwalk 142A Fox Run,Governor,,write-in,write-in,3,0,0,3
+Fairfield,Norwalk 142B Ponus,Governor,,Rep,Thomas Foley,1045,43,10,1098
+Fairfield,Norwalk 142B Ponus,Governor,,Ind,Thomas Foley,34,1,0,35
+Fairfield,Norwalk 142B Ponus,Governor,,Dem,Dannel Malloy ,1086,46,11,1143
+Fairfield,Norwalk 142B Ponus,Governor,,WF,Dannel Malloy ,30,2,1,33
+Fairfield,Norwalk 142B Ponus,Governor,,PC,Joe Visconti,10,0,0,10
+Fairfield,Norwalk 142B Ponus,Governor,,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 142C West Rocks,Governor,,Rep,Thomas Foley,855,39,9,903
+Fairfield,Norwalk 142C West Rocks,Governor,,Ind,Thomas Foley,32,1,0,33
+Fairfield,Norwalk 142C West Rocks,Governor,,Dem,Dannel Malloy ,904,45,12,961
+Fairfield,Norwalk 142C West Rocks,Governor,,WF,Dannel Malloy ,28,3,1,32
+Fairfield,Norwalk 142C West Rocks,Governor,,PC,Joe Visconti,9,1,0,10
+Fairfield,Norwalk 142C West Rocks,Governor,,write-in,write-in,6,1,0,7
+Fairfield,Norwalk 141A Roton,Governor,,Rep,Thomas Foley,889,73,10,972
+Fairfield,Norwalk 141A Roton,Governor,,Ind,Thomas Foley,21,3,0,24
+Fairfield,Norwalk 141A Roton,Governor,,Dem,Dannel Malloy ,1004,55,14,1073
+Fairfield,Norwalk 141A Roton,Governor,,WF,Dannel Malloy ,20,0,0,20
+Fairfield,Norwalk 141A Roton,Governor,,PC,Joe Visconti,6,2,0,8
+Fairfield,Norwalk 141A Roton,Governor,,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 143A Nathan Hale,Governor,,Rep,Thomas Foley,680,24,11,715
+Fairfield,Norwalk 143A Nathan Hale,Governor,,Ind,Thomas Foley,28,0,0,28
+Fairfield,Norwalk 143A Nathan Hale,Governor,,Dem,Dannel Malloy ,807,28,10,845
+Fairfield,Norwalk 143A Nathan Hale,Governor,,WF,Dannel Malloy ,23,0,0,23
+Fairfield,Norwalk 143A Nathan Hale,Governor,,PC,Joe Visconti,8,0,0,8
+Fairfield,Norwalk 143A Nathan Hale,Governor,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 143B Wolfpit,Governor,,Rep,Thomas Foley,1023,45,2,1070
+Fairfield,Norwalk 143B Wolfpit,Governor,,Ind,Thomas Foley,27,1,0,28
+Fairfield,Norwalk 143B Wolfpit,Governor,,Dem,Dannel Malloy ,860,27,5,892
+Fairfield,Norwalk 143B Wolfpit,Governor,,WF,Dannel Malloy ,37,0,0,37
+Fairfield,Norwalk 143B Wolfpit,Governor,,PC,Joe Visconti,9,1,0,10
+Fairfield,Norwalk 143B Wolfpit,Governor,,write-in,write-in,2,0,0,2
+s,Norwalk 137A Marvin,US House,4,Rep,Dan Debicella ,932,60,16,1008
+Fairfield,Norwalk 137A Marvin,US House,4,Ind,Dan Debicella ,35,3,1,39
+Fairfield,Norwalk 137A Marvin,US House,4,Dem,Jim Himes ,1586,77,32,1695
+Fairfield,Norwalk 137A Marvin,US House,4,WF,Jim Himes ,96,2,1,99
+Fairfield,Norwalk 137A Marvin,US House,4,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 137B St Marys,US House,4,Rep,Dan Debicella ,213,4,5,222
+Fairfield,Norwalk 137B St Marys,US House,4,Ind,Dan Debicella ,11,3,0,14
+Fairfield,Norwalk 137B St Marys,US House,4,Dem,Jim Himes ,642,20,18,680
+Fairfield,Norwalk 137B St Marys,US House,4,WF,Jim Himes ,38,2,1,41
+Fairfield,Norwalk 137B St Marys,US House,4,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137C Tracey,US House,4,Rep,Dan Debicella ,668,26,12,706
+Fairfield,Norwalk 137C Tracey,US House,4,Ind,Dan Debicella ,40,0,0,40
+Fairfield,Norwalk 137C Tracey,US House,4,Dem,Jim Himes ,1245,43,17,1305
+Fairfield,Norwalk 137C Tracey,US House,4,WF,Jim Himes ,80,2,3,85
+Fairfield,Norwalk 137C Tracey,US House,4,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 140A Kendall,US House,4,Rep,Dan Debicella ,345,12,4,361
+Fairfield,Norwalk 140A Kendall,US House,4,Ind,Dan Debicella ,23,1,0,24
+Fairfield,Norwalk 140A Kendall,US House,4,Dem,Jim Himes ,896,21,11,928
+Fairfield,Norwalk 140A Kendall,US House,4,WF,Jim Himes ,49,0,0,49
+Fairfield,Norwalk 140A Kendall,US House,4,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 140B Columbus,US House,4,Rep,Dan Debicella ,200,9,5,214
+Fairfield,Norwalk 140B Columbus,US House,4,Ind,Dan Debicella ,26,1,0,27
+Fairfield,Norwalk 140B Columbus,US House,4,Dem,Jim Himes ,1194,46,18,1258
+Fairfield,Norwalk 140B Columbus,US House,4,WF,Jim Himes ,53,8,1,62
+Fairfield,Norwalk 140B Columbus,US House,4,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 140C Nathaniel Ely,US House,4,Rep,Dan Debicella ,129,7,1,137
+Fairfield,Norwalk 140C Nathaniel Ely,US House,4,Ind,Dan Debicella ,9,0,0,9
+Fairfield,Norwalk 140C Nathaniel Ely,US House,4,Dem,Jim Himes ,488,19,7,514
+Fairfield,Norwalk 140C Nathaniel Ely,US House,4,WF,Jim Himes ,29,1,0,30
+Fairfield,Norwalk 140C Nathaniel Ely,US House,4,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 142A Fox Run,US House,4,Rep,Dan Debicella ,1006,57,9,1072
+Fairfield,Norwalk 142A Fox Run,US House,4,Ind,Dan Debicella ,37,2,0,39
+Fairfield,Norwalk 142A Fox Run,US House,4,Dem,Jim Himes ,1190,59,18,1267
+Fairfield,Norwalk 142A Fox Run,US House,4,WF,Jim Himes ,66,3,3,72
+Fairfield,Norwalk 142A Fox Run,US House,4,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 142B Ponus,US House,4,Rep,Dan Debicella ,927,40,8,975
+Fairfield,Norwalk 142B Ponus,US House,4,Ind,Dan Debicella ,41,1,0,42
+Fairfield,Norwalk 142B Ponus,US House,4,Dem,Jim Himes ,1150,47,13,1210
+Fairfield,Norwalk 142B Ponus,US House,4,WF,Jim Himes ,52,2,1,55
+Fairfield,Norwalk 142B Ponus,US House,4,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 142C West Rocks,US House,4,Rep,Dan Debicella ,732,37,8,777
+Fairfield,Norwalk 142C West Rocks,US House,4,Ind,Dan Debicella ,35,1,0,36
+Fairfield,Norwalk 142C West Rocks,US House,4,Dem,Jim Himes ,981,49,11,1041
+Fairfield,Norwalk 142C West Rocks,US House,4,WF,Jim Himes ,50,2,2,54
+Fairfield,Norwalk 142C West Rocks,US House,4,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 141A Roton,US House,4,Rep,Dan Debicella ,807,62,10,879
+Fairfield,Norwalk 141A Roton,US House,4,Ind,Dan Debicella ,20,2,0,22
+Fairfield,Norwalk 141A Roton,US House,4,Dem,Jim Himes ,1065,70,14,1149
+Fairfield,Norwalk 141A Roton,US House,4,WF,Jim Himes ,31,0,0,31
+Fairfield,Norwalk 141A Roton,US House,4,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 143A Nathan Hale,US House,4,Rep,Dan Debicella ,588,25,10,623
+Fairfield,Norwalk 143A Nathan Hale,US House,4,Ind,Dan Debicella ,31,0,1,32
+Fairfield,Norwalk 143A Nathan Hale,US House,4,Dem,Jim Himes ,851,28,9,888
+Fairfield,Norwalk 143A Nathan Hale,US House,4,WF,Jim Himes ,46,0,1,47
+Fairfield,Norwalk 143A Nathan Hale,US House,4,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 143B Wolfpit,US House,4,Rep,Dan Debicella ,902,40,1,943
+Fairfield,Norwalk 143B Wolfpit,US House,4,Ind,Dan Debicella ,31,1,0,32
+Fairfield,Norwalk 143B Wolfpit,US House,4,Dem,Jim Himes ,935,31,6,972
+Fairfield,Norwalk 143B Wolfpit,US House,4,WF,Jim Himes ,56,2,0,58
+Fairfield,Norwalk 143B Wolfpit,US House,4,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137A Marvin,State Senate,25,,Bill Dunne,805,48,16,869
+Fairfield,Norwalk 137A Marvin,State Senate,25,,Bob Duff,1832,90,34,1956
+Fairfield,Norwalk 137A Marvin,State Senate,25,,write-in,1,0,0,1
+Fairfield,Norwalk 137B St Marys,State Senate,25,,Bill Dunne,195,5,6,206
+Fairfield,Norwalk 137B St Marys,State Senate,25,,Bob Duff,699,24,18,741
+Fairfield,Norwalk 137B St Marys,State Senate,25,,write-in,0,0,0,0
+Fairfield,Norwalk 137C Tracey,State Senate,25,,Bill Dunne,562,22,12,596
+Fairfield,Norwalk 137C Tracey,State Senate,25,,Bob Duff,1477,51,19,1547
+Fairfield,Norwalk 137C Tracey,State Senate,25,,write-in,1,0,0,1
+Fairfield,Norwalk 140A Kendall,State Senate,25,,Bill Dunne,323,13,4,340
+Fairfield,Norwalk 140A Kendall,State Senate,25,,Bob Duff,979,20,10,1009
+Fairfield,Norwalk 140A Kendall,State Senate,25,,write-in,2,0,0,2
+Fairfield,Norwalk 140B Columbus,State Senate,25,,Bill Dunne,194,10,4,208
+Fairfield,Norwalk 140B Columbus,State Senate,25,,Bob Duff,1251,52,20,1323
+Fairfield,Norwalk 140B Columbus,State Senate,25,,write-in,1,0,0,1
+Fairfield,Norwalk 140C Nathaniel Ely,State Senate,25,,Bill Dunne,126,7,1,134
+Fairfield,Norwalk 140C Nathaniel Ely,State Senate,25,,Bob Duff,524,20,7,551
+Fairfield,Norwalk 140C Nathaniel Ely,State Senate,25,,write-in,2,0,0,2
+Fairfield,Norwalk 142A Fox Run,State Senate,25,,Bill Dunne,938,57,10,1005
+Fairfield,Norwalk 142A Fox Run,State Senate,25,,Bob Duff,1359,63,21,1443
+Fairfield,Norwalk 142A Fox Run,State Senate,25,,write-in,1,0,0,1
+Fairfield,Norwalk 142B Ponus,State Senate,25,,Bill Dunne,817,33,7,857
+Fairfield,Norwalk 142B Ponus,State Senate,25,,Bob Duff,1348,59,14,1421
+Fairfield,Norwalk 142B Ponus,State Senate,25,,write-in,2,0,0,2
+Fairfield,Norwalk 142C West Rocks,State Senate,25,,Bill Dunne,654,31,8,693
+Fairfield,Norwalk 142C West Rocks,State Senate,25,,Bob Duff,1138,55,14,1207
+Fairfield,Norwalk 142C West Rocks,State Senate,25,,write-in,0,0,0,0
+Fairfield,Norwalk 141A Roton,State Senate,25,,Bill Dunne,727,50,10,787
+Fairfield,Norwalk 141A Roton,State Senate,25,,Bob Duff,1191,79,14,1284
+Fairfield,Norwalk 141A Roton,State Senate,25,,write-in,0,0,0,0
+Fairfield,Norwalk 143A Nathan Hale,State Senate,25,,Bill Dunne,523,23,9,555
+Fairfield,Norwalk 143A Nathan Hale,State Senate,25,,Bob Duff,996,28,12,1036
+Fairfield,Norwalk 143A Nathan Hale,State Senate,25,,write-in,0,0,0,0
+Fairfield,Norwalk 143B Wolfpit,State Senate,25,,Bill Dunne,798,35,2,835
+Fairfield,Norwalk 143B Wolfpit,State Senate,25,,Bob Duff,1130,39,5,1174
+Fairfield,Norwalk 143B Wolfpit,State Senate,25,,write-in,0,0,0,0
+Fairfield,Norwalk 137A Marvin,State House,137,Rep,Arthur Scialabba,888,51,16,955
+Fairfield,Norwalk 137A Marvin,State House,137,Dem,Chris Perone ,1611,81,30,1722
+Fairfield,Norwalk 137A Marvin,State House,137,WF,Chris Perone ,109,3,2,114
+Fairfield,Norwalk 137B St Marys,State House,137,Rep,Arthur Scialabba,203,2,6,211
+Fairfield,Norwalk 137B St Marys,State House,137,Dem,Chris Perone ,634,24,17,675
+Fairfield,Norwalk 137B St Marys,State House,137,WF,Chris Perone ,40,3,1,44
+Fairfield,Norwalk 137C Tracey,State House,137,Rep,Arthur Scialabba,656,26,12,694
+Fairfield,Norwalk 137C Tracey,State House,137,Dem,Chris Perone ,1265,42,15,1322
+Fairfield,Norwalk 137C Tracey,State House,137,WF,Chris Perone ,94,3,4,101
+Fairfield,Norwalk 140A Kendall,State House,140,Dem,Bruce Morris ,928,16,9,953
+Fairfield,Norwalk 140A Kendall,State House,140,WF,Bruce Morris ,105,3,0,108
+Fairfield,Norwalk 140B Columbus,State House,140,Dem,Bruce Morris ,1228,49,19,1296
+Fairfield,Norwalk 140B Columbus,State House,140,WF,Bruce Morris ,73,11,1,85
+Fairfield,Norwalk 140C Nathaniel Ely,State House,140,Dem,Bruce Morris ,502,18,7,527
+Fairfield,Norwalk 140C Nathaniel Ely,State House,140,WF,Bruce Morris ,45,4,0,49
+Fairfield,Norwalk 142A Fox Run,State House,142,Rep,Fred Wilms ,1124,65,10,1199
+Fairfield,Norwalk 142A Fox Run,State House,142,Ind,Fred Wilms ,56,1,0,57
+Fairfield,Norwalk 142A Fox Run,State House,142,Dem,Andy Garfunkel ,1061,49,17,1127
+Fairfield,Norwalk 142A Fox Run,State House,142,WF,Andy Garfunkel ,58,2,2,62
+Fairfield,Norwalk 142B Ponus,State House,142,Rep,Fred Wilms ,1057,47,6,1110
+Fairfield,Norwalk 142B Ponus,State House,142,Ind,Fred Wilms ,65,2,0,67
+Fairfield,Norwalk 142B Ponus,State House,142,Dem,Andy Garfunkel ,999,40,13,1052
+Fairfield,Norwalk 142B Ponus,State House,142,WF,Andy Garfunkel ,45,2,2,49
+Fairfield,Norwalk 142C West Rocks,State House,142,Rep,Fred Wilms ,887,43,11,941
+Fairfield,Norwalk 142C West Rocks,State House,142,Ind,Fred Wilms ,48,1,0,49
+Fairfield,Norwalk 142C West Rocks,State House,142,Dem,Andy Garfunkel ,818,38,11,867
+Fairfield,Norwalk 142C West Rocks,State House,142,WF,Andy Garfunkel ,41,1,1,43
+Fairfield,Norwalk 141A Roton,State House,141,Rep,Terrie Wood,1108,88,15,1211
+Fairfield,Norwalk 141A Roton,State House,141,write-ins,write-in,4,2,0,6
+Fairfield,Norwalk 143A Nathan Hale,State House,143,Rep,Gail Lavielle,827,30,12,869
+Fairfield,Norwalk 143A Nathan Hale,State House,143,Dem,Keith Rodgerson,654,22,8,684
+Fairfield,Norwalk 143A Nathan Hale,State House,143,write-ins,write-in,0,0,0,0
+Fairfield,Norwalk 143B Wolfpit,State House,143,Rep,Gail Lavielle,1193,48,2,1243
+Fairfield,Norwalk 143B Wolfpit,State House,143,Dem,Keith Rodgerson,703,27,5,735
+Fairfield,Norwalk 143B Wolfpit,State House,143,write-ins,write-in,1,0,0,1
+Fairfield,Norwalk 137A Marvin,Secretary of State,,Rep,Peter Lumaj ,983,57,17,1057
+Fairfield,Norwalk 137A Marvin,Secretary of State,,Ind,Peter Lumaj ,44,1,1,46
+Fairfield,Norwalk 137A Marvin,Secretary of State,,Dem,Denise Merrill ,1404,74,29,1507
+Fairfield,Norwalk 137A Marvin,Secretary of State,,WF,Denise Merrill ,78,2,1,81
+Fairfield,Norwalk 137A Marvin,Secretary of State,,Green,Michael DeRosa,59,0,2,61
+Fairfield,Norwalk 137A Marvin,Secretary of State,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137B St Marys,Secretary of State,,Rep,Peter Lumaj ,215,3,6,224
+Fairfield,Norwalk 137B St Marys,Secretary of State,,Ind,Peter Lumaj ,15,1,0,16
+Fairfield,Norwalk 137B St Marys,Secretary of State,,Dem,Denise Merrill ,589,21,17,614
+Fairfield,Norwalk 137B St Marys,Secretary of State,,WF,Denise Merrill ,618,22,17,657
+Fairfield,Norwalk 137B St Marys,Secretary of State,,Green,Michael DeRosa,23,2,1,26
+Fairfield,Norwalk 137B St Marys,Secretary of State,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137C Tracey,Secretary of State,,Rep,Peter Lumaj ,688,27,13,726
+Fairfield,Norwalk 137C Tracey,Secretary of State,,Ind,Peter Lumaj ,39,2,0,41
+Fairfield,Norwalk 137C Tracey,Secretary of State,,Dem,Denise Merrill ,1129,39,14,1158
+Fairfield,Norwalk 137C Tracey,Secretary of State,,WF,Denise Merrill ,62,2,3,66
+Fairfield,Norwalk 137C Tracey,Secretary of State,,Green,Michael DeRosa,52,2,1,55
+Fairfield,Norwalk 137C Tracey,Secretary of State,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 140A Kendall,Secretary of State,,Rep,Peter Lumaj ,361,15,4,379
+Fairfield,Norwalk 140A Kendall,Secretary of State,,Ind,Peter Lumaj ,25,1,0,26
+Fairfield,Norwalk 140A Kendall,Secretary of State,,Dem,Denise Merrill ,823,15,8,828
+Fairfield,Norwalk 140A Kendall,Secretary of State,,WF,Denise Merrill ,42,1,0,42
+Fairfield,Norwalk 140A Kendall,Secretary of State,,Green,Michael DeRosa,25,0,1,26
+Fairfield,Norwalk 140A Kendall,Secretary of State,,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 140B Columbus,Secretary of State,,Rep,Peter Lumaj ,204,7,4,214
+Fairfield,Norwalk 140B Columbus,Secretary of State,,Ind,Peter Lumaj ,19,1,1,21
+Fairfield,Norwalk 140B Columbus,Secretary of State,,Dem,Denise Merrill ,1124,46,18,1146
+Fairfield,Norwalk 140B Columbus,Secretary of State,,WF,Denise Merrill ,45,8,1,51
+Fairfield,Norwalk 140B Columbus,Secretary of State,,Green,Michael DeRosa,26,1,0,27
+Fairfield,Norwalk 140B Columbus,Secretary of State,,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 140C Nathaniel Ely,Secretary of State,,Rep,Peter Lumaj ,139,9,1,149
+Fairfield,Norwalk 140C Nathaniel Ely,Secretary of State,,Ind,Peter Lumaj ,5,0,0,5
+Fairfield,Norwalk 140C Nathaniel Ely,Secretary of State,,Dem,Denise Merrill ,459,14,7,460
+Fairfield,Norwalk 140C Nathaniel Ely,Secretary of State,,WF,Denise Merrill ,24,1,0,24
+Fairfield,Norwalk 140C Nathaniel Ely,Secretary of State,,Green,Michael DeRosa,15,2,0,17
+Fairfield,Norwalk 140C Nathaniel Ely,Secretary of State,,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 142A Fox Run,Secretary of State,,Rep,Peter Lumaj ,1016,62,9,1087
+Fairfield,Norwalk 142A Fox Run,Secretary of State,,Ind,Peter Lumaj ,40,2,1,43
+Fairfield,Norwalk 142A Fox Run,Secretary of State,,Dem,Denise Merrill ,1066,50,15,1126
+Fairfield,Norwalk 142A Fox Run,Secretary of State,,WF,Denise Merrill ,48,1,1,50
+Fairfield,Norwalk 142A Fox Run,Secretary of State,,Green,Michael DeRosa,63,2,4,69
+Fairfield,Norwalk 142A Fox Run,Secretary of State,,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 142B Ponus,Secretary of State,,Rep,Peter Lumaj ,951,42,8,1001
+Fairfield,Norwalk 142B Ponus,Secretary of State,,Ind,Peter Lumaj ,41,0,0,41
+Fairfield,Norwalk 142B Ponus,Secretary of State,,Dem,Denise Merrill ,1031,45,11,1087
+Fairfield,Norwalk 142B Ponus,Secretary of State,,WF,Denise Merrill ,39,3,1,43
+Fairfield,Norwalk 142B Ponus,Secretary of State,,Green,Michael DeRosa,45,0,2,47
+Fairfield,Norwalk 142B Ponus,Secretary of State,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 142C West Rocks,Secretary of State,,Rep,Peter Lumaj ,757,38,8,803
+Fairfield,Norwalk 142C West Rocks,Secretary of State,,Ind,Peter Lumaj ,24,1,0,25
+Fairfield,Norwalk 142C West Rocks,Secretary of State,,Dem,Denise Merrill ,882,43,12,937
+Fairfield,Norwalk 142C West Rocks,Secretary of State,,WF,Denise Merrill ,30,1,2,33
+Fairfield,Norwalk 142C West Rocks,Secretary of State,,Green,Michael DeRosa,33,0,1,34
+Fairfield,Norwalk 142C West Rocks,Secretary of State,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 141A Roton,Secretary of State,,Rep,Peter Lumaj ,817,65,11,893
+Fairfield,Norwalk 141A Roton,Secretary of State,,Ind,Peter Lumaj ,24,2,0,26
+Fairfield,Norwalk 141A Roton,Secretary of State,,Dem,Denise Merrill ,936,62,11,1009
+Fairfield,Norwalk 141A Roton,Secretary of State,,WF,Denise Merrill ,22,0,1,23
+Fairfield,Norwalk 141A Roton,Secretary of State,,Green,Michael DeRosa,30,0,1,31
+Fairfield,Norwalk 141A Roton,Secretary of State,,write-in,write-in,0,0,0,
+Fairfield,Norwalk 143A Nathan Hale,Secretary of State,,Rep,Peter Lumaj ,604,24,9,637
+Fairfield,Norwalk 143A Nathan Hale,Secretary of State,,Ind,Peter Lumaj ,30,0,0,30
+Fairfield,Norwalk 143A Nathan Hale,Secretary of State,,Dem,Denise Merrill ,755,26,10,778
+Fairfield,Norwalk 143A Nathan Hale,Secretary of State,,WF,Denise Merrill ,35,0,1,35
+Fairfield,Norwalk 143A Nathan Hale,Secretary of State,,Green,Michael DeRosa,36,1,0,37
+Fairfield,Norwalk 143A Nathan Hale,Secretary of State,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 143B Wolfpit,Secretary of State,,Rep,Peter Lumaj ,915,39,2,956
+Fairfield,Norwalk 143B Wolfpit,Secretary of State,,Ind,Peter Lumaj ,31,1,0,32
+Fairfield,Norwalk 143B Wolfpit,Secretary of State,,Dem,Denise Merrill ,841,29,5,868
+Fairfield,Norwalk 143B Wolfpit,Secretary of State,,WF,Denise Merrill ,38,2,0,40
+Fairfield,Norwalk 143B Wolfpit,Secretary of State,,Green,Michael DeRosa,33,2,0,35
+Fairfield,Norwalk 143B Wolfpit,Secretary of State,,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 137A Marvin,Treasurer,,Rep,Tim Herbst ,1026,60,17,1101
+Fairfield,Norwalk 137A Marvin,Treasurer,,Ind,Tim Herbst ,55,4,1,60
+Fairfield,Norwalk 137A Marvin,Treasurer,,Dem,Denise Nappier ,1390,69,29,1472
+Fairfield,Norwalk 137A Marvin,Treasurer,,WF,Denise Nappier ,88,1,1,89
+Fairfield,Norwalk 137A Marvin,Treasurer,,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 137B St Marys,Treasurer,,Rep,Tim Herbst ,227,5,7,239
+Fairfield,Norwalk 137B St Marys,Treasurer,,Ind,Tim Herbst ,18,1,1,20
+Fairfield,Norwalk 137B St Marys,Treasurer,,Dem,Denise Nappier ,589,18,15,609
+Fairfield,Norwalk 137B St Marys,Treasurer,,WF,Denise Nappier ,32,2,0,33
+Fairfield,Norwalk 137B St Marys,Treasurer,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137C Tracey,Treasurer,,Rep,Tim Herbst ,713,31,12,756
+Fairfield,Norwalk 137C Tracey,Treasurer,,Ind,Tim Herbst ,45,3,0,48
+Fairfield,Norwalk 137C Tracey,Treasurer,,Dem,Denise Nappier ,1139,34,15,1188
+Fairfield,Norwalk 137C Tracey,Treasurer,,WF,Denise Nappier ,78,2,3,83
+Fairfield,Norwalk 137C Tracey,Treasurer,,write-in,write-in,0,0,1,1
+Fairfield,Norwalk 140A Kendall,Treasurer,,Rep,Tim Herbst ,375,13,4,392
+Fairfield,Norwalk 140A Kendall,Treasurer,,Ind,Tim Herbst ,25,1,0,26
+Fairfield,Norwalk 140A Kendall,Treasurer,,Dem,Denise Nappier ,823,17,9,832
+Fairfield,Norwalk 140A Kendall,Treasurer,,WF,Denise Nappier ,42,1,0,42
+Fairfield,Norwalk 140A Kendall,Treasurer,,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 140B Columbus,Treasurer,,Rep,Tim Herbst ,225,9,4,237
+Fairfield,Norwalk 140B Columbus,Treasurer,,Ind,Tim Herbst ,25,1,2,28
+Fairfield,Norwalk 140B Columbus,Treasurer,,Dem,Denise Nappier ,1130,46,17,1143
+Fairfield,Norwalk 140B Columbus,Treasurer,,WF,Denise Nappier ,46,8,1,52
+Fairfield,Norwalk 140B Columbus,Treasurer,,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 140C Nathaniel Ely,Treasurer,,Rep,Tim Herbst ,148,10,1,159
+Fairfield,Norwalk 140C Nathaniel Ely,Treasurer,,Ind,Tim Herbst ,6,0,0,6
+Fairfield,Norwalk 140C Nathaniel Ely,Treasurer,,Dem,Denise Nappier ,455,13,7,454
+Fairfield,Norwalk 140C Nathaniel Ely,Treasurer,,WF,Denise Nappier ,28,3,0,30
+Fairfield,Norwalk 140C Nathaniel Ely,Treasurer,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 142A Fox Run,Treasurer,,Rep,Tim Herbst ,1065,60,9,1134
+Fairfield,Norwalk 142A Fox Run,Treasurer,,Ind,Tim Herbst ,49,2,2,53
+Fairfield,Norwalk 142A Fox Run,Treasurer,,Dem,Denise Nappier ,1066,52,16,1130
+Fairfield,Norwalk 142A Fox Run,Treasurer,,WF,Denise Nappier ,50,3,3,56
+Fairfield,Norwalk 142A Fox Run,Treasurer,,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 142B Ponus,Treasurer,,Rep,Tim Herbst ,988,44,8,1040
+Fairfield,Norwalk 142B Ponus,Treasurer,,Ind,Tim Herbst ,45,0,0,45
+Fairfield,Norwalk 142B Ponus,Treasurer,,Dem,Denise Nappier ,1033,43,12,1088
+Fairfield,Norwalk 142B Ponus,Treasurer,,WF,Denise Nappier ,44,3,1,48
+Fairfield,Norwalk 142B Ponus,Treasurer,,write-in,write-in,2,0,0,2
+Fairfield,Norwalk 142C West Rocks,Treasurer,,Rep,Tim Herbst ,788,38,7,833
+Fairfield,Norwalk 142C West Rocks,Treasurer,,Ind,Tim Herbst ,43,1,1,45
+Fairfield,Norwalk 142C West Rocks,Treasurer,,Dem,Denise Nappier ,851,43,12,906
+Fairfield,Norwalk 142C West Rocks,Treasurer,,WF,Denise Nappier ,44,2,3,49
+Fairfield,Norwalk 142C West Rocks,Treasurer,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 141A Roton,Treasurer,,Rep,Tim Herbst ,853,65,11,929
+Fairfield,Norwalk 141A Roton,Treasurer,,Ind,Tim Herbst ,32,3,0,35
+Fairfield,Norwalk 141A Roton,Treasurer,,Dem,Denise Nappier ,930,62,11,1003
+Fairfield,Norwalk 141A Roton,Treasurer,,WF,Denise Nappier ,22,0,2,24
+Fairfield,Norwalk 141A Roton,Treasurer,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 143A Nathan Hale,Treasurer,,Rep,Tim Herbst ,646,25,11,682
+Fairfield,Norwalk 143A Nathan Hale,Treasurer,,Ind,Tim Herbst ,36,0,0,36
+Fairfield,Norwalk 143A Nathan Hale,Treasurer,,Dem,Denise Nappier ,736,25,8,769
+Fairfield,Norwalk 143A Nathan Hale,Treasurer,,WF,Denise Nappier ,45,0,1,46
+Fairfield,Norwalk 143A Nathan Hale,Treasurer,,write-in,write-in,0,0,0,0
+Fairfield,Norwalk 143A Nathan Hale,Treasurer,,Rep,Tim Herbst ,933,46,1,980
+Fairfield,Norwalk 143B Wolfpit,Treasurer,,Ind,Tim Herbst ,39,2,0,41
+Fairfield,Norwalk 143B Wolfpit,Treasurer,,Dem,Denise Nappier ,825,23,6,854
+Fairfield,Norwalk 143B Wolfpit,Treasurer,,WF,Denise Nappier ,45,2,0,47
+Fairfield,Norwalk 143B Wolfpit,Treasurer,,write-in,write-in,1,0,0,1
+Fairfield,Norwalk 137A Marvin,Comptroller,,Rep,Sharon McLaughlin ,1052,63,15,1128
+Fairfield,Norwalk 137A Marvin,Comptroller,,Ind,Sharon McLaughlin ,52,4,1,57
+Fairfield,Norwalk 137A Marvin,Comptroller,,Dem,Kevin Lembo ,1323,63,28,1403
+Fairfield,Norwalk 137A Marvin,Comptroller,,WF,Kevin Lembo ,72,0,1,72
+Fairfield,Norwalk 137A Marvin,Comptroller,,Green,Rolf Maurer,47,1,2,50
+Fairfield,Norwalk 137A Marvin,Comptroller,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137B St Marys,Comptroller,,Rep,Sharon McLaughlin ,231,6,6,241
+Fairfield,Norwalk 137B St Marys,Comptroller,,Ind,Sharon McLaughlin ,23,1,0,24
+Fairfield,Norwalk 137B St Marys,Comptroller,,Dem,Kevin Lembo ,567,18,16,589
+Fairfield,Norwalk 137B St Marys,Comptroller,,WF,Kevin Lembo ,21,2,1,24
+Fairfield,Norwalk 137B St Marys,Comptroller,,Green,Rolf Maurer,15,0,1,16
+Fairfield,Norwalk 137B St Marys,Comptroller,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137C Tracey,Comptroller,,Rep,Sharon McLaughlin ,750,33,11,794
+Fairfield,Norwalk 137C Tracey,Comptroller,,Ind,Sharon McLaughlin ,43,2,1,46
+Fairfield,Norwalk 137C Tracey,Comptroller,,Dem,Kevin Lembo ,1048,33,15,1096
+Fairfield,Norwalk 137C Tracey,Comptroller,,WF,Kevin Lembo ,66,2,4,72
+Fairfield,Norwalk 137C Tracey,Comptroller,,Green,Rolf Maurer,33,0,1,34
+Fairfield,Norwalk 137C Tracey,Comptroller,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 140A Kendall,Comptroller,,Rep,Sharon McLaughlin ,388,16,3,407
+Fairfield,Norwalk 140A Kendall,Comptroller,,Ind,Sharon McLaughlin ,27,1,0,28
+Fairfield,Norwalk 140A Kendall,Comptroller,,Dem,Kevin Lembo ,791,14,8,795
+Fairfield,Norwalk 140A Kendall,Comptroller,,WF,Kevin Lembo ,31,0,0,30
+Fairfield,Norwalk 140A Kendall,Comptroller,,Green,Rolf Maurer,26,1,1,28
+Fairfield,Norwalk 140A Kendall,Comptroller,,Write-in,write-in,2,0,0,2
+Fairfield,Norwalk 140B Columbus,Comptroller,,Rep,Sharon McLaughlin ,219,8,4,231
+Fairfield,Norwalk 140B Columbus,Comptroller,,Ind,Sharon McLaughlin ,25,1,1,27
+Fairfield,Norwalk 140B Columbus,Comptroller,,Dem,Kevin Lembo ,1089,47,17,1153
+Fairfield,Norwalk 140B Columbus,Comptroller,,WF,Kevin Lembo ,40,8,1,49
+Fairfield,Norwalk 140B Columbus,Comptroller,,Green,Rolf Maurer,26,0,1,27
+Fairfield,Norwalk 140B Columbus,Comptroller,,Write-in,write-in,1,0,0,1
+Fairfield,Norwalk 140C Nathaniel Ely,Comptroller,,Rep,Sharon McLaughlin ,155,12,1,168
+Fairfield,Norwalk 140C Nathaniel Ely,Comptroller,,Ind,Sharon McLaughlin ,8,0,0,8
+Fairfield,Norwalk 140C Nathaniel Ely,Comptroller,,Dem,Kevin Lembo ,447,11,7,465
+Fairfield,Norwalk 140C Nathaniel Ely,Comptroller,,WF,Kevin Lembo ,21,3,0,24
+Fairfield,Norwalk 140C Nathaniel Ely,Comptroller,,Green,Rolf Maurer,8,0,0,8
+Fairfield,Norwalk 140C Nathaniel Ely,Comptroller,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 142A Fox Run,Comptroller,,Rep,Sharon McLaughlin ,1080,61,9,1150
+Fairfield,Norwalk 142A Fox Run,Comptroller,,Ind,Sharon McLaughlin ,61,3,2,66
+Fairfield,Norwalk 142A Fox Run,Comptroller,,Dem,Kevin Lembo ,975,49,15,1039
+Fairfield,Norwalk 142A Fox Run,Comptroller,,WF,Kevin Lembo ,51,1,2,54
+Fairfield,Norwalk 142A Fox Run,Comptroller,,Green,Rolf Maurer,42,2,2,46
+Fairfield,Norwalk 142A Fox Run,Comptroller,,Write-in,write-in,1,0,0,1
+Fairfield,Norwalk 142B Ponus,Comptroller,,Rep,Sharon McLaughlin ,1015,46,9,1070
+Fairfield,Norwalk 142B Ponus,Comptroller,,Ind,Sharon McLaughlin ,55,0,0,55
+Fairfield,Norwalk 142B Ponus,Comptroller,,Dem,Kevin Lembo ,947,38,10,986
+Fairfield,Norwalk 142B Ponus,Comptroller,,WF,Kevin Lembo ,32,3,1,36
+Fairfield,Norwalk 142B Ponus,Comptroller,,Green,Rolf Maurer,37,0,2,39
+Fairfield,Norwalk 142B Ponus,Comptroller,,Write-in,write-in,2,0,0,2
+Fairfield,Norwalk 142C West Rocks,Comptroller,,Rep,Sharon McLaughlin ,807,41,9,857
+Fairfield,Norwalk 142C West Rocks,Comptroller,,Ind,Sharon McLaughlin ,48,1,0,49
+Fairfield,Norwalk 142C West Rocks,Comptroller,,Dem,Kevin Lembo ,788,37,11,836
+Fairfield,Norwalk 142C West Rocks,Comptroller,,WF,Kevin Lembo ,40,1,2,43
+Fairfield,Norwalk 142C West Rocks,Comptroller,,Green,Rolf Maurer,25,1,1,27
+Fairfield,Norwalk 142C West Rocks,Comptroller,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 141A Roton,Comptroller,,Rep,Sharon McLaughlin ,854,64,12,930
+Fairfield,Norwalk 141A Roton,Comptroller,,Ind,Sharon McLaughlin ,30,3,1,34
+Fairfield,Norwalk 141A Roton,Comptroller,,Dem,Kevin Lembo ,884,62,10,956
+Fairfield,Norwalk 141A Roton,Comptroller,,WF,Kevin Lembo ,22,0,1,23
+Fairfield,Norwalk 141A Roton,Comptroller,,Green,Rolf Maurer,26,0,0,26
+Fairfield,Norwalk 141A Roton,Comptroller,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 143A Nathan Hale,Comptroller,,Rep,Sharon McLaughlin ,663,26,10,699
+Fairfield,Norwalk 143A Nathan Hale,Comptroller,,Ind,Sharon McLaughlin ,38,0,0,38
+Fairfield,Norwalk 143A Nathan Hale,Comptroller,,Dem,Kevin Lembo ,681,25,9,715
+Fairfield,Norwalk 143A Nathan Hale,Comptroller,,WF,Kevin Lembo ,31,0,1,32
+Fairfield,Norwalk 143A Nathan Hale,Comptroller,,Green,Rolf Maurer,25,0,0,25
+Fairfield,Norwalk 143A Nathan Hale,Comptroller,,Write-in,write-in,1,0,0,1
+Fairfield,Norwalk 143B Wolfpit,Comptroller,,Rep,Sharon McLaughlin ,969,45,2,1016
+Fairfield,Norwalk 143B Wolfpit,Comptroller,,Ind,Sharon McLaughlin ,40,1,0,41
+Fairfield,Norwalk 143B Wolfpit,Comptroller,,Dem,Kevin Lembo ,762,22,5,782
+Fairfield,Norwalk 143B Wolfpit,Comptroller,,WF,Kevin Lembo ,31,0,0,31
+Fairfield,Norwalk 143B Wolfpit,Comptroller,,Green,Rolf Maurer,29,4,0,33
+Fairfield,Norwalk 143B Wolfpit,Comptroller,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137A Marvin,Attorney General,,Rep,Kie Westby ,960,57,16,1033
+Fairfield,Norwalk 137A Marvin,Attorney General,,Ind,Kie Westby ,46,2,2,50
+Fairfield,Norwalk 137A Marvin,Attorney General,,Dem,George Jepsen ,1430,71,29,1530
+Fairfield,Norwalk 137A Marvin,Attorney General,,WF,George Jepsen ,81,1,1,83
+Fairfield,Norwalk 137A Marvin,Attorney General,,Green,Stephen Fournier,42,1,2,45
+Fairfield,Norwalk 137A Marvin,Attorney General,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137B St Marys,Attorney General,,Rep,Kie Westby ,204,4,6,214
+Fairfield,Norwalk 137B St Marys,Attorney General,,Ind,Kie Westby ,12,0,0,12
+Fairfield,Norwalk 137B St Marys,Attorney General,,Dem,George Jepsen ,597,18,17,632
+Fairfield,Norwalk 137B St Marys,Attorney General,,WF,George Jepsen ,22,2,0,24
+Fairfield,Norwalk 137B St Marys,Attorney General,,Green,Stephen Fournier,25,3,1,29
+Fairfield,Norwalk 137B St Marys,Attorney General,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 137C Tracey,Attorney General,,Rep,Kie Westby ,653,27,11,691
+Fairfield,Norwalk 137C Tracey,Attorney General,,Ind,Kie Westby ,30,2,0,32
+Fairfield,Norwalk 137C Tracey,Attorney General,,Dem,George Jepsen ,1183,39,16,1238
+Fairfield,Norwalk 137C Tracey,Attorney General,,WF,George Jepsen ,66,2,3,71
+Fairfield,Norwalk 137C Tracey,Attorney General,,Green,Stephen Fournier,31,0,1,32
+Fairfield,Norwalk 137C Tracey,Attorney General,,Write-in,write-in,2,0,0,2
+Fairfield,Norwalk 140A Kendall,Attorney General,,Rep,Kie Westby ,337,14,4,355
+Fairfield,Norwalk 140A Kendall,Attorney General,,Ind,Kie Westby ,22,1,0,23
+Fairfield,Norwalk 140A Kendall,Attorney General,,Dem,George Jepsen ,852,16,8,876
+Fairfield,Norwalk 140A Kendall,Attorney General,,WF,George Jepsen ,36,0,0,36
+Fairfield,Norwalk 140A Kendall,Attorney General,,Green,Stephen Fournier,23,2,1,26
+Fairfield,Norwalk 140A Kendall,Attorney General,,Write-in,write-in,2,0,0,2
+Fairfield,Norwalk 140B Columbus,Attorney General,,Rep,Kie Westby ,206,7,4,217
+Fairfield,Norwalk 140B Columbus,Attorney General,,Ind,Kie Westby ,16,1,1,18
+Fairfield,Norwalk 140B Columbus,Attorney General,,Dem,George Jepsen ,1124,48,18,1190
+Fairfield,Norwalk 140B Columbus,Attorney General,,WF,George Jepsen ,41,8,1,50
+Fairfield,Norwalk 140B Columbus,Attorney General,,Green,Stephen Fournier,28,0,0,28
+Fairfield,Norwalk 140B Columbus,Attorney General,,Write-in,write-in,1,0,0,1
+Fairfield,Norwalk 140C Nathaniel Ely,Attorney General,,Rep,Kie Westby ,141,11,1,153
+Fairfield,Norwalk 140C Nathaniel Ely,Attorney General,,Ind,Kie Westby ,4,0,0,4
+Fairfield,Norwalk 140C Nathaniel Ely,Attorney General,,Dem,George Jepsen ,459,13,7,461
+Fairfield,Norwalk 140C Nathaniel Ely,Attorney General,,WF,George Jepsen ,22,2,0,23
+Fairfield,Norwalk 140C Nathaniel Ely,Attorney General,,Green,Stephen Fournier,8,0,0,8
+Fairfield,Norwalk 140C Nathaniel Ely,Attorney General,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 142A Fox Run,Attorney General,,Rep,Kie Westby ,965,56,9,1030
+Fairfield,Norwalk 142A Fox Run,Attorney General,,Ind,Kie Westby ,39,2,0,41
+Fairfield,Norwalk 142A Fox Run,Attorney General,,Dem,George Jepsen ,1119,55,17,1186
+Fairfield,Norwalk 142A Fox Run,Attorney General,,WF,George Jepsen ,59,2,2,63
+Fairfield,Norwalk 142A Fox Run,Attorney General,,Green,Stephen Fournier,44,2,2,48
+Fairfield,Norwalk 142A Fox Run,Attorney General,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 142B Ponus,Attorney General,,Rep,Kie Westby ,922,43,7,972
+Fairfield,Norwalk 142B Ponus,Attorney General,,Ind,Kie Westby ,40,0,0,40
+Fairfield,Norwalk 142B Ponus,Attorney General,,Dem,George Jepsen ,1069,45,13,1127
+Fairfield,Norwalk 142B Ponus,Attorney General,,WF,George Jepsen ,36,2,1,39
+Fairfield,Norwalk 142B Ponus,Attorney General,,Green,Stephen Fournier,42,0,1,43
+Fairfield,Norwalk 142B Ponus,Attorney General,,Write-in,write-in,0,0,0,
+Fairfield,Norwalk 142C West Rocks,Attorney General,,Rep,Kie Westby ,730,35,8,772
+Fairfield,Norwalk 142C West Rocks,Attorney General,,Ind,Kie Westby ,31,1,1,33
+Fairfield,Norwalk 142C West Rocks,Attorney General,,Dem,George Jepsen ,896,42,12,944
+Fairfield,Norwalk 142C West Rocks,Attorney General,,WF,George Jepsen ,44,2,1,47
+Fairfield,Norwalk 142C West Rocks,Attorney General,,Green,Stephen Fournier,27,1,1,29
+Fairfield,Norwalk 142C West Rocks,Attorney General,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 141A Roton,Attorney General,,Rep,Kie Westby ,788,64,9,861
+Fairfield,Norwalk 141A Roton,Attorney General,,Ind,Kie Westby ,28,3,0,31
+Fairfield,Norwalk 141A Roton,Attorney General,,Dem,George Jepsen ,965,63,13,1041
+Fairfield,Norwalk 141A Roton,Attorney General,,WF,George Jepsen ,26,0,1,27
+Fairfield,Norwalk 141A Roton,Attorney General,,Green,Stephen Fournier,25,0,1,26
+Fairfield,Norwalk 141A Roton,Attorney General,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 143A Nathan Hale,Attorney General,,Rep,Kie Westby ,571,23,9,603
+Fairfield,Norwalk 143A Nathan Hale,Attorney General,,Ind,Kie Westby ,26,0,0,26
+Fairfield,Norwalk 143A Nathan Hale,Attorney General,,Dem,George Jepsen ,780,28,11,819
+Fairfield,Norwalk 143A Nathan Hale,Attorney General,,WF,George Jepsen ,35,0,0,35
+Fairfield,Norwalk 143A Nathan Hale,Attorney General,,Green,Stephen Fournier,32,0,0,32
+Fairfield,Norwalk 143A Nathan Hale,Attorney General,,Write-in,write-in,0,0,0,0
+Fairfield,Norwalk 143B Wolfpit,Attorney General,,Rep,Kie Westby ,867,41,1,909
+Fairfield,Norwalk 143B Wolfpit,Attorney General,,Ind,Kie Westby ,30,1,0,31
+Fairfield,Norwalk 143B Wolfpit,Attorney General,,Dem,George Jepsen ,886,28,6,914
+Fairfield,Norwalk 143B Wolfpit,Attorney General,,WF,George Jepsen ,39,0,0,39
+Fairfield,Norwalk 143B Wolfpit,Attorney General,,Green,Stephen Fournier,32,3,0,35
+Fairfield,Norwalk 143B Wolfpit,Attorney General,,Write-in,write-in,1,0,0,1
