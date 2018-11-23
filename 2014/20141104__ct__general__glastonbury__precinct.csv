@@ -1,0 +1,289 @@
+county,precinct,office,district,candidate,party,votes
+Hartford,Glastonbury 1,Governor,,Thomas Foley,Rep,1438
+Hartford,Glastonbury 2,Governor,,Thomas Foley,Rep,110
+Hartford,Glastonbury 3,Governor,,Thomas Foley,Rep,306
+Hartford,Glastonbury 4,Governor,,Thomas Foley,Rep,1006
+Hartford,Glastonbury 5,Governor,,Thomas Foley,Rep,1394
+Hartford,Glastonbury 7,Governor,,Thomas Foley,Rep,1505
+Hartford,Glastonbury 9,Governor,,Thomas Foley,Rep,1751
+Hartford,Glastonbury Total,Governor,,Thomas Foley,Rep,7510
+Hartford,Glastonbury 1,Governor,,Dannel Malloy,Dem,1580
+Hartford,Glastonbury 2,Governor,,Dannel Malloy,Dem,53
+Hartford,Glastonbury 3,Governor,,Dannel Malloy,Dem,264
+Hartford,Glastonbury 4,Governor,,Dannel Malloy,Dem,715
+Hartford,Glastonbury 5,Governor,,Dannel Malloy,Dem,860
+Hartford,Glastonbury 7,Governor,,Dannel Malloy,Dem,1537
+Hartford,Glastonbury 9,Governor,,Dannel Malloy,Dem,1289
+Hartford,Glastonbury Total,Governor,,Dannel Malloy,Dem,6298
+Hartford,Glastonbury 1,Governor,,Dannel Malloy,WF,54
+Hartford,Glastonbury 2,Governor,,Dannel Malloy,WF,4
+Hartford,Glastonbury 3,Governor,,Dannel Malloy,WF,12
+Hartford,Glastonbury 4,Governor,,Dannel Malloy,WF,19
+Hartford,Glastonbury 5,Governor,,Dannel Malloy,WF,29
+Hartford,Glastonbury 7,Governor,,Dannel Malloy,WF,49
+Hartford,Glastonbury 9,Governor,,Dannel Malloy,WF,42
+Hartford,Glastonbury Total,Governor,,Dannel Malloy,WF,209
+Hartford,Glastonbury 1,Governor,,Thomas Foley,Ind,74
+Hartford,Glastonbury 2,Governor,,Thomas Foley,Ind,4
+Hartford,Glastonbury 3,Governor,,Thomas Foley,Ind,12
+Hartford,Glastonbury 4,Governor,,Thomas Foley,Ind,36
+Hartford,Glastonbury 5,Governor,,Thomas Foley,Ind,49
+Hartford,Glastonbury 7,Governor,,Thomas Foley,Ind,72
+Hartford,Glastonbury 9,Governor,,Thomas Foley,Ind,47
+Hartford,Glastonbury Total,Governor,,Thomas Foley,Ind,294
+Hartford,Glastonbury 1,Governor,,Joe Visconti,Pet,31
+Hartford,Glastonbury 2,Governor,,Joe Visconti,Pet,2
+Hartford,Glastonbury 3,Governor,,Joe Visconti,Pet,2
+Hartford,Glastonbury 4,Governor,,Joe Visconti,Pet,8
+Hartford,Glastonbury 5,Governor,,Joe Visconti,Pet,20
+Hartford,Glastonbury 7,Governor,,Joe Visconti,Pet,31
+Hartford,Glastonbury 9,Governor,,Joe Visconti,Pet,22
+Hartford,Glastonbury Total,Governor,,Joe Visconti,Pet,116
+Hartford,Glastonbury 1,Governor,,Jonathan Pelto,write-in,2
+Hartford,Glastonbury 2,Governor,,Jonathan Pelto,write-in,0
+Hartford,Glastonbury 3,Governor,,Jonathan Pelto,write-in,0
+Hartford,Glastonbury 4,Governor,,Jonathan Pelto,write-in,3
+Hartford,Glastonbury 5,Governor,,Jonathan Pelto,write-in,1
+Hartford,Glastonbury 7,Governor,,Jonathan Pelto,write-in,6
+Hartford,Glastonbury 9,Governor,,Jonathan Pelto,write-in,0
+Hartford,Glastonbury Total,Governor,,Jonathan Pelto,write-in,12
+Hartford,Glastonbury 1,Governor,,John Renjillian,write-in,1
+Hartford,Glastonbury 1,US House,1,Matthew Corey,Rep,1110
+Hartford,Glastonbury 2,US House,2,Lori Hopkins-Cavanagh,Rep,92
+Hartford,Glastonbury 3,US House,2,Lori Hopkins-Cavanagh,Rep,253
+Hartford,Glastonbury 4,US House,1,Matthew Corey,Rep,805
+Hartford,Glastonbury 5,US House,1,Matthew Corey,Rep,1100
+Hartford,Glastonbury 7,US House,1,Matthew Corey,Rep,1177
+Hartford,Glastonbury 9,US House,1,Matthew Corey,Rep,1377
+Hartford,Glastonbury Total,US House,1,Matthew Corey,Rep,5569
+Hartford,Glastonbury Total,US House,2,Lori Hopkins-Cavanagh,Rep,345
+Hartford,Glastonbury 1,US House,1,John Larson,Dem,1854
+Hartford,Glastonbury 2,US House,2,Joe Courtney,Dem,69
+Hartford,Glastonbury 3,US House,2,Joe Courtney,Dem,311
+Hartford,Glastonbury 4,US House,1,John Larson,Dem,876
+Hartford,Glastonbury 5,US House,1,John Larson,Dem,1134
+Hartford,Glastonbury 7,US House,1,John Larson,Dem,1788
+Hartford,Glastonbury 9,US House,1,John Larson,Dem,1599
+Hartford,Glastonbury Total,US House,1,John Larson,Dem,7251
+Hartford,Glastonbury Total,US House,2,Joe Courtney,Dem,380
+Hartford,Glastonbury 1,US House,1,John Larson,WF,104
+Hartford,Glastonbury 2,US House,2,Joe Courtney,WF,4
+Hartford,Glastonbury 3,US House,2,Joe Courtney,WF,16
+Hartford,Glastonbury 4,US House,1,John Larson,WF,46
+Hartford,Glastonbury 5,US House,1,John Larson,WF,47
+Hartford,Glastonbury 7,US House,1,John Larson,WF,88
+Hartford,Glastonbury 9,US House,1,John Larson,WF,73
+Hartford,Glastonbury Total,US House,1,John Larson,WF,358
+Hartford,Glastonbury Total,US House,2,Joe Courtney,WF,20
+Hartford,Glastonbury 1,US House,1,Jeffery Russell,Green,56
+Hartford,Glastonbury 2,US House,2,William Clyde,Green,1
+Hartford,Glastonbury 3,US House,2,William Clyde,Green,4
+Hartford,Glastonbury 4,US House,1,Jeffery Russell,Green,15
+Hartford,Glastonbury 5,US House,1,Jeffery Russell,Green,31
+Hartford,Glastonbury 7,US House,1,Jeffery Russell,Green,44
+Hartford,Glastonbury 9,US House,1,Jeffery Russell,Green,38
+Hartford,Glastonbury Total,US House,1,Jeffery Russell,Green,184
+Hartford,Glastonbury Total,US House,2,William Clyde,Green,5
+Hartford,Glastonbury 2,US House,2,Daniel Reale,Lbt,4
+Hartford,Glastonbury 3,US House,2,Daniel Reale,Lbt,3
+Hartford,Glastonbury Total,US House,2,Daniel Reale,Lbt,7
+Hartford,Glastonbury 1,State Senate,4,Whit Osgood,Rep,1401
+Hartford,Glastonbury 2,State Senate,4,Whit Osgood,Rep,105
+Hartford,Glastonbury 3,State Senate,4,Whit Osgood,Rep,289
+Hartford,Glastonbury 4,State Senate,4,Whit Osgood,Rep,957
+Hartford,Glastonbury 5,State Senate,4,Whit Osgood,Rep,1397
+Hartford,Glastonbury 7,State Senate,4,Whit Osgood,Rep,1477
+Hartford,Glastonbury 9,State Senate,4,Whit Osgood,Rep,1711
+Hartford,Glastonbury Total,State Senate,4,Whit Osgood,Rep,7337
+Hartford,Glastonbury 1,State Senate,4,Steve Cassano,Dem,1527
+Hartford,Glastonbury 2,State Senate,4,Steve Cassano,Dem,54
+Hartford,Glastonbury 3,State Senate,4,Steve Cassano,Dem,267
+Hartford,Glastonbury 4,State Senate,4,Steve Cassano,Dem,698
+Hartford,Glastonbury 5,State Senate,4,Steve Cassano,Dem,821
+Hartford,Glastonbury 7,State Senate,4,Steve Cassano,Dem,1460
+Hartford,Glastonbury 9,State Senate,4,Steve Cassano,Dem,1236
+Hartford,Glastonbury Total,State Senate,4,Steve Cassano,Dem,6063
+Hartford,Glastonbury 1,State Senate,4,Whit Osgood,Ind,92
+Hartford,Glastonbury 2,State Senate,4,Whit Osgood,Ind,5
+Hartford,Glastonbury 3,State Senate,4,Whit Osgood,Ind,16
+Hartford,Glastonbury 4,State Senate,4,Whit Osgood,Ind,55
+Hartford,Glastonbury 5,State Senate,4,Whit Osgood,Ind,70
+Hartford,Glastonbury 7,State Senate,4,Whit Osgood,Ind,104
+Hartford,Glastonbury 9,State Senate,4,Whit Osgood,Ind,88
+Hartford,Glastonbury Total,State Senate,4,Whit Osgood,Ind,430
+Hartford,Glastonbury 1,State Senate,4,Steve Cassano,WF,88
+Hartford,Glastonbury 2,State Senate,4,Steve Cassano,WF,6
+Hartford,Glastonbury 3,State Senate,4,Steve Cassano,WF,16
+Hartford,Glastonbury 4,State Senate,4,Steve Cassano,WF,34
+Hartford,Glastonbury 5,State Senate,4,Steve Cassano,WF,34
+Hartford,Glastonbury 7,State Senate,4,Steve Cassano,WF,72
+Hartford,Glastonbury 9,State Senate,4,Steve Cassano,WF,57
+Hartford,Glastonbury Total,State Senate,4,Steve Cassano,WF,307
+Hartford,Glastonbury 1,State House,13,Mark Tweedle,Rep,1548
+Hartford,Glastonbury 3,State House,13,Mark Tweedle,Rep,318
+Hartford,Glastonbury Total,State House,13,Mark Tweedle,Rep,1866
+Hartford,Glastonbury 2,State House,31,Prasad Srinivasan,Rep,131
+Hartford,Glastonbury 4,State House,31,Prasad Srinivasan,Rep,1267
+Hartford,Glastonbury 5,State House,31,Prasad Srinivasan,Rep,1719
+Hartford,Glastonbury 7,State House,31,Prasad Srinivasan,Rep,1976
+Hartford,Glastonbury 9,State House,31,Prasad Srinivasan,Rep,2240
+Hartford,Glastonbury Total,State House,31,Prasad Srinivasan,Rep,7333
+Hartford,Glastonbury 2,State House,31,Prasad Srinivasan,Ind,16
+Hartford,Glastonbury 4,State House,31,Prasad Srinivasan,Ind,166
+Hartford,Glastonbury 5,State House,31,Prasad Srinivasan,Ind,209
+Hartford,Glastonbury 7,State House,31,Prasad Srinivasan,Ind,369
+Hartford,Glastonbury 9,State House,31,Prasad Srinivasan,Ind,302
+Hartford,Glastonbury Total,State House,31,Prasad Srinivasan,Ind,1062
+,,,,,,
+Hartford,Glastonbury 1,Secretary of State,,Peter Lumaj,Rep,1335
+Hartford,Glastonbury 2,Secretary of State,,Peter Lumaj,Rep,99
+Hartford,Glastonbury 3,Secretary of State,,Peter Lumaj,Rep,286
+Hartford,Glastonbury 4,Secretary of State,,Peter Lumaj,Rep,946
+Hartford,Glastonbury 5,Secretary of State,,Peter Lumaj,Rep,1292
+Hartford,Glastonbury 7,Secretary of State,,Peter Lumaj,Rep,1412
+Hartford,Glastonbury 9,Secretary of State,,Peter Lumaj,Rep,1630
+Hartford,Glastonbury Total,Secretary of State,,Peter Lumaj,Rep,7000
+Hartford,Glastonbury 1,Secretary of State,,Denise Merrill,Dem,1515
+Hartford,Glastonbury 2,Secretary of State,,Denise Merrill,Dem,56
+Hartford,Glastonbury 3,Secretary of State,,Denise Merrill,Dem,259
+Hartford,Glastonbury 4,Secretary of State,,Denise Merrill,Dem,680
+Hartford,Glastonbury 5,Secretary of State,,Denise Merrill,Dem,864
+Hartford,Glastonbury 7,Secretary of State,,Denise Merrill,Dem,1424
+Hartford,Glastonbury 9,Secretary of State,,Denise Merrill,Dem,1245
+Hartford,Glastonbury Total,Secretary of State,,Denise Merrill,Dem,6043
+Hartford,Glastonbury 1,Secretary of State,,Denise Merrill,WF,78
+Hartford,Glastonbury 2,Secretary of State,,Denise Merrill,WF,6
+Hartford,Glastonbury 3,Secretary of State,,Denise Merrill,WF,14
+Hartford,Glastonbury 4,Secretary of State,,Denise Merrill,WF,28
+Hartford,Glastonbury 5,Secretary of State,,Denise Merrill,WF,27
+Hartford,Glastonbury 7,Secretary of State,,Denise Merrill,WF,74
+Hartford,Glastonbury 9,Secretary of State,,Denise Merrill,WF,56
+Hartford,Glastonbury Total,Secretary of State,,Denise Merrill,WF,283
+Hartford,Glastonbury 1,Secretary of State,,Peter Lumaj,Ind,85
+Hartford,Glastonbury 2,Secretary of State,,Peter Lumaj,Ind,4
+Hartford,Glastonbury 3,Secretary of State,,Peter Lumaj,Ind,14
+Hartford,Glastonbury 4,Secretary of State,,Peter Lumaj,Ind,39
+Hartford,Glastonbury 5,Secretary of State,,Peter Lumaj,Ind,56
+Hartford,Glastonbury 7,Secretary of State,,Peter Lumaj,Ind,97
+Hartford,Glastonbury 9,Secretary of State,,Peter Lumaj,Ind,60
+Hartford,Glastonbury Total,Secretary of State,,Peter Lumaj,Ind,355
+Hartford,Glastonbury 1,Secretary of State,,Michael DeRosa,Green,69
+Hartford,Glastonbury 2,Secretary of State,,Michael DeRosa,Green,4
+Hartford,Glastonbury 3,Secretary of State,,Michael DeRosa,Green,9
+Hartford,Glastonbury 4,Secretary of State,,Michael DeRosa,Green,31
+Hartford,Glastonbury 5,Secretary of State,,Michael DeRosa,Green,54
+Hartford,Glastonbury 7,Secretary of State,,Michael DeRosa,Green,68
+Hartford,Glastonbury 9,Secretary of State,,Michael DeRosa,Green,65
+Hartford,Glastonbury Total,Secretary of State,,Michael DeRosa,Green,300
+Hartford,Glastonbury 1,State Treasurer,,Tim Herbst,Rep,1520
+Hartford,Glastonbury 2,State Treasurer,,Tim Herbst,Rep,108
+Hartford,Glastonbury 3,State Treasurer,,Tim Herbst,Rep,312
+Hartford,Glastonbury 4,State Treasurer,,Tim Herbst,Rep,1052
+Hartford,Glastonbury 5,State Treasurer,,Tim Herbst,Rep,1473
+Hartford,Glastonbury 7,State Treasurer,,Tim Herbst,Rep,1587
+Hartford,Glastonbury 9,State Treasurer,,Tim Herbst,Rep,1843
+Hartford,Glastonbury Total,State Treasurer,,Tim Herbst,Rep,7895
+Hartford,Glastonbury 1,State Treasurer,,Denise Nappier,Dem,1365
+Hartford,Glastonbury 2,State Treasurer,,Denise Nappier,Dem,47
+Hartford,Glastonbury 3,State Treasurer,,Denise Nappier,Dem,236
+Hartford,Glastonbury 4,State Treasurer,,Denise Nappier,Dem,593
+Hartford,Glastonbury 5,State Treasurer,,Denise Nappier,Dem,693
+Hartford,Glastonbury 7,State Treasurer,,Denise Nappier,Dem,1283
+Hartford,Glastonbury 9,State Treasurer,,Denise Nappier,Dem,1052
+Hartford,Glastonbury Total,State Treasurer,,Denise Nappier,Dem,5269
+Hartford,Glastonbury 1,State Treasurer,,Denise Nappier,WF,84
+Hartford,Glastonbury 2,State Treasurer,,Denise Nappier,WF,7
+Hartford,Glastonbury 3,State Treasurer,,Denise Nappier,WF,14
+Hartford,Glastonbury 4,State Treasurer,,Denise Nappier,WF,25
+Hartford,Glastonbury 5,State Treasurer,,Denise Nappier,WF,37
+Hartford,Glastonbury 7,State Treasurer,,Denise Nappier,WF,75
+Hartford,Glastonbury 9,State Treasurer,,Denise Nappier,WF,51
+Hartford,Glastonbury Total,State Treasurer,,Denise Nappier,WF,291
+Hartford,Glastonbury 1,State Treasurer,,Tim Herbst,Ind,114
+Hartford,Glastonbury 2,State Treasurer,,Tim Herbst,Ind,6
+Hartford,Glastonbury 3,State Treasurer,,Tim Herbst,Ind,17
+Hartford,Glastonbury 4,State Treasurer,,Tim Herbst,Ind,56
+Hartford,Glastonbury 5,State Treasurer,,Tim Herbst,Ind,93
+Hartford,Glastonbury 6,State Treasurer,,Tim Herbst,Ind,133
+Hartford,Glastonbury 7,State Treasurer,,Tim Herbst,Ind,111
+Hartford,Glastonbury 9,State Treasurer,,Tim Herbst,Ind,530
+Hartford,Glastonbury 1,Comptroller,,Sharon McLaughlin,Rep,1183
+Hartford,Glastonbury 2,Comptroller,,Sharon McLaughlin,Rep,97
+Hartford,Glastonbury 3,Comptroller,,Sharon McLaughlin,Rep,271
+Hartford,Glastonbury 4,Comptroller,,Sharon McLaughlin,Rep,871
+Hartford,Glastonbury 5,Comptroller,,Sharon McLaughlin,Rep,1194
+Hartford,Glastonbury 7,Comptroller,,Sharon McLaughlin,Rep,1232
+Hartford,Glastonbury 9,Comptroller,,Sharon McLaughlin,Rep,1466
+Hartford,Glastonbury Total,Comptroller,,Sharon McLaughlin,Rep,6314
+Hartford,Glastonbury 1,Comptroller,,Kevin Lembo,Dem,1643
+Hartford,Glastonbury 2,Comptroller,,Kevin Lembo,Dem,56
+Hartford,Glastonbury 3,Comptroller,,Kevin Lembo,Dem,266
+Hartford,Glastonbury 4,Comptroller,,Kevin Lembo,Dem,733
+Hartford,Glastonbury 5,Comptroller,,Kevin Lembo,Dem,945
+Hartford,Glastonbury 7,Comptroller,,Kevin Lembo,Dem,1575
+Hartford,Glastonbury 9,Comptroller,,Kevin Lembo,Dem,1378
+Hartford,Glastonbury Total,Comptroller,,Kevin Lembo,Dem,6596
+Hartford,Glastonbury 1,Comptroller,,Kevin Lembo,WF,78
+Hartford,Glastonbury 2,Comptroller,,Kevin Lembo,WF,6
+Hartford,Glastonbury 3,Comptroller,,Kevin Lembo,WF,15
+Hartford,Glastonbury 4,Comptroller,,Kevin Lembo,WF,24
+Hartford,Glastonbury 5,Comptroller,,Kevin Lembo,WF,32
+Hartford,Glastonbury 7,Comptroller,,Kevin Lembo,WF,72
+Hartford,Glastonbury 9,Comptroller,,Kevin Lembo,WF,66
+Hartford,Glastonbury Total,Comptroller,,Kevin Lembo,WF,293
+Hartford,Glastonbury 1,Comptroller,,Sharon McLaughlin,Ind,79
+Hartford,Glastonbury 2,Comptroller,,Sharon McLaughlin,Ind,2
+Hartford,Glastonbury 3,Comptroller,,Sharon McLaughlin,Ind,15
+Hartford,Glastonbury 4,Comptroller,,Sharon McLaughlin,Ind,47
+Hartford,Glastonbury 5,Comptroller,,Sharon McLaughlin,Ind,59
+Hartford,Glastonbury 7,Comptroller,,Sharon McLaughlin,Ind,85
+Hartford,Glastonbury 9,Comptroller,,Sharon McLaughlin,Ind,56
+Hartford,Glastonbury Total,Comptroller,,Sharon McLaughlin,Ind,343
+Hartford,Glastonbury 1,Comptroller,,Rolf Maurer,Green,55
+Hartford,Glastonbury 2,Comptroller,,Rolf Maurer,Green,1
+Hartford,Glastonbury 3,Comptroller,,Rolf Maurer,Green,8
+Hartford,Glastonbury 4,Comptroller,,Rolf Maurer,Green,18
+Hartford,Glastonbury 5,Comptroller,,Rolf Maurer,Green,26
+Hartford,Glastonbury 7,Comptroller,,Rolf Maurer,Green,50
+Hartford,Glastonbury 9,Comptroller,,Rolf Maurer,Green,38
+Hartford,Glastonbury Total,Comptroller,,Rolf Maurer,Green,196
+Hartford,Glastonbury 1,Attorney General,,Kie Westby,Rep,1052
+Hartford,Glastonbury 2,Attorney General,,Kie Westby,Rep,88
+Hartford,Glastonbury 3,Attorney General,,Kie Westby,Rep,241
+Hartford,Glastonbury 4,Attorney General,,Kie Westby,Rep,759
+Hartford,Glastonbury 5,Attorney General,,Kie Westby,Rep,1041
+Hartford,Glastonbury 7,Attorney General,,Kie Westby,Rep,1083
+Hartford,Glastonbury 9,Attorney General,,Kie Westby,Rep,1305
+Hartford,Glastonbury Total,Attorney General,,Kie Westby,Rep,5569
+Hartford,Glastonbury 1,Attorney General,,George Jepsen,Dem,1808
+Hartford,Glastonbury 2,Attorney General,,George Jepsen,Dem,68
+Hartford,Glastonbury 3,Attorney General,,George Jepsen,Dem,310
+Hartford,Glastonbury 4,Attorney General,,George Jepsen,Dem,867
+Hartford,Glastonbury 5,Attorney General,,George Jepsen,Dem,1122
+Hartford,Glastonbury 7,Attorney General,,George Jepsen,Dem,1763
+Hartford,Glastonbury 9,Attorney General,,George Jepsen,Dem,1591
+Hartford,Glastonbury Total,Attorney General,,George Jepsen,Dem,7529
+Hartford,Glastonbury 1,Attorney General,,George Jepsen,WF,84
+Hartford,Glastonbury 2,Attorney General,,George Jepsen,WF,6
+Hartford,Glastonbury 3,Attorney General,,George Jepsen,WF,20
+Hartford,Glastonbury 4,Attorney General,,George Jepsen,WF,28
+Hartford,Glastonbury 5,Attorney General,,George Jepsen,WF,34
+Hartford,Glastonbury 7,Attorney General,,George Jepsen,WF,74
+Hartford,Glastonbury 9,Attorney General,,George Jepsen,WF,68
+Hartford,Glastonbury Total,Attorney General,,George Jepsen,WF,314
+Hartford,Glastonbury 1,Attorney General,,Kie Westby,Ind,51
+Hartford,Glastonbury 2,Attorney General,,Kie Westby,Ind,2
+Hartford,Glastonbury 3,Attorney General,,Kie Westby,Ind,4
+Hartford,Glastonbury 4,Attorney General,,Kie Westby,Ind,34
+Hartford,Glastonbury 5,Attorney General,,Kie Westby,Ind,45
+Hartford,Glastonbury 7,Attorney General,,Kie Westby,Ind,70
+Hartford,Glastonbury 9,Attorney General,,Kie Westby,Ind,34
+Hartford,Glastonbury Total,Attorney General,,Kie Westby,Ind,240
+Hartford,Glastonbury 1,Attorney General,,Stephen Fournier,Green,77
+Hartford,Glastonbury 2,Attorney General,,Stephen Fournier,Green,2
+Hartford,Glastonbury 3,Attorney General,,Stephen Fournier,Green,4
+Hartford,Glastonbury 4,Attorney General,,Stephen Fournier,Green,24
+Hartford,Glastonbury 5,Attorney General,,Stephen Fournier,Green,41
+Hartford,Glastonbury 7,Attorney General,,Stephen Fournier,Green,65
+Hartford,Glastonbury 9,Attorney General,,Stephen Fournier,Green,56
+Hartford,Glastonbury Total,Attorney General,,Stephen Fournier,Green,269
