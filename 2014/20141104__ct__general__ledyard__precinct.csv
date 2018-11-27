@@ -1,0 +1,113 @@
+county,precinct,office,district,party,candidate,votes
+New London,Ledyard 1,Governor,,Rep,Thomas Foley,1399
+New London,Ledyard 2,Governor,,Rep,Thomas Foley,686
+New London,Ledyard 3,Governor,,Rep,Thomas Foley,407
+New London,Ledyard 1,Governor,,Ind,Thomas Foley,87
+New London,Ledyard 2,Governor,,Ind,Thomas Foley,40
+New London,Ledyard 3,Governor,,Ind,Thomas Foley,22
+New London,Ledyard 1,Governor,,Dem,Dannel Malloy,1094
+New London,Ledyard 2,Governor,,Dem,Dannel Malloy,674
+New London,Ledyard 3,Governor,,Dem,Dannel Malloy,408
+New London,Ledyard 1,Governor,,WF,Dannel Malloy,69
+New London,Ledyard 2,Governor,,WF,Dannel Malloy,46
+New London,Ledyard 3,Governor,,WF,Dannel Malloy,13
+New London,Ledyard 1,Governor,,Pet,Joe Visconti,41
+New London,Ledyard 2,Governor,,Pet,Joe Visconti,17
+New London,Ledyard 3,Governor,,Pet,Joe Visconti,14
+New London,Ledyard 1,Governor,,write-in,Jonathan Pelto,2
+New London,Ledyard 2,Governor,,write-in,Jonathan Pelto,2
+New London,Ledyard 3,Governor,,write-in,Jonathan Pelto,0
+New London,Ledyard 1,US House,2,Rep,Lori Hopkins-Cavanagh,1062
+New London,Ledyard 2,US House,2,Rep,Lori Hopkins-Cavanagh,460
+New London,Ledyard 3,US House,2,Rep,Lori Hopkins-Cavanagh,266
+New London,Ledyard 1,US House,2,Dem,Joe Courtney,1382
+New London,Ledyard 2,US House,2,Dem,Joe Courtney,862
+New London,Ledyard 3,US House,2,Dem,Joe Courtney,530
+New London,Ledyard 1,US House,2,WF,Joe Courtney,137
+New London,Ledyard 2,US House,2,WF,Joe Courtney,90
+New London,Ledyard 3,US House,2,WF,Joe Courtney,37
+New London,Ledyard 1,US House,2,Green,William Clyde,26
+New London,Ledyard 2,US House,2,Green,William Clyde,10
+New London,Ledyard 3,US House,2,Green,William Clyde,6
+New London,Ledyard 1,US House,2,Lbt,Daniel Reale,48
+New London,Ledyard 2,US House,2,Lbt,Daniel Reale,17
+New London,Ledyard 3,US House,2,Lbt,Daniel Reale,7
+New London,Ledyard 1,State Senate,19,Rep,Steven Everett,1206
+New London,Ledyard 2,State Senate,19,Rep,Steven Everett,627
+New London,Ledyard 3,State Senate,19,Rep,Steven Everett,358
+New London,Ledyard 1,State Senate,19,Ind,Steven Everett,103
+New London,Ledyard 2,State Senate,19,Ind,Steven Everett,32
+New London,Ledyard 3,State Senate,19,Ind,Steven Everett,33
+New London,Ledyard 1,State Senate,19,Dem,Catherine Osten,1163
+New London,Ledyard 2,State Senate,19,Dem,Catherine Osten,667
+New London,Ledyard 3,State Senate,19,Dem,Catherine Osten,422
+New London,Ledyard 1,State Senate,19,WF,Catherine Osten,117
+New London,Ledyard 2,State Senate,19,WF,Catherine Osten,73
+New London,Ledyard 3,State Senate,19,WF,Catherine Osten,22
+New London,Ledyard 1,State House,42,Rep,Mike France,1451
+New London,Ledyard 2,State House,42,Rep,Mike France,802
+New London,Ledyard 3,State House,40,Rep,John Scott,522
+New London,Ledyard 1,State House,42,Dem,Tim Bowles,941
+New London,Ledyard 2,State House,42,Dem,Tim Bowles,521
+New London,Ledyard 3,State House,40,Dem,Edward Moukawsher,315
+New London,Ledyard 1,State House,42,WF,Tim Bowles,86
+New London,Ledyard 2,State House,42,WF,Tim Bowles,43
+New London,Ledyard 1,State House,42,Ind,Mike France,143
+New London,Ledyard 2,State House,42,Ind,Mike France,58
+New London,Ledyard 1,Secretary of State,,Rep,Peter Lumaj,1300
+New London,Ledyard 2,Secretary of State,,Rep,Peter Lumaj,660
+New London,Ledyard 3,Secretary of State,,Rep,Peter Lumaj,368
+New London,Ledyard 1,Secretary of State,,Ind,Peter Lumaj,124
+New London,Ledyard 2,Secretary of State,,Ind,Peter Lumaj,36
+New London,Ledyard 3,Secretary of State,,Ind,Peter Lumaj,30
+New London,Ledyard 1,Secretary of State,,Dem,Denise Merrill,1011
+New London,Ledyard 2,Secretary of State,,Dem,Denise Merrill,610
+New London,Ledyard 3,Secretary of State,,Dem,Denise Merrill,391
+New London,Ledyard 1,Secretary of State,,WF,Denise Merrill,86
+New London,Ledyard 2,Secretary of State,,WF,Denise Merrill,55
+New London,Ledyard 3,Secretary of State,,WF,Denise Merrill,24
+New London,Ledyard 1,Secretary of State,,Green,Michael DeRosa,50
+New London,Ledyard 2,Secretary of State,,Green,Michael DeRosa,35
+New London,Ledyard 3,Secretary of State,,Green,Michael DeRosa,19
+New London,Ledyard 1,State Treasurer,,Rep,Tim Herbst,1298
+New London,Ledyard 2,State Treasurer,,Rep,Tim Herbst,679
+New London,Ledyard 3,State Treasurer,,Rep,Tim Herbst,367
+New London,Ledyard 1,State Treasurer,,Ind,Tim Herbst,133
+New London,Ledyard 2,State Treasurer,,Ind,Tim Herbst,46
+New London,Ledyard 3,State Treasurer,,Ind,Tim Herbst,39
+New London,Ledyard 1,State Treasurer,,Dem,Denise Nappier,1047
+New London,Ledyard 2,State Treasurer,,Dem,Denise Nappier,610
+New London,Ledyard 3,State Treasurer,,Dem,Denise Nappier,398
+New London,Ledyard 1,State Treasurer,,WF,Denise Nappier,97
+New London,Ledyard 2,State Treasurer,,WF,Denise Nappier,58
+New London,Ledyard 3,State Treasurer,,WF,Denise Nappier,23
+New London,Ledyard 1,Comptroller,,Rep,Sharon McLaughlin,1264
+New London,Ledyard 2,Comptroller,,Rep,Sharon McLaughlin,638
+New London,Ledyard 3,Comptroller,,Rep,Sharon McLaughlin,371
+New London,Ledyard 1,Comptroller,,Ind,Sharon McLaughlin,113
+New London,Ledyard 2,Comptroller,,Ind,Sharon McLaughlin,46
+New London,Ledyard 3,Comptroller,,Ind,Sharon McLaughlin,31
+New London,Ledyard 1,Comptroller,,Dem,Kevin Lembo,1007
+New London,Ledyard 2,Comptroller,,Dem,Kevin Lembo,600
+New London,Ledyard 3,Comptroller,,Dem,Kevin Lembo,378
+New London,Ledyard 1,Comptroller,,WF,Kevin Lembo,83
+New London,Ledyard 2,Comptroller,,WF,Kevin Lembo,41
+New London,Ledyard 3,Comptroller,,WF,Kevin Lembo,18
+New London,Ledyard 1,Comptroller,,Green,Rolf Maurer,46
+New London,Ledyard 2,Comptroller,,Green,Rolf Maurer,34
+New London,Ledyard 3,Comptroller,,Green,Rolf Maurer,13
+New London,Ledyard 1,Attorney General,,Rep,Kie Westby,1174
+New London,Ledyard 2,Attorney General,,Rep,Kie Westby,579
+New London,Ledyard 3,Attorney General,,Rep,Kie Westby,311
+New London,Ledyard 1,Attorney General,,Ind,Kie Westby,92
+New London,Ledyard 2,Attorney General,,Ind,Kie Westby,40
+New London,Ledyard 3,Attorney General,,Ind,Kie Westby,30
+New London,Ledyard 1,Attorney General,,Dem,George Jepsen,1130
+New London,Ledyard 2,Attorney General,,Dem,George Jepsen,679
+New London,Ledyard 3,Attorney General,,Dem,George Jepsen,429
+New London,Ledyard 1,Attorney General,,WF,George Jepsen,87
+New London,Ledyard 2,Attorney General,,WF,George Jepsen,39
+New London,Ledyard 3,Attorney General,,WF,George Jepsen,23
+New London,Ledyard 1,Attorney General,,Green,Stephen Fournier,65
+New London,Ledyard 2,Attorney General,,Green,Stephen Fournier,40
+New London,Ledyard 3,Attorney General,,Green,Stephen Fournier,20

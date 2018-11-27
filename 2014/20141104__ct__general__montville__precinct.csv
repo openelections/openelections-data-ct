@@ -1,0 +1,221 @@
+county,precinct,office,district,candidate,party,votes
+New London,Montville 1,Governor,,Thomas Foley,Rep,298
+New London,Montville 2,Governor,,Thomas Foley,Rep,407
+New London,Montville 3,Governor,,Thomas Foley,Rep,389
+New London,Montville 4,Governor,,Thomas Foley,Rep,998
+New London,Montville 5,Governor,,Thomas Foley,Rep,238
+New London,Montville 6,Governor,,Thomas Foley,Rep,227
+New London,Montville 1,Governor,,Dannel Malloy,Dem,352
+New London,Montville 2,Governor,,Dannel Malloy,Dem,401
+New London,Montville 3,Governor,,Dannel Malloy,Dem,336
+New London,Montville 4,Governor,,Dannel Malloy,Dem,837
+New London,Montville 5,Governor,,Dannel Malloy,Dem,257
+New London,Montville 6,Governor,,Dannel Malloy,Dem,184
+New London,Montville 1,Governor,,Dannel Malloy,WF,20
+New London,Montville 2,Governor,,Dannel Malloy,WF,21
+New London,Montville 3,Governor,,Dannel Malloy,WF,24
+New London,Montville 4,Governor,,Dannel Malloy,WF,57
+New London,Montville 5,Governor,,Dannel Malloy,WF,15
+New London,Montville 6,Governor,,Dannel Malloy,WF,16
+New London,Montville 1,Governor,,Thomas Foley,Ind,21
+New London,Montville 2,Governor,,Thomas Foley,Ind,25
+New London,Montville 3,Governor,,Thomas Foley,Ind,27
+New London,Montville 4,Governor,,Thomas Foley,Ind,65
+New London,Montville 5,Governor,,Thomas Foley,Ind,25
+New London,Montville 6,Governor,,Thomas Foley,Ind,20
+New London,Montville 1,Governor,,Joe Visconti,Pet,3
+New London,Montville 2,Governor,,Joe Visconti,Pet,13
+New London,Montville 3,Governor,,Joe Visconti,Pet,9
+New London,Montville 4,Governor,,Joe Visconti,Pet,27
+New London,Montville 5,Governor,,Joe Visconti,Pet,9
+New London,Montville 6,Governor,,Joe Visconti,Pet,7
+New London,Montville 1,US House,2,Lori Hopkins-Cavanagh,Rep,204
+New London,Montville 2,US House,2,Lori Hopkins-Cavanagh,Rep,277
+New London,Montville 3,US House,2,Lori Hopkins-Cavanagh,Rep,276
+New London,Montville 4,US House,2,Lori Hopkins-Cavanagh,Rep,687
+New London,Montville 5,US House,2,Lori Hopkins-Cavanagh,Rep,170
+New London,Montville 6,US House,2,Lori Hopkins-Cavanagh,Rep,164
+New London,Montville 1,US House,2,Joe Courtney,Dem,423
+New London,Montville 2,US House,2,Joe Courtney,Dem,518
+New London,Montville 3,US House,2,Joe Courtney,Dem,442
+New London,Montville 4,US House,2,Joe Courtney,Dem,1117
+New London,Montville 5,US House,2,Joe Courtney,Dem,323
+New London,Montville 6,US House,2,Joe Courtney,Dem,241
+New London,Montville 1,US House,2,Joe Courtney,WF,44
+New London,Montville 2,US House,2,Joe Courtney,WF,43
+New London,Montville 3,US House,2,Joe Courtney,WF,38
+New London,Montville 4,US House,2,Joe Courtney,WF,124
+New London,Montville 5,US House,2,Joe Courtney,WF,30
+New London,Montville 6,US House,2,Joe Courtney,WF,32
+New London,Montville 1,US House,2,William Clyde,Green,4
+New London,Montville 2,US House,2,William Clyde,Green,7
+New London,Montville 3,US House,2,William Clyde,Green,8
+New London,Montville 4,US House,2,William Clyde,Green,15
+New London,Montville 5,US House,2,William Clyde,Green,7
+New London,Montville 6,US House,2,William Clyde,Green,6
+New London,Montville 1,US House,2,Daniel Reale,Lbt,7
+New London,Montville 2,US House,2,Daniel Reale,Lbt,8
+New London,Montville 3,US House,2,Daniel Reale,Lbt,8
+New London,Montville 4,US House,2,Daniel Reale,Lbt,11
+New London,Montville 5,US House,2,Daniel Reale,Lbt,4
+New London,Montville 6,US House,2,Daniel Reale,Lbt,4
+New London,Montville 1,State Senate,20,Paul Formica,Rep,291
+New London,Montville 2,State Senate,19,Steven Everett,Rep,323
+New London,Montville 3,State Senate,20,Paul Formica,Rep,411
+New London,Montville 4,State Senate,20,Paul Formica,Rep,1022
+New London,Montville 5,State Senate,19,Steven Everett,Rep,179
+New London,Montville 6,State Senate,20,Paul Formica,Rep,224
+New London,Montville 1,State Senate,20,Elizabeth Ritter,Dem,341
+New London,Montville 2,State Senate,19,Catherine Osten,Dem,459
+New London,Montville 3,State Senate,20,Elizabeth Ritter,Dem,298
+New London,Montville 4,State Senate,20,Elizabeth Ritter,Dem,736
+New London,Montville 5,State Senate,19,Catherine Osten,Dem,300
+New London,Montville 6,State Senate,20,Elizabeth Ritter,Dem,165
+New London,Montville 1,State Senate,20,Elizabeth Ritter,WF,27
+New London,Montville 2,State Senate,19,Catherine Osten,WF,34
+New London,Montville 3,State Senate,20,Elizabeth Ritter,WF,29
+New London,Montville 4,State Senate,20,Elizabeth Ritter,WF,66
+New London,Montville 5,State Senate,19,Catherine Osten,WF,33
+New London,Montville 6,State Senate,20,Elizabeth Ritter,WF,26
+New London,Montville 1,State Senate,20,Paul Formica,Ind,26
+New London,Montville 2,State Senate,19,Steven Everett,Ind,28
+New London,Montville 3,State Senate,20,Paul Formica,Ind,35
+New London,Montville 4,State Senate,20,Paul Formica,Ind,111
+New London,Montville 5,State Senate,19,Steven Everett,Ind,14
+New London,Montville 6,State Senate,20,Paul Formica,Ind,28
+New London,Montville 1,State House,38,Kathleen McCarty,Rep,315
+New London,Montville 3,State House,38,Kathleen McCarty,Rep,361
+New London,Montville 1,State House,38,Kathleen McCarty,Ind,34
+New London,Montville 3,State House,38,Kathleen McCarty,Ind,41
+New London,Montville 1,State House,38,Marc Balestracci,Dem,312
+New London,Montville 3,State House,38,Marc Balestracci,Dem,336
+New London,Montville 1,State House,38,Billy Jean Collins,Green,14
+New London,Montville 3,State House,38,Billy Jean Collins,Green,7
+New London,Montville 2,State House,42,Mike France,Rep,405
+New London,Montville 6,State House,42,Mike France,Rep,237
+New London,Montville 2,State House,42,Mike France,Ind,46
+New London,Montville 6,State House,42,Mike France,Ind,28
+New London,Montville 2,State House,42,Tim Bowles,Dem,367
+New London,Montville 6,State House,42,Tim Bowles,Dem,147
+New London,Montville 2,State House,42,Tim Bowles,WF,20
+New London,Montville 6,State House,42,Tim Bowles,WF,15
+New London,Montville 4,State House,139,Jonathan Gilman,Rep,751
+New London,Montville 5,State House,139,Jonathan Gilman,Rep,177
+New London,Montville 4,State House,139,Kevin Ryan,Dem,1044
+New London,Montville 5,State House,139,Kevin Ryan,Dem,312
+New London,Montville 4,State House,139,Kevin Ryan,WF,128
+New London,Montville 5,State House,139,Kevin Ryan,WF,38
+New London,Montville 1,Secretary of State,,Peter Lumaj,Rep,275
+New London,Montville 2,Secretary of State,,Peter Lumaj,Rep,363
+New London,Montville 3,Secretary of State,,Peter Lumaj,Rep,353
+New London,Montville 4,Secretary of State,,Peter Lumaj,Rep,900
+New London,Montville 5,Secretary of State,,Peter Lumaj,Rep,216
+New London,Montville 6,Secretary of State,,Peter Lumaj,Rep,192
+New London,Montville 1,Secretary of State,,Denise Merrill,Dem,332
+New London,Montville 2,Secretary of State,,Denise Merrill,Dem,388
+New London,Montville 3,Secretary of State,,Denise Merrill,Dem,332
+New London,Montville 4,Secretary of State,,Denise Merrill,Dem,827
+New London,Montville 5,Secretary of State,,Denise Merrill,Dem,251
+New London,Montville 6,Secretary of State,,Denise Merrill,Dem,185
+New London,Montville 1,Secretary of State,,Denise Merrill,WF,24
+New London,Montville 2,Secretary of State,,Denise Merrill,WF,29
+New London,Montville 3,Secretary of State,,Denise Merrill,WF,31
+New London,Montville 4,Secretary of State,,Denise Merrill,WF,73
+New London,Montville 5,Secretary of State,,Denise Merrill,WF,17
+New London,Montville 6,Secretary of State,,Denise Merrill,WF,21
+New London,Montville 1,Secretary of State,,Peter Lumaj,Ind,24
+New London,Montville 2,Secretary of State,,Peter Lumaj,Ind,34
+New London,Montville 3,Secretary of State,,Peter Lumaj,Ind,26
+New London,Montville 4,Secretary of State,,Peter Lumaj,Ind,83
+New London,Montville 5,Secretary of State,,Peter Lumaj,Ind,25
+New London,Montville 6,Secretary of State,,Peter Lumaj,Ind,16
+New London,Montville 1,Secretary of State,,Michael DeRosa,Green,14
+New London,Montville 2,Secretary of State,,Michael DeRosa,Green,23
+New London,Montville 3,Secretary of State,,Michael DeRosa,Green,13
+New London,Montville 4,Secretary of State,,Michael DeRosa,Green,26
+New London,Montville 5,Secretary of State,,Michael DeRosa,Green,9
+New London,Montville 6,Secretary of State,,Michael DeRosa,Green,15
+New London,Montville 1,State Treasurer,,Tim Herbst,Rep,266
+New London,Montville 2,State Treasurer,,Tim Herbst,Rep,374
+New London,Montville 3,State Treasurer,,Tim Herbst,Rep,340
+New London,Montville 4,State Treasurer,,Tim Herbst,Rep,873
+New London,Montville 5,State Treasurer,,Tim Herbst,Rep,210
+New London,Montville 6,State Treasurer,,Tim Herbst,Rep,199
+New London,Montville 1,State Treasurer,,Denise Nappier,Dem,350
+New London,Montville 2,State Treasurer,,Denise Nappier,Dem,398
+New London,Montville 3,State Treasurer,,Denise Nappier,Dem,347
+New London,Montville 4,State Treasurer,,Denise Nappier,Dem,864
+New London,Montville 5,State Treasurer,,Denise Nappier,Dem,255
+New London,Montville 6,State Treasurer,,Denise Nappier,Dem,180
+New London,Montville 1,State Treasurer,,Denise Nappier,WF,27
+New London,Montville 2,State Treasurer,,Denise Nappier,WF,27
+New London,Montville 3,State Treasurer,,Denise Nappier,WF,39
+New London,Montville 4,State Treasurer,,Denise Nappier,WF,76
+New London,Montville 5,State Treasurer,,Denise Nappier,WF,26
+New London,Montville 6,State Treasurer,,Denise Nappier,WF,20
+New London,Montville 1,State Treasurer,,Tim Herbst,Ind,23
+New London,Montville 2,State Treasurer,,Tim Herbst,Ind,40
+New London,Montville 3,State Treasurer,,Tim Herbst,Ind,30
+New London,Montville 4,State Treasurer,,Tim Herbst,Ind,90
+New London,Montville 5,State Treasurer,,Tim Herbst,Ind,27
+New London,Montville 6,State Treasurer,,Tim Herbst,Ind,24
+New London,Montville 1,Comptroller,,Sharon McLaughlin,Rep,257
+New London,Montville 2,Comptroller,,Sharon McLaughlin,Rep,344
+New London,Montville 3,Comptroller,,Sharon McLaughlin,Rep,324
+New London,Montville 4,Comptroller,,Sharon McLaughlin,Rep,869
+New London,Montville 5,Comptroller,,Sharon McLaughlin,Rep,197
+New London,Montville 6,Comptroller,,Sharon McLaughlin,Rep,199
+New London,Montville 1,Comptroller,,Kevin Lembo,Dem,331
+New London,Montville 2,Comptroller,,Kevin Lembo,Dem,399
+New London,Montville 3,Comptroller,,Kevin Lembo,Dem,335
+New London,Montville 4,Comptroller,,Kevin Lembo,Dem,827
+New London,Montville 5,Comptroller,,Kevin Lembo,Dem,257
+New London,Montville 6,Comptroller,,Kevin Lembo,Dem,170
+New London,Montville 1,Comptroller,,Kevin Lembo,WF,23
+New London,Montville 2,Comptroller,,Kevin Lembo,WF,27
+New London,Montville 3,Comptroller,,Kevin Lembo,WF,29
+New London,Montville 4,Comptroller,,Kevin Lembo,WF,69
+New London,Montville 5,Comptroller,,Kevin Lembo,WF,26
+New London,Montville 6,Comptroller,,Kevin Lembo,WF,16
+New London,Montville 1,Comptroller,,Sharon McLaughlin,Ind,27
+New London,Montville 2,Comptroller,,Sharon McLaughlin,Ind,40
+New London,Montville 3,Comptroller,,Sharon McLaughlin,Ind,32
+New London,Montville 4,Comptroller,,Sharon McLaughlin,Ind,74
+New London,Montville 5,Comptroller,,Sharon McLaughlin,Ind,22
+New London,Montville 6,Comptroller,,Sharon McLaughlin,Ind,23
+New London,Montville 1,Comptroller,,Rolf Maurer,Green,15
+New London,Montville 2,Comptroller,,Rolf Maurer,Green,15
+New London,Montville 3,Comptroller,,Rolf Maurer,Green,16
+New London,Montville 4,Comptroller,,Rolf Maurer,Green,25
+New London,Montville 5,Comptroller,,Rolf Maurer,Green,8
+New London,Montville 6,Comptroller,,Rolf Maurer,Green,11
+New London,Montville 1,Attorney General,,Kie Westby,Rep,230
+New London,Montville 2,Attorney General,,Kie Westby,Rep,313
+New London,Montville 3,Attorney General,,Kie Westby,Rep,307
+New London,Montville 4,Attorney General,,Kie Westby,Rep,793
+New London,Montville 5,Attorney General,,Kie Westby,Rep,186
+New London,Montville 6,Attorney General,,Kie Westby,Rep,182
+New London,Montville 1,Attorney General,,George Jepsen,Dem,362
+New London,Montville 2,Attorney General,,George Jepsen,Dem,447
+New London,Montville 3,Attorney General,,George Jepsen,Dem,374
+New London,Montville 4,Attorney General,,George Jepsen,Dem,925
+New London,Montville 5,Attorney General,,George Jepsen,Dem,273
+New London,Montville 6,Attorney General,,George Jepsen,Dem,189
+New London,Montville 1,Attorney General,,George Jepsen,WF,31
+New London,Montville 2,Attorney General,,George Jepsen,WF,27
+New London,Montville 3,Attorney General,,George Jepsen,WF,27
+New London,Montville 4,Attorney General,,George Jepsen,WF,70
+New London,Montville 5,Attorney General,,George Jepsen,WF,29
+New London,Montville 6,Attorney General,,George Jepsen,WF,22
+New London,Montville 1,Attorney General,,Kie Westby,Ind,16
+New London,Montville 2,Attorney General,,Kie Westby,Ind,22
+New London,Montville 3,Attorney General,,Kie Westby,Ind,16
+New London,Montville 4,Attorney General,,Kie Westby,Ind,59
+New London,Montville 5,Attorney General,,Kie Westby,Ind,21
+New London,Montville 6,Attorney General,,Kie Westby,Ind,14
+New London,Montville 1,Attorney General,,Stephen Fournier,Green,24
+New London,Montville 2,Attorney General,,Stephen Fournier,Green,19
+New London,Montville 3,Attorney General,,Stephen Fournier,Green,24
+New London,Montville 4,Attorney General,,Stephen Fournier,Green,45
+New London,Montville 5,Attorney General,,Stephen Fournier,Green,11
+New London,Montville 6,Attorney General,,Stephen Fournier,Green,19
