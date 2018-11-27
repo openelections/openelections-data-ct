@@ -1,0 +1,264 @@
+county,precinct,office,district,candidate,party,votes
+New Haven,East Haven 1,Governor,,Thomas Foley,Rep,645
+New Haven,East Haven 1S,Governor,,Thomas Foley,Rep,20
+New Haven,East Haven 2,Governor,,Thomas Foley,Rep,746
+New Haven,East Haven 3,Governor,,Thomas Foley,Rep,652
+New Haven,East Haven 3S,Governor,,Thomas Foley,Rep,98
+New Haven,East Haven 4,Governor,,Thomas Foley,Rep,678
+New Haven,East Haven 5,Governor,,Thomas Foley,Rep,687
+New Haven,East Haven 5S,Governor,,Thomas Foley,Rep,22
+New Haven,East Haven 1,Governor,,Dannel Malloy,Dem,815
+New Haven,East Haven 1S,Governor,,Dannel Malloy,Dem,90
+New Haven,East Haven 2,Governor,,Dannel Malloy,Dem,943
+New Haven,East Haven 3,Governor,,Dannel Malloy,Dem,673
+New Haven,East Haven 3S,Governor,,Dannel Malloy,Dem,91
+New Haven,East Haven 4,Governor,,Dannel Malloy,Dem,772
+New Haven,East Haven 5,Governor,,Dannel Malloy,Dem,703
+New Haven,East Haven 5S,Governor,,Dannel Malloy,Dem,54
+New Haven,East Haven 1,Governor,,Dannel Malloy,WF,39
+New Haven,East Haven 1S,Governor,,Dannel Malloy,WF,4
+New Haven,East Haven 2,Governor,,Dannel Malloy,WF,35
+New Haven,East Haven 3,Governor,,Dannel Malloy,WF,20
+New Haven,East Haven 3S,Governor,,Dannel Malloy,WF,3
+New Haven,East Haven 4,Governor,,Dannel Malloy,WF,38
+New Haven,East Haven 5,Governor,,Dannel Malloy,WF,43
+New Haven,East Haven 5S,Governor,,Dannel Malloy,WF,0
+New Haven,East Haven 1,Governor,,Thomas Foley,Ind,23
+New Haven,East Haven 1S,Governor,,Thomas Foley,Ind,1
+New Haven,East Haven 2,Governor,,Thomas Foley,Ind,39
+New Haven,East Haven 3,Governor,,Thomas Foley,Ind,26
+New Haven,East Haven 3S,Governor,,Thomas Foley,Ind,1
+New Haven,East Haven 4,Governor,,Thomas Foley,Ind,28
+New Haven,East Haven 5,Governor,,Thomas Foley,Ind,18
+New Haven,East Haven 5S,Governor,,Thomas Foley,Ind,1
+New Haven,East Haven 1,Governor,,Joe Visconti,PC,15
+New Haven,East Haven 1S,Governor,,Joe Visconti,PC,0
+New Haven,East Haven 2,Governor,,Joe Visconti,PC,22
+New Haven,East Haven 3,Governor,,Joe Visconti,PC,16
+New Haven,East Haven 3S,Governor,,Joe Visconti,PC,1
+New Haven,East Haven 4,Governor,,Joe Visconti,PC,12
+New Haven,East Haven 5,Governor,,Joe Visconti,PC,18
+New Haven,East Haven 5S,Governor,,Joe Visconti,PC,0
+New Haven,East Haven 1,US House,3,James Brown,Rep,483
+New Haven,East Haven 1S,US House,3,James Brown,Rep,11
+New Haven,East Haven 2,US House,3,James Brown,Rep,526
+New Haven,East Haven 3,US House,3,James Brown,Rep,457
+New Haven,East Haven 3S,US House,3,James Brown,Rep,83
+New Haven,East Haven 4,US House,3,James Brown,Rep,492
+New Haven,East Haven 5,US House,3,James Brown,Rep,501
+New Haven,East Haven 5S,US House,3,James Brown,Rep,13
+New Haven,East Haven 1,US House,3,Rosa DeLauro,Dem,946
+New Haven,East Haven 1S,US House,3,Rosa DeLauro,Dem,89
+New Haven,East Haven 2,US House,3,Rosa DeLauro,Dem,1133
+New Haven,East Haven 3,US House,3,Rosa DeLauro,Dem,827
+New Haven,East Haven 3S,US House,3,Rosa DeLauro,Dem,98
+New Haven,East Haven 4,US House,3,Rosa DeLauro,Dem,926
+New Haven,East Haven 5,US House,3,Rosa DeLauro,Dem,842
+New Haven,East Haven 5S,US House,3,Rosa DeLauro,Dem,54
+New Haven,East Haven 1,US House,3,Rosa DeLauro,WF,81
+New Haven,East Haven 1S,US House,3,Rosa DeLauro,WF,6
+New Haven,East Haven 2,US House,3,Rosa DeLauro,WF,81
+New Haven,East Haven 3,US House,3,Rosa DeLauro,WF,61
+New Haven,East Haven 3S,US House,3,Rosa DeLauro,WF,5
+New Haven,East Haven 4,US House,3,Rosa DeLauro,WF,67
+New Haven,East Haven 5,US House,3,Rosa DeLauro,WF,84
+New Haven,East Haven 5S,US House,3,Rosa DeLauro,WF,5
+New Haven,East Haven 1,State Senate,34,Len Fasano,Rep,755
+New Haven,East Haven 1S,State Senate,34,Len Fasano,Rep,30
+New Haven,East Haven 2,State Senate,34,Len Fasano,Rep,893
+New Haven,East Haven 3,State Senate,34,Len Fasano,Rep,756
+New Haven,East Haven 3S,State Senate,34,Len Fasano,Rep,105
+New Haven,East Haven 4,State Senate,34,Len Fasano,Rep,738
+New Haven,East Haven 5,State Senate,34,Len Fasano,Rep,785
+New Haven,East Haven 5S,State Senate,34,Len Fasano,Rep,20
+New Haven,East Haven 1,State Senate,34,Len Fasano,Ind,152
+New Haven,East Haven 1S,State Senate,34,Len Fasano,Ind,6
+New Haven,East Haven 2,State Senate,34,Len Fasano,Ind,162
+New Haven,East Haven 3,State Senate,34,Len Fasano,Ind,132
+New Haven,East Haven 3S,State Senate,34,Len Fasano,Ind,8
+New Haven,East Haven 4,State Senate,34,Len Fasano,Ind,126
+New Haven,East Haven 5,State Senate,34,Len Fasano,Ind,121
+New Haven,East Haven 5S,State Senate,34,Len Fasano,Ind,4
+New Haven,East Haven 1,State House,99,Stacy Gravino,Rep,469
+New Haven,East Haven 1S,State House,99,Stacy Gravino,Rep,20
+New Haven,East Haven 2,State House,99,Stacy Gravino,Rep,576
+New Haven,East Haven 3S,State House,99,Stacy Gravino,Rep,77
+New Haven,East Haven 4,State House,99,Stacy Gravino,Rep,500
+New Haven,East Haven 5,State House,99,Stacy Gravino,Rep,501
+New Haven,East Haven 5S,State House,99,Stacy Gravino,Rep,12
+New Haven,East Haven 1,State House,99,James Albis,Dem,946
+New Haven,East Haven 1S,State House,99,James Albis,Dem,84
+New Haven,East Haven 2,State House,99,James Albis,Dem,1074
+New Haven,East Haven 3,State House,96,Roland Lemar,Dem,709
+New Haven,East Haven 3S,State House,99,James Albis,Dem,106
+New Haven,East Haven 4,State House,99,James Albis,Dem,889
+New Haven,East Haven 5,State House,99,James Albis,Dem,828
+New Haven,East Haven 5S,State House,99,James Albis,Dem,55
+New Haven,East Haven 1,State House,99,James Albis,WF,56
+New Haven,East Haven 1S,State House,99,James Albis,WF,3
+New Haven,East Haven 2,State House,99,James Albis,WF,53
+New Haven,East Haven 3,State House,96,Roland Lemar,WF,119
+New Haven,East Haven 3S,State House,99,James Albis,WF,4
+New Haven,East Haven 4,State House,99,James Albis,WF,55
+New Haven,East Haven 5,State House,99,James Albis,WF,55
+New Haven,East Haven 5S,State House,99,James Albis,WF,0
+New Haven,East Haven 1,State House,99,James Albis,Ind,42
+New Haven,East Haven 1S,State House,99,James Albis,Ind,2
+New Haven,East Haven 2,State House,99,James Albis,Ind,53
+New Haven,East Haven 3S,State House,99,James Albis,Ind,3
+New Haven,East Haven 4,State House,99,James Albis,Ind,51
+New Haven,East Haven 5,State House,99,James Albis,Ind,45
+New Haven,East Haven 5S,State House,99,James Albis,Ind,0
+,,,,,,
+New Haven,East Haven 1,Secretary of State,,Peter Lumaj,Rep,597
+New Haven,East Haven 1S,Secretary of State,,Peter Lumaj,Rep,20
+New Haven,East Haven 2,Secretary of State,,Peter Lumaj,Rep,642
+New Haven,East Haven 3,Secretary of State,,Peter Lumaj,Rep,562
+New Haven,East Haven 3S,Secretary of State,,Peter Lumaj,Rep,89
+New Haven,East Haven 4,Secretary of State,,Peter Lumaj,Rep,570
+New Haven,East Haven 5,Secretary of State,,Peter Lumaj,Rep,594
+New Haven,East Haven 5S,Secretary of State,,Peter Lumaj,Rep,12
+New Haven,East Haven 1,Secretary of State,,Denise Merrill,Dem,749
+New Haven,East Haven 1S,Secretary of State,,Denise Merrill,Dem,68
+New Haven,East Haven 2,Secretary of State,,Denise Merrill,Dem,901
+New Haven,East Haven 3,Secretary of State,,Denise Merrill,Dem,592
+New Haven,East Haven 3S,Secretary of State,,Denise Merrill,Dem,86
+New Haven,East Haven 4,Secretary of State,,Denise Merrill,Dem,721
+New Haven,East Haven 5,Secretary of State,,Denise Merrill,Dem,636
+New Haven,East Haven 5S,Secretary of State,,Denise Merrill,Dem,50
+New Haven,East Haven 1,Secretary of State,,Denise Merrill,WF,41
+New Haven,East Haven 1S,Secretary of State,,Denise Merrill,WF,3
+New Haven,East Haven 2,Secretary of State,,Denise Merrill,WF,48
+New Haven,East Haven 3,Secretary of State,,Denise Merrill,WF,40
+New Haven,East Haven 3S,Secretary of State,,Denise Merrill,WF,8
+New Haven,East Haven 4,Secretary of State,,Denise Merrill,WF,49
+New Haven,East Haven 5,Secretary of State,,Denise Merrill,WF,63
+New Haven,East Haven 5S,Secretary of State,,Denise Merrill,WF,0
+New Haven,East Haven 1,Secretary of State,,Peter Lumaj,Ind,38
+New Haven,East Haven 1S,Secretary of State,,Peter Lumaj,Ind,1
+New Haven,East Haven 2,Secretary of State,,Peter Lumaj,Ind,58
+New Haven,East Haven 3,Secretary of State,,Peter Lumaj,Ind,40
+New Haven,East Haven 3S,Secretary of State,,Peter Lumaj,Ind,2
+New Haven,East Haven 4,Secretary of State,,Peter Lumaj,Ind,43
+New Haven,East Haven 5,Secretary of State,,Peter Lumaj,Ind,32
+New Haven,East Haven 5S,Secretary of State,,Peter Lumaj,Ind,1
+New Haven,East Haven 1,Secretary of State,,Michael DeRosa,Green,29
+New Haven,East Haven 1S,Secretary of State,,Michael DeRosa,Green,3
+New Haven,East Haven 2,Secretary of State,,Michael DeRosa,Green,33
+New Haven,East Haven 3,Secretary of State,,Michael DeRosa,Green,40
+New Haven,East Haven 3S,Secretary of State,,Michael DeRosa,Green,0
+New Haven,East Haven 4,Secretary of State,,Michael DeRosa,Green,39
+New Haven,East Haven 5,Secretary of State,,Michael DeRosa,Green,49
+New Haven,East Haven 5S,Secretary of State,,Michael DeRosa,Green,2
+New Haven,East Haven 1,State Treasurer,,Tim Herbst,Rep,591
+New Haven,East Haven 1S,State Treasurer,,Tim Herbst,Rep,14
+New Haven,East Haven 2,State Treasurer,,Tim Herbst,Rep,645
+New Haven,East Haven 3,State Treasurer,,Tim Herbst,Rep,555
+New Haven,East Haven 3S,State Treasurer,,Tim Herbst,Rep,96
+New Haven,East Haven 4,State Treasurer,,Tim Herbst,Rep,585
+New Haven,East Haven 5,State Treasurer,,Tim Herbst,Rep,590
+New Haven,East Haven 5S,State Treasurer,,Tim Herbst,Rep,13
+New Haven,East Haven 1,State Treasurer,,Denise Nappier,Dem,765
+New Haven,East Haven 1S,State Treasurer,,Denise Nappier,Dem,74
+New Haven,East Haven 2,State Treasurer,,Denise Nappier,Dem,933
+New Haven,East Haven 3,State Treasurer,,Denise Nappier,Dem,626
+New Haven,East Haven 3S,State Treasurer,,Denise Nappier,Dem,81
+New Haven,East Haven 4,State Treasurer,,Denise Nappier,Dem,733
+New Haven,East Haven 5,State Treasurer,,Denise Nappier,Dem,639
+New Haven,East Haven 5S,State Treasurer,,Denise Nappier,Dem,50
+New Haven,East Haven 1,State Treasurer,,Denise Nappier,WF,45
+New Haven,East Haven 1S,State Treasurer,,Denise Nappier,WF,3
+New Haven,East Haven 2,State Treasurer,,Denise Nappier,WF,50
+New Haven,East Haven 3,State Treasurer,,Denise Nappier,WF,60
+New Haven,East Haven 3S,State Treasurer,,Denise Nappier,WF,4
+New Haven,East Haven 4,State Treasurer,,Denise Nappier,WF,55
+New Haven,East Haven 5,State Treasurer,,Denise Nappier,WF,62
+New Haven,East Haven 5S,State Treasurer,,Denise Nappier,WF,0
+New Haven,East Haven 1,State Treasurer,,Tim Herbst,Ind,34
+New Haven,East Haven 1S,State Treasurer,,Tim Herbst,Ind,2
+New Haven,East Haven 2,State Treasurer,,Tim Herbst,Ind,49
+New Haven,East Haven 3,State Treasurer,,Tim Herbst,Ind,41
+New Haven,East Haven 3S,State Treasurer,,Tim Herbst,Ind,2
+New Haven,East Haven 4,State Treasurer,,Tim Herbst,Ind,49
+New Haven,East Haven 5,State Treasurer,,Tim Herbst,Ind,39
+New Haven,East Haven 5S,State Treasurer,,Tim Herbst,Ind,2
+New Haven,East Haven 1,Comptroller,,Sharon McLaughlin,Rep,536
+New Haven,East Haven 1S,Comptroller,,Sharon McLaughlin,Rep,14
+New Haven,East Haven 2,Comptroller,,Sharon McLaughlin,Rep,624
+New Haven,East Haven 3,Comptroller,,Sharon McLaughlin,Rep,518
+New Haven,East Haven 3S,Comptroller,,Sharon McLaughlin,Rep,83
+New Haven,East Haven 4,Comptroller,,Sharon McLaughlin,Rep,530
+New Haven,East Haven 5,Comptroller,,Sharon McLaughlin,Rep,544
+New Haven,East Haven 5S,Comptroller,,Sharon McLaughlin,Rep,14
+New Haven,East Haven 1,Comptroller,,Kevin Lembo,Dem,795
+New Haven,East Haven 1S,Comptroller,,Kevin Lembo,Dem,75
+New Haven,East Haven 2,Comptroller,,Kevin Lembo,Dem,917
+New Haven,East Haven 3,Comptroller,,Kevin Lembo,Dem,607
+New Haven,East Haven 3S,Comptroller,,Kevin Lembo,Dem,92
+New Haven,East Haven 4,Comptroller,,Kevin Lembo,Dem,777
+New Haven,East Haven 5,Comptroller,,Kevin Lembo,Dem,712
+New Haven,East Haven 5S,Comptroller,,Kevin Lembo,Dem,48
+New Haven,East Haven 1,Comptroller,,Kevin Lembo,WF,45
+New Haven,East Haven 1S,Comptroller,,Kevin Lembo,WF,3
+New Haven,East Haven 2,Comptroller,,Kevin Lembo,WF,47
+New Haven,East Haven 3,Comptroller,,Kevin Lembo,WF,51
+New Haven,East Haven 3S,Comptroller,,Kevin Lembo,WF,7
+New Haven,East Haven 4,Comptroller,,Kevin Lembo,WF,53
+New Haven,East Haven 5,Comptroller,,Kevin Lembo,WF,63
+New Haven,East Haven 5S,Comptroller,,Kevin Lembo,WF,2
+New Haven,East Haven 1,Comptroller,,Sharon McLaughlin,Ind,33
+New Haven,East Haven 1S,Comptroller,,Sharon McLaughlin,Ind,1
+New Haven,East Haven 2,Comptroller,,Sharon McLaughlin,Ind,44
+New Haven,East Haven 3,Comptroller,,Sharon McLaughlin,Ind,29
+New Haven,East Haven 3S,Comptroller,,Sharon McLaughlin,Ind,1
+New Haven,East Haven 4,Comptroller,,Sharon McLaughlin,Ind,32
+New Haven,East Haven 5,Comptroller,,Sharon McLaughlin,Ind,26
+New Haven,East Haven 5S,Comptroller,,Sharon McLaughlin,Ind,1
+New Haven,East Haven 1,Comptroller,,Rolf Maurer,Green,22
+New Haven,East Haven 1S,Comptroller,,Rolf Maurer,Green,2
+New Haven,East Haven 2,Comptroller,,Rolf Maurer,Green,21
+New Haven,East Haven 3,Comptroller,,Rolf Maurer,Green,13
+New Haven,East Haven 3S,Comptroller,,Rolf Maurer,Green,0
+New Haven,East Haven 4,Comptroller,,Rolf Maurer,Green,19
+New Haven,East Haven 5,Comptroller,,Rolf Maurer,Green,15
+New Haven,East Haven 5S,Comptroller,,Rolf Maurer,Green,0
+New Haven,East Haven 1,Attorney General,,Kie Westby,Rep,516
+New Haven,East Haven 1S,Attorney General,,Kie Westby,Rep,12
+New Haven,East Haven 2,Attorney General,,Kie Westby,Rep,574
+New Haven,East Haven 3,Attorney General,,Kie Westby,Rep,489
+New Haven,East Haven 3S,Attorney General,,Kie Westby,Rep,81
+New Haven,East Haven 4,Attorney General,,Kie Westby,Rep,500
+New Haven,East Haven 5,Attorney General,,Kie Westby,Rep,512
+New Haven,East Haven 5S,Attorney General,,Kie Westby,Rep,11
+New Haven,East Haven 1,Attorney General,,George Jepsen,Dem,846
+New Haven,East Haven 1S,Attorney General,,George Jepsen,Dem,78
+New Haven,East Haven 2,Attorney General,,George Jepsen,Dem,974
+New Haven,East Haven 3,Attorney General,,George Jepsen,Dem,686
+New Haven,East Haven 3S,Attorney General,,George Jepsen,Dem,92
+New Haven,East Haven 4,Attorney General,,George Jepsen,Dem,816
+New Haven,East Haven 5,Attorney General,,George Jepsen,Dem,743
+New Haven,East Haven 5S,Attorney General,,George Jepsen,Dem,52
+New Haven,East Haven 1,Attorney General,,George Jepsen,WF,45
+New Haven,East Haven 1S,Attorney General,,George Jepsen,WF,6
+New Haven,East Haven 2,Attorney General,,George Jepsen,WF,55
+New Haven,East Haven 3,Attorney General,,George Jepsen,WF,52
+New Haven,East Haven 3S,Attorney General,,George Jepsen,WF,5
+New Haven,East Haven 4,Attorney General,,George Jepsen,WF,57
+New Haven,East Haven 5,Attorney General,,George Jepsen,WF,65
+New Haven,East Haven 5S,Attorney General,,George Jepsen,WF,0
+New Haven,East Haven 1,Attorney General,,Kie Westby,Ind,21
+New Haven,East Haven 1S,Attorney General,,Kie Westby,Ind,1
+New Haven,East Haven 2,Attorney General,,Kie Westby,Ind,28
+New Haven,East Haven 3,Attorney General,,Kie Westby,Ind,23
+New Haven,East Haven 3S,Attorney General,,Kie Westby,Ind,3
+New Haven,East Haven 4,Attorney General,,Kie Westby,Ind,25
+New Haven,East Haven 5,Attorney General,,Kie Westby,Ind,22
+New Haven,East Haven 5S,Attorney General,,Kie Westby,Ind,1
+New Haven,East Haven 1,Attorney General,,Stephen Fournier,Green,28
+New Haven,East Haven 1S,Attorney General,,Stephen Fournier,Green,0
+New Haven,East Haven 2,Attorney General,,Stephen Fournier,Green,26
+New Haven,East Haven 3,Attorney General,,Stephen Fournier,Green,18
+New Haven,East Haven 3S,Attorney General,,Stephen Fournier,Green,1
+New Haven,East Haven 4,Attorney General,,Stephen Fournier,Green,28
+New Haven,East Haven 5,Attorney General,,Stephen Fournier,Green,25
+New Haven,East Haven 5S,Attorney General,,Stephen Fournier,Green,0

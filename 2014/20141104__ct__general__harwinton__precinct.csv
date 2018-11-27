@@ -1,0 +1,70 @@
+county,precinct,office,district,candidate,party,votes
+Tolland,Harwinton 8,Governor,,Thomas Foley,Rep,427
+Tolland,Harwinton 31,Governor,,Thomas Foley,Rep,1239
+Tolland,Harwinton 8,Governor,,Thomas Foley,Ind,15
+Tolland,Harwinton 31,Governor,,Thomas Foley,Ind,43
+Tolland,Harwinton 8,Governor,,Dannel Malloy,Dem,217
+Tolland,Harwinton 31,Governor,,Dannel Malloy,Dem,579
+Tolland,Harwinton 8,Governor,,Dannel Malloy,WF,15
+Tolland,Harwinton 31,Governor,,Dannel Malloy,WF,35
+Tolland,Harwinton 8,Governor,,Joe Visconti,Pet,20
+Tolland,Harwinton 31,Governor,,Joe Visconti,Pet,26
+Tolland,Harwinton 8,Governor,,Gaita,write-in,1
+Tolland,Harwinton 31,Governor,,Jonathan Pelto,write-in,5
+Tolland,Harwinton 8,US House,5,Mark Greenburg,Rep,367
+Tolland,Harwinton 31,US House,5,Mark Greenburg,Rep,1104
+Tolland,Harwinton 8,US House,5,Elizabeth Esty,Dem,273
+Tolland,Harwinton 31,US House,5,Elizabeth Esty,Dem,690
+Tolland,Harwinton 8,US House,5,Elizabeth Esty,WF,22
+Tolland,Harwinton 31,US House,5,Elizabeth Esty,WF,42
+Tolland,Harwinton 8,US House,5,Mark Greenburg,Ind,16
+Tolland,Harwinton 31,US House,5,Mark Greenburg,Ind,51
+Tolland,Harwinton 8,US House,5,John Pistone,PC,15
+Tolland,Harwinton 31,US House,5,John Pistone,PC,17
+Tolland,Harwinton 8,State Senate,8,Kevin Witkos,Rep,420
+Tolland,Harwinton 31,State Senate,31,Henri Martin,Rep,1175
+Tolland,Harwinton 8,State Senate,8,Melissa Osborne,Dem,224
+Tolland,Harwinton 8,State Senate,8,Kevin Witkos,Ind,34
+Tolland,Harwinton 31,State Senate,31,Robert Michalik,WF,54
+Tolland,Harwinton 8,State House,76,John Piscopo,Rep,499
+Tolland,Harwinton 31,State House,76,John Piscopo,Rep,1416
+Tolland,Harwinton 8,State House,76,Stephen Simonin,Dem,172
+Tolland,Harwinton 31,State House,76,Stephen Simonin,Dem,429
+Tolland,Harwinton 8,Secretary of State,,Peter Lumaj,Rep,388
+Tolland,Harwinton 31,Secretary of State,,Peter Lumaj,Rep,1153
+Tolland,Harwinton 8,Secretary of State,,Peter Lumaj,Ind,22
+Tolland,Harwinton 31,Secretary of State,,Peter Lumaj,Ind,48
+Tolland,Harwinton 8,Secretary of State,,Denise Merrill,Dem,235
+Tolland,Harwinton 31,Secretary of State,,Denise Merrill,Dem,589
+Tolland,Harwinton 8,Secretary of State,,Denise Merrill,WF,18
+Tolland,Harwinton 31,Secretary of State,,Denise Merrill,WF,35
+Tolland,Harwinton 8,Secretary of State,,Michael DeRosa,Green,15
+Tolland,Harwinton 31,Secretary of State,,Michael DeRosa,Green,43
+Tolland,Harwinton 8,State Treasurer,,Tim Herbst,Rep,389
+Tolland,Harwinton 31,State Treasurer,,Tim Herbst,Rep,1171
+Tolland,Harwinton 8,State Treasurer,,Tim Herbst,Ind,242
+Tolland,Harwinton 31,State Treasurer,,Tim Herbst,Ind,593
+Tolland,Harwinton 8,State Treasurer,,Denise Nappier,Dem,21
+Tolland,Harwinton 31,State Treasurer,,Denise Nappier,Dem,39
+Tolland,Harwinton 8,State Treasurer,,Denise Nappier,WF,25
+Tolland,Harwinton 31,State Treasurer,,Denise Nappier,WF,59
+Tolland,Harwinton 8,Comptroller,,Sharon McLaughlin,Rep,367
+Tolland,Harwinton 31,Comptroller,,Sharon McLaughlin,Rep,1071
+Tolland,Harwinton 8,Comptroller,,Sharon McLaughlin,Ind,24
+Tolland,Harwinton 31,Comptroller,,Sharon McLaughlin,Ind,41
+Tolland,Harwinton 8,Comptroller,,Kevin Lembo,Dem,237
+Tolland,Harwinton 31,Comptroller,,Kevin Lembo,Dem,651
+Tolland,Harwinton 8,Comptroller,,Kevin Lembo,WF,21
+Tolland,Harwinton 31,Comptroller,,Kevin Lembo,WF,42
+Tolland,Harwinton 8,Comptroller,,Rolf Maurer,Green,14
+Tolland,Harwinton 31,Comptroller,,Rolf Maurer,Green,32
+Tolland,Harwinton 8,Attorney General,,Kie Westby,Rep,358
+Tolland,Harwinton 31,Attorney General,,Kie Westby,Rep,1082
+Tolland,Harwinton 8,Attorney General,,Kie Westby,Ind,19
+Tolland,Harwinton 31,Attorney General,,Kie Westby,Ind,42
+Tolland,Harwinton 8,Attorney General,,George Jepsen,Dem,264
+Tolland,Harwinton 31,Attorney General,,George Jepsen,Dem,654
+Tolland,Harwinton 8,Attorney General,,George Jepsen,WF,19
+Tolland,Harwinton 31,Attorney General,,George Jepsen,WF,46
+Tolland,Harwinton 8,Attorney General,,Stephen Fournier,Green,21
+Tolland,Harwinton 31,Attorney General,,Stephen Fournier,Green,42

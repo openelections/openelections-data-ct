@@ -1,0 +1,108 @@
+county,precinct,office,district,candidate,party,votes
+Middlesex,Haddam 1,Governor,,Thomas Foley,Rep,979
+Middlesex,Haddam 2,Governor,,Thomas Foley,Rep,925
+Middlesex,Haddam 3,Governor,,Thomas Foley,Rep,101
+Middlesex,Haddam 1,Governor,,Dannel Malloy,Dem,809
+Middlesex,Haddam 2,Governor,,Dannel Malloy,Dem,587
+Middlesex,Haddam 3,Governor,,Dannel Malloy,Dem,84
+Middlesex,Haddam 1,Governor,,Dannel Malloy,WF,36
+Middlesex,Haddam 2,Governor,,Dannel Malloy,WF,39
+Middlesex,Haddam 3,Governor,,Dannel Malloy,WF,1
+Middlesex,Haddam 1,Governor,,Thomas Foley,Ind,31
+Middlesex,Haddam 2,Governor,,Thomas Foley,Ind,39
+Middlesex,Haddam 3,Governor,,Thomas Foley,Ind,5
+Middlesex,Haddam 1,Governor,,Joe Visconti,Pet,18
+Middlesex,Haddam 2,Governor,,Joe Visconti,Pet,20
+Middlesex,Haddam 3,Governor,,Joe Visconti,Pet,13
+Middlesex,Haddam 1,US House,2,Lori Hopkins-Cavanagh,Rep,774
+Middlesex,Haddam 2,US House,2,Lori Hopkins-Cavanagh,Rep,748
+Middlesex,Haddam 3,US House,2,Lori Hopkins-Cavanagh,Rep,87
+Middlesex,Haddam 1,US House,2,John Larson,Dem,973
+Middlesex,Haddam 2,US House,2,John Larson,Dem,730
+Middlesex,Haddam 3,US House,2,John Larson,Dem,106
+Middlesex,Haddam 1,US House,2,John Larson,WF,57
+Middlesex,Haddam 2,US House,2,John Larson,WF,71
+Middlesex,Haddam 3,US House,2,John Larson,WF,5
+Middlesex,Haddam 1,US House,2,William Clyde,Green,29
+Middlesex,Haddam 2,US House,2,William Clyde,Green,28
+Middlesex,Haddam 3,US House,2,William Clyde,Green,2
+Middlesex,Haddam 1,US House,2,Daniel Reale,Lbt,8
+Middlesex,Haddam 2,US House,2,Daniel Reale,Lbt,18
+Middlesex,Haddam 3,US House,2,Daniel Reale,Lbt,3
+Middlesex,Haddam 1,State Senate,33,Art Linares,Rep,1031
+Middlesex,Haddam 2,State Senate,33,Art Linares,Rep,934
+Middlesex,Haddam 3,State Senate,33,Art Linares,Rep,119
+Middlesex,Haddam 1,State Senate,33,Emily Bjournberg,Dem,724
+Middlesex,Haddam 2,State Senate,33,Emily Bjournberg,Dem,533
+Middlesex,Haddam 3,State Senate,33,Emily Bjournberg,Dem,68
+Middlesex,Haddam 1,State Senate,33,Emily Bjournberg,WF,49
+Middlesex,Haddam 2,State Senate,33,Emily Bjournberg,WF,62
+Middlesex,Haddam 3,State Senate,33,Emily Bjournberg,WF,12
+Middlesex,Haddam 1,State Senate,33,Colin Bennett,Green,30
+Middlesex,Haddam 2,State Senate,33,Colin Bennett,Green,30
+Middlesex,Haddam 3,State Senate,33,Colin Bennett,Green,3
+Middlesex,Haddam 1,State House,36,Robert Siegrist,Rep,932
+Middlesex,Haddam 2,State House,36,Robert Siegrist,Rep,931
+Middlesex,Haddam 3,State House,36,Robert Siegrist,Rep,102
+Middlesex,Haddam 1,State House,36,Philip Miller,Dem,875
+Middlesex,Haddam 2,State House,36,Philip Miller,Dem,647
+Middlesex,Haddam 3,State House,36,Philip Miller,Dem,99
+,,,,,,
+Middlesex,Haddam 1,Secretary of State,,Peter Lumaj,Rep,915
+Middlesex,Haddam 2,Secretary of State,,Peter Lumaj,Rep,858
+Middlesex,Haddam 3,Secretary of State,,Peter Lumaj,Rep,103
+Middlesex,Haddam 1,Secretary of State,,Denise Merrill,Dem,777
+Middlesex,Haddam 2,Secretary of State,,Denise Merrill,Dem,591
+Middlesex,Haddam 3,Secretary of State,,Denise Merrill,Dem,86
+Middlesex,Haddam 1,Secretary of State,,Denise Merrill,WF,39
+Middlesex,Haddam 2,Secretary of State,,Denise Merrill,WF,51
+Middlesex,Haddam 3,Secretary of State,,Denise Merrill,WF,2
+Middlesex,Haddam 1,Secretary of State,,Peter Lumaj,Ind,40
+Middlesex,Haddam 2,Secretary of State,,Peter Lumaj,Ind,40
+Middlesex,Haddam 3,Secretary of State,,Peter Lumaj,Ind,6
+Middlesex,Haddam 1,Secretary of State,,Michael DeRosa,Green,53
+Middlesex,Haddam 2,Secretary of State,,Michael DeRosa,Green,45
+Middlesex,Haddam 3,Secretary of State,,Michael DeRosa,Green,8
+Middlesex,Haddam 1,State Treasurer,,Tim Herbst,Rep,985
+Middlesex,Haddam 2,State Treasurer,,Tim Herbst,Rep,908
+Middlesex,Haddam 3,State Treasurer,,Tim Herbst,Rep,110
+Middlesex,Haddam 1,State Treasurer,,Denise Nappier,Dem,740
+Middlesex,Haddam 2,State Treasurer,,Denise Nappier,Dem,572
+Middlesex,Haddam 3,State Treasurer,,Denise Nappier,Dem,79
+Middlesex,Haddam 1,State Treasurer,,Denise Nappier,WF,32
+Middlesex,Haddam 2,State Treasurer,,Denise Nappier,WF,41
+Middlesex,Haddam 3,State Treasurer,,Denise Nappier,WF,3
+Middlesex,Haddam 1,State Treasurer,,Tim Herbst,Ind,58
+Middlesex,Haddam 2,State Treasurer,,Tim Herbst,Ind,66
+Middlesex,Haddam 3,State Treasurer,,Tim Herbst,Ind,12
+Middlesex,Haddam 1,Comptroller,,Sharon McLaughlin,Rep,866
+Middlesex,Haddam 2,Comptroller,,Sharon McLaughlin,Rep,834
+Middlesex,Haddam 3,Comptroller,,Sharon McLaughlin,Rep,98
+Middlesex,Haddam 1,Comptroller,,Kevin Lembo,Dem,827
+Middlesex,Haddam 2,Comptroller,,Kevin Lembo,Dem,607
+Middlesex,Haddam 3,Comptroller,,Kevin Lembo,Dem,85
+Middlesex,Haddam 1,Comptroller,,Kevin Lembo,WF,38
+Middlesex,Haddam 2,Comptroller,,Kevin Lembo,WF,49
+Middlesex,Haddam 3,Comptroller,,Kevin Lembo,WF,1
+Middlesex,Haddam 1,Comptroller,,Sharon McLaughlin,Ind,38
+Middlesex,Haddam 2,Comptroller,,Sharon McLaughlin,Ind,50
+Middlesex,Haddam 3,Comptroller,,Sharon McLaughlin,Ind,12
+Middlesex,Haddam 1,Comptroller,,Rolf Maurer,Green,35
+Middlesex,Haddam 2,Comptroller,,Rolf Maurer,Green,26
+Middlesex,Haddam 3,Comptroller,,Rolf Maurer,Green,5
+Middlesex,Haddam 1,Attorney General,,Kie Westby,Rep,793
+Middlesex,Haddam 2,Attorney General,,Kie Westby,Rep,770
+Middlesex,Haddam 3,Attorney General,,Kie Westby,Rep,89
+Middlesex,Haddam 1,Attorney General,,George Jepsen,Dem,903
+Middlesex,Haddam 2,Attorney General,,George Jepsen,Dem,675
+Middlesex,Haddam 3,Attorney General,,George Jepsen,Dem,98
+Middlesex,Haddam 1-59,Attorney General,,George Jepsen,WF,50
+Middlesex,Haddam 2-57,Attorney General,,George Jepsen,WF,56
+Middlesex,Haddam edr,Attorney General,,George Jepsen,WF,4
+Middlesex,Haddam 1-57,Attorney General,,Kie Westby,Ind,27
+Middlesex,Haddam 1-59,Attorney General,,Kie Westby,Ind,38
+Middlesex,Haddam 2-57,Attorney General,,Kie Westby,Ind,6
+Middlesex,Haddam edr,Attorney General,,Kie Westby,Ind,71
+Middlesex,Haddam 1-57,Attorney General,,Stephen Fournier,Green,38
+Middlesex,Haddam 1-59,Attorney General,,Stephen Fournier,Green,8
+Middlesex,Haddam 2-57,Attorney General,,Stephen Fournier,Green,86
