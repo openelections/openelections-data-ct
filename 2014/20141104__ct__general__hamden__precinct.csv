@@ -1,0 +1,453 @@
+county,precinct,office,district,candidate,party,votes
+New Haven,Hamden 1,Governor,,Thomas Foley,Rep,411
+New Haven,Hamden 2,Governor,,Thomas Foley,Rep,383
+New Haven,Hamden 3,Governor,,Thomas Foley,Rep,147
+New Haven,Hamden 4,Governor,,Thomas Foley,Rep,675
+New Haven,Hamden 5,Governor,,Thomas Foley,Rep,301
+New Haven,Hamden 5-01,Governor,,Thomas Foley,Rep,18
+New Haven,Hamden 6,Governor,,Thomas Foley,Rep,476
+New Haven,Hamden 7,Governor,,Thomas Foley,Rep,673
+New Haven,Hamden 8,Governor,,Thomas Foley,Rep,863
+New Haven,Hamden 8-01,Governor,,Thomas Foley,Rep,121
+New Haven,Hamden 9,Governor,,Thomas Foley,Rep,933
+New Haven,Hamden 10,Governor,,Thomas Foley,Rep,432
+New Haven,Hamden 10-01,Governor,,Thomas Foley,Rep,114
+New Haven,Hamden 1,Governor,,Dannel Malloy,Dem,677
+New Haven,Hamden 2,Governor,,Dannel Malloy,Dem,1030
+New Haven,Hamden 3,Governor,,Dannel Malloy,Dem,1232
+New Haven,Hamden 4,Governor,,Dannel Malloy,Dem,1643
+New Haven,Hamden 5,Governor,,Dannel Malloy,Dem,1507
+New Haven,Hamden 5-01,Governor,,Dannel Malloy,Dem,92
+New Haven,Hamden 6,Governor,,Dannel Malloy,Dem,1116
+New Haven,Hamden 7,Governor,,Dannel Malloy,Dem,1323
+New Haven,Hamden 8,Governor,,Dannel Malloy,Dem,1413
+New Haven,Hamden 8-01,Governor,,Dannel Malloy,Dem,115
+New Haven,Hamden 9,Governor,,Dannel Malloy,Dem,1034
+New Haven,Hamden 10,Governor,,Dannel Malloy,Dem,823
+New Haven,Hamden 10-01,Governor,,Dannel Malloy,Dem,258
+New Haven,Hamden 1,Governor,,Dannel Malloy,WF,19
+New Haven,Hamden 2,Governor,,Dannel Malloy,WF,49
+New Haven,Hamden 3,Governor,,Dannel Malloy,WF,27
+New Haven,Hamden 4,Governor,,Dannel Malloy,WF,69
+New Haven,Hamden 5,Governor,,Dannel Malloy,WF,75
+New Haven,Hamden 5-01,Governor,,Dannel Malloy,WF,4
+New Haven,Hamden 6,Governor,,Dannel Malloy,WF,37
+New Haven,Hamden 7,Governor,,Dannel Malloy,WF,47
+New Haven,Hamden 8,Governor,,Dannel Malloy,WF,39
+New Haven,Hamden 8-01,Governor,,Dannel Malloy,WF,4
+New Haven,Hamden 9,Governor,,Dannel Malloy,WF,20
+New Haven,Hamden 10,Governor,,Dannel Malloy,WF,35
+New Haven,Hamden 10-01,Governor,,Dannel Malloy,WF,4
+New Haven,Hamden 1,Governor,,Thomas Foley,Ind,15
+New Haven,Hamden 2,Governor,,Thomas Foley,Ind,18
+New Haven,Hamden 3,Governor,,Thomas Foley,Ind,8
+New Haven,Hamden 4,Governor,,Thomas Foley,Ind,22
+New Haven,Hamden 5,Governor,,Thomas Foley,Ind,10
+New Haven,Hamden 5-01,Governor,,Thomas Foley,Ind,1
+New Haven,Hamden 6,Governor,,Thomas Foley,Ind,24
+New Haven,Hamden 7,Governor,,Thomas Foley,Ind,26
+New Haven,Hamden 8,Governor,,Thomas Foley,Ind,24
+New Haven,Hamden 8-01,Governor,,Thomas Foley,Ind,2
+New Haven,Hamden 9,Governor,,Thomas Foley,Ind,26
+New Haven,Hamden 10,Governor,,Thomas Foley,Ind,12
+New Haven,Hamden 10-01,Governor,,Thomas Foley,Ind,4
+New Haven,Hamden 1,Governor,,Joe Visconti,PC,8
+New Haven,Hamden 2,Governor,,Joe Visconti,PC,24
+New Haven,Hamden 3,Governor,,Joe Visconti,PC,8
+New Haven,Hamden 4,Governor,,Joe Visconti,PC,22
+New Haven,Hamden 5,Governor,,Joe Visconti,PC,10
+New Haven,Hamden 5-01,Governor,,Joe Visconti,PC,3
+New Haven,Hamden 6,Governor,,Joe Visconti,PC,14
+New Haven,Hamden 7,Governor,,Joe Visconti,PC,24
+New Haven,Hamden 8,Governor,,Joe Visconti,PC,10
+New Haven,Hamden 8-01,Governor,,Joe Visconti,PC,3
+New Haven,Hamden 9,Governor,,Joe Visconti,PC,14
+New Haven,Hamden 10,Governor,,Joe Visconti,PC,11
+New Haven,Hamden 10-01,Governor,,Joe Visconti,PC,5
+New Haven,Hamden 1,Governor,,write-ins,write-in,4
+New Haven,Hamden 2,Governor,,write-ins,write-in,0
+New Haven,Hamden 3,Governor,,write-ins,write-in,0
+New Haven,Hamden 4,Governor,,write-ins,write-in,5
+New Haven,Hamden 5,Governor,,write-ins,write-in,2
+New Haven,Hamden 5-01,Governor,,write-ins,write-in,1
+New Haven,Hamden 6,Governor,,write-ins,write-in,0
+New Haven,Hamden 7,Governor,,write-ins,write-in,10
+New Haven,Hamden 8,Governor,,write-ins,write-in,9
+New Haven,Hamden 8-01,Governor,,write-ins,write-in,0
+New Haven,Hamden 9,Governor,,write-ins,write-in,1
+New Haven,Hamden 10,Governor,,write-ins,write-in,6
+New Haven,Hamden 10-01,Governor,,write-ins,write-in,0
+,,,,,,
+New Haven,Hamden 1,US House,3,James Brown,Rep,324
+New Haven,Hamden 2,US House,3,James Brown,Rep,283
+New Haven,Hamden 3,US House,3,James Brown,Rep,112
+New Haven,Hamden 4,US House,3,James Brown,Rep,529
+New Haven,Hamden 5,US House,3,James Brown,Rep,245
+New Haven,Hamden 5-01,US House,3,James Brown,Rep,9
+New Haven,Hamden 6,US House,3,James Brown,Rep,381
+New Haven,Hamden 7,US House,3,James Brown,Rep,525
+New Haven,Hamden 8,US House,3,James Brown,Rep,681
+New Haven,Hamden 8-01,US House,3,James Brown,Rep,100
+New Haven,Hamden 9,US House,3,James Brown,Rep,775
+New Haven,Hamden 10,US House,3,James Brown,Rep,350
+New Haven,Hamden 10-01,US House,3,James Brown,Rep,84
+New Haven,Hamden 1,US House,3,Rosa DeLauro,Dem,743
+New Haven,Hamden 2,US House,3,Rosa DeLauro,Dem,1100
+New Haven,Hamden 3,US House,3,Rosa DeLauro,Dem,1220
+New Haven,Hamden 4,US House,3,Rosa DeLauro,Dem,1751
+New Haven,Hamden 5,US House,3,Rosa DeLauro,Dem,1530
+New Haven,Hamden 5-01,US House,3,Rosa DeLauro,Dem,101
+New Haven,Hamden 6,US House,3,Rosa DeLauro,Dem,1191
+New Haven,Hamden 7,US House,3,Rosa DeLauro,Dem,1416
+New Haven,Hamden 8,US House,3,Rosa DeLauro,Dem,1536
+New Haven,Hamden 8-01,US House,3,Rosa DeLauro,Dem,130
+New Haven,Hamden 9,US House,3,Rosa DeLauro,Dem,1175
+New Haven,Hamden 10,US House,3,Rosa DeLauro,Dem,902
+New Haven,Hamden 10-01,US House,3,Rosa DeLauro,Dem,287
+New Haven,Hamden 1,US House,3,Rosa DeLauro,WF,46
+New Haven,Hamden 2,US House,3,Rosa DeLauro,WF,77
+New Haven,Hamden 3,US House,3,Rosa DeLauro,WF,55
+New Haven,Hamden 4,US House,3,Rosa DeLauro,WF,113
+New Haven,Hamden 5,US House,3,Rosa DeLauro,WF,87
+New Haven,Hamden 5-01,US House,3,Rosa DeLauro,WF,5
+New Haven,Hamden 6,US House,3,Rosa DeLauro,WF,61
+New Haven,Hamden 7,US House,3,Rosa DeLauro,WF,101
+New Haven,Hamden 8,US House,3,Rosa DeLauro,WF,85
+New Haven,Hamden 8-01,US House,3,Rosa DeLauro,WF,6
+New Haven,Hamden 9,US House,3,Rosa DeLauro,WF,47
+New Haven,Hamden 10,US House,3,Rosa DeLauro,WF,48
+New Haven,Hamden 10-01,US House,3,Rosa DeLauro,WF,12
+New Haven,Hamden 1,US House,3,write-ins,write-in,0
+New Haven,Hamden 2,US House,3,write-ins,write-in,2
+New Haven,Hamden 3,US House,3,write-ins,write-in,1
+New Haven,Hamden 4,US House,3,write-ins,write-in,1
+New Haven,Hamden 5,US House,3,write-ins,write-in,0
+New Haven,Hamden 5-01,US House,3,write-ins,write-in,0
+New Haven,Hamden 6,US House,3,write-ins,write-in,0
+New Haven,Hamden 7,US House,3,write-ins,write-in,1
+New Haven,Hamden 8,US House,3,write-ins,write-in,0
+New Haven,Hamden 8-01,US House,3,write-ins,write-in,0
+New Haven,Hamden 9,US House,3,write-ins,write-in,1
+New Haven,Hamden 10,US House,3,write-ins,write-in,0
+New Haven,Hamden 10-01,US House,3,write-ins,write-in,0
+New Haven,Hamden 2,State Senate,,Philip Tripp,Rep,356
+New Haven,Hamden 3,State Senate,,Philip Tripp,Rep,126
+New Haven,Hamden 5-01,State Senate,,Philip Tripp,Rep,11
+New Haven,Hamden 7,State Senate,,Philip Tripp,Rep,740
+New Haven,Hamden 8,State Senate,,Philip Tripp,Rep,811
+New Haven,Hamden 10-01,State Senate,,Philip Tripp,Rep,103
+New Haven,Hamden 2,State Senate,,Philip Tripp,Ind,34
+New Haven,Hamden 3,State Senate,,Philip Tripp,Ind,22
+New Haven,Hamden 5-01,State Senate,,Philip Tripp,Ind,2
+New Haven,Hamden 7,State Senate,,Philip Tripp,Ind,86
+New Haven,Hamden 8,State Senate,,Philip Tripp,Ind,53
+New Haven,Hamden 10-01,State Senate,,Philip Tripp,Ind,4
+New Haven,Hamden 1,State Senate,,Martin Looney,Dem,779
+New Haven,Hamden 4,State Senate,,Martin Looney,Dem,1782
+New Haven,Hamden 5,State Senate,,Martin Looney,Dem,1533
+New Haven,Hamden 6,State Senate,,Martin Looney,Dem,1223
+New Haven,Hamden 8-01,State Senate,,Martin Looney,Dem,139
+New Haven,Hamden 9,State Senate,,Martin Looney,Dem,1210
+New Haven,Hamden 10,State Senate,,Martin Looney,Dem,924
+New Haven,Hamden 1,State Senate,,Martin Looney,WF,56
+New Haven,Hamden 4,State Senate,,Martin Looney,WF,153
+New Haven,Hamden 5,State Senate,,Martin Looney,WF,116
+New Haven,Hamden 6,State Senate,,Martin Looney,WF,88
+New Haven,Hamden 8-01,State Senate,,Martin Looney,WF,8
+New Haven,Hamden 9,State Senate,,Martin Looney,WF,116
+New Haven,Hamden 10,State Senate,,Martin Looney,WF,70
+New Haven,Hamden 2,State Senate,,Joe Crisco,Dem,988
+New Haven,Hamden 3,State Senate,,Joe Crisco,Dem,1166
+New Haven,Hamden 5-01,State Senate,,Joe Crisco,Dem,91
+New Haven,Hamden 7,State Senate,,Joe Crisco,Dem,1169
+New Haven,Hamden 8,State Senate,,Joe Crisco,Dem,1343
+New Haven,Hamden 10-01,State Senate,,Joe Crisco,Dem,256
+New Haven,Hamden 2,State Senate,,Joe Crisco,WF,61
+New Haven,Hamden 3,State Senate,,Joe Crisco,WF,40
+New Haven,Hamden 5-01,State Senate,,Joe Crisco,WF,7
+New Haven,Hamden 7,State Senate,,Joe Crisco,WF,51
+New Haven,Hamden 8,State Senate,,Joe Crisco,WF,60
+New Haven,Hamden 10-01,State Senate,,Joe Crisco,WF,6
+New Haven,Hamden 1,State House,,Matthew Corcoran,Rep,371
+New Haven,Hamden 4,State House,,Matthew Corcoran,Rep,609
+New Haven,Hamden 9,State House,,Matthew Corcoran,Rep,838
+New Haven,Hamden 10,State House,,Matthew Corcoran,Rep,396
+New Haven,Hamden 10-1,State House,,Matthew Corcoran,Rep,111
+New Haven,Hamden 1,State House,,Brendan Sharkey,Dem,716
+New Haven,Hamden 4,State House,,Brendan Sharkey,Dem,1712
+New Haven,Hamden 9,State House,,Brendan Sharkey,Dem,1105
+New Haven,Hamden 10,State House,,Brendan Sharkey,Dem,854
+New Haven,Hamden 10-1,State House,,Brendan Sharkey,Dem,254
+New Haven,Hamden 2,State House,,Robyn Porter,Dem,1048
+New Haven,Hamden 3,State House,,Robyn Porter,Dem,1173
+New Haven,Hamden 2,State House,,Robyn Porter,WF,76
+New Haven,Hamden 3,State House,,Robyn Porter,WF,46
+New Haven,Hamden 2,State House,,David Olszta,Green,92
+New Haven,Hamden 3,State House,,David Olszta,Green,44
+New Haven,Hamden 5,State House,,Michael D'Agostino,Dem,1578
+New Haven,Hamden 5-01,State House,,Michael D'Agostino,Dem,96
+New Haven,Hamden 6,State House,,Michael D'Agostino,Dem,1277
+New Haven,Hamden 7,State House,,Michael D'Agostino,Dem,1526
+New Haven,Hamden 8,State House,,Michael D'Agostino,Dem,1615
+New Haven,Hamden 8-01,State House,,Michael D'Agostino,Dem,141
+New Haven,Hamden 1,US House,,write-ins,write-in,0
+New Haven,Hamden 2,US House,,write-ins,write-in,1
+New Haven,Hamden 3,US House,,write-ins,write-in,6
+New Haven,Hamden 4,US House,,write-ins,write-in,3
+New Haven,Hamden 5,US House,,write-ins,write-in,8
+New Haven,Hamden 5-01,US House,,write-ins,write-in,0
+New Haven,Hamden 6,US House,,write-ins,write-in,5
+New Haven,Hamden 7,US House,,write-ins,write-in,3
+New Haven,Hamden 8,US House,,write-ins,write-in,8
+New Haven,Hamden 8-01,US House,,write-ins,write-in,1
+New Haven,Hamden 9,US House,,write-ins,write-in,2
+New Haven,Hamden 10,US House,,write-ins,write-in,0
+New Haven,Hamden 10-01,US House,,write-ins,write-in,0
+,,,,,,
+New Haven,Hamden 1,Secretary of State,,Peter Lumaj,Rep,373
+New Haven,Hamden 2,Secretary of State,,Peter Lumaj,Rep,342
+New Haven,Hamden 3,Secretary of State,,Peter Lumaj,Rep,127
+New Haven,Hamden 4,Secretary of State,,Peter Lumaj,Rep,629
+New Haven,Hamden 5,Secretary of State,,Peter Lumaj,Rep,304
+New Haven,Hamden 5-01,Secretary of State,,Peter Lumaj,Rep,16
+New Haven,Hamden 6,Secretary of State,,Peter Lumaj,Rep,422
+New Haven,Hamden 7,Secretary of State,,Peter Lumaj,Rep,627
+New Haven,Hamden 8,Secretary of State,,Peter Lumaj,Rep,804
+New Haven,Hamden 8-01,Secretary of State,,Peter Lumaj,Rep,118
+New Haven,Hamden 9,Secretary of State,,Peter Lumaj,Rep,871
+New Haven,Hamden 10,Secretary of State,,Peter Lumaj,Rep,390
+New Haven,Hamden 10-01,Secretary of State,,Peter Lumaj,Rep,100
+New Haven,Hamden 1,Secretary of State,,Denise Merrill,Dem,640
+New Haven,Hamden 2,Secretary of State,,Denise Merrill,Dem,964
+New Haven,Hamden 3,Secretary of State,,Denise Merrill,Dem,1146
+New Haven,Hamden 4,Secretary of State,,Denise Merrill,Dem,1545
+New Haven,Hamden 5,Secretary of State,,Denise Merrill,Dem,1378
+New Haven,Hamden 5-01,Secretary of State,,Denise Merrill,Dem,88
+New Haven,Hamden 6,Secretary of State,,Denise Merrill,Dem,1065
+New Haven,Hamden 7,Secretary of State,,Denise Merrill,Dem,1234
+New Haven,Hamden 8,Secretary of State,,Denise Merrill,Dem,1287
+New Haven,Hamden 8-01,Secretary of State,,Denise Merrill,Dem,101
+New Haven,Hamden 9,Secretary of State,,Denise Merrill,Dem,974
+New Haven,Hamden 10,Secretary of State,,Denise Merrill,Dem,789
+New Haven,Hamden 10-01,Secretary of State,,Denise Merrill,Dem,249
+New Haven,Hamden 1,Secretary of State,,Denise Merrill,WF,19
+New Haven,Hamden 2,Secretary of State,,Denise Merrill,WF,47
+New Haven,Hamden 3,Secretary of State,,Denise Merrill,WF,37
+New Haven,Hamden 4,Secretary of State,,Denise Merrill,WF,81
+New Haven,Hamden 5,Secretary of State,,Denise Merrill,WF,76
+New Haven,Hamden 5-01,Secretary of State,,Denise Merrill,WF,2
+New Haven,Hamden 6,Secretary of State,,Denise Merrill,WF,46
+New Haven,Hamden 7,Secretary of State,,Denise Merrill,WF,54
+New Haven,Hamden 8,Secretary of State,,Denise Merrill,WF,53
+New Haven,Hamden 8-01,Secretary of State,,Denise Merrill,WF,4
+New Haven,Hamden 9,Secretary of State,,Denise Merrill,WF,29
+New Haven,Hamden 10,Secretary of State,,Denise Merrill,WF,36
+New Haven,Hamden 10-01,Secretary of State,,Denise Merrill,WF,8
+New Haven,Hamden 1,Secretary of State,,Peter Lumaj,Ind,24
+New Haven,Hamden 2,Secretary of State,,Peter Lumaj,Ind,25
+New Haven,Hamden 3,Secretary of State,,Peter Lumaj,Ind,19
+New Haven,Hamden 4,Secretary of State,,Peter Lumaj,Ind,34
+New Haven,Hamden 5,Secretary of State,,Peter Lumaj,Ind,19
+New Haven,Hamden 5-01,Secretary of State,,Peter Lumaj,Ind,3
+New Haven,Hamden 6,Secretary of State,,Peter Lumaj,Ind,34
+New Haven,Hamden 7,Secretary of State,,Peter Lumaj,Ind,44
+New Haven,Hamden 8,Secretary of State,,Peter Lumaj,Ind,46
+New Haven,Hamden 8-01,Secretary of State,,Peter Lumaj,Ind,4
+New Haven,Hamden 9,Secretary of State,,Peter Lumaj,Ind,37
+New Haven,Hamden 10,Secretary of State,,Peter Lumaj,Ind,20
+New Haven,Hamden 10-01,Secretary of State,,Peter Lumaj,Ind,5
+New Haven,Hamden 1,Secretary of State,,Michael DeRosa,Green,37
+New Haven,Hamden 2,Secretary of State,,Michael DeRosa,Green,39
+New Haven,Hamden 3,Secretary of State,,Michael DeRosa,Green,15
+New Haven,Hamden 4,Secretary of State,,Michael DeRosa,Green,64
+New Haven,Hamden 5,Secretary of State,,Michael DeRosa,Green,47
+New Haven,Hamden 5-01,Secretary of State,,Michael DeRosa,Green,3
+New Haven,Hamden 6,Secretary of State,,Michael DeRosa,Green,40
+New Haven,Hamden 7,Secretary of State,,Michael DeRosa,Green,49
+New Haven,Hamden 8,Secretary of State,,Michael DeRosa,Green,61
+New Haven,Hamden 8-01,Secretary of State,,Michael DeRosa,Green,6
+New Haven,Hamden 9,Secretary of State,,Michael DeRosa,Green,42
+New Haven,Hamden 10,Secretary of State,,Michael DeRosa,Green,34
+New Haven,Hamden 10-01,Secretary of State,,Michael DeRosa,Green,6
+New Haven,Hamden 1,State Treasurer,,Tim Herbst,Rep,387
+New Haven,Hamden 2,State Treasurer,,Tim Herbst,Rep,330
+New Haven,Hamden 3,State Treasurer,,Tim Herbst,Rep,124
+New Haven,Hamden 4,State Treasurer,,Tim Herbst,Rep,682
+New Haven,Hamden 5,State Treasurer,,Tim Herbst,Rep,315
+New Haven,Hamden 5-01,State Treasurer,,Tim Herbst,Rep,13
+New Haven,Hamden 6,State Treasurer,,Tim Herbst,Rep,444
+New Haven,Hamden 7,State Treasurer,,Tim Herbst,Rep,636
+New Haven,Hamden 8,State Treasurer,,Tim Herbst,Rep,831
+New Haven,Hamden 8-01,State Treasurer,,Tim Herbst,Rep,119
+New Haven,Hamden 9,State Treasurer,,Tim Herbst,Rep,895
+New Haven,Hamden 10,State Treasurer,,Tim Herbst,Rep,414
+New Haven,Hamden 10-01,State Treasurer,,Tim Herbst,Rep,103
+New Haven,Hamden 1,State Treasurer,,Denise Nappier,Dem,638
+New Haven,Hamden 2,State Treasurer,,Denise Nappier,Dem,1013
+New Haven,Hamden 3,State Treasurer,,Denise Nappier,Dem,1175
+New Haven,Hamden 4,State Treasurer,,Denise Nappier,Dem,1514
+New Haven,Hamden 5,State Treasurer,,Denise Nappier,Dem,1385
+New Haven,Hamden 5-01,State Treasurer,,Denise Nappier,Dem,95
+New Haven,Hamden 6,State Treasurer,,Denise Nappier,Dem,1082
+New Haven,Hamden 7,State Treasurer,,Denise Nappier,Dem,1251
+New Haven,Hamden 8,State Treasurer,,Denise Nappier,Dem,1294
+New Haven,Hamden 8-01,State Treasurer,,Denise Nappier,Dem,105
+New Haven,Hamden 9,State Treasurer,,Denise Nappier,Dem,974
+New Haven,Hamden 10,State Treasurer,,Denise Nappier,Dem,784
+New Haven,Hamden 10-01,State Treasurer,,Denise Nappier,Dem,249
+New Haven,Hamden 1,State Treasurer,,Denise Nappier,WF,30
+New Haven,Hamden 2,State Treasurer,,Denise Nappier,WF,54
+New Haven,Hamden 3,State Treasurer,,Denise Nappier,WF,47
+New Haven,Hamden 4,State Treasurer,,Denise Nappier,WF,99
+New Haven,Hamden 5,State Treasurer,,Denise Nappier,WF,85
+New Haven,Hamden 5-01,State Treasurer,,Denise Nappier,WF,3
+New Haven,Hamden 6,State Treasurer,,Denise Nappier,WF,47
+New Haven,Hamden 7,State Treasurer,,Denise Nappier,WF,70
+New Haven,Hamden 8,State Treasurer,,Denise Nappier,WF,62
+New Haven,Hamden 8-01,State Treasurer,,Denise Nappier,WF,7
+New Haven,Hamden 9,State Treasurer,,Denise Nappier,WF,33
+New Haven,Hamden 10,State Treasurer,,Denise Nappier,WF,38
+New Haven,Hamden 10-01,State Treasurer,,Denise Nappier,WF,9
+New Haven,Hamden 1,State Treasurer,,Tim Herbst,Ind,32
+New Haven,Hamden 2,State Treasurer,,Tim Herbst,Ind,37
+New Haven,Hamden 3,State Treasurer,,Tim Herbst,Ind,20
+New Haven,Hamden 4,State Treasurer,,Tim Herbst,Ind,43
+New Haven,Hamden 5,State Treasurer,,Tim Herbst,Ind,27
+New Haven,Hamden 5-01,State Treasurer,,Tim Herbst,Ind,0
+New Haven,Hamden 6,State Treasurer,,Tim Herbst,Ind,33
+New Haven,Hamden 7,State Treasurer,,Tim Herbst,Ind,58
+New Haven,Hamden 8,State Treasurer,,Tim Herbst,Ind,47
+New Haven,Hamden 8-01,State Treasurer,,Tim Herbst,Ind,4
+New Haven,Hamden 9,State Treasurer,,Tim Herbst,Ind,48
+New Haven,Hamden 10,State Treasurer,,Tim Herbst,Ind,28
+New Haven,Hamden 10-01,State Treasurer,,Tim Herbst,Ind,6
+New Haven,Hamden 1,Comptroller,,Sharon McLaughlin,Rep,351
+New Haven,Hamden 2,Comptroller,,Sharon McLaughlin,Rep,330
+New Haven,Hamden 3,Comptroller,,Sharon McLaughlin,Rep,114
+New Haven,Hamden 4,Comptroller,,Sharon McLaughlin,Rep,583
+New Haven,Hamden 5,Comptroller,,Sharon McLaughlin,Rep,273
+New Haven,Hamden 5-01,Comptroller,,Sharon McLaughlin,Rep,12
+New Haven,Hamden 6,Comptroller,,Sharon McLaughlin,Rep,407
+New Haven,Hamden 7,Comptroller,,Sharon McLaughlin,Rep,591
+New Haven,Hamden 8,Comptroller,,Sharon McLaughlin,Rep,730
+New Haven,Hamden 8-01,Comptroller,,Sharon McLaughlin,Rep,111
+New Haven,Hamden 9,Comptroller,,Sharon McLaughlin,Rep,839
+New Haven,Hamden 10,Comptroller,,Sharon McLaughlin,Rep,388
+New Haven,Hamden 10-01,Comptroller,,Sharon McLaughlin,Rep,102
+New Haven,Hamden 1,Comptroller,,Kevin Lembo,Dem,6540
+New Haven,Hamden 2,Comptroller,,Kevin Lembo,Dem,981
+New Haven,Hamden 3,Comptroller,,Kevin Lembo,Dem,1168
+New Haven,Hamden 4,Comptroller,,Kevin Lembo,Dem,1552
+New Haven,Hamden 5,Comptroller,,Kevin Lembo,Dem,1384
+New Haven,Hamden 5-01,Comptroller,,Kevin Lembo,Dem,92
+New Haven,Hamden 6,Comptroller,,Kevin Lembo,Dem,1073
+New Haven,Hamden 7,Comptroller,,Kevin Lembo,Dem,1248
+New Haven,Hamden 8,Comptroller,,Kevin Lembo,Dem,1339
+New Haven,Hamden 8-01,Comptroller,,Kevin Lembo,Dem,109
+New Haven,Hamden 9,Comptroller,,Kevin Lembo,Dem,993
+New Haven,Hamden 10,Comptroller,,Kevin Lembo,Dem,800
+New Haven,Hamden 10-01,Comptroller,,Kevin Lembo,Dem,245
+New Haven,Hamden 1,Comptroller,,Kevin Lembo,WF,23
+New Haven,Hamden 2,Comptroller,,Kevin Lembo,WF,49
+New Haven,Hamden 3,Comptroller,,Kevin Lembo,WF,27
+New Haven,Hamden 4,Comptroller,,Kevin Lembo,WF,89
+New Haven,Hamden 5,Comptroller,,Kevin Lembo,WF,74
+New Haven,Hamden 5-01,Comptroller,,Kevin Lembo,WF,2
+New Haven,Hamden 6,Comptroller,,Kevin Lembo,WF,50
+New Haven,Hamden 7,Comptroller,,Kevin Lembo,WF,69
+New Haven,Hamden 8,Comptroller,,Kevin Lembo,WF,57
+New Haven,Hamden 8-01,Comptroller,,Kevin Lembo,WF,6
+New Haven,Hamden 9,Comptroller,,Kevin Lembo,WF,28
+New Haven,Hamden 10,Comptroller,,Kevin Lembo,WF,28
+New Haven,Hamden 10-01,Comptroller,,Kevin Lembo,WF,6
+New Haven,Hamden 1,Comptroller,,Sharon McLaughlin,Ind,19
+New Haven,Hamden 2,Comptroller,,Sharon McLaughlin,Ind,29
+New Haven,Hamden 3,Comptroller,,Sharon McLaughlin,Ind,20
+New Haven,Hamden 4,Comptroller,,Sharon McLaughlin,Ind,30
+New Haven,Hamden 5,Comptroller,,Sharon McLaughlin,Ind,22
+New Haven,Hamden 5-01,Comptroller,,Sharon McLaughlin,Ind,1
+New Haven,Hamden 6,Comptroller,,Sharon McLaughlin,Ind,27
+New Haven,Hamden 7,Comptroller,,Sharon McLaughlin,Ind,40
+New Haven,Hamden 8,Comptroller,,Sharon McLaughlin,Ind,52
+New Haven,Hamden 8-01,Comptroller,,Sharon McLaughlin,Ind,1
+New Haven,Hamden 9,Comptroller,,Sharon McLaughlin,Ind,29
+New Haven,Hamden 10,Comptroller,,Sharon McLaughlin,Ind,17
+New Haven,Hamden 10-01,Comptroller,,Sharon McLaughlin,Ind,2
+New Haven,Hamden 1,Comptroller,,Rolf Maurer,Green,28
+New Haven,Hamden 2,Comptroller,,Rolf Maurer,Green,24
+New Haven,Hamden 3,Comptroller,,Rolf Maurer,Green,12
+New Haven,Hamden 4,Comptroller,,Rolf Maurer,Green,62
+New Haven,Hamden 5,Comptroller,,Rolf Maurer,Green,49
+New Haven,Hamden 5-01,Comptroller,,Rolf Maurer,Green,3
+New Haven,Hamden 6,Comptroller,,Rolf Maurer,Green,23
+New Haven,Hamden 7,Comptroller,,Rolf Maurer,Green,26
+New Haven,Hamden 8,Comptroller,,Rolf Maurer,Green,29
+New Haven,Hamden 8-01,Comptroller,,Rolf Maurer,Green,1
+New Haven,Hamden 9,Comptroller,,Rolf Maurer,Green,36
+New Haven,Hamden 10,Comptroller,,Rolf Maurer,Green,22
+New Haven,Hamden 10-01,Comptroller,,Rolf Maurer,Green,4
+New Haven,Hamden 1,Attorney General,,Kie Westby,Rep,313
+New Haven,Hamden 2,Attorney General,,Kie Westby,Rep,287
+New Haven,Hamden 3,Attorney General,,Kie Westby,Rep,100
+New Haven,Hamden 4,Attorney General,,Kie Westby,Rep,540
+New Haven,Hamden 5,Attorney General,,Kie Westby,Rep,242
+New Haven,Hamden 5-01,Attorney General,,Kie Westby,Rep,13
+New Haven,Hamden 6,Attorney General,,Kie Westby,Rep,364
+New Haven,Hamden 7,Attorney General,,Kie Westby,Rep,543
+New Haven,Hamden 8,Attorney General,,Kie Westby,Rep,681
+New Haven,Hamden 8-01,Attorney General,,Kie Westby,Rep,101
+New Haven,Hamden 9,Attorney General,,Kie Westby,Rep,781
+New Haven,Hamden 10,Attorney General,,Kie Westby,Rep,365
+New Haven,Hamden 10-01,Attorney General,,Kie Westby,Rep,85
+New Haven,Hamden 1,Attorney General,,George Jepsen,Dem,699
+New Haven,Hamden 2,Attorney General,,George Jepsen,Dem,1029
+New Haven,Hamden 3,Attorney General,,George Jepsen,Dem,1175
+New Haven,Hamden 4,Attorney General,,George Jepsen,Dem,1632
+New Haven,Hamden 5,Attorney General,,George Jepsen,Dem,1425
+New Haven,Hamden 5-01,Attorney General,,George Jepsen,Dem,92
+New Haven,Hamden 6,Attorney General,,George Jepsen,Dem,1126
+New Haven,Hamden 7,Attorney General,,George Jepsen,Dem,1306
+New Haven,Hamden 8,Attorney General,,George Jepsen,Dem,1411
+New Haven,Hamden 8-01,Attorney General,,George Jepsen,Dem,120
+New Haven,Hamden 9,Attorney General,,George Jepsen,Dem,1054
+New Haven,Hamden 10,Attorney General,,George Jepsen,Dem,834
+New Haven,Hamden 10-01,Attorney General,,George Jepsen,Dem,264
+New Haven,Hamden 1,Attorney General,,George Jepsen,WF,27
+New Haven,Hamden 2,Attorney General,,George Jepsen,WF,46
+New Haven,Hamden 3,Attorney General,,George Jepsen,WF,34
+New Haven,Hamden 4,Attorney General,,George Jepsen,WF,88
+New Haven,Hamden 5,Attorney General,,George Jepsen,WF,77
+New Haven,Hamden 5-01,Attorney General,,George Jepsen,WF,1
+New Haven,Hamden 6,Attorney General,,George Jepsen,WF,55
+New Haven,Hamden 7,Attorney General,,George Jepsen,WF,72
+New Haven,Hamden 8,Attorney General,,George Jepsen,WF,63
+New Haven,Hamden 8-01,Attorney General,,George Jepsen,WF,5
+New Haven,Hamden 9,Attorney General,,George Jepsen,WF,33
+New Haven,Hamden 10,Attorney General,,George Jepsen,WF,34
+New Haven,Hamden 10-01,Attorney General,,George Jepsen,WF,8
+New Haven,Hamden 1,Attorney General,,Kie Westby,Ind,10
+New Haven,Hamden 2,Attorney General,,Kie Westby,Ind,20
+New Haven,Hamden 3,Attorney General,,Kie Westby,Ind,16
+New Haven,Hamden 4,Attorney General,,Kie Westby,Ind,24
+New Haven,Hamden 5,Attorney General,,Kie Westby,Ind,13
+New Haven,Hamden 5-01,Attorney General,,Kie Westby,Ind,1
+New Haven,Hamden 6,Attorney General,,Kie Westby,Ind,24
+New Haven,Hamden 7,Attorney General,,Kie Westby,Ind,29
+New Haven,Hamden 8,Attorney General,,Kie Westby,Ind,31
+New Haven,Hamden 8-01,Attorney General,,Kie Westby,Ind,1
+New Haven,Hamden 9,Attorney General,,Kie Westby,Ind,24
+New Haven,Hamden 10,Attorney General,,Kie Westby,Ind,15
+New Haven,Hamden 10-01,Attorney General,,Kie Westby,Ind,2
+New Haven,Hamden 1,Attorney General,,Stephen Fournier,Green,35
+New Haven,Hamden 2,Attorney General,,Stephen Fournier,Green,31
+New Haven,Hamden 3,Attorney General,,Stephen Fournier,Green,16
+New Haven,Hamden 4,Attorney General,,Stephen Fournier,Green,61
+New Haven,Hamden 5,Attorney General,,Stephen Fournier,Green,54
+New Haven,Hamden 5-01,Attorney General,,Stephen Fournier,Green,4
+New Haven,Hamden 6,Attorney General,,Stephen Fournier,Green,32
+New Haven,Hamden 7,Attorney General,,Stephen Fournier,Green,45
+New Haven,Hamden 8,Attorney General,,Stephen Fournier,Green,42
+New Haven,Hamden 8-01,Attorney General,,Stephen Fournier,Green,4
+New Haven,Hamden 9,Attorney General,,Stephen Fournier,Green,40
+New Haven,Hamden 10,Attorney General,,Stephen Fournier,Green,23
+New Haven,Hamden 10-01,Attorney General,,Stephen Fournier,Green,7

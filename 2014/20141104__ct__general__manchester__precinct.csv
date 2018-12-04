@@ -1,0 +1,293 @@
+county,precinct,office,district,candidate,party,votes
+Hartford,Manchester 1,Governor,,Thomas Foley,Rep,395
+Hartford,Manchester 2,Governor,,Thomas Foley,Rep,900
+Hartford,Manchester 3,Governor,,Thomas Foley,Rep,1101
+Hartford,Manchester 4,Governor,,Thomas Foley,Rep,767
+Hartford,Manchester 5,Governor,,Thomas Foley,Rep,1094
+Hartford,Manchester 6,Governor,,Thomas Foley,Rep,970
+Hartford,Manchester 7,Governor,,Thomas Foley,Rep,981
+Hartford,Manchester 8,Governor,,Thomas Foley,Rep,543
+Hartford,Manchester 1,Governor,,Dannel Malloy,Dem,537
+Hartford,Manchester 2,Governor,,Dannel Malloy,Dem,1377
+Hartford,Manchester 3,Governor,,Dannel Malloy,Dem,1110
+Hartford,Manchester 4,Governor,,Dannel Malloy,Dem,1245
+Hartford,Manchester 5,Governor,,Dannel Malloy,Dem,1431
+Hartford,Manchester 6,Governor,,Dannel Malloy,Dem,780
+Hartford,Manchester 7,Governor,,Dannel Malloy,Dem,938
+Hartford,Manchester 8,Governor,,Dannel Malloy,Dem,998
+Hartford,Manchester 1,Governor,,Dannel Malloy,WF,13
+Hartford,Manchester 2,Governor,,Dannel Malloy,WF,61
+Hartford,Manchester 3,Governor,,Dannel Malloy,WF,66
+Hartford,Manchester 4,Governor,,Dannel Malloy,WF,38
+Hartford,Manchester 5,Governor,,Dannel Malloy,WF,63
+Hartford,Manchester 6,Governor,,Dannel Malloy,WF,46
+Hartford,Manchester 7,Governor,,Dannel Malloy,WF,61
+Hartford,Manchester 8,Governor,,Dannel Malloy,WF,39
+Hartford,Manchester 1,Governor,,Thomas Foley,Ind,38
+Hartford,Manchester 2,Governor,,Thomas Foley,Ind,97
+Hartford,Manchester 3,Governor,,Thomas Foley,Ind,78
+Hartford,Manchester 4,Governor,,Thomas Foley,Ind,75
+Hartford,Manchester 5,Governor,,Thomas Foley,Ind,80
+Hartford,Manchester 6,Governor,,Thomas Foley,Ind,57
+Hartford,Manchester 7,Governor,,Thomas Foley,Ind,67
+Hartford,Manchester 8,Governor,,Thomas Foley,Ind,63
+Hartford,Manchester 1,Governor,,Joe Visconti,PC,11
+Hartford,Manchester 2,Governor,,Joe Visconti,PC,43
+Hartford,Manchester 3,Governor,,Joe Visconti,PC,0
+Hartford,Manchester 4,Governor,,Joe Visconti,PC,33
+Hartford,Manchester 5,Governor,,Joe Visconti,PC,44
+Hartford,Manchester 6,Governor,,Joe Visconti,PC,20
+Hartford,Manchester 7,Governor,,Joe Visconti,PC,25
+Hartford,Manchester 8,Governor,,Joe Visconti,PC,26
+Hartford,Manchester 1,Governor,,Jonathan Pelto,write-in,0
+Hartford,Manchester 2,Governor,,Jonathan Pelto,write-in,0
+Hartford,Manchester 3,Governor,,Jonathan Pelto,write-in,1
+Hartford,Manchester 4,Governor,,Jonathan Pelto,write-in,0
+Hartford,Manchester 5,Governor,,Jonathan Pelto,write-in,3
+Hartford,Manchester 6,Governor,,Jonathan Pelto,write-in,1
+Hartford,Manchester 7,Governor,,Jonathan Pelto,write-in,0
+Hartford,Manchester 8,Governor,,Jonathan Pelto,write-in,7
+Hartford,Manchester 1,US House,1,Matthew Corey,Rep,348
+Hartford,Manchester 2,US House,1,Matthew Corey,Rep,795
+Hartford,Manchester 3,US House,1,Matthew Corey,Rep,949
+Hartford,Manchester 4,US House,1,Matthew Corey,Rep,657
+Hartford,Manchester 5,Governor,1,Matthew Corey,Rep,949
+Hartford,Manchester 6,Governor,1,Matthew Corey,Rep,837
+Hartford,Manchester 7,Governor,1,Matthew Corey,Rep,803
+Hartford,Manchester 8,Governor,1,Matthew Corey,Rep,441
+Hartford,Manchester 1,US House,1,John Larson,Dem,570
+Hartford,Manchester 2,US House,1,John Larson,Dem,1485
+Hartford,Manchester 3,US House,1,John Larson,Dem,1267
+Hartford,Manchester 4,US House,1,John Larson,Dem,1322
+Hartford,Manchester 5,Governor,1,John Larson,Dem,1560
+Hartford,Manchester 6,Governor,1,John Larson,Dem,919
+Hartford,Manchester 7,Governor,1,John Larson,Dem,1107
+Hartford,Manchester 8,Governor,1,John Larson,Dem,1086
+Hartford,Manchester 1,US House,1,Joe Courtney,WF,39
+Hartford,Manchester 2,US House,1,Joe Courtney,WF,100
+Hartford,Manchester 3,US House,1,Joe Courtney,WF,84
+Hartford,Manchester 4,US House,1,Joe Courtney,WF,66
+Hartford,Manchester 5,Governor,1,Joe Courtney,WF,89
+Hartford,Manchester 6,Governor,1,Joe Courtney,WF,70
+Hartford,Manchester 7,Governor,1,Joe Courtney,WF,84
+Hartford,Manchester 8,Governor,1,Joe Courtney,WF,69
+Hartford,Manchester 1,US House,1,Jeffery Russell,Green,22
+Hartford,Manchester 2,US House,1,Jeffery Russell,Green,47
+Hartford,Manchester 3,US House,1,Jeffery Russell,Green,42
+Hartford,Manchester 4,US House,1,Jeffery Russell,Green,47
+Hartford,Manchester 5,US House,1,Jeffery Russell,Green,2
+Hartford,Manchester 6,US House,1,Jeffery Russell,Green,18
+Hartford,Manchester 7,US House,1,Jeffery Russell,Green,43
+Hartford,Manchester 8,US House,1,Jeffery Russell,Green,31
+Hartford,Manchester 1,State Senate,,Whit Osgood,Rep,372
+Hartford,Manchester 2,State Senate,,Whit Osgood,Rep,819
+Hartford,Manchester 3,State Senate,,Whit Osgood,Rep,1020
+Hartford,Manchester 4,State Senate,,Whit Osgood,Rep,732
+Hartford,Manchester 5,State Senate,,Whit Osgood,Rep,1030
+Hartford,Manchester 6,State Senate,,Whit Osgood,Rep,919
+Hartford,Manchester 7,State Senate,,Whit Osgood,Rep,922
+Hartford,Manchester 8,State Senate,,Whit Osgood,Rep,477
+Hartford,Manchester 1,State Senate,,Whit Osgood,Ind,13
+Hartford,Manchester 2,State Senate,,Whit Osgood,Ind,59
+Hartford,Manchester 3,State Senate,,Whit Osgood,Ind,63
+Hartford,Manchester 4,State Senate,,Whit Osgood,Ind,29
+Hartford,Manchester 5,State Senate,,Whit Osgood,Ind,62
+Hartford,Manchester 6,State Senate,,Whit Osgood,Ind,43
+Hartford,Manchester 7,State Senate,,Whit Osgood,Ind,44
+Hartford,Manchester 8,State Senate,,Whit Osgood,Ind,35
+Hartford,Manchester 1,State Senate,,Steve Cassano,Dem,541
+Hartford,Manchester 2,State Senate,,Steve Cassano,Dem,1437
+Hartford,Manchester 3,State Senate,,Steve Cassano,Dem,1141
+Hartford,Manchester 4,State Senate,,Steve Cassano,Dem,1267
+Hartford,Manchester 5,State Senate,,Steve Cassano,Dem,1491
+Hartford,Manchester 6,State Senate,,Steve Cassano,Dem,830
+Hartford,Manchester 7,State Senate,,Steve Cassano,Dem,987
+Hartford,Manchester 8,State Senate,,Steve Cassano,Dem,1053
+Hartford,Manchester 1,State Senate,,Steve Cassano,WF,41
+Hartford,Manchester 2,State Senate,,Steve Cassano,WF,99
+Hartford,Manchester 3,State Senate,,Steve Cassano,WF,84
+Hartford,Manchester 4,State Senate,,Steve Cassano,WF,79
+Hartford,Manchester 5,State Senate,,Steve Cassano,WF,80
+Hartford,Manchester 6,State Senate,,Steve Cassano,WF,59
+Hartford,Manchester 7,State Senate,,Steve Cassano,WF,84
+Hartford,Manchester 8,State Senate,,Steve Cassano,WF,62
+Hartford,Manchester 1,State House,11,Jack Jacobs,Rep,349
+Hartford,Manchester 2,State House,12,Rusty Meek,Rep,838
+Hartford,Manchester 3,State House,12,Rusty Meek,Rep,1067
+Hartford,Manchester 4,State House,12,Rusty Meek,Rep,706
+Hartford,Manchester 1,State House,11,Jeffrey Currey,Dem,588
+Hartford,Manchester 2,State House,12,Kelly Luxenburg,Dem,1538
+Hartford,Manchester 3,State House,12,Kelly Luxenburg,Dem,1175
+Hartford,Manchester 4,State House,12,Kelly Luxenburg,Dem,1301
+Hartford,Manchester 2,State House,12,Kelly Luxenburg,WF,11
+Hartford,Manchester 3,State House,12,Kelly Luxenburg,WF,83
+Hartford,Manchester 4,State House,12,Kelly Luxenburg,WF,78
+Hartford,Manchester 5,State House,13,Mark Tweedie,Rep,1323
+Hartford,Manchester 6,State House,13,Mark Tweedie,Rep,1093
+Hartford,Manchester 5,State House,13,Joe Diminico,Dem,1328
+Hartford,Manchester 6,State House,13,Joe Diminico,Dem,756
+Hartford,Manchester 7,State House,9,Jason Rojas,Dem,1333
+Hartford,Manchester 8,State House,9,Jason Rojas,Dem,1199
+Hartford,Manchester 7,State House,9,Richard Lion,Lbt,315
+Hartford,Manchester 8,State House,9,Richard Lion,Lbt,201
+,,,,,,
+Hartford,Manchester 1,Secretary of State,,Peter Lumaj,Rep,364
+Hartford,Manchester 2,Secretary of State,,Peter Lumaj,Rep,873
+Hartford,Manchester 3,Secretary of State,,Peter Lumaj,Rep,1021
+Hartford,Manchester 4,Secretary of State,,Peter Lumaj,Rep,713
+Hartford,Manchester 5,Secretary of State,,Peter Lumaj,Rep,982
+Hartford,Manchester 6,Secretary of State,,Peter Lumaj,Rep,894
+Hartford,Manchester 7,Secretary of State,,Peter Lumaj,Rep,854
+Hartford,Manchester 8,Secretary of State,,Peter Lumaj,Rep,480
+Hartford,Manchester 1,Secretary of State,,Denise Merrill,Dem,510
+Hartford,Manchester 2,Secretary of State,,Denise Merrill,Dem,1291
+Hartford,Manchester 3,Secretary of State,,Denise Merrill,Dem,1107
+Hartford,Manchester 4,Secretary of State,,Denise Merrill,Dem,1206
+Hartford,Manchester 5,Secretary of State,,Denise Merrill,Dem,1404
+Hartford,Manchester 6,Secretary of State,,Denise Merrill,Dem,796
+Hartford,Manchester 7,Secretary of State,,Denise Merrill,Dem,951
+Hartford,Manchester 8,Secretary of State,,Denise Merrill,Dem,964
+Hartford,Manchester 1,Secretary of State,,Denise Merrill,WF,36
+Hartford,Manchester 2,Secretary of State,,Denise Merrill,WF,90
+Hartford,Manchester 3,Secretary of State,,Denise Merrill,WF,83
+Hartford,Manchester 4,Secretary of State,,Denise Merrill,WF,74
+Hartford,Manchester 5,Secretary of State,,Denise Merrill,WF,77
+Hartford,Manchester 6,Secretary of State,,Denise Merrill,WF,57
+Hartford,Manchester 7,Secretary of State,,Denise Merrill,WF,76
+Hartford,Manchester 8,Secretary of State,,Denise Merrill,WF,58
+Hartford,Manchester 1,Secretary of State,,Peter Lumaj,Ind,15
+Hartford,Manchester 2,Secretary of State,,Peter Lumaj,Ind,59
+Hartford,Manchester 3,Secretary of State,,Peter Lumaj,Ind,66
+Hartford,Manchester 4,Secretary of State,,Peter Lumaj,Ind,32
+Hartford,Manchester 5,Secretary of State,,Peter Lumaj,Ind,58
+Hartford,Manchester 6,Secretary of State,,Peter Lumaj,Ind,42
+Hartford,Manchester 7,Secretary of State,,Peter Lumaj,Ind,42
+Hartford,Manchester 8,Secretary of State,,Peter Lumaj,Ind,36
+Hartford,Manchester 1,Secretary of State,,Michael DeRosa,Green,36
+Hartford,Manchester 2,Secretary of State,,Michael DeRosa,Green,71
+Hartford,Manchester 3,Secretary of State,,Michael DeRosa,Green,56
+Hartford,Manchester 4,Secretary of State,,Michael DeRosa,Green,65
+Hartford,Manchester 5,Secretary of State,,Michael DeRosa,Green,102
+Hartford,Manchester 6,Secretary of State,,Michael DeRosa,Green,44
+Hartford,Manchester 7,Secretary of State,,Michael DeRosa,Green,84
+Hartford,Manchester 8,Secretary of State,,Michael DeRosa,Green,74
+Hartford,Manchester 1,State Treasurer,,Tim Herbst,Rep,392
+Hartford,Manchester 2,State Treasurer,,Tim Herbst,Rep,934
+Hartford,Manchester 3,State Treasurer,,Tim Herbst,Rep,1121
+Hartford,Manchester 4,State Treasurer,,Tim Herbst,Rep,769
+Hartford,Manchester 5,State Treasurer,,Tim Herbst,Rep,1155
+Hartford,Manchester 6,State Treasurer,,Tim Herbst,Rep,1034
+Hartford,Manchester 7,State Treasurer,,Tim Herbst,Rep,1028
+Hartford,Manchester 8,State Treasurer,,Tim Herbst,Rep,525
+Hartford,Manchester 1,State Treasurer,,Denise Nappier,Dem,516
+Hartford,Manchester 2,State Treasurer,,Denise Nappier,Dem,1321
+Hartford,Manchester 3,State Treasurer,,Denise Nappier,Dem,1054
+Hartford,Manchester 4,State Treasurer,,Denise Nappier,Dem,1217
+Hartford,Manchester 5,State Treasurer,,Denise Nappier,Dem,1339
+Hartford,Manchester 6,State Treasurer,,Denise Nappier,Dem,695
+Hartford,Manchester 7,State Treasurer,,Denise Nappier,Dem,855
+Hartford,Manchester 8,State Treasurer,,Denise Nappier,Dem,1004
+Hartford,Manchester 1,State Treasurer,,Denise Nappier,WF,37
+Hartford,Manchester 2,State Treasurer,,Denise Nappier,WF,90
+Hartford,Manchester 3,State Treasurer,,Denise Nappier,WF,71
+Hartford,Manchester 4,State Treasurer,,Denise Nappier,WF,75
+Hartford,Manchester 5,State Treasurer,,Denise Nappier,WF,72
+Hartford,Manchester 6,State Treasurer,,Denise Nappier,WF,51
+Hartford,Manchester 7,State Treasurer,,Denise Nappier,WF,73
+Hartford,Manchester 8,State Treasurer,,Denise Nappier,WF,60
+Hartford,Manchester 1,State Treasurer,,Tim Herbst,Ind,18
+Hartford,Manchester 2,State Treasurer,,Tim Herbst,Ind,67
+Hartford,Manchester 3,State Treasurer,,Tim Herbst,Ind,75
+Hartford,Manchester 4,State Treasurer,,Tim Herbst,Ind,32
+Hartford,Manchester 5,State Treasurer,,Tim Herbst,Ind,71
+Hartford,Manchester 6,State Treasurer,,Tim Herbst,Ind,54
+Hartford,Manchester 7,State Treasurer,,Tim Herbst,Ind,54
+Hartford,Manchester 8,State Treasurer,,Tim Herbst,Ind,38
+Hartford,Manchester 1,State Treasurer,,Rolf Maurer,write-in,0
+Hartford,Manchester 2,State Treasurer,,Rolf Maurer,write-in,2
+Hartford,Manchester 3,State Treasurer,,Rolf Maurer,write-in,9
+Hartford,Manchester 4,State Treasurer,,Rolf Maurer,write-in,2
+Hartford,Manchester 5,State Treasurer,,Rolf Maurer,write-in,0
+Hartford,Manchester 6,State Treasurer,,Rolf Maurer,write-in,0
+Hartford,Manchester 7,State Treasurer,,Rolf Maurer,write-in,1
+Hartford,Manchester 8,State Treasurer,,Rolf Maurer,write-in,0
+Hartford,Manchester 1,Comptroller,,Sharon McLaughlin,Rep,342
+Hartford,Manchester 2,Comptroller,,Sharon McLaughlin,Rep,760
+Hartford,Manchester 3,Comptroller,,Sharon McLaughlin,Rep,947
+Hartford,Manchester 4,Comptroller,,Sharon McLaughlin,Rep,694
+Hartford,Manchester 5,Comptroller,,Sharon McLaughlin,Rep,969
+Hartford,Manchester 6,Comptroller,,Sharon McLaughlin,Rep,850
+Hartford,Manchester 7,Comptroller,,Sharon McLaughlin,Rep,836
+Hartford,Manchester 8,Comptroller,,Sharon McLaughlin,Rep,465
+Hartford,Manchester 1,Comptroller,,Kevin Lembo,Dem,522
+Hartford,Manchester 2,Comptroller,,Kevin Lembo,Dem,1403
+Hartford,Manchester 3,Comptroller,,Kevin Lembo,Dem,1178
+Hartford,Manchester 4,Comptroller,,Kevin Lembo,Dem,1229
+Hartford,Manchester 5,Comptroller,,Kevin Lembo,Dem,1420
+Hartford,Manchester 6,Comptroller,,Kevin Lembo,Dem,822
+Hartford,Manchester 7,Comptroller,,Kevin Lembo,Dem,979
+Hartford,Manchester 8,Comptroller,,Kevin Lembo,Dem,999
+Hartford,Manchester 1,Comptroller,,Kevin Lembo,WF,48
+Hartford,Manchester 2,Comptroller,,Kevin Lembo,WF,88
+Hartford,Manchester 3,Comptroller,,Kevin Lembo,WF,75
+Hartford,Manchester 4,Comptroller,,Kevin Lembo,WF,70
+Hartford,Manchester 5,Comptroller,,Kevin Lembo,WF,74
+Hartford,Manchester 6,Comptroller,,Kevin Lembo,WF,56
+Hartford,Manchester 7,Comptroller,,Kevin Lembo,WF,68
+Hartford,Manchester 8,Comptroller,,Kevin Lembo,WF,58
+Hartford,Manchester 1,Comptroller,,Sharon McLaughlin,Ind,13
+Hartford,Manchester 2,Comptroller,,Sharon McLaughlin,Ind,58
+Hartford,Manchester 3,Comptroller,,Sharon McLaughlin,Ind,64
+Hartford,Manchester 4,Comptroller,,Sharon McLaughlin,Ind,34
+Hartford,Manchester 5,Comptroller,,Sharon McLaughlin,Ind,61
+Hartford,Manchester 6,Comptroller,,Sharon McLaughlin,Ind,44
+Hartford,Manchester 7,Comptroller,,Sharon McLaughlin,Ind,57
+Hartford,Manchester 8,Comptroller,,Sharon McLaughlin,Ind,34
+Hartford,Manchester 1,Comptroller,,Rolf Maurer,Green,28
+Hartford,Manchester 2,Comptroller,,Rolf Maurer,Green,52
+Hartford,Manchester 3,Comptroller,,Rolf Maurer,Green,35
+Hartford,Manchester 4,Comptroller,,Rolf Maurer,Green,45
+Hartford,Manchester 5,Comptroller,,Rolf Maurer,Green,65
+Hartford,Manchester 6,Comptroller,,Rolf Maurer,Green,26
+Hartford,Manchester 7,Comptroller,,Rolf Maurer,Green,35
+Hartford,Manchester 8,Comptroller,,Rolf Maurer,Green,37
+Hartford,Manchester 1,Attorney General,,Kie Westby,Rep,295
+Hartford,Manchester 2,Attorney General,,Kie Westby,Rep,663
+Hartford,Manchester 3,Attorney General,,Kie Westby,Rep,880
+Hartford,Manchester 4,Attorney General,,Kie Westby,Rep,603
+Hartford,Manchester 5,Attorney General,,Kie Westby,Rep,832
+Hartford,Manchester 6,Attorney General,,Kie Westby,Rep,740
+Hartford,Manchester 7,Attorney General,,Kie Westby,Rep,727
+Hartford,Manchester 8,Attorney General,,Kie Westby,Rep,397
+Hartford,Manchester 1,Attorney General,,George Jepsen,Dem,576
+Hartford,Manchester 2,Attorney General,,George Jepsen,Dem,1502
+Hartford,Manchester 3,Attorney General,,George Jepsen,Dem,1289
+Hartford,Manchester 4,Attorney General,,George Jepsen,Dem,1314
+Hartford,Manchester 5,Attorney General,,George Jepsen,Dem,1566
+Hartford,Manchester 6,Attorney General,,George Jepsen,Dem,915
+Hartford,Manchester 7,Attorney General,,George Jepsen,Dem,1098
+Hartford,Manchester 8,Attorney General,,George Jepsen,Dem,1041
+Hartford,Manchester 1,Attorney General,,George Jepsen,WF,42
+Hartford,Manchester 2,Attorney General,,George Jepsen,WF,100
+Hartford,Manchester 3,Attorney General,,George Jepsen,WF,84
+Hartford,Manchester 4,Attorney General,,George Jepsen,WF,80
+Hartford,Manchester 5,Attorney General,,George Jepsen,WF,83
+Hartford,Manchester 6,Attorney General,,George Jepsen,WF,60
+Hartford,Manchester 7,Attorney General,,George Jepsen,WF,78
+Hartford,Manchester 8,Attorney General,,George Jepsen,WF,66
+Hartford,Manchester 1,Attorney General,,Kie Westby,Ind,10
+Hartford,Manchester 2,Attorney General,,Kie Westby,Ind,53
+Hartford,Manchester 3,Attorney General,,Kie Westby,Ind,3
+Hartford,Manchester 4,Attorney General,,Kie Westby,Ind,23
+Hartford,Manchester 5,Attorney General,,Kie Westby,Ind,52
+Hartford,Manchester 6,Attorney General,,Kie Westby,Ind,36
+Hartford,Manchester 7,Attorney General,,Kie Westby,Ind,42
+Hartford,Manchester 8,Attorney General,,Kie Westby,Ind,28
+Hartford,Manchester 1,Attorney General,,Stephen Fournier,Green,29
+Hartford,Manchester 2,Attorney General,,Stephen Fournier,Green,74
+Hartford,Manchester 3,Attorney General,,Stephen Fournier,Green,56
+Hartford,Manchester 4,Attorney General,,Stephen Fournier,Green,55
+Hartford,Manchester 5,Attorney General,,Stephen Fournier,Green,80
+Hartford,Manchester 6,Attorney General,,Stephen Fournier,Green,44
+Hartford,Manchester 7,Attorney General,,Stephen Fournier,Green,50
+Hartford,Manchester 8,Attorney General,,Stephen Fournier,Green,54
