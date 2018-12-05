@@ -1,0 +1,75 @@
+county,precinct,office,district,party,candidate,votes
+New London,Lisbon 1,Governor,,Rep,Thomas Foley,267
+New London,Lisbon 2,Governor,,Rep,Thomas Foley,462
+New London,Lisbon 1,Governor,,Ind,Thomas Foley,17
+New London,Lisbon 2,Governor,,Ind,Thomas Foley,27
+New London,Lisbon 1,Governor,,Dem,Dannel Malloy,254
+New London,Lisbon 2,Governor,,Dem,Dannel Malloy,460
+New London,Lisbon 1,Governor,,WF,Dannel Malloy,6
+New London,Lisbon 2,Governor,,WF,Dannel Malloy,25
+New London,Lisbon 1,Governor,,PC,Joe Visconti,8
+New London,Lisbon 2,Governor,,PC,Joe Visconti,19
+New London,Lisbon 1,Governor,,write-in,Jonathan Pelto,1
+New London,Lisbon 2,Governor,,write-in,Jonathan Pelto,0
+New London,Lisbon 1,US House,2,Rep,Lori Hopkins-Cavanagh,186
+New London,Lisbon 2,US House,3,Rep,Lori Hopkins-Cavanagh,297
+New London,Lisbon 1,US House,3,Dem,Joe Courtney,313
+New London,Lisbon 2,US House,3,Dem,Joe Courtney,585
+New London,Lisbon 1,US House,3,Dem,Joe Courtney,24
+New London,Lisbon 2,US House,3,Dem,Joe Courtney,83
+New London,Lisbon 1,US House,3,Green,William Clyde,3
+New London,Lisbon 2,US House,3,Green,William Clyde,5
+New London,Lisbon 1,US House,3,Lbt,Daniel Reale,6
+New London,Lisbon 2,US House,3,Lbt,Daniel Reale,10
+New London,Lisbon 1,State Senate,,Rep,Steve Everett,206
+New London,Lisbon 2,State Senate,,Rep,Steve Everett,343
+New London,Lisbon 1,State Senate,,Ind,Steve Everett,11
+New London,Lisbon 2,State Senate,,Ind,Steve Everett,29
+New London,Lisbon 1,State Senate,,Dem,Catherine Osten,286
+New London,Lisbon 2,State Senate,,Dem,Catherine Osten,530
+New London,Lisbon 1,State Senate,,WF,Catherine Osten,25
+New London,Lisbon 2,State Senate,,WF,Catherine Osten,63
+New London,Lisbon 1,State House,45,Rep,Norman,246
+New London,Lisbon 1,State House,47,Rep,Doug Dubitsky,430
+New London,Lisbon 1,State House,47,Ind,Doug Dubitsky,43
+New London,Lisbon 2,State House,45,Dem,Brycki,294
+New London,Lisbon 2,State House,47,Dem,Brian Sear,440
+New London,Lisbon 2,State House,48,WF,Brian Sear,42
+New London,Lisbon 1,Secretary of State,,Rep,Peter Lumaj,233
+New London,Lisbon 2,Secretary of State,,Rep,Peter Lumaj,389
+New London,Lisbon 1,Secretary of State,,Ind,Peter Lumaj,15
+New London,Lisbon 2,Secretary of State,,Ind,Peter Lumaj,31
+New London,Lisbon 1,Secretary of State,,Dem,Denise Merrill,237
+New London,Lisbon 2,Secretary of State,,Dem,Denise Merrill,433
+New London,Lisbon 1,Secretary of State,,WF,Denise Merrill,14
+New London,Lisbon 2,Secretary of State,,WF,Denise Merrill,42
+New London,Lisbon 1,Secretary of State,,Green,Michael DeRosa,12
+New London,Lisbon 2,Secretary of State,,Green,Michael DeRosa,43
+New London,Lisbon 1,State Treasurer,,Rep,Tim Herbst,237
+New London,Lisbon 2,State Treasurer,,Rep,Tim Herbst,383
+New London,Lisbon 1,State Treasurer,,Ind,Tim Herbst,18
+New London,Lisbon 2,State Treasurer,,Ind,Tim Herbst,36
+New London,Lisbon 1,State Treasurer,,Dem,Denise Nappier,240
+New London,Lisbon 2,State Treasurer,,Dem,Denise Nappier,472
+New London,Lisbon 1,State Treasurer,,WF,Denise Nappier,15
+New London,Lisbon 2,State Treasurer,,WF,Denise Nappier,53
+New London,Lisbon 1,Comptroller,,Rep,Sharon McLaughlin,226
+New London,Lisbon 2,Comptroller,,Rep,Sharon McLaughlin,391
+New London,Lisbon 1,Comptroller,,Ind,Sharon McLaughlin,19
+New London,Lisbon 2,Comptroller,,Ind,Sharon McLaughlin,40
+New London,Lisbon 1,Comptroller,,Dem,Kevin Lembo,231
+New London,Lisbon 2,Comptroller,,Dem,Kevin Lembo,429
+New London,Lisbon 1,Comptroller,,WF,Kevin Lembo,13
+New London,Lisbon 2,Comptroller,,WF,Kevin Lembo,49
+New London,Lisbon 1,Comptroller,,Green,Rolf Maurer,9
+New London,Lisbon 2,Comptroller,,Green,Rolf Maurer,22
+New London,Lisbon 1,Attorney General,,Rep,Kie Westby,205
+New London,Lisbon 2,Attorney General,,Rep,Kie Westby,341
+New London,Lisbon 1,Attorney General,,Ind,Kie Westby,14
+New London,Lisbon 2,Attorney General,,Ind,Kie Westby,21
+New London,Lisbon 1,Attorney General,,Dem,George Jepsen,253
+New London,Lisbon 2,Attorney General,,Dem,George Jepsen,487
+New London,Lisbon 1,Attorney General,,WF,George Jepsen,13
+New London,Lisbon 2,Attorney General,,WF,George Jepsen,49
+New London,Lisbon 1,Attorney General,,Green,Stephen Fournier,20
+New London,Lisbon 2,Attorney General,,Green,Stephen Fournier,34
