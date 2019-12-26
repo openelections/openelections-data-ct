@@ -938,7 +938,7 @@ Hartford,Enfield  Part,State House,59,Rep,William J. Ballard,2566
 Hartford,Enfield  Part,State House,59,Dem,Karen  Jarmoc,6753
 Middlesex,Essex,President,,Rep,John McCain,1541
 Middlesex,Essex,President,,Dem,Barack Obama,2542
-Middlesex,Essex,President,,Ind,Ralph Nader,3€)
+Middlesex,Essex,President,,Ind,Ralph Nader,36
 Middlesex,Essex,President,,write-in,Chuck Baldwin,0
 Middlesex,Essex,President,,write-in,Roger Calero,0
 Middlesex,Essex,President,,write-in,Cynthia McKinney,1
@@ -1440,28 +1440,28 @@ New Haven,Madison,State Senate,12,Rep,Ryan  Suerth,4996
 New Haven,Madison,State Senate,12,Dem,Edward  Meyer,5299
 New Haven,Madison,State House,101,Rep,Jeanne  Stevens,4051
 New Haven,Madison,State House,101,Dem,Deborah  Heinrich,6316
-Manchester,Manchester,President,,Rep,John McCain,8457
-Manchester,Manchester,President,,Dem,Barack Obama,17782
-Manchester,Manchester,President,,Ind,Ralph Nader,356
-Manchester,Manchester,President,,write-in,Chuck Baldwin,4
-Manchester,Manchester,President,,write-in,Roger Calero,0
-Manchester,Manchester,President,,write-in,Cynthia McKinney,3
-Manchester,Manchester,President,,write-in,Stewart Moore,0
-Manchester,Manchester,US House,1,Rep,Joe  Visconti,6211
-Manchester,Manchester,US House,1,Dem,John Larson,16048
-Manchester,Manchester,US House,1,Green,Stephen Fournier,540
-Manchester,Manchester,US House,1,WF,John Larson,1089
-Manchester,Manchester,US House,1,write-in,Matthew Coleman,0
-Manchester,Manchester,State Senate,4,Rep,David H. Blackwell,9417
-Manchester,Manchester,State Senate,4,Dem,Mary Ann  Handley,13746
-Manchester,Manchester,State Senate,4,WF,Mary Ann  Handley,1005
-Manchester,Manchester  Part,State House,12,Dem,Ryan P. Barry,8334
-Manchester,Manchester  Part,State House,13,Rep,Cheri Ann  Pelletier,2673
-Manchester,Manchester  Part,State House,9,Rep,Clifton E. Thompson,2369
-Manchester,Manchester  Part,State House,13,Dem,John W. Thompson,4961
-Manchester,Manchester  Part,State House,9,Dem,Jason  Rojas,2401
-Manchester,Manchester  Part,State House,13,WF,John W. Thompson,353
-Manchester,Manchester  Part,State House,9,WF,Jason  Rojas,140
+Hartford,Manchester,President,,Rep,John McCain,8457
+Hartford,Manchester,President,,Dem,Barack Obama,17782
+Hartford,Manchester,President,,Ind,Ralph Nader,356
+Hartford,Manchester,President,,write-in,Chuck Baldwin,4
+Hartford,Manchester,President,,write-in,Roger Calero,0
+Hartford,Manchester,President,,write-in,Cynthia McKinney,3
+Hartford,Manchester,President,,write-in,Stewart Moore,0
+Hartford,Manchester,US House,1,Rep,Joe  Visconti,6211
+Hartford,Manchester,US House,1,Dem,John Larson,16048
+Hartford,Manchester,US House,1,Green,Stephen Fournier,540
+Hartford,Manchester,US House,1,WF,John Larson,1089
+Hartford,Manchester,US House,1,write-in,Matthew Coleman,0
+Hartford,Manchester,State Senate,4,Rep,David H. Blackwell,9417
+Hartford,Manchester,State Senate,4,Dem,Mary Ann  Handley,13746
+Hartford,Manchester,State Senate,4,WF,Mary Ann  Handley,1005
+Hartford,Manchester  Part,State House,12,Dem,Ryan P. Barry,8334
+Hartford,Manchester  Part,State House,13,Rep,Cheri Ann  Pelletier,2673
+Hartford,Manchester  Part,State House,9,Rep,Clifton E. Thompson,2369
+Hartford,Manchester  Part,State House,13,Dem,John W. Thompson,4961
+Hartford,Manchester  Part,State House,9,Dem,Jason  Rojas,2401
+Hartford,Manchester  Part,State House,13,WF,John W. Thompson,353
+Hartford,Manchester  Part,State House,9,WF,Jason  Rojas,140
 Tolland,Mansfield,President,,Rep,John McCain,2235
 Tolland,Mansfield,President,,Dem,Barack Obama,7874
 Tolland,Mansfield,President,,Ind,Ralph Nader,187
