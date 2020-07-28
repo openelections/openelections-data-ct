@@ -62,7 +62,7 @@ Hartford,Avon,US House,6,Rep,Nancy Johnson,6135
 Hartford,Avon,US House,6,Dem,Paul Valenti,2289
 Hartford,Avon,US House,6,CC,Timothy A. Knibbs,55
 Hartford,Avon,US House,6,Green,Audrey A. Cole,228
-Hartford,Avon,State Senate,8,Rep,Thomas J. Herlihy,"  5,632"
+Hartford,Avon,State Senate,8,Rep,Thomas J. Herlihy,5632
 Hartford,Avon,State House,17,R,"Wade H. Horsey, II",3897
 Hartford,Avon,State House,17,Dem,Jessie Stratton,4665
 Hartford,Avon,State House,17,G,Thomas J. Sevigny,230
@@ -80,7 +80,7 @@ Litchfield,Barkhamsted,US House,6,Rep,Nancy Johnson,1066
 Litchfield,Barkhamsted,US House,6,Dem,Paul Valenti,503
 Litchfield,Barkhamsted,US House,6,CC,Timothy A. Knibbs,20
 Litchfield,Barkhamsted,US House,6,Green,Audrey A. Cole,96
-Litchfield,Barkhamsted,State Senate,8,Rep,Thomas J. Herlihy,"     1,083"
+Litchfield,Barkhamsted,State Senate,8,Rep,Thomas J. Herlihy,1083
 Litchfield,Barkhamsted,State House,62,Rep,Richard F. Ferrari,1084
 New.Haven,Beacon Falls,President,,Rep,George Bush,1158
 New.Haven,Beacon Falls,President,,Dem,Al Gore,1198
@@ -187,9 +187,9 @@ Hartford,Bloomfield,US Senate,,CC,"William Kozak, Jr.",135
 Hartford,Bloomfield,US Senate,,Lbt,Wildey J. Moore,52
 Hartford,Bloomfield,US House,1,Rep,Bob Backlund,1580
 Hartford,Bloomfield,US House,1,Dem,John Larson,7141
-Hartford,"Bloomfield, part of",State Senate,2,Dem,Eric D. Coleman,"   4,833"
-Hartford,"Bloomfield, part of",State Senate,5,Rep,Bob Lutts,          790
-Hartford,"Bloomfield, part of",State Senate,5,Dem,Kevin B. Sullivan,"  2,208"
+Hartford,"Bloomfield, part of",State Senate,2,Dem,Eric D. Coleman,4833
+Hartford,"Bloomfield, part of",State Senate,5,Rep,Bob Lutts,790
+Hartford,"Bloomfield, part of",State Senate,5,Dem,Kevin B. Sullivan,2208
 Hartford,"Bloomfield, part of",State House,1,Dem,Kenneth P. Green,2224
 Hartford,"Bloomfield, part of",State House,15,Dem,Mary U. Eberle,4798
 Tolland,Bolton,President,,Rep,George Bush,1250
@@ -203,7 +203,7 @@ Tolland,Bolton,US Senate,,Dem,Joe Lieberman,1379
 Tolland,Bolton,US Senate,,CC,"William Kozak, Jr.",43
 Tolland,Bolton,US Senate,,Lbt,Wildey J. Moore,12
 Tolland,Bolton,State Senate,4,Rep,Ross Garber,1059
-Tolland,Bolton,State Senate,4,Dem,Mary Ann Handley,"    1,394"
+Tolland,Bolton,State Senate,4,Dem,Mary Ann Handley,1394
 Tolland,Bolton,State House,55,Rep,Pamela Z. Sawyer,1847
 Tolland,"Bolton, part of",US House,1,Rep,Bob Backlund,990
 Tolland,"Bolton, part of",US House,2,Rep,Rob Simmons,72
@@ -239,7 +239,7 @@ New.Haven,Branford,US Senate,,Lbt,Wildey J. Moore,63
 New.Haven,Branford,US House,3,Rep,June M. Gold,4053
 New.Haven,Branford,US House,3,Dem,Rosa L. DeLauro,9223
 New.Haven,Branford,US House,3,NL,Gail Dalby,53
-New.Haven,Branford,State Senate,12,Rep,William A. Aniskovich,"  6,447"
+New.Haven,Branford,State Senate,12,Rep,William A. Aniskovich,6447
 New.Haven,"Branford, part of",State House,98,D,Patricia M. Widlitz,1406
 New.Haven,"Branford, part of",State House,98,L,Ned Vare,36
 New.Haven,"Branford, part of",State House,99,R,Loria S. Jaffe,108
@@ -366,8 +366,8 @@ Hartford,Burlington,US House,6,Rep,Nancy Johnson,3115
 Hartford,Burlington,US House,6,Dem,Paul Valenti,1180
 Hartford,Burlington,US House,6,CC,Timothy A. Knibbs,51
 Hartford,Burlington,US House,6,Green,Audrey A. Cole,114
-Hartford,Burlington,State Senate,5,r,Bob Lutts,"          1,324"
-Hartford,Burlington,State Senate,5,Dem,Kevin B. Sullivan,"  2,647"
+Hartford,Burlington,State Senate,5,r,Bob Lutts,1324
+Hartford,Burlington,State Senate,5,Dem,Kevin B. Sullivan,2647
 Hartford,Burlington,State House,76,Rep,John Piscopo,2381
 Hartford,Burlington,State House,76,Dem,Robert M. Sussdorff,1593
 Litchfield,Canaan,President,,Rep,George Bush,211
@@ -417,7 +417,7 @@ Hartford,Canton,US House,6,Rep,Nancy Johnson,2955
 Hartford,Canton,US House,6,Dem,Paul Valenti,1156
 Hartford,Canton,US House,6,CC,Timothy A. Knibbs,44
 Hartford,Canton,US House,6,Green,Audrey A. Cole,234
-Hartford,Canton,State Senate,8,Rep,Thomas J. Herlihy,"  2,691"
+Hartford,Canton,State Senate,8,Rep,Thomas J. Herlihy,2691
 Hartford,Canton,State House,17,R,"Wade H. Horsey, II",1486
 Hartford,Canton,State House,17,Dem,Jessie Stratton,2639
 Hartford,Canton,State House,17,G,Thomas J. Sevigny,431
@@ -523,7 +523,7 @@ Litchfield,Colebrook,US House,6,Rep,Nancy Johnson,470
 Litchfield,Colebrook,US House,6,Dem,Paul Valenti,212
 Litchfield,Colebrook,US House,6,CC,Timothy A. Knibbs,10
 Litchfield,Colebrook,US House,6,Green,Audrey A. Cole,45
-Litchfield,Colebrook,State Senate,8,Rep,Thomas J. Herlihy,     483
+Litchfield,Colebrook,State Senate,8,Rep,Thomas J. Herlihy,483
 Litchfield,Colebrook,State House,63,Rep,F. Philip Prelli,536
 Tolland,Columbia,President,,Rep,George Bush,1041
 Tolland,Columbia,President,,Dem,Al Gore,1567
@@ -620,7 +620,7 @@ Middlesex,Cromwell,US Senate,,CC,"William Kozak, Jr.",98
 Middlesex,Cromwell,US Senate,,Lbt,Wildey J. Moore,24
 Middlesex,Cromwell,US House,1,Rep,Bob Backlund,1886
 Middlesex,Cromwell,US House,1,Dem,John Larson,4009
-Middlesex,Cromwell,State Senate,9,Rep,John F. Kriedel," 1,814"
+Middlesex,Cromwell,State Senate,9,Rep,John F. Kriedel,1814
 Middlesex,Cromwell,State Senate,9,Dem,Biagio Billy Ciotto,4010
 Middlesex,Cromwell,State House,32,Rep,Mertie L. Terry,2479
 Middlesex,Cromwell,State House,32,Dem,Jim O'Rourke,3605
@@ -738,7 +738,7 @@ Hartford,East Granby,US House,6,Rep,Nancy Johnson,1533
 Hartford,East Granby,US House,6,Dem,Paul Valenti,642
 Hartford,East Granby,US House,6,CC,Timothy A. Knibbs,27
 Hartford,East Granby,US House,6,Green,Audrey A. Cole,47
-Hartford,East Granby,State Senate,8,Rep,Thomas J. Herlihy,"  1,505"
+Hartford,East Granby,State Senate,8,Rep,Thomas J. Herlihy,1505
 Hartford,"East Granby, part of",State House,61,Rep,Ruth C. Fahrbach,47
 Hartford,"East Granby, part of",State House,62,Rep,Richard F. Ferrari,1523
 Middlesex,East Haddam,President,,Rep,George Bush,1687
@@ -809,8 +809,8 @@ New.Haven,East Haven,US House,3,Rep,June M. Gold,2524
 New.Haven,East Haven,US House,3,Dem,Rosa L. DeLauro,7667
 New.Haven,East Haven,US House,3,NL,Gail Dalby,37
 New.Haven,"East Haven, part of",State Senate,11,Rep,Edmund W. Duenkel II,821
-New.Haven,"East Haven, part of",State Senate,11,Dem,Martin M. Looney,"  2,310"
-New.Haven,"East Haven, part of",State Senate,12,Rep,William A. Aniskovich,"  2,507"
+New.Haven,"East Haven, part of",State Senate,11,Dem,Martin M. Looney,2310
+New.Haven,"East Haven, part of",State Senate,12,Rep,William A. Aniskovich,2507
 New.Haven,"East Haven, part of",State House,86,Rep,Robert M. Ward,767
 New.Haven,"East Haven, part of",State House,99,Rep,Loria S. Jaffe,2289
 New.Haven,"East Haven, part of",State House,99,Dem,Michael P. Lawlor,5865
@@ -908,7 +908,7 @@ Hartford,Enfield,US House,6,Rep,Nancy Johnson,9781
 Hartford,Enfield,US House,6,Dem,Paul Valenti,5576
 Hartford,Enfield,US House,6,CC,Timothy A. Knibbs,240
 Hartford,Enfield,US House,6,Green,Audrey A. Cole,371
-Hartford,Enfield,State Senate,7,Rep,John A. Kissel,"  10,595"
+Hartford,Enfield,State Senate,7,Rep,John A. Kissel,10595
 Hartford,"Enfield, part of",State House,58,Dem,Kathy Tallarita,4626
 Hartford,"Enfield, part of",State House,59,Dem,Stephen Jarmoc,3971
 Hartford,"Enfield, part of",State House,60,Rep,Carole Banas,1465
@@ -970,8 +970,8 @@ Hartford,Farmington,US House,6,Rep,Nancy Johnson,7413
 Hartford,Farmington,US House,6,Dem,Paul Valenti,3480
 Hartford,Farmington,US House,6,CC,Timothy A. Knibbs,145
 Hartford,Farmington,US House,6,Green,Audrey A. Cole,257
-Hartford,Farmington,State Senate,5,r,Bob Lutts,"        3,957"
-Hartford,Farmington,State Senate,5,Dem,Kevin B. Sullivan,"  6,986"
+Hartford,Farmington,State Senate,5,r,Bob Lutts,3957
+Hartford,Farmington,State Senate,5,Dem,Kevin B. Sullivan,6986
 Hartford,"Farmington, part of",State House,21,Dem,Demetrios Giannaros,7744
 New.London,Franklin,President,,Rep,George Bush,420
 New.London,Franklin,President,,Dem,Al Gore,534
@@ -1001,7 +1001,7 @@ Hartford,Glastonbury,US Senate,,CC,"William Kozak, Jr.",191
 Hartford,Glastonbury,US Senate,,Lbt,Wildey J. Moore,80
 Hartford,Glastonbury,US House,1,Rep,Bob Backlund,5706
 Hartford,Glastonbury,US House,1,Dem,John Larson,10734
-Hartford,Glastonbury,State Senate,4,r,Ross Garber,"  7,951"
+Hartford,Glastonbury,State Senate,4,r,Ross Garber,7951
 Hartford,Glastonbury,State Senate,4,Dem,Mary Ann Handley,8629
 Hartford,"Glastonbury, part of",State House,9,r,Dennis A. Brenner,1325
 Hartford,"Glastonbury, part of",State House,9,Dem,Christopher R. Stone,2255
@@ -1038,7 +1038,7 @@ Hartford,Granby,US House,6,Rep,Nancy Johnson,3531
 Hartford,Granby,US House,6,Dem,Paul Valenti,627
 Hartford,Granby,US House,6,CC,Timothy A. Knibbs,52
 Hartford,Granby,US House,6,Green,Audrey A. Cole,166
-Hartford,Granby,State Senate,8,Rep,Thomas J. Herlihy,"  3,522"
+Hartford,Granby,State Senate,8,Rep,Thomas J. Herlihy,3522
 Hartford,Granby,State House,62,Rep,Richard F. Ferrari,3552
 Fairfield,Greenwich,President,,Rep,George Bush,14905
 Fairfield,Greenwich,President,,Dem,Al Gore,12780
@@ -1109,7 +1109,7 @@ New.Haven,Guilford,US Senate,,Lbt,Wildey J. Moore,59
 New.Haven,Guilford,US House,3,Rep,June M. Gold,3343
 New.Haven,Guilford,US House,3,Dem,Rosa L. DeLauro,7321
 New.Haven,Guilford,US House,3,NL,Gail Dalby,68
-New.Haven,Guilford,State Senate,12,Rep,William A. Aniskovich,"  5,917"
+New.Haven,Guilford,State Senate,12,Rep,William A. Aniskovich,5917
 New.Haven,"Guilford, part of",State House,86,Rep,Robert M. Ward,885
 New.Haven,"Guilford, part of",State House,98,Dem,Patricia M. Widlitz,6487
 New.Haven,"Guilford, part of",State House,98,Lbt,Ned Vare,398
@@ -1144,7 +1144,7 @@ New.Haven,Hamden,US House,3,Rep,June M. Gold,5918
 New.Haven,Hamden,US House,3,Dem,Rosa L. DeLauro,17109
 New.Haven,Hamden,US House,3,NL,Gail Dalby,115
 New.Haven,"Hamden, part of",State Senate,11,Rep,Edmund W. Duenkel II,1439
-New.Haven,"Hamden, part of",State Senate,11,Dem,Martin M. Looney,"  5,522"
+New.Haven,"Hamden, part of",State Senate,11,Dem,Martin M. Looney,5522
 New.Haven,"Hamden, part of",State Senate,17,Rep,Anthony DeFeo,4215
 New.Haven,"Hamden, part of",State Senate,17,Dem,Joe Crisco,10930
 New.Haven,"Hamden, part of",State House,87,Rep,E. Richard Wilson,874
@@ -1180,9 +1180,9 @@ Hartford,Hartford,US Senate,,CC,"William Kozak, Jr.",1360
 Hartford,Hartford,US Senate,,Lbt,Wildey J. Moore,161
 Hartford,Hartford,US House,1,Rep,Bob Backlund,2728
 Hartford,Hartford,US House,1,Dem,John Larson,19790
-Hartford,"Hartford, part of",State Senate,1,Dem,John W. Fonfara,"  10,613"
+Hartford,"Hartford, part of",State Senate,1,Dem,John W. Fonfara,10613
 Hartford,"Hartford, part of",State Senate,1,Green,S. Michael DeRosa,908
-Hartford,"Hartford, part of",State Senate,2,Dem,Eric D. Coleman,"   9,201"
+Hartford,"Hartford, part of",State Senate,2,Dem,Eric D. Coleman,9201
 Hartford,"Hartford, part of",State House,1,Dem,Kenneth P. Green,2351
 Hartford,"Hartford, part of",State House,2,Dem,Barnaby Horton,3025
 Hartford,"Hartford, part of",State House,3,Dem,Minnie Gonzalez,2201
@@ -1208,7 +1208,7 @@ Hartford,Hartland,US House,6,Rep,Nancy Johnson,649
 Hartford,Hartland,US House,6,Dem,Paul Valenti,224
 Hartford,Hartland,US House,6,CC,Timothy A. Knibbs,24
 Hartford,Hartland,US House,6,Green,Audrey A. Cole,45
-Hartford,Hartland,State Senate,8,Rep,Thomas J. Herlihy,     694
+Hartford,Hartland,State Senate,8,Rep,Thomas J. Herlihy,694
 Hartford,Hartland,State House,63,Rep,F. Philip Prelli,706
 Litchfield,Harwinton,President,,Rep,George Bush,1378
 Litchfield,Harwinton,President,,Dem,Al Gore,1282
@@ -1226,7 +1226,7 @@ Litchfield,Harwinton,US House,6,CC,Timothy A. Knibbs,27
 Litchfield,Harwinton,US House,6,Green,Audrey A. Cole,138
 Litchfield,Harwinton,State House,76,Rep,John Piscopo,1807
 Litchfield,Harwinton,State House,76,Dem,Robert M. Sussdorff,738
-Litchfield,"Harwinton, part of",State Senate,8,Rep,Thomas J. Herlihy,     657
+Litchfield,"Harwinton, part of",State Senate,8,Rep,Thomas J. Herlihy,657
 Litchfield,"Harwinton, part of",State Senate,30,Rep,Andrew Roraback,1057
 Litchfield,"Harwinton, part of",State Senate,30,Dem,Kevin E. Creed,532
 Tolland,Hebron,President,,Rep,George Bush,1895
@@ -1241,7 +1241,7 @@ Tolland,Hebron,US Senate,,CC,"William Kozak, Jr.",65
 Tolland,Hebron,US Senate,,Lbt,Wildey J. Moore,25
 Tolland,Hebron,US House,1,Rep,Bob Backlund,1477
 Tolland,Hebron,US House,1,Dem,John Larson,2649
-Tolland,Hebron,State Senate,4,r,Ross Garber,"  1,940"
+Tolland,Hebron,State Senate,4,r,Ross Garber,1940
 Tolland,Hebron,State Senate,4,Dem,Mary Ann Handley,2279
 Tolland,Hebron,State House,55,Rep,Pamela Z. Sawyer,2856
 Litchfield,Kent,President,,Rep,George Bush,629
@@ -1401,7 +1401,7 @@ New.Haven,Madison,US Senate,,Lbt,Wildey J. Moore,45
 New.Haven,Madison,US House,3,Rep,June M. Gold,3810
 New.Haven,Madison,US House,3,Dem,Rosa L. DeLauro,5402
 New.Haven,Madison,US House,3,NL,Gail Dalby,52
-New.Haven,Madison,State Senate,12,Rep,William A. Aniskovich,"  5,901"
+New.Haven,Madison,State Senate,12,Rep,William A. Aniskovich,5901
 New.Haven,Madison,State House,101,Rep,Peter Metz,5977
 Hartford,Manchester,President,,Rep,George Bush,8541
 Hartford,Manchester,President,,Dem,Al Gore,14184
@@ -1415,7 +1415,7 @@ Hartford,Manchester,US Senate,,CC,"William Kozak, Jr.",408
 Hartford,Manchester,US Senate,,Lbt,Wildey J. Moore,138
 Hartford,Manchester,US House,1,Rep,Bob Backlund,7009
 Hartford,Manchester,US House,1,Dem,John Larson,14259
-Hartford,Manchester,State Senate,4,Rep,Ross Garber,"  7,797"
+Hartford,Manchester,State Senate,4,Rep,Ross Garber,7797
 Hartford,Manchester,State Senate,4,Dem,Mary Ann Handley,13897
 Hartford,"Manchester, part of",State House,9,Rep,Dennis A. Brenner,1831
 Hartford,"Manchester, part of",State House,9,Dem,Christopher R. Stone,2699
@@ -1469,7 +1469,7 @@ New.Haven,Meriden,US House,5,Rep,Mark Nielsen,6157
 New.Haven,Meriden,US House,5,Dem,Jim Maloney,12717
 New.Haven,Meriden,US House,5,CC,Joseph A. Zdonczyk,565
 New.Haven,Meriden,State Senate,13,Rep,David Parian,3962
-New.Haven,Meriden,State Senate,13,Dem,Thomas P. Gaffey,"  15,017"
+New.Haven,Meriden,State Senate,13,Dem,Thomas P. Gaffey,15017
 New.Haven,"Meriden, part of",State House,82,Rep,Francis R. Barillaro,2559
 New.Haven,"Meriden, part of",State House,82,Dem,"Emil ""Buddy"" Altobello",4985
 New.Haven,"Meriden, part of",State House,83,Rep,Len Suzio,2245
@@ -1490,7 +1490,7 @@ New.Haven,Middlebury,US Senate,,Lbt,Wildey J. Moore,13
 New.Haven,Middlebury,US House,5,Rep,Mark Nielsen,1833
 New.Haven,Middlebury,US House,5,Dem,Jim Maloney,1518
 New.Haven,Middlebury,US House,5,CC,Joseph A. Zdonczyk,90
-New.Haven,Middlebury,State Senate,15,Rep,Michael J. McDonald,"  1,772"
+New.Haven,Middlebury,State Senate,15,Rep,Michael J. McDonald,1772
 New.Haven,Middlebury,State Senate,15,Dem,John V. Hartley,1707
 New.Haven,"Middlebury, part of",State House,68,Rep,Brian J. Flaherty,874
 New.Haven,"Middlebury, part of",State House,68,Dem,Alan Mickel,299
@@ -1509,8 +1509,8 @@ Middlesex,Middlefield,US Senate,,Lbt,Wildey J. Moore,16
 Middlesex,Middlefield,US House,3,Rep,June M. Gold,686
 Middlesex,Middlefield,US House,3,Dem,Rosa L. DeLauro,1493
 Middlesex,Middlefield,US House,3,NL,Gail Dalby,13
-Middlesex,Middlefield,State Senate,13,Rep,David Parian,   620
-Middlesex,Middlefield,State Senate,13,Dem,Thomas P. Gaffey,"  1,541"
+Middlesex,Middlefield,State Senate,13,Rep,David Parian,620
+Middlesex,Middlefield,State Senate,13,Dem,Thomas P. Gaffey,1541
 Middlesex,"Middlefield, part of",State House,82,Rep,Francis R. Barillaro,329
 Middlesex,"Middlefield, part of",State House,82,Dem,"Emil ""Buddy"" Altobello",630
 Middlesex,"Middlefield, part of",State House,100,Rep,Dawn M. Adams,518
@@ -1532,7 +1532,7 @@ Middlesex,Middletown,US House,2,Ind,Rob Simmons,183
 Middlesex,"Middletown, part of",State Senate,9,Rep,John F. Kriedel,1568
 Middlesex,"Middletown, part of",State Senate,9,Dem,Biagio Billy Ciotto,4105
 Middlesex,"Middletown, part of",State Senate,13,Rep,David Parian,2188
-Middlesex,"Middletown, part of",State Senate,13,Dem,Thomas P. Gaffey,"  7,157"
+Middlesex,"Middletown, part of",State Senate,13,Dem,Thomas P. Gaffey,7157
 Middlesex,"Middletown, part of",State House,32,Rep,Mertie L. Terry,83
 Middlesex,"Middletown, part of",State House,32,Dem,Jim O'Rourke,295
 Middlesex,"Middletown, part of",State House,33,Dem,Joseph C. Serra,5328
@@ -1718,7 +1718,7 @@ Litchfield,New Hartford,US House,6,Rep,Nancy Johnson,1960
 Litchfield,New Hartford,US House,6,Dem,Paul Valenti,943
 Litchfield,New Hartford,US House,6,CC,Timothy A. Knibbs,30
 Litchfield,New Hartford,US House,6,Green,Audrey A. Cole,156
-Litchfield,New Hartford,State Senate,8,Rep,Thomas J. Herlihy,"  1,974"
+Litchfield,New Hartford,State Senate,8,Rep,Thomas J. Herlihy,1974
 Litchfield,New Hartford,State House,62,Rep,Richard F. Ferrari,2015
 New.Haven,New Haven,President,,Rep,George Bush,5160
 New.Haven,New Haven,President,,Dem,Al Gore,28145
@@ -1736,7 +1736,7 @@ New.Haven,New Haven,US House,3,NL,Gail Dalby,297
 New.Haven,"New Haven, part of",State Senate,10,Rep,James O'Connell,1391
 New.Haven,"New Haven, part of",State Senate,10,Dem,Toni N. Harp,12389
 New.Haven,"New Haven, part of",State Senate,11,Rep,Edmund W. Duenkel II,2424
-New.Haven,"New Haven, part of",State Senate,11,Dem,Martin M. Looney,"  13,385"
+New.Haven,"New Haven, part of",State Senate,11,Dem,Martin M. Looney,13385
 New.Haven,"New Haven, part of",State House,88,Dem,Nancy Beals,592
 New.Haven,"New Haven, part of",State House,92,Rep,Dino L. Cortina,691
 New.Haven,"New Haven, part of",State House,92,SW,Patricia Dillon,5181
@@ -1845,7 +1845,7 @@ Litchfield,Norfolk,US House,6,Rep,Nancy Johnson,507
 Litchfield,Norfolk,US House,6,Dem,Paul Valenti,268
 Litchfield,Norfolk,US House,6,CC,Timothy A. Knibbs,9
 Litchfield,Norfolk,US House,6,Green,Audrey A. Cole,64
-Litchfield,Norfolk,State Senate,8,Rep,Thomas J. Herlihy,     499
+Litchfield,Norfolk,State Senate,8,Rep,Thomas J. Herlihy,499
 Litchfield,Norfolk,State House,63,Rep,F. Philip Prelli,541
 New.Haven,North Branford,President,,Rep,George Bush,2603
 New.Haven,North Branford,President,,Dem,Al Gore,3542
@@ -1860,7 +1860,7 @@ New.Haven,North Branford,US Senate,,Lbt,Wildey J. Moore,32
 New.Haven,North Branford,US House,3,Rep,June M. Gold,1939
 New.Haven,North Branford,US House,3,Dem,Rosa L. DeLauro,3791
 New.Haven,North Branford,US House,3,NL,Gail Dalby,38
-New.Haven,North Branford,State Senate,12,Rep,William A. Aniskovich," 3,138"
+New.Haven,North Branford,State Senate,12,Rep,William A. Aniskovich,3138
 New.Haven,North Branford,State House,86,Rep,Robert M. Ward,3559
 Litchfield,North Canaan,President,,Rep,George Bush,584
 Litchfield,North Canaan,President,,Dem,Al Gore,695
@@ -2011,7 +2011,7 @@ New.Haven,Orange,US Senate,,Lbt,Wildey J. Moore,35
 New.Haven,Orange,US House,3,Rep,June M. Gold,2601
 New.Haven,Orange,US House,3,Dem,Rosa L. DeLauro,4680
 New.Haven,Orange,US House,3,NL,Gail Dalby,32
-New.Haven,Orange,State Senate,14,Rep,"Win Smith, Jr.","  4,236"
+New.Haven,Orange,State Senate,14,Rep,"Win Smith, Jr.",4236
 New.Haven,Orange,State Senate,14,Dem,Andrew Testo,2909
 New.Haven,"Orange, part of",State House,114,Rep,Themis Klarides,2561
 New.Haven,"Orange, part of",State House,114,Dem,"William M. Spader, Jr.",1529
@@ -2085,7 +2085,7 @@ Litchfield,Plymouth,US House,6,Dem,Paul Valenti,1478
 Litchfield,Plymouth,US House,6,CC,Timothy A. Knibbs,72
 Litchfield,Plymouth,US House,6,Green,Audrey A. Cole,128
 Litchfield,Plymouth,State House,78,Rep,William A. Hamzy,3119
-Litchfield,"Plymouth, part of",State Senate,8,Rep,Thomas J. Herlihy,"  1,540"
+Litchfield,"Plymouth, part of",State Senate,8,Rep,Thomas J. Herlihy,1540
 Litchfield,"Plymouth, part of",State Senate,31,Rep,Jesse H. Haskell,434
 Litchfield,"Plymouth, part of",State Senate,31,Dem,Tom Colapietro,1054
 Litchfield,"Plymouth, part of",State Senate,31,CC,Robert F. Duncan,60
@@ -2370,7 +2370,7 @@ Hartford,Simsbury,US House,6,Rep,Nancy Johnson,8637
 Hartford,Simsbury,US House,6,Dem,Paul Valenti,3046
 Hartford,Simsbury,US House,6,CC,Timothy A. Knibbs,123
 Hartford,Simsbury,US House,6,Green,Audrey A. Cole,330
-Hartford,Simsbury,State Senate,8,Rep,Thomas J. Herlihy,"  9,119"
+Hartford,Simsbury,State Senate,8,Rep,Thomas J. Herlihy,9119
 Hartford,Simsbury,State House,16,Rep,Robert Heagney,9007
 Tolland,Somers,President,,Rep,George Bush,2288
 Tolland,Somers,President,,Dem,Al Gore,1860
@@ -2386,7 +2386,7 @@ Tolland,Somers,US House,6,Rep,Nancy Johnson,2749
 Tolland,Somers,US House,6,Dem,Paul Valenti,1008
 Tolland,Somers,US House,6,CC,Timothy A. Knibbs,51
 Tolland,Somers,US House,6,Green,Audrey A. Cole,29
-Tolland,Somers,State Senate,7,Rep,John A. Kissel,"  2,766"
+Tolland,Somers,State Senate,7,Rep,John A. Kissel,2766
 Tolland,"Somers, part of",State House,52,Rep,Allen Bacchiochi,1036
 Tolland,"Somers, part of",State House,52,Dem,John D. Mordasky,876
 Tolland,"Somers, part of",State House,59,Dem,Stephen Jarmoc,1167
@@ -2442,7 +2442,7 @@ Hartford,Southington,US House,6,Rep,Nancy Johnson,11345
 Hartford,Southington,US House,6,Dem,Paul Valenti,5797
 Hartford,Southington,US House,6,CC,Timothy A. Knibbs,216
 Hartford,Southington,US House,6,Green,Audrey A. Cole,327
-Hartford,"Southington, part of",State Senate,16,Rep,Stephen R. Somma,"  7,303"
+Hartford,"Southington, part of",State Senate,16,Rep,Stephen R. Somma,7303
 Hartford,"Southington, part of",State Senate,16,Dem,Donald S. Rinaldi,4881
 Hartford,"Southington, part of",State Senate,31,Rep,Jesse H. Haskell,1428
 Hartford,"Southington, part of",State Senate,31,Dem,Tom Colapietro,2997
@@ -2580,7 +2580,7 @@ Hartford,Suffield,US House,6,Rep,Nancy Johnson,3999
 Hartford,Suffield,US House,6,Dem,Paul Valenti,1380
 Hartford,Suffield,US House,6,CC,Timothy A. Knibbs,63
 Hartford,Suffield,US House,6,Green,Audrey A. Cole,146
-Hartford,Suffield,State Senate,7,Rep,John A. Kissel,"  3,950"
+Hartford,Suffield,State Senate,7,Rep,John A. Kissel,3950
 Hartford,Suffield,State House,61,Rep,Ruth C. Fahrbach,4006
 Litchfield,Thomaston,President,,Rep,George Bush,1696
 Litchfield,Thomaston,President,,Dem,Al Gore,1592
@@ -2802,7 +2802,7 @@ New.Haven,Waterbury,US House,5,Dem,Jim Maloney,18343
 New.Haven,Waterbury,US House,5,CC,Joseph A. Zdonczyk,1001
 New.Haven,"Waterbury, part of",State Senate,15,Rep,Michael J. McDonald,4483
 New.Haven,"Waterbury, part of",State Senate,15,Dem,John V. Hartley,10503
-New.Haven,"Waterbury, part of",State Senate,16,Rep,Stephen R. Somma,"  5,969"
+New.Haven,"Waterbury, part of",State Senate,16,Rep,Stephen R. Somma,5969
 New.Haven,"Waterbury, part of",State Senate,16,Dem,Donald S. Rinaldi,7604
 New.Haven,"Waterbury, part of",State House,71,Rep,Anthony J. D'Amelio,4158
 New.Haven,"Waterbury, part of",State House,71,Dem,Tom Brophy,3016
@@ -2860,7 +2860,7 @@ Hartford,West Hartford,US Senate,,CC,"William Kozak, Jr.",373
 Hartford,West Hartford,US Senate,,Lbt,Wildey J. Moore,132
 Hartford,West Hartford,US House,1,Rep,Bob Backlund,8021
 Hartford,West Hartford,US House,1,Dem,John Larson,22079
-Hartford,West Hartford,State Senate,5,Rep,Bob Lutts,"        7,358"
+Hartford,West Hartford,State Senate,5,Rep,Bob Lutts,7358
 Hartford,West Hartford,State Senate,5,Dem,Kevin B. Sullivan,23036
 Hartford,"West Hartford, part of",State House,18,Rep,Robert F. Kappes,2491
 Hartford,"West Hartford, part of",State House,18,Dem,Andrew M. Fleischmann,8381
@@ -2883,7 +2883,7 @@ New.Haven,West Haven,US House,3,Dem,Rosa L. DeLauro,13835
 New.Haven,West Haven,US House,3,NL,Gail Dalby,81
 New.Haven,"West Haven, part of",State Senate,10,Rep,James O'Connell,1554
 New.Haven,"West Haven, part of",State Senate,10,Dem,Toni N. Harp,5057
-New.Haven,"West Haven, part of",State Senate,14,Rep,"Win Smith, Jr.","  4,419"
+New.Haven,"West Haven, part of",State Senate,14,Rep,"Win Smith, Jr.",4419
 New.Haven,"West Haven, part of",State Senate,14,Dem,Andrew Testo,6007
 New.Haven,"West Haven, part of",State House,115,Rep,Paul M. Frosolone,1555
 New.Haven,"West Haven, part of",State House,115,Dem,Stephen D. Dargan,5431
@@ -2956,7 +2956,7 @@ Hartford,Wethersfield,US Senate,,CC,"William Kozak, Jr.",210
 Hartford,Wethersfield,US Senate,,Lbt,Wildey J. Moore,54
 Hartford,Wethersfield,US House,1,Rep,Bob Backlund,4139
 Hartford,Wethersfield,US House,1,Dem,John Larson,8846
-Hartford,"Wethersfield, part of",State Senate,1,Dem,John W. Fonfara,"  3,029"
+Hartford,"Wethersfield, part of",State Senate,1,Dem,John W. Fonfara,3029
 Hartford,"Wethersfield, part of",State Senate,1,Green,S. Michael DeRosa,732
 Hartford,"Wethersfield, part of",State Senate,9,Rep,John F. Kriedel,2326
 Hartford,"Wethersfield, part of",State Senate,9,Dem,Biagio Billy Ciotto,5935
@@ -3009,7 +3009,7 @@ Litchfield,Winchester,US House,6,Rep,Nancy Johnson,2501
 Litchfield,Winchester,US House,6,Dem,Paul Valenti,1206
 Litchfield,Winchester,US House,6,CC,Timothy A. Knibbs,77
 Litchfield,Winchester,US House,6,Green,Audrey A. Cole,295
-Litchfield,Winchester,State Senate,8,Rep,Thomas J. Herlihy,"  2,416"
+Litchfield,Winchester,State Senate,8,Rep,Thomas J. Herlihy,2416
 Litchfield,Winchester,State House,63,Rep,F. Philip Prelli,2886
 Windham,Windham,President,,Rep,George Bush,2127
 Windham,Windham,President,,Dem,Al Gore,4895
@@ -3054,11 +3054,11 @@ Hartford,Windsor Locks,US House,6,Rep,Nancy Johnson,2868
 Hartford,Windsor Locks,US House,6,Dem,Paul Valenti,1871
 Hartford,Windsor Locks,US House,6,CC,Timothy A. Knibbs,70
 Hartford,Windsor Locks,US House,6,Green,Audrey A. Cole,118
-Hartford,Windsor Locks,State Senate,7,Rep,John A. Kissel,"  2,965"
+Hartford,Windsor Locks,State Senate,7,Rep,John A. Kissel,2965
 Hartford,Windsor Locks,State House,60,Rep,Carole Banas,1783
 Hartford,Windsor Locks,State House,60,Dem,Peggy Sayers,3160
-Hartford,"Windsor, part of",State Senate,2,Dem,Eric D. Coleman,"   4,286"
-Hartford,"Windsor, part of",State Senate,7,Rep,John A. Kissel,"  3,490"
+Hartford,"Windsor, part of",State Senate,2,Dem,Eric D. Coleman,4286
+Hartford,"Windsor, part of",State Senate,7,Rep,John A. Kissel,3490
 Hartford,"Windsor, part of",State House,7,Dem,Annette Wheeler Carter,2346
 Hartford,"Windsor, part of",State House,15,Dem,Mary U. Eberle,2777
 Hartford,"Windsor, part of",State House,61,Rep,Ruth C. Fahrbach,3011
@@ -3085,7 +3085,7 @@ New.Haven,Wolcott,US Senate,,Lbt,Wildey J. Moore,30
 New.Haven,Wolcott,US House,5,Rep,Mark Nielsen,2984
 New.Haven,Wolcott,US House,5,Dem,Jim Maloney,3616
 New.Haven,Wolcott,US House,5,CC,Joseph A. Zdonczyk,228
-New.Haven,Wolcott,State Senate,16,Rep,Stephen R. Somma,"  4,201"
+New.Haven,Wolcott,State Senate,16,Rep,Stephen R. Somma,4201
 New.Haven,Wolcott,State Senate,16,Dem,Donald S. Rinaldi,2547
 New.Haven,Wolcott,State House,80,Rep,Dennis H. Cleary,4410
 New.Haven,Woodbridge,President,,Rep,George Bush,1908
