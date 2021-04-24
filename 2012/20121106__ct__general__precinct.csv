@@ -2,7 +2,7 @@ town,precinct,office,district,party,candidate,votes
 Andover,Andover,President,,DEM,Barack Obama,976
 Ansonia,Ansonia1,President,,DEM,Barack Obama,705
 Ansonia,Ansonia 2,President,,DEM,Barack Obama,586
-Ansonia,Ansonia 3 ,President,,DEM,Barack Obama,589
+Ansonia,Ansonia 3,President,,DEM,Barack Obama,589
 Ansonia,Ansonia4,President,,DEM,Barack Obama,464
 Ansonia,Ansonia5,President,,DEM,Barack Obama,582
 Ansonia,Ansonia6,President,,DEM,Barack Obama,626
@@ -132,7 +132,7 @@ Derby,Derby 114,President,,DEM,Barack Obama,1354
 Durham,Durham 2,President,,DEM,Barack Obama,1334
 Durham,Durham 3,President,,DEM,Barack Obama,131
 Durham,Durham 4,President,,DEM,Barack Obama,548
-East Granby ,East Granby ,President,,DEM,Barack Obama,1389
+East Granby,East Granby,President,,DEM,Barack Obama,1389
 EastHaddam,EastHaddam,President,,DEM,Barack Obama,2471
 EastHampton,EastHampton,President,,DEM,Barack Obama,3509
 East Hartford,East Hartford 1,President,,DEM,Barack Obama,2403
@@ -204,7 +204,7 @@ Glastonbury,Glastonbury 9,President,,DEM,Barack Obama,2062
 Goshen,Goshen 63,President,,DEM,Barack Obama,297
 Goshen,Goshen 64,President,,DEM,Barack Obama,454
 Granby,Granby 1,President,,DEM,Barack Obama,2908
-Granby,Granby 2 ,President,,DEM,Barack Obama,171
+Granby,Granby 2,President,,DEM,Barack Obama,171
 Greenwich,Greenwich 1,President,,DEM,Barack Obama,1042
 Greenwich,Greenwich 1A,President,,DEM,Barack Obama,227
 Greenwich,Greenwich 2,President,,DEM,Barack Obama,756
@@ -756,7 +756,7 @@ Woodstock,Woodstock,President,,DEM,Barack Obama,2021
 Andover,Andover,President,,REP,Mitt Romney,774
 Ansonia,Ansonia1,President,,REP,Mitt Romney,302
 Ansonia,Ansonia 2,President,,REP,Mitt Romney,326
-Ansonia,Ansonia 3 ,President,,REP,Mitt Romney,301
+Ansonia,Ansonia 3,President,,REP,Mitt Romney,301
 Ansonia,Ansonia4,President,,REP,Mitt Romney,149
 Ansonia,Ansonia5,President,,REP,Mitt Romney,337
 Ansonia,Ansonia6,President,,REP,Mitt Romney,552
@@ -886,7 +886,7 @@ Derby,Derby 114,President,,REP,Mitt Romney,1302
 Durham,Durham 2,President,,REP,Mitt Romney,1290
 Durham,Durham 3,President,,REP,Mitt Romney,126
 Durham,Durham 4,President,,REP,Mitt Romney,627
-East Granby ,East Granby ,President,,REP,Mitt Romney,1448
+East Granby,East Granby,President,,REP,Mitt Romney,1448
 EastHaddam,EastHaddam,President,,REP,Mitt Romney,2109
 EastHampton,EastHampton,President,,REP,Mitt Romney,3138
 East Hartford,East Hartford 1,President,,REP,Mitt Romney,485
@@ -958,7 +958,7 @@ Glastonbury,Glastonbury 9,President,,REP,Mitt Romney,1948
 Goshen,Goshen 63,President,,REP,Mitt Romney,473
 Goshen,Goshen 64,President,,REP,Mitt Romney,544
 Granby,Granby 1,President,,REP,Mitt Romney,2965
-Granby,Granby 2 ,President,,REP,Mitt Romney,256
+Granby,Granby 2,President,,REP,Mitt Romney,256
 Greenwich,Greenwich 1,President,,REP,Mitt Romney,911
 Greenwich,Greenwich 1A,President,,REP,Mitt Romney,237
 Greenwich,Greenwich 2,President,,REP,Mitt Romney,1134
@@ -1510,7 +1510,7 @@ Woodstock,Woodstock,President,,REP,Mitt Romney,2134
 Andover,Andover,President,,LBT,Gary Johnson,13
 Ansonia,Ansonia1,President,,LBT,Gary Johnson,14
 Ansonia,Ansonia 2,President,,LBT,Gary Johnson,8
-Ansonia,Ansonia 3 ,President,,LBT,Gary Johnson,6
+Ansonia,Ansonia 3,President,,LBT,Gary Johnson,6
 Ansonia,Ansonia4,President,,LBT,Gary Johnson,1
 Ansonia,Ansonia5,President,,LBT,Gary Johnson,6
 Ansonia,Ansonia6,President,,LBT,Gary Johnson,12
@@ -1640,7 +1640,7 @@ Derby,Derby 114,President,,LBT,Gary Johnson,20
 Durham,Durham 2,President,,LBT,Gary Johnson,21
 Durham,Durham 3,President,,LBT,Gary Johnson,1
 Durham,Durham 4,President,,LBT,Gary Johnson,13
-East Granby ,East Granby ,President,,LBT,Gary Johnson,30
+East Granby,East Granby,President,,LBT,Gary Johnson,30
 EastHaddam,EastHaddam,President,,LBT,Gary Johnson,50
 EastHampton,EastHampton,President,,LBT,Gary Johnson,64
 East Hartford,East Hartford 1,President,,LBT,Gary Johnson,8
@@ -1712,7 +1712,7 @@ Glastonbury,Glastonbury 9,President,,LBT,Gary Johnson,37
 Goshen,Goshen 63,President,,LBT,Gary Johnson,5
 Goshen,Goshen 64,President,,LBT,Gary Johnson,9
 Granby,Granby 1,President,,LBT,Gary Johnson,45
-Granby,Granby 2 ,President,,LBT,Gary Johnson,8
+Granby,Granby 2,President,,LBT,Gary Johnson,8
 Greenwich,Greenwich 1,President,,LBT,Gary Johnson,9
 Greenwich,Greenwich 1A,President,,LBT,Gary Johnson,2
 Greenwich,Greenwich 2,President,,LBT,Gary Johnson,17
@@ -2264,7 +2264,7 @@ Woodstock,Woodstock,President,,LBT,Gary Johnson,42
 Andover,Andover,President,,JUS,Rocky Anderson,9
 Ansonia,Ansonia1,President,,JUS,Rocky Anderson,10
 Ansonia,Ansonia 2,President,,JUS,Rocky Anderson,5
-Ansonia,Ansonia 3 ,President,,JUS,Rocky Anderson,3
+Ansonia,Ansonia 3,President,,JUS,Rocky Anderson,3
 Ansonia,Ansonia4,President,,JUS,Rocky Anderson,2
 Ansonia,Ansonia5,President,,JUS,Rocky Anderson,5
 Ansonia,Ansonia6,President,,JUS,Rocky Anderson,10
@@ -2394,7 +2394,7 @@ Derby,Derby 114,President,,JUS,Rocky Anderson,14
 Durham,Durham 2,President,,JUS,Rocky Anderson,13
 Durham,Durham 3,President,,JUS,Rocky Anderson,1
 Durham,Durham 4,President,,JUS,Rocky Anderson,8
-East Granby ,East Granby ,President,,JUS,Rocky Anderson,11
+East Granby,East Granby,President,,JUS,Rocky Anderson,11
 EastHaddam,EastHaddam,President,,JUS,Rocky Anderson,32
 EastHampton,EastHampton,President,,JUS,Rocky Anderson,27
 East Hartford,East Hartford 1,President,,JUS,Rocky Anderson,6
@@ -2466,7 +2466,7 @@ Glastonbury,Glastonbury 9,President,,JUS,Rocky Anderson,6
 Goshen,Goshen 63,President,,JUS,Rocky Anderson,3
 Goshen,Goshen 64,President,,JUS,Rocky Anderson,2
 Granby,Granby 1,President,,JUS,Rocky Anderson,24
-Granby,Granby 2 ,President,,JUS,Rocky Anderson,1
+Granby,Granby 2,President,,JUS,Rocky Anderson,1
 Greenwich,Greenwich 1,President,,JUS,Rocky Anderson,1
 Greenwich,Greenwich 1A,President,,JUS,Rocky Anderson,1
 Greenwich,Greenwich 2,President,,JUS,Rocky Anderson,7
@@ -3018,7 +3018,7 @@ Woodstock,Woodstock,President,,JUS,Rocky Anderson,25
 Andover,Andover,President,,,Write-in,0
 Ansonia,Ansonia1,President,,,Write-in,0
 Ansonia,Ansonia 2,President,,,Write-in,0
-Ansonia,Ansonia 3 ,President,,,Write-in,0
+Ansonia,Ansonia 3,President,,,Write-in,0
 Ansonia,Ansonia4,President,,,Write-in,0
 Ansonia,Ansonia5,President,,,Write-in,0
 Ansonia,Ansonia6,President,,,Write-in,2
@@ -3148,7 +3148,7 @@ Derby,Derby 114,President,,,Write-in,3
 Durham,Durham 2,President,,,Write-in,0
 Durham,Durham 3,President,,,Write-in,1
 Durham,Durham 4,President,,,Write-in,
-East Granby ,East Granby ,President,,,Write-in,
+East Granby,East Granby,President,,,Write-in,
 EastHaddam,EastHaddam,President,,,Write-in,
 EastHampton,EastHampton,President,,,Write-in,0
 East Hartford,East Hartford 1,President,,,Write-in,0
@@ -3220,7 +3220,7 @@ Glastonbury,Glastonbury 9,President,,,Write-in,0
 Goshen,Goshen 63,President,,,Write-in,0
 Goshen,Goshen 64,President,,,Write-in,1
 Granby,Granby 1,President,,,Write-in,0
-Granby,Granby 2 ,President,,,Write-in,
+Granby,Granby 2,President,,,Write-in,
 Greenwich,Greenwich 1,President,,,Write-in,
 Greenwich,Greenwich 1A,President,,,Write-in,
 Greenwich,Greenwich 2,President,,,Write-in,
@@ -3772,7 +3772,7 @@ Woodstock,Woodstock,President,,,Write-in,
 Andover,Andover,U.S. Senate,,DEM,Christopher Murphy,864
 Ansonia,Ansonia1,U.S. Senate,,DEM,Christopher Murphy,569
 Ansonia,Ansonia 2,U.S. Senate,,DEM,Christopher Murphy,484
-Ansonia,Ansonia 3 ,U.S. Senate,,DEM,Christopher Murphy,485
+Ansonia,Ansonia 3,U.S. Senate,,DEM,Christopher Murphy,485
 Ansonia,Ansonia4,U.S. Senate,,DEM,Christopher Murphy,342
 Ansonia,Ansonia5,U.S. Senate,,DEM,Christopher Murphy,504
 Ansonia,Ansonia6,U.S. Senate,,DEM,Christopher Murphy,565
@@ -3902,7 +3902,7 @@ Derby,Derby 114,U.S. Senate,,DEM,Christopher Murphy,1258
 Durham,Durham 2,U.S. Senate,,DEM,Christopher Murphy,1250
 Durham,Durham 3,U.S. Senate,,DEM,Christopher Murphy,117
 Durham,Durham 4,U.S. Senate,,DEM,Christopher Murphy,515
-East Granby ,East Granby ,U.S. Senate,,DEM,Christopher Murphy,1242
+East Granby,East Granby,U.S. Senate,,DEM,Christopher Murphy,1242
 EastHaddam,EastHaddam,U.S. Senate,,DEM,Christopher Murphy,2246
 EastHampton,EastHampton,U.S. Senate,,DEM,Christopher Murphy,3137
 East Hartford,East Hartford 1,U.S. Senate,,DEM,Christopher Murphy,2008
@@ -3974,7 +3974,7 @@ Glastonbury,Glastonbury 9,U.S. Senate,,DEM,Christopher Murphy,1899
 Goshen,Goshen 63,U.S. Senate,,DEM,Christopher Murphy,264
 Goshen,Goshen 64,U.S. Senate,,DEM,Christopher Murphy,408
 Granby,Granby 1,U.S. Senate,,DEM,Christopher Murphy,2590
-Granby,Granby 2 ,U.S. Senate,,DEM,Christopher Murphy,156
+Granby,Granby 2,U.S. Senate,,DEM,Christopher Murphy,156
 Greenwich,Greenwich 1,U.S. Senate,,DEM,Christopher Murphy,965
 Greenwich,Greenwich 1A,U.S. Senate,,DEM,Christopher Murphy,229
 Greenwich,Greenwich 2,U.S. Senate,,DEM,Christopher Murphy,738
@@ -4526,7 +4526,7 @@ Woodstock,Woodstock,U.S. Senate,,DEM,Christopher Murphy,1865
 Andover,Andover,U.S. Senate,,REP,Linda McMahon,798
 Ansonia,Ansonia1,U.S. Senate,,REP,Linda McMahon,379
 Ansonia,Ansonia 2,U.S. Senate,,REP,Linda McMahon,344
-Ansonia,Ansonia 3 ,U.S. Senate,,REP,Linda McMahon,331
+Ansonia,Ansonia 3,U.S. Senate,,REP,Linda McMahon,331
 Ansonia,Ansonia4,U.S. Senate,,REP,Linda McMahon,191
 Ansonia,Ansonia5,U.S. Senate,,REP,Linda McMahon,362
 Ansonia,Ansonia6,U.S. Senate,,REP,Linda McMahon,529
@@ -4656,7 +4656,7 @@ Derby,Derby 114,U.S. Senate,,REP,Linda McMahon,1319
 Durham,Durham 2,U.S. Senate,,REP,Linda McMahon,1301
 Durham,Durham 3,U.S. Senate,,REP,Linda McMahon,127
 Durham,Durham 4,U.S. Senate,,REP,Linda McMahon,621
-East Granby ,East Granby ,U.S. Senate,,REP,Linda McMahon,1482
+East Granby,East Granby,U.S. Senate,,REP,Linda McMahon,1482
 EastHaddam,EastHaddam,U.S. Senate,,REP,Linda McMahon,2174
 EastHampton,EastHampton,U.S. Senate,,REP,Linda McMahon,3260
 East Hartford,East Hartford 1,U.S. Senate,,REP,Linda McMahon,601
@@ -4728,7 +4728,7 @@ Glastonbury,Glastonbury 9,U.S. Senate,,REP,Linda McMahon,1991
 Goshen,Goshen 63,U.S. Senate,,REP,Linda McMahon,488
 Goshen,Goshen 64,U.S. Senate,,REP,Linda McMahon,564
 Granby,Granby 1,U.S. Senate,,REP,Linda McMahon,3075
-Granby,Granby 2 ,U.S. Senate,,REP,Linda McMahon,261
+Granby,Granby 2,U.S. Senate,,REP,Linda McMahon,261
 Greenwich,Greenwich 1,U.S. Senate,,REP,Linda McMahon,872
 Greenwich,Greenwich 1A,U.S. Senate,,REP,Linda McMahon,214
 Greenwich,Greenwich 2,U.S. Senate,,REP,Linda McMahon,1079
@@ -5280,7 +5280,7 @@ Woodstock,Woodstock,U.S. Senate,,REP,Linda McMahon,2115
 Andover,Andover,U.S. Senate,,LBT,Paul Passarelli,44
 Ansonia,Ansonia1,U.S. Senate,,LBT,Paul Passarelli,22
 Ansonia,Ansonia 2,U.S. Senate,,LBT,Paul Passarelli,11
-Ansonia,Ansonia 3 ,U.S. Senate,,LBT,Paul Passarelli,14
+Ansonia,Ansonia 3,U.S. Senate,,LBT,Paul Passarelli,14
 Ansonia,Ansonia4,U.S. Senate,,LBT,Paul Passarelli,11
 Ansonia,Ansonia5,U.S. Senate,,LBT,Paul Passarelli,10
 Ansonia,Ansonia6,U.S. Senate,,LBT,Paul Passarelli,27
@@ -5410,7 +5410,7 @@ Derby,Derby 114,U.S. Senate,,LBT,Paul Passarelli,64
 Durham,Durham 2,U.S. Senate,,LBT,Paul Passarelli,55
 Durham,Durham 3,U.S. Senate,,LBT,Paul Passarelli,8
 Durham,Durham 4,U.S. Senate,,LBT,Paul Passarelli,20
-East Granby ,East Granby ,U.S. Senate,,LBT,Paul Passarelli,66
+East Granby,East Granby,U.S. Senate,,LBT,Paul Passarelli,66
 EastHaddam,EastHaddam,U.S. Senate,,LBT,Paul Passarelli,125
 EastHampton,EastHampton,U.S. Senate,,LBT,Paul Passarelli,170
 East Hartford,East Hartford 1,U.S. Senate,,LBT,Paul Passarelli,27
@@ -5482,7 +5482,7 @@ Glastonbury,Glastonbury 9,U.S. Senate,,LBT,Paul Passarelli,67
 Goshen,Goshen 63,U.S. Senate,,LBT,Paul Passarelli,8
 Goshen,Goshen 64,U.S. Senate,,LBT,Paul Passarelli,9
 Granby,Granby 1,U.S. Senate,,LBT,Paul Passarelli,113
-Granby,Granby 2 ,U.S. Senate,,LBT,Paul Passarelli,9
+Granby,Granby 2,U.S. Senate,,LBT,Paul Passarelli,9
 Greenwich,Greenwich 1,U.S. Senate,,LBT,Paul Passarelli,19
 Greenwich,Greenwich 1A,U.S. Senate,,LBT,Paul Passarelli,1
 Greenwich,Greenwich 2,U.S. Senate,,LBT,Paul Passarelli,14
@@ -6034,7 +6034,7 @@ Woodstock,Woodstock,U.S. Senate,,LBT,Paul Passarelli,95
 Andover,Andover,U.S. Senate,,,Write-in,
 Ansonia,Ansonia1,U.S. Senate,,,Write-in,0
 Ansonia,Ansonia 2,U.S. Senate,,,Write-in,0
-Ansonia,Ansonia 3 ,U.S. Senate,,,Write-in,1
+Ansonia,Ansonia 3,U.S. Senate,,,Write-in,1
 Ansonia,Ansonia4,U.S. Senate,,,Write-in,0
 Ansonia,Ansonia5,U.S. Senate,,,Write-in,2
 Ansonia,Ansonia6,U.S. Senate,,,Write-in,3
@@ -6164,7 +6164,7 @@ Derby,Derby 114,U.S. Senate,,,Write-in,
 Durham,Durham 2,U.S. Senate,,,Write-in,
 Durham,Durham 3,U.S. Senate,,,Write-in,
 Durham,Durham 4,U.S. Senate,,,Write-in,
-East Granby ,East Granby ,U.S. Senate,,,Write-in,
+East Granby,East Granby,U.S. Senate,,,Write-in,
 EastHaddam,EastHaddam,U.S. Senate,,,Write-in,
 EastHampton,EastHampton,U.S. Senate,,,Write-in,
 East Hartford,East Hartford 1,U.S. Senate,,,Write-in,
@@ -6236,7 +6236,7 @@ Glastonbury,Glastonbury 9,U.S. Senate,,,Write-in,0
 Goshen,Goshen 63,U.S. Senate,,,Write-in,0
 Goshen,Goshen 64,U.S. Senate,,,Write-in,0
 Granby,Granby 1,U.S. Senate,,,Write-in,
-Granby,Granby 2 ,U.S. Senate,,,Write-in,
+Granby,Granby 2,U.S. Senate,,,Write-in,
 Greenwich,Greenwich 1,U.S. Senate,,,Write-in,
 Greenwich,Greenwich 1A,U.S. Senate,,,Write-in,
 Greenwich,Greenwich 2,U.S. Senate,,,Write-in,
@@ -6807,7 +6807,7 @@ Bristol,Bristol 79B,U.S. House,1,DEM,John Larson,1506
 Bristol,Bristol 79C,U.S. House,1,DEM,John Larson,1937
 Colebrook,Colebrook,U.S. House,1,DEM,John Larson,367
 Cromwell,Cromwell,U.S. House,1,DEM,John Larson,4251
-East Granby ,East Granby ,U.S. House,1,DEM,John Larson,1547
+East Granby,East Granby,U.S. House,1,DEM,John Larson,1547
 East Hartford,East Hartford 1,U.S. House,1,DEM,John Larson,2115
 East Hartford,East Hartford 2,U.S. House,1,DEM,John Larson,1524
 East Hartford,East Hartford 3,U.S. House,1,DEM,John Larson,1380
@@ -6823,7 +6823,7 @@ Glastonbury,Glastonbury 5,U.S. House,1,DEM,John Larson,1661
 Glastonbury,Glastonbury 7,U.S. House,1,DEM,John Larson,2484
 Glastonbury,Glastonbury 9,U.S. House,1,DEM,John Larson,2322
 Granby,Granby 1,U.S. House,1,DEM,John Larson,3018
-Granby,Granby 2 ,U.S. House,1,DEM,John Larson,188
+Granby,Granby 2,U.S. House,1,DEM,John Larson,188
 Hartford,Hartford 1,U.S. House,1,DEM,John Larson,1017
 Hartford,Hartford 2,U.S. House,1,DEM,John Larson,1858
 Hartford,Hartford 3,U.S. House,1,DEM,John Larson,1657
@@ -6890,12 +6890,12 @@ Southington,Southington 8,U.S. House,1,DEM,John Larson,901
 Southington,Southington 9,U.S. House,1,DEM,John Larson,635
 Southington,Southington 10,U.S. House,1,DEM,John Larson,824
 Southington,Southington 11,U.S. House,1,DEM,John Larson,1134
-Torrington ,Torrington 1,U.S. House,1,DEM,John Larson,1901
-Torrington ,Torrington 2,U.S. House,1,DEM,John Larson,594
-Torrington ,Torrington 3,U.S. House,1,DEM,John Larson,134
-Torrington ,Torrington4,U.S. House,1,DEM,John Larson,162
-Torrington ,Torrington 6,U.S. House,1,DEM,John Larson,233
-Torrington ,Torrington 7,U.S. House,1,DEM,John Larson,216
+Torrington,Torrington 1,U.S. House,1,DEM,John Larson,1901
+Torrington,Torrington 2,U.S. House,1,DEM,John Larson,594
+Torrington,Torrington 3,U.S. House,1,DEM,John Larson,134
+Torrington,Torrington4,U.S. House,1,DEM,John Larson,162
+Torrington,Torrington 6,U.S. House,1,DEM,John Larson,233
+Torrington,Torrington 7,U.S. House,1,DEM,John Larson,216
 West Hartford,West Hartford 1,U.S. House,1,DEM,John Larson,2148
 West Hartford,West Hartford 2,U.S. House,1,DEM,John Larson,2763
 West Hartford,West Hartford 3,U.S. House,1,DEM,John Larson,3100
@@ -6943,7 +6943,7 @@ Bristol,Bristol 79B,U.S. House,1,REP,John Henry Decker,562
 Bristol,Bristol 79C,U.S. House,1,REP,John Henry Decker,900
 Colebrook,Colebrook,U.S. House,1,REP,John Henry Decker,382
 Cromwell,Cromwell,U.S. House,1,REP,John Henry Decker,2365
-East Granby ,East Granby ,U.S. House,1,REP,John Henry Decker,1074
+East Granby,East Granby,U.S. House,1,REP,John Henry Decker,1074
 East Hartford,East Hartford 1,U.S. House,1,REP,John Henry Decker,317
 East Hartford,East Hartford 2,U.S. House,1,REP,John Henry Decker,344
 East Hartford,East Hartford 3,U.S. House,1,REP,John Henry Decker,257
@@ -6959,7 +6959,7 @@ Glastonbury,Glastonbury 5,U.S. House,1,REP,John Henry Decker,1237
 Glastonbury,Glastonbury 7,U.S. House,1,REP,John Henry Decker,1282
 Glastonbury,Glastonbury 9,U.S. House,1,REP,John Henry Decker,1426
 Granby,Granby 1,U.S. House,1,REP,John Henry Decker,2423
-Granby,Granby 2 ,U.S. House,1,REP,John Henry Decker,218
+Granby,Granby 2,U.S. House,1,REP,John Henry Decker,218
 Hartford,Hartford 1,U.S. House,1,REP,John Henry Decker,47
 Hartford,Hartford 2,U.S. House,1,REP,John Henry Decker,18
 Hartford,Hartford 3,U.S. House,1,REP,John Henry Decker,80
@@ -7026,12 +7026,12 @@ Southington,Southington 8,U.S. House,1,REP,John Henry Decker,715
 Southington,Southington 9,U.S. House,1,REP,John Henry Decker,333
 Southington,Southington 10,U.S. House,1,REP,John Henry Decker,562
 Southington,Southington 11,U.S. House,1,REP,John Henry Decker,703
-Torrington ,Torrington 1,U.S. House,1,REP,John Henry Decker,1638
-Torrington ,Torrington 2,U.S. House,1,REP,John Henry Decker,654
-Torrington ,Torrington 3,U.S. House,1,REP,John Henry Decker,89
-Torrington ,Torrington4,U.S. House,1,REP,John Henry Decker,116
-Torrington ,Torrington 6,U.S. House,1,REP,John Henry Decker,254
-Torrington ,Torrington 7,U.S. House,1,REP,John Henry Decker,150
+Torrington,Torrington 1,U.S. House,1,REP,John Henry Decker,1638
+Torrington,Torrington 2,U.S. House,1,REP,John Henry Decker,654
+Torrington,Torrington 3,U.S. House,1,REP,John Henry Decker,89
+Torrington,Torrington4,U.S. House,1,REP,John Henry Decker,116
+Torrington,Torrington 6,U.S. House,1,REP,John Henry Decker,254
+Torrington,Torrington 7,U.S. House,1,REP,John Henry Decker,150
 West Hartford,West Hartford 1,U.S. House,1,REP,John Henry Decker,747
 West Hartford,West Hartford 2,U.S. House,1,REP,John Henry Decker,1007
 West Hartford,West Hartford 3,U.S. House,1,REP,John Henry Decker,857
@@ -7079,7 +7079,7 @@ Bristol,Bristol 79B,U.S. House,1,GRE,S. Michael DeRosa,57
 Bristol,Bristol 79C,U.S. House,1,GRE,S. Michael DeRosa,73
 Colebrook,Colebrook,U.S. House,1,GRE,S. Michael DeRosa,19
 Cromwell,Cromwell,U.S. House,1,GRE,S. Michael DeRosa,156
-East Granby ,East Granby ,U.S. House,1,GRE,S. Michael DeRosa,44
+East Granby,East Granby,U.S. House,1,GRE,S. Michael DeRosa,44
 East Hartford,East Hartford 1,U.S. House,1,GRE,S. Michael DeRosa,21
 East Hartford,East Hartford 2,U.S. House,1,GRE,S. Michael DeRosa,28
 East Hartford,East Hartford 3,U.S. House,1,GRE,S. Michael DeRosa,28
@@ -7095,7 +7095,7 @@ Glastonbury,Glastonbury 5,U.S. House,1,GRE,S. Michael DeRosa,53
 Glastonbury,Glastonbury 7,U.S. House,1,GRE,S. Michael DeRosa,73
 Glastonbury,Glastonbury 9,U.S. House,1,GRE,S. Michael DeRosa,62
 Granby,Granby 1,U.S. House,1,GRE,S. Michael DeRosa,100
-Granby,Granby 2 ,U.S. House,1,GRE,S. Michael DeRosa,9
+Granby,Granby 2,U.S. House,1,GRE,S. Michael DeRosa,9
 Hartford,Hartford 1,U.S. House,1,GRE,S. Michael DeRosa,14
 Hartford,Hartford 2,U.S. House,1,GRE,S. Michael DeRosa,8
 Hartford,Hartford 3,U.S. House,1,GRE,S. Michael DeRosa,27
@@ -7162,12 +7162,12 @@ Southington,Southington 8,U.S. House,1,GRE,S. Michael DeRosa,28
 Southington,Southington 9,U.S. House,1,GRE,S. Michael DeRosa,11
 Southington,Southington 10,U.S. House,1,GRE,S. Michael DeRosa,16
 Southington,Southington 11,U.S. House,1,GRE,S. Michael DeRosa,36
-Torrington ,Torrington 1,U.S. House,1,GRE,S. Michael DeRosa,75
-Torrington ,Torrington 2,U.S. House,1,GRE,S. Michael DeRosa,38
-Torrington ,Torrington 3,U.S. House,1,GRE,S. Michael DeRosa,15
-Torrington ,Torrington4,U.S. House,1,GRE,S. Michael DeRosa,10
-Torrington ,Torrington 6,U.S. House,1,GRE,S. Michael DeRosa,14
-Torrington ,Torrington 7,U.S. House,1,GRE,S. Michael DeRosa,7
+Torrington,Torrington 1,U.S. House,1,GRE,S. Michael DeRosa,75
+Torrington,Torrington 2,U.S. House,1,GRE,S. Michael DeRosa,38
+Torrington,Torrington 3,U.S. House,1,GRE,S. Michael DeRosa,15
+Torrington,Torrington4,U.S. House,1,GRE,S. Michael DeRosa,10
+Torrington,Torrington 6,U.S. House,1,GRE,S. Michael DeRosa,14
+Torrington,Torrington 7,U.S. House,1,GRE,S. Michael DeRosa,7
 West Hartford,West Hartford 1,U.S. House,1,GRE,S. Michael DeRosa,38
 West Hartford,West Hartford 2,U.S. House,1,GRE,S. Michael DeRosa,73
 West Hartford,West Hartford 3,U.S. House,1,GRE,S. Michael DeRosa,87
@@ -7215,7 +7215,7 @@ Bristol,Bristol 79B,U.S. House,1,,Matthew Corey,15
 Bristol,Bristol 79C,U.S. House,1,,Matthew Corey,19
 Colebrook,Colebrook,U.S. House,1,,Matthew Corey,6
 Cromwell,Cromwell,U.S. House,1,,Matthew Corey,45
-East Granby ,East Granby ,U.S. House,1,,Matthew Corey,22
+East Granby,East Granby,U.S. House,1,,Matthew Corey,22
 East Hartford,East Hartford 1,U.S. House,1,,Matthew Corey,20
 East Hartford,East Hartford 2,U.S. House,1,,Matthew Corey,12
 East Hartford,East Hartford 3,U.S. House,1,,Matthew Corey,15
@@ -7231,7 +7231,7 @@ Glastonbury,Glastonbury 5,U.S. House,1,,Matthew Corey,16
 Glastonbury,Glastonbury 7,U.S. House,1,,Matthew Corey,27
 Glastonbury,Glastonbury 9,U.S. House,1,,Matthew Corey,28
 Granby,Granby 1,U.S. House,1,,Matthew Corey,36
-Granby,Granby 2 ,U.S. House,1,,Matthew Corey,2
+Granby,Granby 2,U.S. House,1,,Matthew Corey,2
 Hartford,Hartford 1,U.S. House,1,,Matthew Corey,6
 Hartford,Hartford 2,U.S. House,1,,Matthew Corey,11
 Hartford,Hartford 3,U.S. House,1,,Matthew Corey,13
@@ -7298,12 +7298,12 @@ Southington,Southington 8,U.S. House,1,,Matthew Corey,14
 Southington,Southington 9,U.S. House,1,,Matthew Corey,7
 Southington,Southington 10,U.S. House,1,,Matthew Corey,13
 Southington,Southington 11,U.S. House,1,,Matthew Corey,19
-Torrington ,Torrington 1,U.S. House,1,,Matthew Corey,25
-Torrington ,Torrington 2,U.S. House,1,,Matthew Corey,18
-Torrington ,Torrington 3,U.S. House,1,,Matthew Corey,7
-Torrington ,Torrington4,U.S. House,1,,Matthew Corey,2
-Torrington ,Torrington 6,U.S. House,1,,Matthew Corey,6
-Torrington ,Torrington 7,U.S. House,1,,Matthew Corey,6
+Torrington,Torrington 1,U.S. House,1,,Matthew Corey,25
+Torrington,Torrington 2,U.S. House,1,,Matthew Corey,18
+Torrington,Torrington 3,U.S. House,1,,Matthew Corey,7
+Torrington,Torrington4,U.S. House,1,,Matthew Corey,2
+Torrington,Torrington 6,U.S. House,1,,Matthew Corey,6
+Torrington,Torrington 7,U.S. House,1,,Matthew Corey,6
 West Hartford,West Hartford 1,U.S. House,1,,Matthew Corey,11
 West Hartford,West Hartford 2,U.S. House,1,,Matthew Corey,21
 West Hartford,West Hartford 3,U.S. House,1,,Matthew Corey,17
