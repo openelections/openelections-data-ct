@@ -1,4 +1,4 @@
-County,Precinct,Office,District,Party,Candidate,Poll,Abs,Unknown
+county,precinct,office,district,party,candidate,poll,abs,unknown
 New London,Groton 1,Governor,,REP,Thomas C. Foley,501,65,3
 New London,Groton 1,Governor,,IND,Thomas C. Foley,26,7,1
 New London,Groton 1,Governor,,UNK,Thomas C. Foley,0,0,0
